@@ -1,0 +1,1181 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "可以使用陷阱来协助作战，但陷阱无法放置于<@ba.kw>敌人已在</>的格子中",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "霜华",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 240,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 64,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 635,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 329,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 847,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_458_rfrost",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 329,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 847,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1073,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_458_rfrost",
+        "evolveCost": {
+          "30012": 4,
+          "30032": 5,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1073,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 529,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 157,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1359,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_458_rfrost",
+        "evolveCost": {
+          "30013": 17,
+          "30094": 8,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31023": 1,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rfrost_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "31013": 2,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rfrost_2"
+      }
+    ],
+    "subProfessionId": "traper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 4.0
+          },
+          "description": "可以使用4个迎宾踏垫（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 6.0
+          },
+          "description": "可以使用6<@ba.talpu>（+2）</>个迎宾踏垫（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 6.0
+          },
+          "description": "可以使用6个迎宾踏垫（最多拥有8个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 8.0
+          },
+          "description": "可以使用8<@ba.talpu>（+2）</>个迎宾踏垫（最多拥有8个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 8.0
+          },
+          "description": "可以使用8个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 10.0
+          },
+          "description": "可以使用10<@ba.talpu>（+2）</>个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果",
+          "name": "迎宾踏垫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10016_rfrost_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 10,
+        "duration": 22
+      },
+      "Idle": 120,
+      "Skill": {
+        "OnAttack": 1,
+        "OnPlayAudio": 1,
+        "duration": 14
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit"
+      ]
+    },
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_rfrost": {
+      "battle": null,
+      "charId": "char_458_rfrost",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_rfrost",
+      "uniEquipName": "霜华证章"
+    },
+    "uniequip_002_rfrost": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 21.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "rfrost_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 42.0,
+            "def": 23.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "rfrost_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rfrost_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迎宾踏垫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10016_rfrost_mine",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用8个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标80防御力"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迎宾踏垫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10016_rfrost_mine",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用10<@ba.talpu>（+2）</>个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标80防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 47.0,
+            "def": 25.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "rfrost_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 120.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rfrost_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迎宾踏垫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10016_rfrost_mine",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用8个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标120防御力"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迎宾踏垫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10016_rfrost_mine",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用10<@ba.talpu>（+2）</>个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标120防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_458_rfrost",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "trp-y",
+      "uniEquipId": "uniequip_002_rfrost",
+      "uniEquipName": "机械式陷阱压力板"
+    }
+  },
+  "skill": {
+    "skchr_rfrost_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 1.0,
+          "stun": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 1.0,
+          "stun": 1.2
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cnt": 1.0,
+          "stun": 1.2
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cnt": 1.0,
+          "stun": 1.5
+        },
+        "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "陷阱部署",
+        "prefabId": "skchr_rfrost_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_rfrost_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.0
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.1
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.2
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.3
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.4
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.5
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.6
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.7
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 1.8
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "constraint": 1.5,
+          "times": 3.0,
+          "trap_atk_scale": 2.0
+        },
+        "description": "被动效果：迎宾踏垫触发时造成<@ba.vup>{trap_atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒；若其在攻击范围内,则立即对其进行攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>{times}</>次攻击；主动效果：立即获得一个迎宾踏垫",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "击倒猎物",
+        "prefabId": "skchr_rfrost_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

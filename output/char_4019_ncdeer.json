@@ -1,0 +1,992 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31023": 4,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "30093": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 35,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 350,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "九色鹿",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 200,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 83,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 660,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 286,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 119,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 972,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4019_ncdeer",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 286,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 119,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 972,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 367,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 157,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1314,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4019_ncdeer",
+        "evolveCost": {
+          "30012": 6,
+          "30032": 3,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 367,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 157,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1314,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 443,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 179,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1685,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4019_ncdeer",
+        "evolveCost": {
+          "30084": 7,
+          "31033": 14,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-6"
+      }
+    ],
+    "potentialRanks": null,
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31044": 5,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31044": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ncdeer_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "30064": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31054": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ncdeer_2"
+      }
+    ],
+    "subProfessionId": "blessing",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.08,
+            "hp_ratio": 0.4
+          },
+          "description": "攻击范围内的友军生命少于40%时，使其获得8%的<$ba.protect>庇护</>",
+          "name": "飘渺彩云",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.14,
+            "hp_ratio": 0.4
+          },
+          "description": "攻击范围内的友军生命少于40%时，使其获得14%的<$ba.protect>庇护</>",
+          "name": "飘渺彩云",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.2,
+            "hp_ratio": 0.4
+          },
+          "description": "攻击范围内的友军生命少于40%时，使其获得20%的<$ba.protect>庇护</>",
+          "name": "飘渺彩云",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "heal_scale": 0.75
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 48
+      },
+      "Idle": 300,
+      "Skill_Begin": 10,
+      "Skill_End": 10,
+      "Skill_Idle": 200,
+      "Skill_Loop": {
+        "OnAttack": 13,
+        "duration": 35
+      },
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_ncdeer_1": {
+        "damage_type": 2
+      },
+      "skchr_ncdeer_2": {
+        "damage_type": 2
+      },
+      "uniequip_002_ncdeer": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_ncdeer": {
+      "battle": null,
+      "charId": "char_4019_ncdeer",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ncdeer",
+      "uniEquipName": "九色鹿证章"
+    },
+    "uniequip_002_ncdeer": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 15.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 20.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.23,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "飘渺彩云",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命少于50%时，使其获得23%的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 25.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.26,
+                    "hp_ratio": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "飘渺彩云",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命少于60%时，使其获得26%的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4019_ncdeer",
+      "itemCost": {
+        "1": {
+          "30044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30104": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "bls-x",
+      "uniEquipId": "uniequip_002_ncdeer",
+      "uniEquipName": "“仙药”"
+    }
+  },
+  "skill": {
+    "skchr_ncdeer_1": [
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "人间降吉",
+        "prefabId": "skchr_ncdeer_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ncdeer_2": [
+      {
+        "blackboard": {
+          "attack_speed": 10.0,
+          "prob": 0.3,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 14.0,
+          "prob": 0.3,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 18.0,
+          "prob": 0.3,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 22.0,
+          "prob": 0.4,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 26.0,
+          "prob": 0.4,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "prob": 0.4,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0,
+          "prob": 0.4,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "prob": 0.5,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "prob": 0.6,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "prob": 0.7,
+          "talent@hp_ratio": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，自身获得<@ba.vup>{prob:0%}</>的远程物理抵挡，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命时触发",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "仙山去远",
+        "prefabId": "skchr_ncdeer_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

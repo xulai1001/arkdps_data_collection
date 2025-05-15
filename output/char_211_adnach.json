@@ -1,0 +1,410 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30011": 2,
+        "3301": 2
+      },
+      {
+        "30022": 1,
+        "3302": 1
+      },
+      {
+        "30032": 2,
+        "3302": 1
+      },
+      {
+        "30103": 1,
+        "3302": 1
+      },
+      {
+        "30013": 2,
+        "3303": 2
+      }
+    ],
+    "description": "优先攻击空中单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "安德切尔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 150,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 55,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 531,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 251,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 93,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 831,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_211_adnach",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 251,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 93,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 831,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 365,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 134,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1080,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_211_adnach",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[1]"
+      }
+    ],
+    "subProfessionId": "fastshot",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 4.0
+          },
+          "description": "攻击速度+4，优先攻击使用远程武器的敌人",
+          "name": "短板突破",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 8.0
+          },
+          "description": "攻击速度+8，优先攻击使用远程武器的敌人",
+          "name": "短板突破",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 55,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 9,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 9,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skcom_atk_up[1]": [
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·α型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

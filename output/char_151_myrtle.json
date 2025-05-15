@@ -1,0 +1,1055 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30051": 3,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 3
+      },
+      {
+        "30012": 4,
+        "3302": 3
+      },
+      {
+        "30023": 3,
+        "3302": 3
+      },
+      {
+        "30033": 3,
+        "3303": 4
+      }
+    ],
+    "description": "技能发动期间阻挡数变为0",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "桃金娘",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 231,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 138,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 658,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 331,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 193,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 902,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_151_myrtle",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 331,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 193,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 902,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 436,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 255,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1142,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_151_myrtle",
+        "evolveCost": {
+          "30042": 1,
+          "30052": 1,
+          "3211": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 436,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 255,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1142,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 520,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 300,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1565,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_151_myrtle",
+        "evolveCost": {
+          "30063": 8,
+          "30093": 12,
+          "3212": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+22",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 22.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "30064": 1,
+            "3303": 4
+          },
+          {
+            "30094": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": "skchr_myrtle_1",
+        "overrideTokenKey": null,
+        "skillId": "skcom_assist_cost[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 4,
+            "30054": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "30074": 2,
+            "3303": 4
+          },
+          {
+            "30084": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_myrtle_2"
+      }
+    ],
+    "subProfessionId": "bearer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 25.0
+          },
+          "description": "在场时，所有【先锋】干员每秒回复25点生命",
+          "name": "浮光跃金",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 28.0
+          },
+          "description": "在场时，所有【先锋】干员每秒回复28<@ba.talpu>（+3）</>点生命",
+          "name": "浮光跃金",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 40
+      },
+      "Idle": 100,
+      "Skill_Begin": 18,
+      "Skill_End": 7,
+      "Skill_Loop": 100,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_myrtle_2": {
+        "reset_attack": true,
+        "sec": true
+      },
+      "skcom_assist_cost[2]": {
+        "reset_attack": true
+      },
+      "uniequip_002_myrtle": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_myrtle": {
+      "battle": null,
+      "charId": "char_151_myrtle",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_myrtle",
+      "uniEquipName": "桃金娘证章"
+    },
+    "uniequip_002_myrtle": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 23.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "block_cnt": 1.0
+                  },
+                  "overrideDescripton": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数<@ba.kw>+1</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "myrtle_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 30.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "block_cnt": 1.0
+                  },
+                  "overrideDescripton": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数<@ba.kw>+1</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "myrtle_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 28.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "浮光跃金",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【先锋】干员每秒回复28点生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 31.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "浮光跃金",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【先锋】干员每秒回复31<@ba.talpu>（+3）</>点生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 35.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "block_cnt": 1.0
+                  },
+                  "overrideDescripton": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数<@ba.kw>+1</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "myrtle_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "浮光跃金",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【先锋】干员每秒回复30点生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 33.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "浮光跃金",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【先锋】干员每秒回复33<@ba.talpu>（+3）</>点生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_151_myrtle",
+      "itemCost": {
+        "1": {
+          "30103": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30033": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31053": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "bea-x",
+      "uniEquipId": "uniequip_002_myrtle",
+      "uniEquipName": "“私人收藏”"
+    }
+  },
+  "skill": {
+    "skchr_myrtle_2": [
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.3,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.3,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.3,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.35,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.4,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.45,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.5,
+          "cost": 1.0,
+          "interval": 1.0,
+          "value": 16.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用，并每秒治疗周围一名友方单位相当于桃金娘攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "治愈之翼",
+        "prefabId": "skchr_myrtle_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_assist_cost[2]": [
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 1.0,
+          "interval": 0.57,
+          "value": 14.0
+        },
+        "description": "停止攻击，持续时间内回复总共<@ba.vup>{value}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "支援号令·β型",
+        "prefabId": null,
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

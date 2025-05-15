@@ -1,0 +1,1193 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30031": 4,
+        "3301": 2
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3302": 3
+      },
+      {
+        "30073": 3,
+        "3303": 4
+      }
+    ],
+    "description": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "豆苗",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 171,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 43,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 702,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 73,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1003,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_452_bstalk",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 73,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1003,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 332,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1286,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_452_bstalk",
+        "evolveCost": {
+          "30022": 1,
+          "30042": 1,
+          "3211": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 332,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1286,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 405,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 125,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1569,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_452_bstalk",
+        "evolveCost": {
+          "30083": 10,
+          "31013": 13,
+          "3212": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30014": 3,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31014": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bstalk_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 1,
+            "30093": 4,
+            "3303": 2
+          },
+          {
+            "30104": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30145": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bstalk_2"
+      }
+    ],
+    "subProfessionId": "tactician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤磐蟹协助作战，其被击败后会在20秒后自动刷新",
+          "name": "专业饲养员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10014_bstalk_crab",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤磐蟹协助作战，其被击败后会在17秒后自动刷新",
+          "name": "专业饲养员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10014_bstalk_crab",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤磐蟹协助作战，其被击败后会在15秒后自动刷新",
+          "name": "专业饲养员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10014_bstalk_crab",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "OnPlayAudio": 29,
+        "duration": 37
+      },
+      "Idle": 68,
+      "Skill01": {
+        "OnAttack": 18,
+        "duration": 43
+      },
+      "Skill02": {
+        "OnAttack": 18,
+        "duration": 42
+      },
+      "Start": 24
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "cond",
+        "token"
+      ]
+    },
+    "spec": {
+      "char_452_bstalk": {
+        "token": "token_10014_bstalk_crab"
+      },
+      "skchr_bstalk_1": {
+        "damage_type": "0"
+      },
+      "skchr_bstalk_2": {
+        "use_token_for_mastery": true
+      },
+      "tachr_452_bstalk_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_bstalk": {
+      "battle": null,
+      "charId": "char_452_bstalk",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_bstalk",
+      "uniEquipName": "豆苗证章"
+    },
+    "uniequip_002_bstalk": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "bstalk_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "专业饲养员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡敌人时防御力+10%，被击败后会在15秒后自动刷新"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.1,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "bstalk_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "专业饲养员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10014_bstalk_crab",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在战术点召唤磐蟹协助作战，磐蟹阻挡敌人时防御力+10%，其被击败后会在15秒后自动刷新"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "专业饲养员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡敌人时防御力+15%，被击败后会在15秒后自动刷新"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.15,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "bstalk_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "专业饲养员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10014_bstalk_crab",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在战术点召唤磐蟹协助作战，磐蟹阻挡敌人时防御力+15%，其被击败后会在15秒后自动刷新"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_452_bstalk",
+      "itemCost": {
+        "1": {
+          "30023": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30093": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "tac-y",
+      "uniEquipId": "uniequip_002_bstalk",
+      "uniEquipName": "钳钳自助餐"
+    }
+  },
+  "skill": {
+    "skchr_bstalk_1": [
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 8.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并立刻刷新援军（如已存在则恢复其所有生命值）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点指令",
+        "prefabId": "skchr_bstalk_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_bstalk_2": [
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.2,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.25,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.3,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.35,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.4,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.45,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.5,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.55,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.6,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.0,
+          "attack@def": 0.7,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "立即在战术点周围四格的所有近战位临时召唤磐蟹（不包括战术点本身）；技能持续时间内回复总共<@ba.vup>{value}</>点部署费用，所有磐蟹的防御力<@ba.vup>+{attack@def:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "“大家一起上”",
+        "prefabId": "skchr_bstalk_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

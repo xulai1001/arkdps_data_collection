@@ -1,0 +1,1966 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30073": 7,
+        "3302": 8
+      },
+      {
+        "30083": 3,
+        "31043": 5,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多3个）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 150,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "黑键",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 611,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 51,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 732,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 873,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1046,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4046_ebnhlz",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-13"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 873,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1046,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1134,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1359,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4046_ebnhlz",
+        "evolveCost": {
+          "30052": 7,
+          "30062": 3,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-14"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 1134,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1359,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1400,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1678,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4046_ebnhlz",
+        "evolveCost": {
+          "30135": 4,
+          "31044": 7,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-14"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+52",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 52.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 3,
+            "31034": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ebnhlz_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 5,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "30084": 4,
+            "31044": 8,
+            "3303": 12
+          },
+          {
+            "30104": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10024_ebnhlz_rcube",
+        "skillId": "skchr_ebnhlz_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 7,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31044": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ebnhlz_3"
+      }
+    ],
+    "subProfessionId": "mystic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.2,
+            "times_2": 1.0
+          },
+          "description": "储存的攻击能量造成的伤害提升至120%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量",
+          "name": "强弱法",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.35,
+            "times_2": 1.0
+          },
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量",
+          "name": "强弱法",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk_scale": 0.15,
+            "cnt": 0.0,
+            "range_radius": 1.1
+          },
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力15%的法术伤害",
+          "name": "倚音",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.17,
+            "cnt": 0.0,
+            "range_radius": 1.1
+          },
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力17%<@ba.talpu>（+2%）</>的法术伤害",
+          "name": "倚音",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "times": 3.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 90
+      },
+      "Attack_Charge": {
+        "OnAttack": 20,
+        "duration": 90
+      },
+      "Idle": 120,
+      "Skill_1_Begin": 6,
+      "Skill_1_Charge": {
+        "OnAttack": 4,
+        "duration": 18
+      },
+      "Skill_1_End": 5,
+      "Skill_1_Idle": 40,
+      "Skill_1_Loop": {
+        "OnAttack": 3,
+        "duration": 18
+      },
+      "Skill_2": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_3_A": {
+        "OnAttack": 10,
+        "duration": 50
+      },
+      "Skill_3_B": {
+        "OnAttack": 10,
+        "duration": 50
+      },
+      "Skill_3_C": {
+        "OnAttack": 10,
+        "duration": 50
+      },
+      "Skill_3_Charge": {
+        "OnAttack": 17,
+        "duration": 50
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip",
+        "cond_elite"
+      ]
+    },
+    "spec": {
+      "skchr_ebnhlz_1": {
+        "attack_begin": 12
+      },
+      "skchr_ebnhlz_2": {
+        "attack_animation": 90,
+        "attack_begin": 11,
+        "cast_time": 30,
+        "sim": true
+      },
+      "skchr_ebnhlz_3": {
+        "attack_begin": 10,
+        "reset_attack": true
+      },
+      "uniequip_002_ebnhlz": {
+        "override_talent": 1,
+        "override_trait": true
+      },
+      "uniequip_003_ebnhlz": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_ebnhlz": {
+      "battle": null,
+      "charId": "char_4046_ebnhlz",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ebnhlz",
+      "uniEquipName": "黑键证章"
+    },
+    "uniequip_002_ebnhlz": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 58.0,
+            "attack_speed": 3.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "attack_speed": 4.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.4,
+                    "times_2": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "强弱法",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "储存的攻击能量造成的伤害提升至140%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.43,
+                    "times_2": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "强弱法",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "储存的攻击能量造成的伤害提升至143%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4046_ebnhlz",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "msc-x",
+      "uniEquipId": "uniequip_002_ebnhlz",
+      "uniEquipName": "源石骰子收纳盒"
+    },
+    "uniequip_003_ebnhlz": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 88.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 112.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.18,
+                    "atk_scale_2": 0.25,
+                    "cnt": 0.0,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力18%的法术伤害，反之则对其周围造成相当于攻击力25%的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.2,
+                    "atk_scale_2": 0.25,
+                    "cnt": 0.0,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力20%<@ba.talpu>（+2%）</>的法术伤害，反之则对其周围造成相当于攻击力25%的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 135.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.2,
+                    "atk_scale_2": 0.36,
+                    "cnt": 0.0,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力20%的法术伤害，反之则对其周围造成相当于攻击力36%的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.22,
+                    "atk_scale_2": 0.36,
+                    "cnt": 0.0,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力22%<@ba.talpu>（+2%）</>的法术伤害，反之则对其周围造成相当于攻击力36%的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4046_ebnhlz",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "msc-y",
+      "uniEquipId": "uniequip_003_ebnhlz",
+      "uniEquipName": "“乐理阐释者”"
+    },
+    "uniequip_004_ebnhlz": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 76.0,
+            "magic_resistance": 4.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.apoptosis2>凋亡损伤</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_3_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 102.0,
+            "magic_resistance": 5.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.apoptosis2>凋亡损伤</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_3_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.24,
+                    "cnt": 0.0,
+                    "element_atk_scale": 0.2,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力24%的法术伤害；若攻击目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击对其额外造成相当于攻击力20%的元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.26,
+                    "cnt": 0.0,
+                    "element_atk_scale": 0.2,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力26%<@ba.talpu>（+2%）</>的法术伤害；若攻击目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击对其额外造成相当于攻击力20%的元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_3_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 124.0,
+            "magic_resistance": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.apoptosis2>凋亡损伤</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_3_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.3,
+                    "cnt": 0.0,
+                    "element_atk_scale": 0.3,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力30%的法术伤害；若攻击目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击对其额外造成相当于攻击力30%的元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.32,
+                    "cnt": 0.0,
+                    "element_atk_scale": 0.3,
+                    "range_radius": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "倚音",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力32%<@ba.talpu>（+2%）</>的法术伤害；若攻击目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击对其额外造成相当于攻击力30%的元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ebnhlz_equip_3_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4046_ebnhlz",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "msc-d",
+      "uniEquipId": "uniequip_004_ebnhlz",
+      "uniEquipName": "朽坏传承"
+    }
+  },
+  "skill": {
+    "skchr_ebnhlz_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.3,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.31,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.32,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.35,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.36,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.37,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.4,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.43,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.17
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>超大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.46,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.17
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>超大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.5,
+          "attack@cnt": 1.0,
+          "base_attack_time": 0.17
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>超大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "渐快急板",
+        "prefabId": "skchr_ebnhlz_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ebnhlz_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.45,
+          "force": 1.0
+        },
+        "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤<@ba.vup>消耗能量数+1</>个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并以<@ba.vup>中等力度</>拖拽敌人至自身中心",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "荒芜回响",
+        "prefabId": "skchr_ebnhlz_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ebnhlz_3": [
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 40.0,
+          "talent_scale_multiplier": 1.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.38,
+          "attack_speed": 50.0,
+          "talent_scale_multiplier": 1.18
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 50.0,
+          "talent_scale_multiplier": 1.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.43,
+          "attack_speed": 50.0,
+          "talent_scale_multiplier": 1.23
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 60.0,
+          "talent_scale_multiplier": 1.25
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.48,
+          "attack_speed": 60.0,
+          "talent_scale_multiplier": 1.28
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 60.0,
+          "talent_scale_multiplier": 1.3
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack_speed": 70.0,
+          "talent_scale_multiplier": 1.33
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack_speed": 70.0,
+          "talent_scale_multiplier": 1.36
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack_speed": 80.0,
+          "talent_scale_multiplier": 1.4
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的<@ba.vup>{talent_scale_multiplier:0%}</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "寂静之声",
+        "prefabId": "skchr_ebnhlz_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

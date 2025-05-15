@@ -1,0 +1,894 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "31023": 4,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "30093": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能开启时普通攻击会造成法术伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "车尔尼",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 262,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 231,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1246,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 375,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 341,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1685,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4047_pianst",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 375,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 341,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1685,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 500,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 461,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2247,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4047_pianst",
+        "evolveCost": {
+          "30012": 6,
+          "30052": 3,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 500,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 27,
+            "def": 461,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2247,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 625,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 27,
+            "def": 577,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3122,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4047_pianst",
+        "evolveCost": {
+          "30084": 8,
+          "31033": 11,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31044": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31054": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pianst_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "30064": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pianst_2"
+      }
+    ],
+    "subProfessionId": "artsprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 0.5,
+            "magic_resistance": 5.0
+          },
+          "description": "法术抗性+5，每次受到法术攻击时对目标造成相当于车尔尼攻击力50%的法术伤害",
+          "name": "回声",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.55,
+            "magic_resistance": 5.0
+          },
+          "description": "法术抗性+5，每次受到法术攻击时对目标造成相当于车尔尼攻击力55%<@ba.talpu>（+5%）</>的法术伤害",
+          "name": "回声",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.8,
+            "magic_resistance": 10.0
+          },
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力80%的法术伤害",
+          "name": "回声",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.85,
+            "magic_resistance": 10.0
+          },
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力85%<@ba.talpu>（+5%）</>的法术伤害",
+          "name": "回声",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 48
+      },
+      "Idle": 60,
+      "Skill_2_Attack": {
+        "OnAttack": 14,
+        "duration": 48
+      },
+      "Skill_2_Begin": 5,
+      "Skill_2_End": {
+        "OnAttack": 16,
+        "duration": 47
+      },
+      "Skill_2_Idle": 60,
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_pianst_1": {
+        "damage_type": 1
+      },
+      "skchr_pianst_2": {
+        "note": "全部按满层计算"
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skchr_pianst_1": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "magic_resistance": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "magic_resistance": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "magic_resistance": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "magic_resistance": 0.65
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "magic_resistance": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "magic_resistance": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "magic_resistance": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "magic_resistance": 0.85
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "magic_resistance": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "magic_resistance": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，法术抗性<@ba.vup>+{magic_resistance:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "纷飞十指",
+        "prefabId": "skchr_pianst_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_pianst_2": [
+      {
+        "blackboard": {
+          "atk": 0.16,
+          "atk_scale": 1.5,
+          "interval": 18.6,
+          "max_hp": 0.3,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.17,
+          "atk_scale": 1.5,
+          "interval": 18.6,
+          "max_hp": 0.35,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "atk_scale": 1.5,
+          "interval": 18.6,
+          "max_hp": 0.4,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "atk_scale": 1.7,
+          "interval": 18.6,
+          "max_hp": 0.5,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.21,
+          "atk_scale": 1.7,
+          "interval": 18.6,
+          "max_hp": 0.55,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "atk_scale": 1.7,
+          "interval": 18.6,
+          "max_hp": 0.6,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "atk_scale": 1.9,
+          "interval": 18.6,
+          "max_hp": 0.7,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "atk_scale": 2.1,
+          "interval": 18.6,
+          "max_hp": 0.8,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "atk_scale": 2.3,
+          "interval": 18.6,
+          "max_hp": 0.9,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "atk_scale": 2.5,
+          "interval": 18.6,
+          "max_hp": 1.0,
+          "max_stack_cnt": 10.0,
+          "pianst_s_2_fxbound_1": 3.0,
+          "pianst_s_2_fxbound_2": 7.0,
+          "taunt_level": 1.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升<@ba.vup>+{atk:0%}</>（最多<@ba.vup>{max_stack_cnt}</>层），技能结束时对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "曲惊四座",
+        "prefabId": "skchr_pianst_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

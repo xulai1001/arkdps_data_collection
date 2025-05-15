@@ -1,0 +1,1165 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30073": 2,
+        "3302": 3
+      },
+      {
+        "30083": 3,
+        "3303": 4
+      }
+    ],
+    "description": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "红豆",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 248,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 152,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 724,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 355,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 218,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1006,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_290_vigna",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 355,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 218,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1006,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 287,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1291,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_290_vigna",
+        "evolveCost": {
+          "30032": 1,
+          "30062": 1,
+          "3211": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 287,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1291,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 558,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 351,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1845,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_290_vigna",
+        "evolveCost": {
+          "30013": 11,
+          "30043": 16,
+          "3212": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30014": 2,
+            "30094": 3,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vigna_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 3,
+            "30104": 1,
+            "3303": 2
+          },
+          {
+            "30024": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30034": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vigna_2"
+      }
+    ],
+    "subProfessionId": "charger",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.5,
+            "prob1": 0.1,
+            "prob2": 0.3
+          },
+          "description": "攻击时，10%几率当次攻击的攻击力+50%。技能中这个几率提高到30%",
+          "name": "蛮力穿刺",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.6,
+            "prob1": 0.1,
+            "prob2": 0.3
+          },
+          "description": "攻击时，10%几率当次攻击的攻击力+60%<@ba.talpu>（+10%）</>。技能中这个几率提高到30%",
+          "name": "蛮力穿刺",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 1.0,
+            "prob1": 0.1,
+            "prob2": 0.3
+          },
+          "description": "攻击时，10%几率当次攻击的攻击力+100%。技能中这个几率提高到30%",
+          "name": "蛮力穿刺",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 1.1,
+            "prob1": 0.1,
+            "prob2": 0.3
+          },
+          "description": "攻击时，10%几率当次攻击的攻击力+110%<@ba.talpu>（+10%）</>。技能中这个几率提高到30%",
+          "name": "蛮力穿刺",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "cost": 1.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Attack_Down": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 9,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit",
+        "equip"
+      ]
+    },
+    "spec": {
+      "tachr_290_vigna_1": {
+        "crit": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_vigna": {
+      "battle": null,
+      "charId": "char_290_vigna",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_vigna",
+      "uniEquipName": "红豆证章"
+    },
+    "uniequip_002_vigna": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigna_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 95.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigna_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 1.0,
+                    "prob1": 0.15,
+                    "prob2": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蛮力穿刺",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时，15%几率当次攻击的攻击力+100%。技能中这个几率提高到35%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 1.1,
+                    "prob1": 0.15,
+                    "prob2": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蛮力穿刺",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时，15%几率当次攻击的攻击力+110%<@ba.talpu>（+10%）</>。技能中这个几率提高到35%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigna_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 1.0,
+                    "prob1": 0.2,
+                    "prob2": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蛮力穿刺",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时，20%几率当次攻击的攻击力+100%。技能中这个几率提高到40%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 1.1,
+                    "prob1": 0.2,
+                    "prob2": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蛮力穿刺",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时，20%几率当次攻击的攻击力+110%<@ba.talpu>（+10%）</>。技能中这个几率提高到40%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_290_vigna",
+      "itemCost": {
+        "1": {
+          "30083": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31053": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "chg-y",
+      "uniEquipId": "uniequip_002_vigna",
+      "uniEquipName": "伟大的摇滚"
+    }
+  },
+  "skill": {
+    "skchr_vigna_1": [
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skchr_vigna_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_vigna_2": [
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.65,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "槌音",
+        "prefabId": "skchr_vigna_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1429 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30023": 7,
+        "3302": 8
+      },
+      {
+        "30033": 4,
+        "30083": 5,
+        "3303": 8
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "银灰",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 297,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 189,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1075,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 259,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1536,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_172_svrash",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 259,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1536,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 577,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 329,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2022,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_172_svrash",
+        "evolveCost": {
+          "30032": 8,
+          "30062": 3,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 577,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 329,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2022,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 713,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 397,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2560,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_172_svrash",
+        "evolveCost": {
+          "30074": 6,
+          "30135": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 4,
+            "3303": 6
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_svrash_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 6,
+            "30054": 4,
+            "3303": 6
+          },
+          {
+            "30064": 5,
+            "30084": 4,
+            "3303": 12
+          },
+          {
+            "30024": 6,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_svrash_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 6
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30024": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_svrash_3"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "respawn_time": -0.05
+          },
+          "description": "攻击力+5%，编入队伍时所有我方单位的再部署时间-5%",
+          "name": "领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "respawn_time": -0.07
+          },
+          "description": "攻击力+7%<@ba.talpu>（+2%）</>，编入队伍时所有我方单位的再部署时间-7%<@ba.talpu>（+2%）</>",
+          "name": "领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "respawn_time": -0.1
+          },
+          "description": "攻击力+10%，编入队伍时所有我方单位的再部署时间-10%",
+          "name": "领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "respawn_time": -0.12
+          },
+          "description": "攻击力+12%<@ba.talpu>（+2%）</>，编入队伍时所有我方单位的再部署时间-12%<@ba.talpu>（+2%）</>",
+          "name": "领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+          "name": "鹰眼视觉",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 40
+      },
+      "Combat": {
+        "OnAttack": 22,
+        "duration": 40
+      },
+      "Combat_Down": {
+        "OnAttack": 22,
+        "duration": 40
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 13,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "ranged_penalty"
+      ]
+    },
+    "spec": {
+      "skchr_svrash_2": {
+        "toggle": true
+      },
+      "tachr_172_svrash_1": {
+        "cloneable": true
+      },
+      "tachr_172_svrash_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_svrash": {
+      "battle": null,
+      "charId": "char_172_svrash",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_svrash",
+      "uniEquipName": "银灰证章"
+    },
+    "uniequip_002_svrash": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "svrash_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 270.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "svrash_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "respawn_time": -0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+20%且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-10%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.22,
+                    "respawn_time": -0.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+22%<@ba.talpu>（+2%）</>且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-12%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "svrash_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 330.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "svrash_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.25,
+                    "respawn_time": -0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+25%且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-10%，银灰及周围8格的其他友军再部署时间额外-10%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.27,
+                    "respawn_time": -0.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+27%<@ba.talpu>（+2%）</>且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-12%<@ba.talpu>（+2%）</>，银灰及周围8格的其他友军再部署时间额外-10%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "svrash_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "respawn_time": -0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "svrash_equip_1_3_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_172_svrash",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30155": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "lor-x",
+      "uniEquipId": "uniequip_002_svrash",
+      "uniEquipName": "雪境羽兽护理套组"
+    }
+  },
+  "skill": {
+    "skchr_svrash_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.05
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.25
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.45
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.65
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_svrash_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_svrash_2": [
+      {
+        "blackboard": {
+          "def": 0.35,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.4,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.45,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.5,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.035
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.55,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.035
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.6,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.035
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.65,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.75,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.045
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.85,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围<@ba.vdown>缩小</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "雪境生存法则",
+        "prefabId": "skchr_svrash_2",
+        "rangeId": "1-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_svrash_3": [
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@max_target": 3.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.15,
+          "attack@max_target": 3.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@max_target": 3.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.25,
+          "attack@max_target": 4.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@max_target": 4.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@max_target": 4.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@max_target": 5.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 60,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@max_target": 5.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 65,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@max_target": 5.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 70,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "attack@max_target": 6.0,
+          "def": -0.7
+        },
+        "description": "防御力<@ba.vdown>-{-def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击至多<@ba.vup>{attack@max_target}</>个目标（视为近距离攻击）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "真银斩",
+        "prefabId": "skchr_svrash_3",
+        "rangeId": "3-7",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 75,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

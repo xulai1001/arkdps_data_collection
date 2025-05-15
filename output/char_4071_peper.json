@@ -1,0 +1,841 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30033": 3,
+        "31043": 3,
+        "3303": 6
+      }
+    ],
+    "description": "恢复友方单位生命，且会在<@ba.kw>3</>个友方单位间跳跃，每次跳跃治疗量降低25%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "明椒",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 153,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 913,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1202,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4071_peper",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1202,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 136,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1432,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4071_peper",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 3,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 136,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1432,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 439,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 171,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1666,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4071_peper",
+        "evolveCost": {
+          "30014": 8,
+          "30063": 12,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31014": 3,
+            "31043": 4,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "31054": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_heal_rage[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 4,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31024": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31014": 5,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_peper_2"
+      }
+    ],
+    "subProfessionId": "chainhealer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_ratio": 0.4,
+            "value": 80.0
+          },
+          "description": "治疗时，若目标生命少于40%则为其额外恢复80点生命",
+          "name": "重点关照",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.4,
+            "value": 90.0
+          },
+          "description": "治疗时，若目标生命少于40%则为其额外恢复90<@ba.talpu>（+10）</>点生命",
+          "name": "重点关照",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.4,
+            "value": 140.0
+          },
+          "description": "治疗时，若目标生命少于40%则为其额外恢复140点生命",
+          "name": "重点关照",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.4,
+            "value": 150.0
+          },
+          "description": "治疗时，若目标生命少于40%则为其额外恢复150<@ba.talpu>（+10）</>点生命",
+          "name": "重点关照",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@chain.atk_scale": 0.75,
+          "attack@chain.max_target": 3.0
+        },
+        "overrideDescripton": "恢复友方单位生命，且会在<@ba.kw>3</>个友方单位间跳跃，每次跳跃治疗量降低25%",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Idle": 120,
+      "Skill_2_Begin": 8,
+      "Skill_2_End": 8,
+      "Skill_2_Idle": 40,
+      "Skill_2_Loop": {
+        "OnAttack": 8,
+        "duration": 35
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_peper_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@chain.extra_value": 1.0,
+          "talent@hp_ratio": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗的跳跃次数<@ba.vup>+{attack@chain.extra_value}</>，天赋的触发条件变为<@ba.vup>{talent@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "同伴意识",
+        "prefabId": "skchr_peper_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_heal_rage[3]": [
+      {
+        "blackboard": {
+          "attack_speed": 25.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 65.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 75.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 85.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掩护作战·γ型",
+        "prefabId": "skcom_heal_rage",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

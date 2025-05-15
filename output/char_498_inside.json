@@ -1,0 +1,1042 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30063": 3,
+        "3302": 6
+      },
+      {
+        "30103": 2,
+        "31043": 3,
+        "3303": 6
+      }
+    ],
+    "description": "优先攻击空中单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "隐现",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 177,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 63,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 644,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 295,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 920,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_498_inside",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 295,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 920,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1180,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_498_inside",
+        "evolveCost": {
+          "30042": 4,
+          "30062": 2,
+          "3241": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1180,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 178,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1440,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_498_inside",
+        "evolveCost": {
+          "30023": 15,
+          "31014": 9,
+          "3243": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31033": 1,
+            "3303": 5
+          },
+          {
+            "30064": 3,
+            "31044": 4,
+            "3303": 6
+          },
+          {
+            "30094": 3,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_inside_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "30014": 6,
+            "31034": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_inside_2"
+      }
+    ],
+    "subProfessionId": "fastshot",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "duration": 20.0,
+            "self_ammo": 2.0
+          },
+          "description": "在场停留20秒后，自身弹药类技能弹药上限+2",
+          "name": "火力支援",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "ally_ammo": 1.0,
+            "duration": 20.0,
+            "self_ammo": 3.0
+          },
+          "description": "在场停留20秒后，自身弹药类技能弹药上限+3，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+          "name": "火力支援",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 5,
+      "Attack_Down_Loop": {
+        "OnAttack": 0,
+        "duration": 30
+      },
+      "Attack_End": 6,
+      "Attack_Idle": 40,
+      "Attack_Loop": {
+        "OnAttack": 0,
+        "duration": 30
+      },
+      "Idle": 120,
+      "Skill_1_Begin": 20,
+      "Skill_1_End": 7,
+      "Skill_1_Idle": 40,
+      "Skill_1_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_2_Begin": 20,
+      "Skill_2_End": 17,
+      "Skill_2_Idle": 40,
+      "Skill_2_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_Down_1_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_Down_2_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_498_inside": {
+        "attack_begin": "0"
+      },
+      "skchr_inside_1": {
+        "attack_begin": 11,
+        "magazine": 4
+      },
+      "skchr_inside_2": {
+        "attack_begin": 11,
+        "magazine": 14
+      },
+      "uniequip_002_inside": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_inside": {
+      "battle": null,
+      "charId": "char_498_inside",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_inside",
+      "uniEquipName": "隐现证章"
+    },
+    "uniequip_002_inside": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 22.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "inside_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "inside_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ally_ammo": 1.0,
+                    "duration": 20.0,
+                    "self_ammo": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火力支援",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "inside_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ally_ammo": 1.0,
+                    "duration": 20.0,
+                    "self_ammo": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火力支援",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_498_inside",
+      "itemCost": {
+        "1": {
+          "30104": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "mar-x",
+      "uniEquipId": "uniequip_002_inside",
+      "uniEquipName": "“最初的惊喜”"
+    }
+  },
+  "skill": {
+    "skchr_inside_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.7,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.75,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.8,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.85,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.9,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.95,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.0,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.1,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.2,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.3,
+          "attack@trigger_time": 4.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“不惹麻烦”",
+        "prefabId": "skchr_inside_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_inside_2": [
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@trigger_time": 14.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，优先攻击使用远程武器的敌人并且不容易成为敌人的攻击目标\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "“解决麻烦”",
+        "prefabId": "skchr_inside_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

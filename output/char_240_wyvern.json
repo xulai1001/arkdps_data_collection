@@ -1,0 +1,421 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30021": 1,
+        "3301": 2
+      },
+      {
+        "30032": 1,
+        "3302": 1
+      },
+      {
+        "30042": 2,
+        "3302": 1
+      },
+      {
+        "30053": 1,
+        "3302": 1
+      },
+      {
+        "30063": 1,
+        "3303": 2
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "香草",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 168,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 9,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 711,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 248,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 9,
+            "def": 184,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1016,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_240_wyvern",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 248,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 184,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1016,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 355,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 240,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1270,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_240_wyvern",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+20",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 20.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_wyvern_1"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.04
+          },
+          "description": "攻击力+4%",
+          "name": "攻击提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.08
+          },
+          "description": "攻击力+8%",
+          "name": "攻击提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 55,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "tachr_240_wyvern_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skchr_wyvern_1": [
+      {
+        "blackboard": {
+          "atk": 0.05,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "cost": 6.0
+        },
+        "description": "获得<@ba.vup>{cost}</>点部署费用，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·援军",
+        "prefabId": "skchr_wyvern_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

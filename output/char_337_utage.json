@@ -1,0 +1,1153 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30073": 2,
+        "3302": 3
+      },
+      {
+        "30083": 3,
+        "3303": 4
+      }
+    ],
+    "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "宴",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 309,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1413,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 442,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 206,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1963,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_337_utage",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 442,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 206,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1963,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 575,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 265,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2583,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_337_utage",
+        "evolveCost": {
+          "30022": 1,
+          "30062": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 575,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 265,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2583,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 693,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 312,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3444,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_337_utage",
+        "evolveCost": {
+          "30013": 14,
+          "30053": 14,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 3,
+            "30104": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30084": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_utage_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30094": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_utage_2"
+      }
+    ],
+    "subProfessionId": "musha",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "min_attack_speed": 50.0,
+            "min_hp_ratio": 0.5
+          },
+          "description": "在场时，自身获得最高+50攻击速度的<$ba.berserk>坚忍</>（损失50%生命值时达到最大加成）",
+          "name": "认真模式",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 75.0,
+            "min_hp_ratio": 0.4
+          },
+          "description": "在场时，自身获得最高+75攻击速度的<$ba.berserk>坚忍</>（损失60%生命值时达到最大加成）",
+          "name": "认真模式",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 100.0,
+            "min_hp_ratio": 0.3
+          },
+          "description": "在场时，自身获得最高+100攻击速度的<$ba.berserk>坚忍</>（损失70%生命值时达到最大加成）",
+          "name": "认真模式",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 30.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英1后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英2后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_1"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 70.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Idle": 30,
+      "Skill_End": 15,
+      "Skill_Loop": 45,
+      "Skill_Start": 15,
+      "Start": {
+        "OnStart": 7,
+        "duration": 35
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip",
+        "musha_hp"
+      ]
+    },
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_utage": {
+      "battle": null,
+      "charId": "char_337_utage",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_utage",
+      "uniEquipName": "宴证章"
+    },
+    "uniequip_002_utage": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "utage_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "utage_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.03,
+                    "def": 0.03,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "冷血",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于50%时，攻击力+3%，防御力+3%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "utage_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 240.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "utage_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "def": 0.04,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "冷血",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于50%时，攻击力+4%，防御力+4%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "utage_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_337_utage",
+      "itemCost": {
+        "1": {
+          "30063": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30093": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31043": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "sbl-x",
+      "uniEquipId": "uniequip_002_utage",
+      "uniEquipName": "翻盖手机"
+    }
+  },
+  "skill": {
+    "skchr_utage_1": [
+      {
+        "blackboard": {
+          "def": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.2,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.4,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.5,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.6,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.7,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.8,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 2.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.1
+        },
+        "description": "停止攻击，阻挡数变为<@ba.vup>0</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的最大生命值",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "分神",
+        "prefabId": "skchr_utage_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_utage_2": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "duration": 13.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "duration": 13.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "duration": 13.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "duration": 14.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "duration": 14.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "duration": 14.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "duration": 15.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "duration": 15.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "duration": 15.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "duration": 16.0,
+          "hp_ratio": 0.5,
+          "respawn_time": 1.0
+        },
+        "description": "部署后立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，并在<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为<@ba.vup>法术</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "落地斩·破门",
+        "prefabId": "skchr_utage_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31013": 4,
+        "3302": 6
+      },
+      {
+        "30083": 3,
+        "31023": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "濯尘芙蓉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 178,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 47,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 826,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 293,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 69,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1088,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1024_hbisc2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 293,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 69,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1088,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 408,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1296,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1024_hbisc2",
+        "evolveCost": {
+          "30012": 4,
+          "30062": 3,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 408,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1296,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 511,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1508,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1024_hbisc2",
+        "evolveCost": {
+          "30013": 18,
+          "30074": 9,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+22",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 22.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 3,
+            "31053": 2,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31024": 5,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31044": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hbisc2_2"
+      }
+    ],
+    "subProfessionId": "incantationmedic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.06,
+            "weak[magic][limit]": 5.0
+          },
+          "description": "攻击敌人时对目标施加6%的<$ba.magicfragile>【法术脆弱】</>，持续5秒",
+          "name": "朝开夕落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.08,
+            "weak[magic][limit]": 5.0
+          },
+          "description": "攻击敌人时对目标施加8%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法术脆弱】</>，持续5秒",
+          "name": "朝开夕落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.12,
+            "weak[magic][limit]": 5.0
+          },
+          "description": "攻击敌人时对目标施加12%的<$ba.magicfragile>【法术脆弱】</>，持续5秒",
+          "name": "朝开夕落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.14,
+            "weak[magic][limit]": 5.0
+          },
+          "description": "攻击敌人时对目标施加14%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法术脆弱】</>，持续5秒",
+          "name": "朝开夕落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "scale": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，攻击敌人时为攻击范围内一名友方干员治疗相当于<@ba.kw>{scale:0%}</>伤害的生命值",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 40
+      },
+      "Idle": 80,
+      "Skill_1_Begin": 5,
+      "Skill_1_End": 10,
+      "Skill_1_Loop": 30,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "char_1024_hbisc2": {
+        "damage_type": 1
+      },
+      "skchr_hbisc2_2": {
+        "sec": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_hbisc2": {
+      "battle": null,
+      "charId": "char_1024_hbisc2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_hbisc2",
+      "uniEquipName": "濯尘芙蓉证章"
+    },
+    "uniequip_002_hbisc2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "scale": 0.6
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，攻击敌人时为攻击范围内一名友方干员治疗相当于<@ba.kw>{scale:0%}</>伤害的生命值",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "scale": 0.6
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，攻击敌人时为攻击范围内一名友方干员治疗相当于<@ba.kw>{scale:0%}</>伤害的生命值",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.17,
+                    "weak[magic][limit]": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "朝开夕落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击敌人时对目标施加17%的<$ba.magicfragile>【法术脆弱】</>，持续5秒"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.19,
+                    "weak[magic][limit]": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "朝开夕落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击敌人时对目标施加19%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法术脆弱】</>，持续5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "scale": 0.6
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，攻击敌人时为攻击范围内一名友方干员治疗相当于<@ba.kw>{scale:0%}</>伤害的生命值",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.2,
+                    "weak[magic][limit]": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "朝开夕落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击敌人时对目标施加20%的<$ba.magicfragile>【法术脆弱】</>，持续5秒"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.22,
+                    "weak[magic][limit]": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "朝开夕落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击敌人时对目标施加22%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法术脆弱】</>，持续5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1024_hbisc2",
+      "itemCost": {
+        "1": {
+          "30024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30104": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "inc-x",
+      "uniEquipId": "uniequip_002_hbisc2",
+      "uniEquipName": "结晶胸花"
+    }
+  },
+  "skill": {
+    "skchr_hbisc2_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.25
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.25
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.25
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.3
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.3
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.3
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.35
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.4
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.4
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "hit_duration": 8.0,
+          "max_target": 2.0,
+          "move_speed": -0.45
+        },
+        "description": "使范围内两名敌人每秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并移动速度<@ba.vup>{move_speed:0%}</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "抚业之触",
+        "prefabId": "skchr_hbisc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_atk_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

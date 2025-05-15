@@ -1,0 +1,855 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "31063": 3,
+        "3302": 6
+      },
+      {
+        "30073": 2,
+        "31073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡三个敌人，可以造成元素损伤",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "凭证交易所",
+    "name": "菲莱",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 218,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1289,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 361,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 321,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1742,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4148_philae",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 361,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 321,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1742,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 482,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 435,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2323,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4148_philae",
+        "evolveCost": {
+          "30022": 5,
+          "30062": 2,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 482,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 435,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2323,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 603,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 544,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3227,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4148_philae",
+        "evolveCost": {
+          "30053": 16,
+          "30104": 6,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31024": 3,
+            "31083": 3,
+            "3303": 5
+          },
+          {
+            "31014": 3,
+            "31034": 5,
+            "3303": 6
+          },
+          {
+            "30084": 1,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_philae_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "30083": 2,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30084": 6,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31084": 1,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_philae_2"
+      }
+    ],
+    "subProfessionId": "primprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.05,
+            "sp": 1.0
+          },
+          "description": "受到的元素损伤-5%，受到凋亡损伤时回复1点技力",
+          "name": "神河谕使",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.07,
+            "sp": 1.0
+          },
+          "description": "受到的元素损伤-7%<@ba.talpu>（+2%）</>，受到凋亡损伤时回复1点技力",
+          "name": "神河谕使",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.1,
+            "sp": 2.0
+          },
+          "description": "受到的元素损伤-10%，受到凋亡损伤时回复2点技力",
+          "name": "神河谕使",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.12,
+            "sp": 2.0
+          },
+          "description": "受到的元素损伤-12%<@ba.talpu>（+2%）</>，受到凋亡损伤时回复2点技力",
+          "name": "神河谕使",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 23,
+        "duration": 48
+      },
+      "Idle": 60,
+      "Skill_1": {
+        "OnAttack": 13,
+        "OnPlayAudio": 30,
+        "duration": 50
+      },
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 27,
+      "Skill_2_Loop": 60,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_philae_1": [
+      {
+        "blackboard": {
+          "max_hp": 0.3,
+          "shield_value": 600.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.35,
+          "shield_value": 700.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.4,
+          "shield_value": 800.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.45,
+          "shield_value": 900.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.5,
+          "shield_value": 1000.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.55,
+          "shield_value": 1100.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.6,
+          "shield_value": 1200.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.7,
+          "shield_value": 1400.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.8,
+          "shield_value": 1600.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "max_hp": 0.9,
+          "shield_value": 1800.0
+        },
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>，立刻清除自身的<$ba.dt.element>元素损伤</>并获得<@ba.vup>{shield_value}</>点<$ba.epbarrier>损伤屏障</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "灵河护佑",
+        "prefabId": "skchr_philae_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_philae_2": [
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.6,
+          "atk_scale": 0.8,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.3
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.6,
+          "atk_scale": 0.9,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.33
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.6,
+          "atk_scale": 1.0,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.36
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.7,
+          "atk_scale": 1.1,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.4
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.7,
+          "atk_scale": 1.2,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.43
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.7,
+          "atk_scale": 1.3,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.46
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.8,
+          "atk_scale": 1.4,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.5
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.85,
+          "atk_scale": 1.6,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.5
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 0.9,
+          "atk_scale": 1.8,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.5
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 19,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_cd": 2.0,
+          "atk": 1.0,
+          "atk_scale": 2.0,
+          "ep_damage_ratio": 0.25,
+          "max_hp": 0.5
+        },
+        "description": "停止攻击，生命上限<@ba.vup>+{max_hp:0%}</>，受到攻击时对周围的地面敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>（每<@ba.vup>{aoe_cd}</>秒最多触发一次）；若技能期间受到元素损伤则攻击力<@ba.vup>+{atk:0%}</>至技能结束",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "冥河诅咒",
+        "prefabId": "skchr_philae_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

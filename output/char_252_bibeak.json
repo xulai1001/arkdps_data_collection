@@ -1,0 +1,1190 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30083": 4,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "30073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "普通攻击连续造成<@ba.kw>两次</>伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "柏喙",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 245,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 146,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1089,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 209,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1492,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_252_bibeak",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 209,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1492,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 463,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 272,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1938,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_252_bibeak",
+        "evolveCost": {
+          "30012": 3,
+          "30042": 4,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 463,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 22,
+            "def": 272,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1938,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 602,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 22,
+            "def": 332,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2550,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_252_bibeak",
+        "evolveCost": {
+          "30084": 8,
+          "30103": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+22",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 22.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31014": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bibeak_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31023": 1,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30054": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bibeak_2"
+      }
+    ],
+    "subProfessionId": "sword",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 4.0,
+            "max_stack_cnt": 5.0
+          },
+          "description": "每击杀一名敌人后获得+4攻击速度（最多叠加5次）",
+          "name": "摄魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 4.0,
+            "max_stack_cnt": 6.0
+          },
+          "description": "每击杀一名敌人后获得+4攻击速度（最多叠加6次<@ba.talpu>（+1）</>）",
+          "name": "摄魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 6.0,
+            "max_stack_cnt": 5.0
+          },
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加5次）",
+          "name": "摄魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 6.0,
+            "max_stack_cnt": 6.0
+          },
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加6次<@ba.talpu>（+1）</>）",
+          "name": "摄魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 21
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 10,
+        "duration": 23
+      },
+      "Start": {
+        "OnStart": 12,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "stack"
+      ]
+    },
+    "spec": {
+      "char_252_bibeak": {
+        "frame_corr": 1,
+        "times": 2
+      },
+      "skchr_bibeak_1": {
+        "damage_type": "0",
+        "times": 2
+      },
+      "skchr_bibeak_2": {
+        "attack_begin": 9,
+        "cast_time": 23,
+        "reset_attack": "ogcd"
+      },
+      "tachr_252_bibeak_1": {
+        "stack": true
+      },
+      "uniequip_002_bibeak": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_bibeak": {
+      "battle": null,
+      "charId": "char_252_bibeak",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_bibeak",
+      "uniEquipName": "柏喙证章"
+    },
+    "uniequip_002_bibeak": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "attack_speed": 4.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bibeak_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bibeak_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 6.0,
+                    "max_stack_cnt": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "摄魂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每击杀一名敌人后获得+6攻击速度且攻击力+1%（最多叠加6次）"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 6.0,
+                    "max_stack_cnt": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "摄魂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每击杀一名敌人后获得+6攻击速度且攻击力+1%（最多叠加7次<@ba.talpu>（+1）</>）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.01,
+                    "max_stack_cnt": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.01,
+                    "max_stack_cnt": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bibeak_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bibeak_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 6.0,
+                    "max_stack_cnt": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "摄魂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每击杀一名敌人后获得+6攻击速度且攻击力+2%（最多叠加6次）"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 6.0,
+                    "max_stack_cnt": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "摄魂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每击杀一名敌人后获得+6攻击速度且攻击力+2%（最多叠加7次<@ba.talpu>（+1）</>）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.02,
+                    "max_stack_cnt": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.02,
+                    "max_stack_cnt": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bibeak_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_252_bibeak",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30084": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "swo-x",
+      "uniEquipId": "uniequip_002_bibeak",
+      "uniEquipName": "做工优良的衬衣"
+    }
+  },
+  "skill": {
+    "skchr_bibeak_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "ranged@atk_scale": 1.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "ranged@atk_scale": 1.25
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "ranged@atk_scale": 1.3
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "ranged@atk_scale": 1.35
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "ranged@atk_scale": 1.4
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "ranged@atk_scale": 1.45
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "ranged@atk_scale": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "ranged@atk_scale": 1.6
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "ranged@atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "ranged@atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，且额外对前方另一名敌人造成攻击力<@ba.vup>{ranged@atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "飞针剑羽",
+        "prefabId": "skchr_bibeak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_bibeak_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "max_target": 5.0,
+          "stun": 0.8
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "max_target": 5.0,
+          "stun": 0.8
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "max_target": 5.0,
+          "stun": 0.8
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "max_target": 5.0,
+          "stun": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "max_target": 5.0,
+          "stun": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "max_target": 5.0,
+          "stun": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "max_target": 6.0,
+          "stun": 1.2
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "max_target": 6.0,
+          "stun": 1.4
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 9,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "max_target": 6.0,
+          "stun": 1.6
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "max_target": 6.0,
+          "stun": 1.8
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.rem>法术</>伤害，并令其<$ba.stun>晕眩</><@ba.vup>{stun:0.0}</>秒\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "异刃斩",
+        "prefabId": "skchr_bibeak_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ]
+  }
+}

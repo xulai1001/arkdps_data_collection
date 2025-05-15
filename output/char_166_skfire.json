@@ -1,0 +1,1061 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30083": 2,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "天火",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 364,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 727,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 513,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1010,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_166_skfire",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 513,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1010,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 658,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1263,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_166_skfire",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 658,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1263,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 784,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 122,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1620,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_166_skfire",
+        "evolveCost": {
+          "30034": 7,
+          "30093": 13,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-6"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30034": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30024": 3,
+            "30104": 5,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_skfire_2"
+      }
+    ],
+    "subProfessionId": "splashcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.07
+          },
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时提升7%",
+          "name": "法术狙击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.1
+          },
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时提升10%<@ba.talpu>（+3%）</>",
+          "name": "法术狙击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.15
+          },
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升15%",
+          "name": "法术狙击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.18
+          },
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升18%<@ba.talpu>（+3%）</>",
+          "name": "法术狙击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 80
+      },
+      "Idle": 30,
+      "Skill": {
+        "OnAttack": 45,
+        "duration": 60
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "char_166_skfire": {
+        "frame_corr": 1
+      },
+      "skchr_skfire_2": {
+        "attack_begin": 45
+      },
+      "tachr_166_skfire_1": {
+        "cond": true
+      },
+      "uniequip_002_skfire": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_skfire": {
+      "battle": null,
+      "charId": "char_166_skfire",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_skfire",
+      "uniEquipName": "天火证章"
+    },
+    "uniequip_002_skfire": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "attack_speed": 4.0,
+            "cost": -8.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "部署费用<@ba.kw>减少</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 58.0,
+            "attack_speed": 5.0,
+            "cost": -8.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "部署费用<@ba.kw>减少</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法术狙击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升20%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法术狙击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升23%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "attack_speed": 5.0,
+            "cost": -8.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "部署费用<@ba.kw>减少</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法术狙击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升23%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.26
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法术狙击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升26%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_166_skfire",
+      "itemCost": {
+        "1": {
+          "30094": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "spc-y",
+      "uniEquipId": "uniequip_002_skfire",
+      "uniEquipName": "阻燃处理方案"
+    }
+  },
+  "skill": {
+    "skchr_skfire_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.7,
+          "attack@stun": 0.1,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.75,
+          "attack@stun": 0.1,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.8,
+          "attack@stun": 0.1,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.9,
+          "attack@stun": 0.15,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.95,
+          "attack@stun": 0.15,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.0,
+          "attack@stun": 0.15,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.1,
+          "attack@stun": 0.2,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.2,
+          "attack@stun": 0.4,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.3,
+          "attack@stun": 0.6,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.4,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，并使所有命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "天坠之火",
+        "prefabId": "skchr_skfire_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_atk_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

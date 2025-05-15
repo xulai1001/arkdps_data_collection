@@ -1,0 +1,1021 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30041": 3,
+        "3301": 2
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30062": 2,
+        "3302": 3
+      },
+      {
+        "30053": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3303": 4
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "地灵",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 202,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 548,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 298,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 751,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_183_skgoat",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 298,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 751,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 398,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 964,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_183_skgoat",
+        "evolveCost": {
+          "30012": 1,
+          "30042": 1,
+          "3271": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 398,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 964,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 480,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 101,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1205,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_183_skgoat",
+        "evolveCost": {
+          "30023": 20,
+          "30093": 7,
+          "3272": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+21",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 21.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "30074": 1,
+            "3303": 2
+          },
+          {
+            "30074": 3,
+            "30094": 2,
+            "3303": 4
+          },
+          {
+            "30104": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30024": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_skgoat_2"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "sluggish": 0.1
+          },
+          "description": "略微延长特性<$ba.sluggish>停顿</>的持续时间",
+          "name": "地质勘探",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "sluggish": 0.13
+          },
+          "description": "稍微延长特性<$ba.sluggish>停顿</>的持续时间",
+          "name": "地质勘探",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 57
+      },
+      "Idle": 120,
+      "Skill_Begin": 10,
+      "Skill_End": 10,
+      "Skill_Loop": {
+        "OnAttack": 0,
+        "duration": 6
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_skgoat": {
+      "battle": null,
+      "charId": "char_183_skgoat",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_skgoat",
+      "uniEquipName": "地灵证章"
+    },
+    "uniequip_002_skgoat": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 20.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 30.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sluggish": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "地质勘探",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "延长特性<$ba.sluggish>停顿</>的持续时间"
+                },
+                {
+                  "blackboard": {
+                    "sluggish": 0.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "地质勘探",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "更加延长特性<$ba.sluggish>停顿</>的持续时间"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 38.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sluggish": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "地质勘探",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "进一步延长特性<$ba.sluggish>停顿</>的持续时间"
+                },
+                {
+                  "blackboard": {
+                    "sluggish": 0.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "地质勘探",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "更进一步延长特性<$ba.sluggish>停顿</>的持续时间"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_183_skgoat",
+      "itemCost": {
+        "1": {
+          "30023": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30083": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "dec-y",
+      "uniEquipId": "uniequip_002_skgoat",
+      "uniEquipName": "待确认的申请表"
+    }
+  },
+  "skill": {
+    "skchr_skgoat_2": [
+      {
+        "blackboard": {
+          "interval": 1.8,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.8,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.8,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.7,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.7,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.7,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.6,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.55,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.5,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "interval": 1.4,
+          "sluggish": 0.8
+        },
+        "description": "<@ba.vdown>停止攻击</>；攻击范围内的敌方单位每<@ba.vup>{interval:0.0}</>秒受到一次<$ba.sluggish>停顿</>效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "流沙化",
+        "prefabId": "skchr_skgoat_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_atk_up[2]": [
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·β型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30051": 3,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 3
+      },
+      {
+        "30012": 4,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3302": 3
+      },
+      {
+        "30073": 3,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 22,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 22,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 222,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "断罪者",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 402,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1449,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 601,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1932,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_159_peacok",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 601,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1932,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 771,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 139,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2577,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_159_peacok",
+        "evolveCost": {
+          "30022": 1,
+          "30032": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 771,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 139,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2577,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 929,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 166,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3483,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_159_peacok",
+        "evolveCost": {
+          "30063": 11,
+          "31013": 9,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": null,
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30104": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_peacok_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30104": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_peacok_2"
+      }
+    ],
+    "subProfessionId": "fearless",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": -2.0,
+            "respawn_time": -8.0,
+            "stun": 10.0
+          },
+          "description": "部署费用-2，再部署时间-8秒，但部署后<$ba.stun>晕眩</>10秒",
+          "name": "稳妥降落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": -4.0,
+            "respawn_time": -15.0,
+            "stun": 10.0
+          },
+          "description": "部署费用-4，再部署时间-15秒，但部署后<$ba.stun>晕眩</>10秒",
+          "name": "稳妥降落",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 45
+      },
+      "Idle": 30,
+      "Skill": {
+        "OnAttack": 18,
+        "duration": 45
+      },
+      "Start": {
+        "OnStart": 0,
+        "duration": 30
+      },
+      "Stun": 30
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit",
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_peacok_1": {
+        "sim": true
+      },
+      "skchr_peacok_2": {
+        "cast_time": 45,
+        "damage_type": "0",
+        "frame_corr": -15
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_peacok": {
+      "battle": null,
+      "charId": "char_159_peacok",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_peacok",
+      "uniEquipName": "断罪者证章"
+    },
+    "uniequip_002_peacok": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 3.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "peacok_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "attack_speed": 4.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "peacok_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -6.0,
+                    "respawn_time": -25.0,
+                    "stun": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "稳妥降落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署费用-6，再部署时间-25秒，但部署后<$ba.stun>晕眩</>10秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 80.0,
+            "attack_speed": 4.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "peacok_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -8.0,
+                    "respawn_time": -30.0,
+                    "stun": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "稳妥降落",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署费用-8，再部署时间-30秒，但部署后<$ba.stun>晕眩</>10秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_159_peacok",
+      "itemCost": {
+        "1": {
+          "30103": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31023": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "dre-x",
+      "uniEquipId": "uniequip_002_peacok",
+      "uniEquipName": "断罪之拳"
+    }
+  },
+  "skill": {
+    "skchr_peacok_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "atk_scale_fake": 5.6,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "atk_scale_fake": 5.8,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "atk_scale_fake": 6.0,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "atk_scale_fake": 6.2,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "atk_scale_fake": 6.4,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "atk_scale_fake": 6.6,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "atk_scale_fake": 6.8,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "atk_scale_fake": 7.2,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "atk_scale_fake": 7.6,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "atk_scale_fake": 8.0,
+          "peacok_s_1[crit].atk_scale": 4.0,
+          "peacok_s_1[crit].prob": 0.05
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>（有<@ba.vup>{peacok_s_1[crit].prob:0%}</>的概率变为<@ba.vup>{atk_scale_fake:0%}</>）\\n<@ba.rem>可充能3次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "断罪",
+        "prefabId": "skchr_peacok_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_peacok_2": [
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 1.8,
+          "success.silence": 2.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 1.9,
+          "success.silence": 2.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.0,
+          "success.silence": 2.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.2,
+          "success.silence": 2.5
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.3,
+          "success.silence": 2.5
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.4,
+          "success.silence": 2.5
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.6,
+          "success.silence": 3.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 2.9,
+          "success.silence": 3.5
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 3.2,
+          "success.silence": 4.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "failure.stun": 5.0,
+          "prob": 0.5,
+          "success.atk_scale": 3.5,
+          "success.silence": 5.0
+        },
+        "description": "使周围所有敌人立即受到攻击力<@ba.vup>{success.atk_scale:0%}</>的法术伤害并失去特殊能力<@ba.vup>{success.silence}</>秒\\n<@ba.rem>有{prob:0%}的几率失败，失败时范围内的所有友方单位全部<$ba.stun>晕眩</>{failure.stun}秒</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "创世纪",
+        "prefabId": "skchr_peacok_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

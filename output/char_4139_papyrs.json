@@ -1,0 +1,878 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31083": 3,
+        "3302": 6
+      },
+      {
+        "30103": 2,
+        "31033": 3,
+        "3303": 6
+      }
+    ],
+    "description": "恢复友方单位生命，且会在<@ba.kw>3</>个友方单位间跳跃，每次跳跃治疗量降低25%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 150,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "莎草",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 154,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 940,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 253,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1238,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4139_papyrs",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 253,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1238,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 352,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1474,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4139_papyrs",
+        "evolveCost": {
+          "30022": 3,
+          "30062": 3,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 352,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1474,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 440,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1715,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4139_papyrs",
+        "evolveCost": {
+          "30084": 7,
+          "30093": 13,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31043": 2,
+            "31084": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31054": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_papyrs_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "31054": 3,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31014": 1,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_papyrs_2"
+      }
+    ],
+    "subProfessionId": "chainhealer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@scale": 0.05,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身5%攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@scale": 0.07,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身7%<@ba.talpu>（+2%）</>攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@scale": 0.1,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身10%攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@scale": 0.12,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身12%<@ba.talpu>（+2%）</>攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@scale": 0.2,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身20%攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@scale": 0.22,
+            "attack@shield_duration": 8.0
+          },
+          "description": "治疗会为目标干员附加相当于自身22%<@ba.talpu>（+2%）</>攻击力的<$ba.barrier>屏障</>，持续8秒",
+          "name": "博览古卷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@chain.atk_scale": 0.75,
+          "attack@chain.max_target": 3.0
+        },
+        "overrideDescripton": "恢复友方单位生命，且会在<@ba.kw>3</>个友方单位间跳跃，每次跳跃治疗量降低25%",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 47
+      },
+      "Idle": 160,
+      "Skill_1": {
+        "OnAttack": 15,
+        "duration": 47
+      },
+      "Skill_2_Begin": 26,
+      "Skill_2_End": 14,
+      "Skill_2_Loop": 160,
+      "Start": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_papyrs_1": [
+      {
+        "blackboard": {
+          "heal_scale": 1.4,
+          "shield_scale_skill": 1.5
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.5,
+          "shield_scale_skill": 1.5
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.6,
+          "shield_scale_skill": 1.5
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.6,
+          "shield_scale_skill": 1.5
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.6,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.7,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.75,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.8,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.9,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.0,
+          "shield_scale_skill": 2.0
+        },
+        "description": "下次治疗时的治疗量提升至攻击力的<@ba.vup>{heal_scale:0%}</>，天赋附加屏障效果提升至<@ba.vup>{shield_scale_skill:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "巧思乍现",
+        "prefabId": "skchr_papyrs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_papyrs_2": [
+      {
+        "blackboard": {
+          "atk": 0.05,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@chain.extra_value": 1.0,
+          "base_attack_time": -1.1
+        },
+        "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每次治疗跳跃次数<@ba.vup>+{attack@chain.extra_value}</> ",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "临考发挥",
+        "prefabId": "skchr_papyrs_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

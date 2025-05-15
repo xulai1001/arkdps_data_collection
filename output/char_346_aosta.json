@@ -1,0 +1,1099 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30083": 3,
+        "31023": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 65,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "奥斯塔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 314,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 103,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1055,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1407,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_346_aosta",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1407,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 580,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1782,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_346_aosta",
+        "evolveCost": {
+          "30012": 4,
+          "30062": 3,
+          "3241": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "2-5"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 580,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1782,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 691,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 192,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2376,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_346_aosta",
+        "evolveCost": {
+          "30044": 7,
+          "31023": 10,
+          "3243": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "2-5"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_quickattack[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31014": 6,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aosta_2"
+      }
+    ],
+    "subProfessionId": "reaperrange",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 0.12,
+            "duration": 3.0
+          },
+          "description": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力12%的法术伤害（不受特性影响），持续3秒",
+          "name": "尖钉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.14,
+            "duration": 3.0
+          },
+          "description": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力14%<@ba.talpu>（+2%）</>的法术伤害（不受特性影响），持续3秒",
+          "name": "尖钉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.18,
+            "duration": 3.0
+          },
+          "description": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力18%的法术伤害（不受特性影响），持续3秒",
+          "name": "尖钉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.2,
+            "duration": 3.0
+          },
+          "description": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力20%<@ba.talpu>（+2%）</>的法术伤害（不受特性影响），持续3秒",
+          "name": "尖钉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": "-1",
+        "rangeId": "1-3",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "OnPlayAudio": 42,
+        "duration": 70
+      },
+      "Idle": 100,
+      "Skill": {
+        "OnAttack": 30,
+        "OnPlayAudio": 60,
+        "duration": 90
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "tachr_346_aosta_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_aosta": {
+      "battle": null,
+      "charId": "char_346_aosta",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_aosta",
+      "uniEquipName": "奥斯塔证章"
+    },
+    "uniequip_002_aosta": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 44.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.23,
+                    "duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "尖钉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力23%的法术伤害（不受特性影响），持续4秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.25,
+                    "duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "尖钉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力25%<@ba.talpu>（+2%）</>的法术伤害（不受特性影响），持续4秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.25,
+                    "duration": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "尖钉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力25%的法术伤害（不受特性影响），持续5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.27,
+                    "duration": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "尖钉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使未被阻挡的敌人流血，每秒受到相当于奥斯塔攻击力27%<@ba.talpu>（+2%）</>的法术伤害（不受特性影响），持续5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_346_aosta",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "rpr-x",
+      "uniEquipId": "uniequip_002_aosta",
+      "uniEquipName": "逃亡路上的应急小包"
+    }
+  },
+  "skill": {
+    "skchr_aosta_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@frozen_duration": 0.8,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@frozen_duration": 0.8,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@frozen_duration": 0.8,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@frozen_duration": 1.0,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@frozen_duration": 1.0,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@frozen_duration": 1.0,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@frozen_duration": 1.2,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 19,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@frozen_duration": 1.2,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@frozen_duration": 1.2,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@frozen_duration": 1.5,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>增大</>，攻击力<@ba.vup>+{atk:0%}</>且每次攻击令目标<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，天赋的伤害倍率翻倍",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "影钉",
+        "prefabId": "skchr_aosta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_quickattack[3]": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 45.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

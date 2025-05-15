@@ -1,0 +1,1416 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30073": 7,
+        "3302": 8
+      },
+      {
+        "30103": 1,
+        "31083": 5,
+        "3303": 8
+      }
+    ],
+    "description": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>50</>生命，最大生效数等于阻挡数",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "隐德来希",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 295,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 220,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1115,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1528,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4010_etlchi",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1528,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 388,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4010_etlchi",
+        "evolveCost": {
+          "30022": 8,
+          "30032": 5,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 388,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 700,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 452,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2580,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4010_etlchi",
+        "evolveCost": {
+          "30054": 2,
+          "30145": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31053": 4,
+            "31084": 4,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31014": 8,
+            "3303": 12
+          },
+          {
+            "30094": 1,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_etlchi_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 5,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31054": 4,
+            "3303": 12
+          },
+          {
+            "30104": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_etlchi_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "31074": 4,
+            "3303": 8
+          },
+          {
+            "31014": 4,
+            "31024": 9,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_etlchi_3"
+      }
+    ],
+    "subProfessionId": "reaper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@steal_hp": 50.0,
+            "attack@steal_hp_max": 900.0,
+            "dot_duration": 5.0,
+            "interval": 1.0,
+            "magic_value": 100.0
+          },
+          "description": "每次攻击敌人时<$ba.steal>偷取</>目标50点生命上限（最高900）并使目标每秒受到100点法术伤害持续5秒",
+          "name": "萃血",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_hp": 50.0,
+            "attack@steal_hp_max": 900.0,
+            "dot_duration": 5.0,
+            "interval": 1.0,
+            "magic_value": 150.0
+          },
+          "description": "每次攻击敌人时<$ba.steal>偷取</>目标50点生命上限（最高900）并使目标每秒受到150<@ba.talpu>（+50）</>点法术伤害持续5秒",
+          "name": "萃血",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_hp": 75.0,
+            "attack@steal_hp_max": 1350.0,
+            "dot_duration": 5.0,
+            "interval": 1.0,
+            "magic_value": 200.0
+          },
+          "description": "每次攻击敌人时<$ba.steal>偷取</>目标75点生命上限（最高1350）并使目标每秒受到200点法术伤害持续5秒",
+          "name": "萃血",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_hp": 75.0,
+            "attack@steal_hp_max": 1350.0,
+            "dot_duration": 5.0,
+            "interval": 1.0,
+            "magic_value": 250.0
+          },
+          "description": "每次攻击敌人时<$ba.steal>偷取</>目标75点生命上限（最高1350）并使目标每秒受到250<@ba.talpu>（+50）</>点法术伤害持续5秒",
+          "name": "萃血",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.1,
+            "etlchi_t_2[heal].hp_ratio": 0.5,
+            "hp_ratio": 0.25
+          },
+          "description": "生命值低于25%时，仅一次立刻回复50%最大生命值，且自身之后受到的物理伤害降低10%",
+          "name": "重盈",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.15,
+            "etlchi_t_2[heal].hp_ratio": 0.55,
+            "hp_ratio": 0.25
+          },
+          "description": "生命值低于25%时，仅一次立刻回复55%<@ba.talpu>（+5%）</>最大生命值，且自身之后受到的物理伤害降低15%<@ba.talpu>（+5%）</>",
+          "name": "重盈",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "skill_index": 2.0,
+            "take_extra_enemy_key": "enemy_5601_entlec"
+          },
+          "description": null,
+          "name": null,
+          "prefabKey": "3",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 40
+      },
+      "Idle": 120,
+      "Skill_1": {
+        "OnAttack": 12,
+        "duration": 40
+      },
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 10,
+      "Skill_2_Loop": 60,
+      "Skill_3_Begin": 10,
+      "Skill_3_End": 10,
+      "Skill_3_Idle": 120,
+      "Skill_3_Loop_A": {
+        "OnAttack": 14,
+        "duration": 40
+      },
+      "Skill_3_Loop_B": {
+        "OnAttack": 14,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_etlchi": {
+      "battle": null,
+      "charId": "char_4010_etlchi",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_etlchi",
+      "uniEquipName": "隐德来希证章"
+    },
+    "uniequip_002_etlchi": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 20.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 38.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.15,
+                    "etlchi_t_2[heal].hp_ratio": 0.7,
+                    "hp_ratio": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "重盈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于25%时，仅一次立刻回复70%最大生命值，且自身之后受到的物理伤害降低15%"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.2,
+                    "etlchi_t_2[heal].hp_ratio": 0.75,
+                    "hp_ratio": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "重盈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于25%时，仅一次立刻回复75%<@ba.talpu>（+5%）最大生命值，且自身之后受到的物理伤害降低20%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "def": 50.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.2,
+                    "etlchi_t_2[heal].hp_ratio": 0.85,
+                    "hp_ratio": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "重盈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于25%时，仅一次立刻回复85%最大生命值，且自身之后受到的物理伤害降低20%"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "etlchi_t_2[heal].hp_ratio": 0.9,
+                    "hp_ratio": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "重盈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值低于25%时，仅一次立刻回复90%<@ba.talpu>（+5%）最大生命值，且自身之后受到的物理伤害降低25%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4010_etlchi",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30155": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "rea-x",
+      "uniEquipId": "uniequip_002_etlchi",
+      "uniEquipName": "易枯萎的航船"
+    }
+  },
+  "skill": {
+    "skchr_etlchi_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "玫影觅迹",
+        "prefabId": "skchr_etlchi_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_etlchi_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95,
+          "interval": 0.5
+        },
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "绯红壁合",
+        "prefabId": "skchr_etlchi_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_etlchi_3": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@def_scale": 1.0,
+          "attack@magic_resistance_scale": 1.0,
+          "attack@max_hp_scale": 0.6,
+          "attack@max_target": 3.0,
+          "attack_speed": 100.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵与欲的惜别",
+        "prefabId": "skchr_etlchi_3",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

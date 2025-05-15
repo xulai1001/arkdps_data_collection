@@ -1,0 +1,2063 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 5,
+        "30051": 4,
+        "3301": 5
+      },
+      {
+        "30032": 5,
+        "3302": 8
+      },
+      {
+        "30022": 3,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30073": 3,
+        "30103": 4,
+        "3303": 8
+      }
+    ],
+    "description": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "伺夜",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 195,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 54,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 785,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 287,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 91,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1122,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_427_vigil",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 287,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 91,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1122,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 378,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1439,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_427_vigil",
+        "evolveCost": {
+          "30012": 11,
+          "30042": 5,
+          "3211": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 378,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1439,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 462,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 154,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1755,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_427_vigil",
+        "evolveCost": {
+          "30064": 4,
+          "30145": 3,
+          "3213": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30104": 4,
+            "31033": 5,
+            "3303": 8
+          },
+          {
+            "30074": 4,
+            "31064": 8,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vigil_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31053": 4,
+            "3303": 8
+          },
+          {
+            "30064": 7,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vigil_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 7,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30084": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vigil_3"
+      }
+    ],
+    "subProfessionId": "tactician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每30秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）",
+          "name": "狼群领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10028_vigil_wolf",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每27秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）",
+          "name": "狼群领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10028_vigil_wolf",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）",
+          "name": "狼群领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10028_vigil_wolf",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 175.0
+          },
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力",
+          "name": "狼群天性",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 200.0
+          },
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其200<@ba.talpu>（+25）</>防御力",
+          "name": "狼群天性",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "duration": 30
+      },
+      "Attack_Begin": 1,
+      "Attack_End": 5,
+      "Idle": 80,
+      "Skill1": 30,
+      "Skill2": 30,
+      "Skill3_ABC_Idle_Into": 30,
+      "Skill3_Attack_A": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill3_Attack_B": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill3_Attack_C": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill3_Begin": 1,
+      "Skill3_End": 1,
+      "Skill3_Idle": 80,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": {
+        "text": "特性/阻挡",
+        "tooltip": "本体攻击被狼群阻挡的目标"
+      },
+      "tags": [
+        "token",
+        "cond",
+        "stack"
+      ]
+    },
+    "spec": {
+      "char_427_vigil": {
+        "token": "token_10028_vigil_wolf"
+      },
+      "skchr_vigil_2": {
+        "damage_type": "0"
+      },
+      "skchr_vigil_3": {
+        "attack_begin": 10,
+        "damage_type": "0",
+        "reset_attack": true
+      },
+      "tachr_427_vigil_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_vigil": {
+      "battle": null,
+      "charId": "char_427_vigil",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_vigil",
+      "uniEquipName": "伺夜证章"
+    },
+    "uniequip_002_vigil": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 15.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85,
+                    "evade_duration": 0.0,
+                    "prob": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 20.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85,
+                    "evade_duration": 7.0,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在战术点召唤由初始三只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害，每次“狼影”损失时使狼群7秒内获得30%的物理闪避）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 25.0,
+                    "vigil_wolf_t_1_enhance[trigger].block_cnt": 1.0,
+                    "vigil_wolf_t_1_enhance[trigger].interval": 25.0,
+                    "vigil_wolf_t_1_enhance[trigger].max_stack_cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每25秒增加一只“狼影”（至多3只），每存在一只“狼影”，狼群阻挡数+1，每次攻击额外造成一次伤害；当存在多于1只“狼影”时，每次受到致命伤害时损失一只“狼影”但回复所有生命，并使狼群7秒内获得30%的物理闪避"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 25.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85,
+                    "evade_duration": 10.0,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在战术点召唤由初始三只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害，每次“狼影”损失时使狼群10秒内获得50%的物理闪避）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 25.0,
+                    "vigil_wolf_t_1_enhance[trigger].block_cnt": 1.0,
+                    "vigil_wolf_t_1_enhance[trigger].interval": 25.0,
+                    "vigil_wolf_t_1_enhance[trigger].max_stack_cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群领袖",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每25秒增加一只“狼影”（至多3只），每存在一只“狼影”，狼群阻挡数+1，每次攻击额外造成一次伤害；当存在多于1只“狼影”时，每次受到致命伤害时损失一只“狼影”但回复所有生命，并使狼群10秒内获得50%的物理闪避"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_427_vigil",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "tac-x",
+      "uniEquipId": "uniequip_002_vigil",
+      "uniEquipName": "叙拉古式入门礼"
+    },
+    "uniequip_003_vigil": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 175.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力，并偷取其15点防御力（最高100点）"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 200.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其200<@ba.talpu>（+25）</>防御力，并偷取其15点防御力（最高100点）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 175.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击阻挡的目标时无视其175的防御力，并偷取其15点防御力（最高100点）"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 200.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击阻挡的目标时无视其200<@ba.talpu>（+25）</>的防御力，并偷取其15点防御力（最高100点）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "vigil_def": 15.0,
+                    "vigil_def_max": 100.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "vigil_def": 15.0,
+                    "vigil_def_max": 100.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_2_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 225.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其225防御力，并偷取其20点防御力（最高100点）"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 250.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其250<@ba.talpu>（+25）</>防御力，并偷取其20点防御力（最高100点）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 225.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击阻挡的目标时无视其225的防御力，并偷取其20点防御力（最高100点）"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 250.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "狼群天性",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击阻挡的目标时无视其250<@ba.talpu>（+25）</>的防御力，并偷取其20点防御力（最高100点）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "vigil_def": 20.0,
+                    "vigil_def_max": 100.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "vigil_def": 20.0,
+                    "vigil_def_max": 100.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": "token_10028_vigil_wolf",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "vigil_equip_2_3_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_427_vigil",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "tac-y",
+      "uniEquipId": "uniequip_003_vigil",
+      "uniEquipName": "时光不再"
+    }
+  },
+  "skill": {
+    "skchr_vigil_1": [
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 7.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并增加一只“狼影”",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的呼唤",
+        "prefabId": "skchr_vigil_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_vigil_2": [
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.4,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.45,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.5,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.55,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.6,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.65,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.7,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.15
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.8,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.15
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 1.9,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.15
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 2.0,
+          "vigil_wolf_s_2.atk_scale": 2.0,
+          "vigil_wolf_s_2.cost": 1.0,
+          "vigil_wolf_s_2.hp_ratio": 0.2
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用，并使狼群下次攻击的攻击力提升至<@ba.vup>{vigil_wolf_s_2.atk_scale:0%}</>且狼群恢复<@ba.vup>{vigil_wolf_s_2.hp_ratio:0%}</>生命值；若狼群击倒敌人则额外获得<@ba.vup>{vigil_wolf_s_2.cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "领袖的馈赠",
+        "prefabId": "skchr_vigil_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_vigil_3": [
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.1,
+          "cost": 1.0,
+          "interval": 1.667,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.13,
+          "cost": 1.0,
+          "interval": 1.667,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.16,
+          "cost": 1.0,
+          "interval": 1.667,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.2,
+          "cost": 1.0,
+          "interval": 1.5,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.23,
+          "cost": 1.0,
+          "interval": 1.5,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.26,
+          "cost": 1.0,
+          "interval": 1.5,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.3,
+          "cost": 1.0,
+          "interval": 1.364,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.35,
+          "cost": 1.0,
+          "interval": 1.364,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.4,
+          "cost": 1.0,
+          "interval": 1.364,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@vigil_s_3.atk_scale": 0.5,
+          "cost": 1.0,
+          "interval": 1.25,
+          "value": 12.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用，攻击变为<@ba.vup>三连击</>；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力<@ba.vup>{attack@vigil_s_3.atk_scale:0%}</>的法术伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "领袖的尊严",
+        "prefabId": "skchr_vigil_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

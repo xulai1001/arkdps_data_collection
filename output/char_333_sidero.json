@@ -1,0 +1,1023 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "31023": 4,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "30073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 500,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "铸铁",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 266,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 166,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1297,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 386,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 238,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1707,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_333_sidero",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 386,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 238,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1707,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 502,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 306,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2162,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_333_sidero",
+        "evolveCost": {
+          "30012": 7,
+          "30062": 2,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 502,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 306,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2162,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 620,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 369,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2845,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_333_sidero",
+        "evolveCost": {
+          "30043": 13,
+          "31014": 9,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31014": 5,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": "skchr_sidero_1",
+        "overrideTokenKey": null,
+        "skillId": "skcom_heal_self[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "31013": 2,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31024": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_sidero_2"
+      }
+    ],
+    "subProfessionId": "artsfghter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 15.0,
+            "one_minus_status_resistance": -0.5,
+            "times": 7.0
+          },
+          "description": "击杀7个敌人后获得攻击速度+15和<$ba.buffres>抵抗</>",
+          "name": "佣兵之韧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 15.0,
+            "one_minus_status_resistance": -0.5,
+            "times": 5.0
+          },
+          "description": "击杀5<@ba.talpu>（-2）</>个敌人后获得攻击速度+15和<$ba.buffres>抵抗</>",
+          "name": "佣兵之韧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 40
+      },
+      "Idle": 80,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "tachr_333_sidero_1": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_sidero": {
+      "battle": null,
+      "charId": "char_333_sidero",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_sidero",
+      "uniEquipName": "铸铁证章"
+    },
+    "uniequip_002_sidero": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身阻挡的敌人受到<@ba.kw>10%</>的<$ba.magicfragile>法术脆弱</>效果",
+                  "blackboard": {
+                    "damage_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sidero_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 270.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身阻挡的敌人受到<@ba.kw>10%</>的<$ba.magicfragile>法术脆弱</>效果",
+                  "blackboard": {
+                    "damage_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sidero_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 20.0,
+                    "one_minus_status_resistance": -0.5,
+                    "times": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "佣兵之韧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "击杀6个敌人后获得攻击速度+20和<$ba.buffres>抵抗</>"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 20.0,
+                    "one_minus_status_resistance": -0.5,
+                    "times": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "佣兵之韧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "击杀4<@ba.talpu>（-2）</>个敌人后获得攻击速度+20和<$ba.buffres>抵抗</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 320.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身阻挡的敌人受到<@ba.kw>10%</>的<$ba.magicfragile>法术脆弱</>效果",
+                  "blackboard": {
+                    "damage_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sidero_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 23.0,
+                    "one_minus_status_resistance": -0.5,
+                    "times": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "佣兵之韧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "击杀5个敌人后获得攻击速度+23和<$ba.buffres>抵抗</>"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 23.0,
+                    "one_minus_status_resistance": -0.5,
+                    "times": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "佣兵之韧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "击杀3<@ba.talpu>（-2）</>个敌人后获得攻击速度+23和<$ba.buffres>抵抗</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_333_sidero",
+      "itemCost": {
+        "1": {
+          "30054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30084": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "aft-y",
+      "uniEquipId": "uniequip_002_sidero",
+      "uniEquipName": "漫游者的压舱石"
+    }
+  },
+  "skill": {
+    "skchr_sidero_2": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08
+        },
+        "description": "攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "破浪回神",
+        "prefabId": "skchr_sidero_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_heal_self[3]": [
+      {
+        "blackboard": {
+          "heal_scale": 0.3
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.33
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.36
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.4
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.43
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.47
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.5
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.55
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.6
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.7
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·γ型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

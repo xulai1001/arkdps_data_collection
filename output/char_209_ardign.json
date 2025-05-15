@@ -1,0 +1,414 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30041": 1,
+        "3301": 2
+      },
+      {
+        "30052": 1,
+        "3302": 1
+      },
+      {
+        "30062": 1,
+        "3302": 1
+      },
+      {
+        "30073": 2,
+        "3302": 1
+      },
+      {
+        "30083": 2,
+        "3303": 2
+      }
+    ],
+    "description": "能够阻挡三个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "卡缇",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 190,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 16,
+            "def": 229,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1197,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 244,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 16,
+            "def": 342,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1597,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_209_ardign",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 244,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 18,
+            "def": 342,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1597,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 305,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 18,
+            "def": 475,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2130,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_209_ardign",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+200",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 200.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_heal_self[1]"
+      }
+    ],
+    "subProfessionId": "protector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "max_hp": 0.06
+          },
+          "description": "生命上限+6%",
+          "name": "生命上限提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "max_hp": 0.12
+          },
+          "description": "生命上限+12%",
+          "name": "生命上限提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 55,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 11,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "tachr_209_ardign_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skcom_heal_self[1]": [
+      {
+        "blackboard": {
+          "heal_scale": 0.2
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.23
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.25
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.3
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.32
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.35
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.4
+        },
+        "description": "立即恢复最大生命的<@ba.vup>{heal_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "生命回复·α型",
+        "prefabId": "skcom_heal_self",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

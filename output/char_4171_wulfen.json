@@ -1,0 +1,1123 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "31053": 4,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "31023": 2,
+        "3303": 6
+      }
+    ],
+    "description": "可以使用陷阱来协助作战，但陷阱无法放置于<@ba.kw>敌人已在</>的格子中",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "钼铅",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 235,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 678,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 323,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 904,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4171_wulfen",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 323,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 904,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 426,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 132,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1145,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4171_wulfen",
+        "evolveCost": {
+          "30032": 5,
+          "30062": 2,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 426,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 132,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1145,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 520,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1450,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4171_wulfen",
+        "evolveCost": {
+          "31014": 9,
+          "31073": 10,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 3,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "31054": 6,
+            "31064": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31014": 5,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_wulfen_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31053": 3,
+            "31074": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31014": 5,
+            "3303": 6
+          },
+          {
+            "30014": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_wulfen_2"
+      }
+    ],
+    "subProfessionId": "traper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以使用1个矿石“杀手”（最多拥有2个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "可以使用2<@ba.talpu>（+1）</>个矿石“杀手”（最多拥有2个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "可以使用2个矿石“杀手”（最多拥有3个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "可以使用3<@ba.talpu>（+1）</>个矿石“杀手”（最多拥有3个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 4.0
+          },
+          "description": "可以使用4<@ba.talpu>（+1）</>个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆",
+          "name": "探险家的口袋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10044_wulfen_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 9,
+        "duration": 25
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 10,
+        "duration": 25
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_wulfen": {
+      "battle": null,
+      "charId": "char_4171_wulfen",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_wulfen",
+      "uniEquipName": "钼铅证章"
+    },
+    "uniequip_002_wulfen": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 25.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "wulfen_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 25.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "wulfen_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探险家的从容",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "wulfen_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探险家的从容",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "wulfen_equip_1_2_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 25.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "wulfen_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探险家的从容",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "wulfen_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探险家的从容",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "wulfen_equip_1_3_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4171_wulfen",
+      "itemCost": {
+        "1": {
+          "30094": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30104": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "trp-y",
+      "uniEquipId": "uniequip_002_wulfen",
+      "uniEquipName": "矿石展览柜"
+    }
+  },
+  "skill": {
+    "skchr_wulfen_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "stun": 2.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "stun": 2.5
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "stun": 2.5
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 1.0,
+          "stun": 2.5
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "stun": 3.0
+        },
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“驱兽专用”",
+        "prefabId": "skchr_wulfen_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_wulfen_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 1.0,
+          "def": -0.15,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 1.0,
+          "def": -0.15,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 1.0,
+          "def": -0.15,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "def": -0.15,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "cnt": 1.0,
+          "def": -0.2,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "def": -0.2,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“顽石专用”",
+        "prefabId": "skchr_wulfen_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

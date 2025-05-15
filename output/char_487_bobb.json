@@ -1,0 +1,1080 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30093": 3,
+        "3302": 6
+      },
+      {
+        "30073": 3,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素损伤</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "波卜",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 201,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 30,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 511,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 288,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 44,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 752,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_487_bobb",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 288,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 44,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 752,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 370,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 59,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1017,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_487_bobb",
+        "evolveCost": {
+          "30052": 4,
+          "30062": 2,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 370,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 59,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1017,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 446,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1305,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_487_bobb",
+        "evolveCost": {
+          "31043": 13,
+          "31054": 7,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+21",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 21.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31033": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31064": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bobb_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 3,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "31064": 7,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bobb_2"
+      }
+    ],
+    "subProfessionId": "ritualist",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@dmg_duration": 5.0,
+            "attack@ep_damage_ratio_talent": 0.1
+          },
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力10%的<$ba.dt.burning2>灼燃损伤</>",
+          "name": "焦点诱导",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dmg_duration": 5.0,
+            "attack@ep_damage_ratio_talent": 0.12
+          },
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力12%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>",
+          "name": "焦点诱导",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dmg_duration": 5.0,
+            "attack@ep_damage_ratio_talent": 0.16
+          },
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力16%的<$ba.dt.burning2>灼燃损伤</>",
+          "name": "焦点诱导",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dmg_duration": 5.0,
+            "attack@ep_damage_ratio_talent": 0.18
+          },
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>",
+          "name": "焦点诱导",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 48
+      },
+      "Idle": 60,
+      "Skill_1": {
+        "OnAttack": 11,
+        "duration": 48
+      },
+      "Skill_2_Begin": {
+        "OnAttack": 15,
+        "duration": 36
+      },
+      "Skill_2_End": 20,
+      "Skill_2_Idle": 50,
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_bobb": {
+      "battle": null,
+      "charId": "char_487_bobb",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_bobb",
+      "uniEquipName": "波卜证章"
+    },
+    "uniequip_002_bobb": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 23.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bobb_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 27.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bobb_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@dmg_duration": 5.0,
+                    "attack@ep_damage_ratio_talent": 0.17
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "焦点诱导",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的<$ba.dt.burning2>灼燃损伤</>"
+                },
+                {
+                  "blackboard": {
+                    "attack@dmg_duration": 5.0,
+                    "attack@ep_damage_ratio_talent": 0.19
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "焦点诱导",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力19%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 30.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bobb_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@dmg_duration": 5.0,
+                    "attack@ep_damage_ratio_talent": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "焦点诱导",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的<$ba.dt.burning2>灼燃损伤</>"
+                },
+                {
+                  "blackboard": {
+                    "attack@dmg_duration": 5.0,
+                    "attack@ep_damage_ratio_talent": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "焦点诱导",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力20%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_487_bobb",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31074": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "rit-x",
+      "uniEquipId": "uniequip_002_bobb",
+      "uniEquipName": "社工课程二手教材"
+    }
+  },
+  "skill": {
+    "skchr_bobb_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.6
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.65
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.7
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.8
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.85
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 1.0,
+          "ep_damage_ratio": 0.9
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 1.0,
+          "ep_damage_ratio": 1.0
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 1.0,
+          "ep_damage_ratio": 1.1
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "ep_damage_ratio": 1.15
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "ep_damage_ratio": 1.2
+        },
+        "description": "下一次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.burning2>灼燃损伤</>，优先攻击未处于损伤爆发期间的敌人",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "非和平劝说",
+        "prefabId": "skchr_bobb_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_bobb_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.6,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.65,
+          "attack@ep_damage_ratio": 0.11,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.7,
+          "attack@ep_damage_ratio": 0.12,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.75,
+          "attack@ep_damage_ratio": 0.13,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.8,
+          "attack@ep_damage_ratio": 0.14,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.9,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.0,
+          "attack@ep_damage_ratio": 0.17,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.1,
+          "attack@ep_damage_ratio": 0.18,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2,
+          "attack@ep_damage_ratio": 0.19,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "attack@ep_damage_ratio": 0.2,
+          "attack@projectile_life_time": 11.0
+        },
+        "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "“此路不通”",
+        "prefabId": "skchr_bobb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

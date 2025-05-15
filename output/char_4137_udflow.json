@@ -1,0 +1,1186 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "31053": 4,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "31023": 2,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡三个敌人，可以进行远程攻击",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 45,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "深巡",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 226,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 251,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1312,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 291,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 375,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1750,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4137_udflow",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 291,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 375,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1750,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 364,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 508,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2334,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4137_udflow",
+        "evolveCost": {
+          "30032": 5,
+          "30052": 2,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 364,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 24,
+            "def": 508,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2334,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 439,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 24,
+            "def": 696,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3253,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4137_udflow",
+        "evolveCost": {
+          "31024": 8,
+          "31073": 9,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "2-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 3,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30064": 3,
+            "31024": 4,
+            "3303": 6
+          },
+          {
+            "30054": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_udflow_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "31043": 2,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30155": 4,
+            "31084": 1,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_udflow_2"
+      }
+    ],
+    "subProfessionId": "shotprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage": 40.0,
+            "damage_seamonster": 80.0,
+            "duration": 3.0,
+            "interval": 1.0
+          },
+          "description": "攻击使目标在3秒内每秒受到40点法术伤害（对【海怪】敌人伤害加倍）",
+          "name": "细胞活性抑制剂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage": 50.0,
+            "damage_seamonster": 100.0,
+            "duration": 3.0,
+            "interval": 1.0
+          },
+          "description": "攻击使目标在3秒内每秒受到50<@ba.talpu>（+10）</>点法术伤害（对【海怪】敌人伤害加倍）",
+          "name": "细胞活性抑制剂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage": 80.0,
+            "damage_seamonster": 160.0,
+            "duration": 3.0,
+            "interval": 1.0
+          },
+          "description": "攻击使目标在3秒内每秒受到80点法术伤害（对【海怪】敌人伤害加倍）",
+          "name": "细胞活性抑制剂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage": 90.0,
+            "damage_seamonster": 180.0,
+            "duration": 3.0,
+            "interval": 1.0
+          },
+          "description": "攻击使目标在3秒内每秒受到90<@ba.talpu>（+10）</>点法术伤害（对【海怪】敌人伤害加倍）",
+          "name": "细胞活性抑制剂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 6,
+        "duration": 36
+      },
+      "Attack_Down": {
+        "OnAttack": 6,
+        "duration": 36
+      },
+      "Idle": 300,
+      "Skill_2_Begin": 5,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 300,
+      "Skill_2_Loop": {
+        "OnAttack": 1,
+        "duration": 36
+      },
+      "Skill_Down_2_Begin": 5,
+      "Skill_Down_2_End": 10,
+      "Skill_Down_2_Idle": 300,
+      "Skill_Down_2_Loop": {
+        "OnAttack": 1,
+        "duration": 36
+      },
+      "Start": {
+        "OnStart": 9,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_udflow": {
+      "battle": null,
+      "charId": "char_4137_udflow",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_udflow",
+      "uniEquipName": "深巡证章"
+    },
+    "uniequip_002_udflow": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "udflow_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 47.0,
+            "def": 38.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "udflow_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage": 90.0,
+                    "damage_seamonster": 180.0,
+                    "duration": 3.0,
+                    "interval": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "细胞活性抑制剂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标在3秒内每秒受到90点法术伤害（对【海怪】敌人伤害加倍）"
+                },
+                {
+                  "blackboard": {
+                    "damage": 100.0,
+                    "damage_seamonster": 200.0,
+                    "duration": 3.0,
+                    "interval": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "细胞活性抑制剂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标在3秒内每秒受到100<@ba.talpu>（+10）</>点法术伤害（对【海怪】敌人伤害加倍）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 52.0,
+            "def": 43.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "udflow_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage": 100.0,
+                    "damage_seamonster": 200.0,
+                    "duration": 3.0,
+                    "interval": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "细胞活性抑制剂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标在3秒内每秒受到100点法术伤害（对【海怪】敌人伤害加倍）"
+                },
+                {
+                  "blackboard": {
+                    "damage": 110.0,
+                    "damage_seamonster": 220.0,
+                    "duration": 3.0,
+                    "interval": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "细胞活性抑制剂",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标在3秒内每秒受到110<@ba.talpu>（+10）</>点法术伤害（对【海怪】敌人伤害加倍）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4137_udflow",
+      "itemCost": {
+        "1": {
+          "31064": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31084": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "spt-x",
+      "uniEquipId": "uniequip_002_udflow",
+      "uniEquipName": "基于咖啡的神经活性剂"
+    }
+  },
+  "skill": {
+    "skchr_udflow_1": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "def": 0.25
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "def": 0.27
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "def": 0.29
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.32,
+          "def": 0.32
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "def": 0.34
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "def": 0.36
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.39,
+          "def": 0.39
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.42,
+          "def": 0.42
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "def": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "侵袭破坏应对",
+        "prefabId": "skchr_udflow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_udflow_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 20.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 20.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 20.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 25.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 25.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 25.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 30.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.43,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 36.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.46,
+          "attack@max_target": 3.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 43.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@max_target": 4.0,
+          "attack@sluggish": 1.0,
+          "attack_speed": 50.0,
+          "mode": 1.0
+        },
+        "description": "攻击距离<@ba.vup>加长</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，攻击变为向正前方发射的毒性鳍刺，能穿过<@ba.vup>{attack@max_target}</>个目标且造成<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>。",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "行动能力剥夺",
+        "prefabId": "skchr_udflow_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

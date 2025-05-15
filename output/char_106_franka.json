@@ -1,0 +1,1000 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30083": 2,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 25,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "芙兰卡",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 416,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1443,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 613,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2062,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_106_franka",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 613,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2062,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 776,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 195,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2826,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_106_franka",
+        "evolveCost": {
+          "30042": 4,
+          "30052": 2,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 776,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 195,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2826,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 936,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 235,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3768,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_106_franka",
+        "evolveCost": {
+          "30023": 18,
+          "30044": 6,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_quickattack[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30024": 3,
+            "30104": 5,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_franka_2"
+      }
+    ],
+    "subProfessionId": "fearless",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.1
+          },
+          "description": "攻击时有10%的几率无视目标的防御",
+          "name": "铝热剑",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率无视目标的防御",
+          "name": "铝热剑",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 14,
+        "duration": 35
+      },
+      "Skill_Down": {
+        "OnAttack": 14,
+        "duration": 35
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit",
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_franka_2": {
+        "reset_attack": true
+      },
+      "tachr_106_franka_1": {
+        "crit": true
+      },
+      "uniequip_002_franka": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_franka": {
+      "battle": null,
+      "charId": "char_106_franka",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_franka",
+      "uniEquipName": "芙兰卡证章"
+    },
+    "uniequip_002_franka": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "franka_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 80.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "franka_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "铝热剑",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有25%的几率无视目标的防御"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 95.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "franka_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.28
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "铝热剑",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有28%的几率无视目标的防御"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_106_franka",
+      "itemCost": {
+        "1": {
+          "30044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30064": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30084": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "dre-x",
+      "uniEquipId": "uniequip_002_franka",
+      "uniEquipName": "尖端铝热单元"
+    }
+  },
+  "skill": {
+    "skchr_franka_2": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.53,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.56,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.63,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.66,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "talent_scale": 2.5
+        },
+        "description": "防御力<@ba.vdown>降至0</>，攻击力<@ba.vup>+{atk:0%}</>，天赋无视防御的概率提高至<@ba.vup>{talent_scale}倍</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "极致锋度",
+        "prefabId": "skchr_franka_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_quickattack[3]": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 45.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1636 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30043": 6,
+        "3302": 8
+      },
+      {
+        "30053": 3,
+        "30073": 6,
+        "3303": 8
+      }
+    ],
+    "description": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "归溟幽灵鲨",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 335,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 133,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1311,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 459,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 205,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1749,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1023_ghost2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 459,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 205,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1749,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 267,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2214,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1023_ghost2",
+        "evolveCost": {
+          "30022": 8,
+          "30032": 5,
+          "3281": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 267,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2214,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 737,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 322,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2803,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1023_ghost2",
+        "evolveCost": {
+          "30054": 6,
+          "30115": 4,
+          "3283": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 11,
+            "31014": 4,
+            "3303": 8
+          },
+          {
+            "31024": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30125": 6,
+            "31044": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ghost2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 5,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30064": 6,
+            "31054": 4,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31024": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ghost2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 4,
+            "31013": 3,
+            "3303": 8
+          },
+          {
+            "31034": 9,
+            "31044": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31024": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ghost2_3"
+      }
+    ],
+    "subProfessionId": "dollkeeper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 0.2,
+            "move_speed": -0.2,
+            "talent_override_rangeid_flag": 1.0
+          },
+          "description": "<替身>使周围敌人移动速度-20%且每秒造成相当于20%攻击力的法术伤害",
+          "name": "拥抱自我",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.3,
+            "move_speed": -0.3,
+            "talent_override_rangeid_flag": 1.0
+          },
+          "description": "<替身>使周围敌人移动速度-30%且每秒造成相当于30%攻击力的法术伤害",
+          "name": "拥抱自我",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.4,
+            "move_speed": -0.4,
+            "talent_override_rangeid_flag": 1.0
+          },
+          "description": "<替身>使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害",
+          "name": "拥抱自我",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "max_hp": 0.2
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+20%",
+          "name": "阿戈尔的深邃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "max_hp": 0.23
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+23%<@ba.talpu>（+3%）</>",
+          "name": "阿戈尔的深邃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk": 0.0,
+          "duration": 20.0,
+          "max_hp": 0.0
+        },
+        "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+        "prefabKey": "-1",
+        "rangeId": "x-4",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 36
+      },
+      "Attack2": {
+        "OnAttack": 12,
+        "duration": 36
+      },
+      "Idle": 55,
+      "Idle_B": 300,
+      "Skill_1": {
+        "OnAttack": 6,
+        "duration": 30
+      },
+      "Skill_3_Attack": {
+        "OnAttack": 22,
+        "duration": 66
+      },
+      "Skill_3_Begin": 10,
+      "Skill_3_End": 10,
+      "Skill_3_Idle": 55,
+      "Start": 30,
+      "Start_2": 30
+    },
+    "options": {
+      "cond_info": {
+        "text": "[s3]攻击高血量敌人",
+        "tooltip": "对高于自身HP比例的敌人造成额外伤害"
+      },
+      "tags": [
+        "annie",
+        "cond"
+      ]
+    },
+    "spec": {
+      "tachr_1023_ghost2_2": {
+        "cloneable": true
+      },
+      "uniequip_002_ghost2": {
+        "override_talent": 1
+      },
+      "uniequip_003_ghost2": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_ghost2": {
+      "battle": null,
+      "charId": "char_1023_ghost2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ghost2",
+      "uniEquipName": "归溟幽灵鲨证章"
+    },
+    "uniequip_002_ghost2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "max_hp": 0.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 69.0,
+            "def": 20.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "max_hp": 0.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.6,
+                    "move_speed": -0.5,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "拥抱自我",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>使周围敌人移动速度-50%且每秒造成相当于60%攻击力的法术伤害，替换时自身额外获得8点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "拥抱自我",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>使周围敌人移动速度-50%且每秒造成相当于60%攻击力的法术伤害，替换时自身额外获得8点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost2_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 83.0,
+            "def": 30.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "max_hp": 0.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "move_speed": -0.6,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "拥抱自我",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>使周围敌人移动速度-60%且每秒造成相当于80%攻击力的法术伤害，替换时自身额外获得15点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "拥抱自我",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>使周围敌人移动速度-60%且每秒造成相当于80%攻击力的法术伤害，替换时自身额外获得15点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost2_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1023_ghost2",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "pum-x",
+      "uniEquipId": "uniequip_002_ghost2",
+      "uniEquipName": "“唱片”收藏箱"
+    },
+    "uniequip_003_ghost2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 40.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.0,
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "def": 48.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.0,
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_hp": 0.25,
+                    "sp_recovery_per_sec": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "阿戈尔的深邃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的生命值+25%，且技力回复+0.3/秒"
+                },
+                {
+                  "blackboard": {
+                    "max_hp": 0.28,
+                    "sp_recovery_per_sec": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "阿戈尔的深邃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的生命值+28%<@ba.talpu>（+3%）</>，且技力自然回复速度+0.3/秒（同类效果取最高）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost2_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 55.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.0,
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_hp": 0.3,
+                    "sp_recovery_per_sec": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "阿戈尔的深邃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的生命值+30%，且技力回复+0.5/秒"
+                },
+                {
+                  "blackboard": {
+                    "max_hp": 0.33,
+                    "sp_recovery_per_sec": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "阿戈尔的深邃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的生命值+33%<@ba.talpu>（+3%）</>，且技力自然回复速度+0.5/秒（同类效果取最高）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost2_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1023_ghost2",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "pum-y",
+      "uniEquipId": "uniequip_003_ghost2",
+      "uniEquipName": "未竟之美"
+    }
+  },
+  "skill": {
+    "skchr_ghost2_1": [
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5
+        },
+        "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的技巧",
+        "prefabId": "skchr_ghost2_1",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ghost2_2": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 14.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack_speed": 18.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack_speed": 22.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack_speed": 26.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack_speed": 34.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack_speed": 38.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack_speed": 44.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack_speed": 50.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，技能持续期间内干员的生命值不会低于<@ba.vup>1</>\\n<@ba.rem>技能结束后视为被击倒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "生存的渴望",
+        "prefabId": "skchr_ghost2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ghost2_3": [
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@atk_scale_ex": 0.4,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@atk_scale_ex": 0.4,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.1
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@atk_scale_ex": 0.4,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.2
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack@atk_scale_ex": 0.5,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.3
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@atk_scale_ex": 0.5,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.4
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.9,
+          "attack@atk_scale_ex": 0.5,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.5
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "attack@atk_scale_ex": 0.6,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.6
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.2,
+          "attack@atk_scale_ex": 0.7,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.7
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.4,
+          "attack@atk_scale_ex": 0.7,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 1.85
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.6,
+          "attack@atk_scale_ex": 0.7,
+          "attack@hp_ratio": 0.03,
+          "base_attack_time": 1.0,
+          "max_hp": 2.0
+        },
+        "description": "攻击间隔<@ba.vdown>延长</>，攻击所有阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，生命上限<@ba.vup>+{max_hp:0%}</>，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力<@ba.vup>{attack@atk_scale_ex:0%}</>的物理伤害，否则自身流失<@ba.vdown>{attack@hp_ratio:0%}</>生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "生存的重压",
+        "prefabId": "skchr_ghost2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

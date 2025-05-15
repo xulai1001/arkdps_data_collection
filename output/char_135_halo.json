@@ -1,0 +1,1078 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30063": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>3</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "星源",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 293,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 589,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 842,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_135_halo",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 842,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1094,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_135_halo",
+        "evolveCost": {
+          "30012": 4,
+          "30032": 5,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1094,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 630,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 122,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1440,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_135_halo",
+        "evolveCost": {
+          "30104": 7,
+          "31013": 10,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+28",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 28.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30014": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_halo_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_halo_2"
+      }
+    ],
+    "subProfessionId": "chain",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 3.0,
+            "interval": 15.0,
+            "max_stack_cnt": 5.0
+          },
+          "description": "每在场上停留15秒，攻击速度+3，最多可以叠加5次",
+          "name": "科研热忱",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 4.0,
+            "interval": 15.0,
+            "max_stack_cnt": 5.0
+          },
+          "description": "每在场上停留15秒，攻击速度+4，最多可以叠加5次",
+          "name": "科研热忱",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@chain.max_target": 3.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@chain.max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>（精英2后更新）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@chain.max_target": 4.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@chain.max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 22,
+        "duration": 69
+      },
+      "Idle": 60,
+      "Skill_1": {
+        "OnAttack": 22,
+        "duration": 69
+      },
+      "Skill_2_Begin": 45,
+      "Skill_2_End": 15,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 22,
+        "duration": 69
+      },
+      "Start": {
+        "OnStart": 20,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "stack"
+      ]
+    },
+    "spec": {
+      "skchr_halo_1": {
+        "sim": true
+      },
+      "tachr_135_halo_1": {
+        "stack": true
+      },
+      "uniequip_002_halo": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_halo": {
+      "battle": null,
+      "charId": "char_135_halo",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_halo",
+      "uniEquipName": "星源证章"
+    },
+    "uniequip_002_halo": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 50.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@chain.max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@chain.max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 62.0,
+            "max_hp": 70.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@chain.max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@chain.max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 4.0,
+                    "interval": 10.0,
+                    "max_stack_cnt": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "科研热忱",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每在场上停留10秒，攻击速度+4，最多可以叠加6次"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 74.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@chain.max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@chain.max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 4.0,
+                    "interval": 10.0,
+                    "max_stack_cnt": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "科研热忱",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每在场上停留10秒，攻击速度+4，最多可以叠加7次"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_135_halo",
+      "itemCost": {
+        "1": {
+          "30074": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "cha-y",
+      "uniEquipId": "uniequip_002_halo",
+      "uniEquipName": "未组装的钟表"
+    }
+  },
+  "skill": {
+    "skchr_halo_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.04,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.06,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.07,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.08,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.09,
+          "chain.max_target": 4.0,
+          "ct": 1.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "chain.max_target": 4.0,
+          "ct": 3.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "chain.max_target": 4.0,
+          "ct": 3.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "chain.max_target": 4.0,
+          "ct": 3.0,
+          "max_target": 2.0,
+          "sluggish": 0.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{atk_scale:0%}</>，同时攻击<@ba.vup>{max_target}</>个目标且分别最多在<@ba.vup>{chain.max_target}</>个敌人间跳跃\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "双端导流",
+        "prefabId": "skchr_halo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_halo_2": [
+      {
+        "blackboard": {
+          "atk": 0.12,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.16,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "星束交汇",
+        "prefabId": "skchr_halo_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

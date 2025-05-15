@@ -1,0 +1,1084 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "31043": 4,
+        "3302": 6
+      },
+      {
+        "30103": 2,
+        "31053": 3,
+        "3303": 6
+      }
+    ],
+    "description": "恢复友方单位生命，并回复相当于攻击力50%的<@ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<@ba.dt.element>元素损伤</>）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 35,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 150,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "凭证交易所",
+    "name": "蜜莓",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 131,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 799,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 216,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1052,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_449_glider",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 216,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1052,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 300,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1253,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_449_glider",
+        "evolveCost": {
+          "30022": 3,
+          "30032": 4,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-17"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 300,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1253,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 375,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1458,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_449_glider",
+        "evolveCost": {
+          "30063": 12,
+          "31044": 7,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-17"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+19",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 19.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30014": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glider_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "31014": 5,
+            "31034": 3,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glider_2"
+      }
+    ],
+    "subProfessionId": "wandermedic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "max_hp": 0.05
+          },
+          "description": "攻击范围内的远程干员最大生命值+5%",
+          "name": "集体意识",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "max_hp": 0.07
+          },
+          "description": "攻击范围内的远程干员最大生命值+7%<@ba.talpu>（+2%）</>",
+          "name": "集体意识",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "max_hp": 0.1
+          },
+          "description": "攻击范围内的远程干员最大生命值+10%",
+          "name": "集体意识",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "max_hp": 0.12
+          },
+          "description": "攻击范围内的远程干员最大生命值+12%<@ba.talpu>（+2%）</>",
+          "name": "集体意识",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "ep_heal_ratio": 0.5
+        },
+        "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 27,
+        "duration": 50
+      },
+      "Idle": 120,
+      "Skill": {
+        "OnAttack": 20,
+        "duration": 40
+      },
+      "Start": {
+        "OnStrat": 20,
+        "duration": 30
+      },
+      "skill_2_Begin": 20,
+      "skill_2_End": 10,
+      "skill_2_Loop": {
+        "OnAttack": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "char_449_glider": {
+        "frame_corr": 1
+      },
+      "skchr_glider_1": {
+        "cast_time": 40,
+        "sim": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_glider": {
+      "battle": null,
+      "charId": "char_449_glider",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_glider",
+      "uniEquipName": "蜜莓证章"
+    },
+    "uniequip_002_glider": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 4.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 145.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_hp": 0.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "集体意识",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的远程干员最大生命值+13%"
+                },
+                {
+                  "blackboard": {
+                    "max_hp": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "集体意识",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的远程干员最大生命值+15%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 6.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_hp": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "集体意识",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的远程干员最大生命值+15%"
+                },
+                {
+                  "blackboard": {
+                    "max_hp": 0.17
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "集体意识",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的远程干员最大生命值+17%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_449_glider",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "wdm-x",
+      "uniEquipId": "uniequip_002_glider",
+      "uniEquipName": "落地之后"
+    }
+  },
+  "skill": {
+    "skchr_glider_1": [
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.1,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.2,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.3,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.4,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.5,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 2.0,
+          "glider_s_1.ep_heal_ratio": 0.6,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 3.0,
+          "glider_s_1.ep_heal_ratio": 0.7,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 3.0,
+          "glider_s_1.ep_heal_ratio": 0.8,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 3.0,
+          "glider_s_1.ep_heal_ratio": 0.9,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "glider_s_1.duration": 3.0,
+          "glider_s_1.ep_heal_ratio": 1.0,
+          "glider_s_1.interval": 1.0
+        },
+        "description": "下次治疗以<$ba.dt.element>元素损伤</>最严重的2名干员为目标，并使其<@ba.vup>{glider_s_1.duration}</>秒内每秒恢复蜜莓攻击力<@ba.vup>{glider_s_1.ep_heal_ratio:0%}</>的元素损伤",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精神护理",
+        "prefabId": "skchr_glider_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_glider_2": [
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.21,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 51,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次治疗以<$ba.dt.element>元素损伤</>最严重的<@ba.vup>{attack@max_target}</>名干员为目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "振奋",
+        "prefabId": "skchr_glider_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

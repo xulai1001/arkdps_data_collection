@@ -1,0 +1,1083 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>超远距离的群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "蚀清",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 343,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 45,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 686,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 980,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_489_serum",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "4-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 980,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 638,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1273,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_489_serum",
+        "evolveCost": {
+          "30042": 3,
+          "30052": 4,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "5-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 638,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1273,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 760,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1572,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_489_serum",
+        "evolveCost": {
+          "30064": 5,
+          "30103": 10,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "5-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30014": 2,
+            "30094": 7,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_serum_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_serum_2"
+      }
+    ],
+    "subProfessionId": "blastcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "delay": 4.0,
+            "sp_recovery_per_sec": 0.2
+          },
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.2/秒",
+          "name": "战术性调整",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "delay": 4.0,
+            "sp_recovery_per_sec": 0.25
+          },
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.25<@ba.talpu>（+0.05）</>/秒",
+          "name": "战术性调整",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "delay": 4.0,
+            "sp_recovery_per_sec": 0.45
+          },
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.45/秒",
+          "name": "战术性调整",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "delay": 4.0,
+            "sp_recovery_per_sec": 0.5
+          },
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.5<@ba.talpu>（+0.05）</>/秒",
+          "name": "战术性调整",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 38
+      },
+      "Attack_Down": {
+        "OnAttack": 20,
+        "duration": 38
+      },
+      "Idle": 40,
+      "Skill_Begin": 8,
+      "Skill_End": 8,
+      "Skill_Idle": 40,
+      "Skill_Loop": {
+        "OnAttack": 22,
+        "duration": 40
+      },
+      "Skill_Loop_Down": {
+        "OnAttack": 22,
+        "duration": 40
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_serum_1": {
+        "reset_attack": true
+      },
+      "skchr_serum_2": {
+        "reset_attack": true
+      },
+      "uniequip_002_serum": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_serum": {
+      "battle": null,
+      "charId": "char_489_serum",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_serum",
+      "uniEquipName": "蚀清证章"
+    },
+    "uniequip_002_serum": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 49.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "serum_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "serum_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "delay": 4.0,
+                    "sp_recovery_per_sec": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术性调整",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "4秒内没有主动攻击过，技力自然回复速度+0.6/秒"
+                },
+                {
+                  "blackboard": {
+                    "delay": 4.0,
+                    "sp_recovery_per_sec": 0.65
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术性调整",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "4秒内没有主动攻击过，技力自然回复速度+0.65<@ba.talpu>（+0.05）</>/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "serum_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "delay": 4.0,
+                    "sp_recovery_per_sec": 0.65
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术性调整",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "4秒内没有主动攻击过，技力自然回复速度+0.65/秒"
+                },
+                {
+                  "blackboard": {
+                    "delay": 4.0,
+                    "sp_recovery_per_sec": 0.7
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术性调整",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "4秒内没有主动攻击过，技力自然回复速度+0.7<@ba.talpu>（+0.05）</>/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_489_serum",
+      "itemCost": {
+        "1": {
+          "31014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30064": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "bla-x",
+      "uniEquipId": "uniequip_002_serum",
+      "uniEquipName": "无可抹消"
+    }
+  },
+  "skill": {
+    "skchr_serum_1": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "stun": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，<@ba.rem>技能结束后蚀清<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专注力超载",
+        "prefabId": "skchr_serum_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_serum_2": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@silence": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@silence": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@silence": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@silence": 3.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@silence": 3.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@silence": 3.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@silence": 3.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@silence": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@silence": 4.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@silence": 5.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击后使目标失去特殊能力<@ba.vup>{attack@silence}秒</>\\n<@ba.rem>可主动关闭技能（期间可随时停止技能）</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "传导蚀滞弹",
+        "prefabId": "skchr_serum_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

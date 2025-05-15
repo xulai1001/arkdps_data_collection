@@ -1,0 +1,1412 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "3302": 8
+      },
+      {
+        "31013": 3,
+        "31053": 5,
+        "3303": 8
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "仇白",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 191,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1041,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 447,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1488,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4082_qiubai",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 447,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1488,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 333,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1959,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4082_qiubai",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 7,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 333,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1959,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 718,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 402,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2480,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4082_qiubai",
+        "evolveCost": {
+          "30084": 6,
+          "30145": 3,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "30103": 4,
+            "3303": 8
+          },
+          {
+            "30074": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_qiubai_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 8,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_qiubai_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "30094": 3,
+            "3303": 8
+          },
+          {
+            "30064": 4,
+            "31054": 6,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_qiubai_3"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 0.25
+          },
+          "description": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力25%的法术伤害",
+          "name": "入隙",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.28
+          },
+          "description": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力28%<@ba.talpu>（+3%）</>的法术伤害",
+          "name": "入隙",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.4
+          },
+          "description": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力40%的法术伤害",
+          "name": "入隙",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 0.43
+          },
+          "description": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力43%<@ba.talpu>（+3%）</>的法术伤害",
+          "name": "入隙",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "duration": 1.5,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率使目标<$ba.root>束缚</>1.5秒",
+          "name": "落英",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 1.5,
+            "prob": 0.23
+          },
+          "description": "攻击时有23%<@ba.talpu>（+3%）</>的几率使目标<$ba.root>束缚</>1.5秒",
+          "name": "落英",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Combat_A": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Combat_B": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Idle": 120,
+      "Skill_2": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Skill_3_End": 2,
+      "Skill_3_Idle": 30,
+      "Skill_3_Loop": {
+        "OnAttack": 13,
+        "duration": 35
+      },
+      "Skill_3_Start": 2,
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "ranged_penalty",
+        "chen"
+      ]
+    },
+    "spec": {
+      "skchr_qiubai_1": {
+        "damage_type": "0"
+      },
+      "skchr_qiubai_2": {
+        "attack_begin": 16,
+        "cast_time": 35,
+        "damage_type": "0",
+        "note": "首刀动画35帧(不计算攻速变化)",
+        "reset_attack": true
+      },
+      "skchr_qiubai_3": {
+        "attack_begin": 16,
+        "ranged_penalty": false,
+        "reset_attack": true
+      },
+      "tachr_4082_qiubai_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_qiubai": {
+      "battle": null,
+      "charId": "char_4082_qiubai",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_qiubai",
+      "uniEquipName": "仇白证章"
+    },
+    "uniequip_002_qiubai": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "attack_speed": 5.0,
+            "def": 20.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "qiubai_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 48.0,
+            "attack_speed": 6.0,
+            "def": 35.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "qiubai_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale_t": 0.45,
+                    "value": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "入隙",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于<$ba.sluggish>停顿</>和<$ba.root>束缚</>时该伤害提升至原本的1.1倍"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale_t": 0.48,
+                    "value": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "入隙",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力48%<@ba.talpu>（+3%）</>的法术伤害，目标同时处于<$ba.sluggish>停顿</>和<$ba.root>束缚</>时该伤害提升至原本的1.1倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "qiubai_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "attack_speed": 7.0,
+            "def": 45.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "qiubai_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale_t": 0.45,
+                    "value": 1.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "入隙",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于<$ba.sluggish>停顿</>和<$ba.root>束缚</>时该伤害提升至原本的1.2倍"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale_t": 0.48,
+                    "value": 1.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "入隙",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击处于<$ba.sluggish>停顿</>、<$ba.root>束缚</>的敌人时，额外造成相当于攻击力48%<@ba.talpu>（+3%）</>的法术伤害，目标同时处于<$ba.sluggish>停顿</>和<$ba.root>束缚</>时该伤害提升至原本的1.2倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "qiubai_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4082_qiubai",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30155": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "lor-x",
+      "uniEquipId": "uniequip_002_qiubai",
+      "uniEquipName": "雪浸过的斗笠"
+    }
+  },
+  "skill": {
+    "skchr_qiubai_1": [
+      {
+        "blackboard": {
+          "aoe_scale": 1.8,
+          "duration": 1.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 1.9,
+          "duration": 1.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.0,
+          "duration": 1.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.1,
+          "duration": 2.0
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.2,
+          "duration": 2.0
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.3,
+          "duration": 2.0
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.4,
+          "duration": 2.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.6,
+          "duration": 2.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 2.8,
+          "duration": 2.5
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "aoe_scale": 3.0,
+          "duration": 3.0
+        },
+        "description": "下次攻击使目标<$ba.root>束缚</><@ba.vup>{duration}</>秒，该次<$ba.root>束缚</>结束时对目标和附近的所有敌人造成相当于攻击力<@ba.vup>{aoe_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "留羽",
+        "prefabId": "skchr_qiubai_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_qiubai_2": [
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "sword_begin_atk_scale": 1.5,
+          "sword_end_atk_scale": 1.5,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "sword_begin_atk_scale": 1.65,
+          "sword_end_atk_scale": 1.65,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "sword_begin_atk_scale": 1.8,
+          "sword_end_atk_scale": 1.8,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "sword_begin_atk_scale": 1.95,
+          "sword_end_atk_scale": 1.95,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "sword_begin_atk_scale": 2.1,
+          "sword_end_atk_scale": 2.1,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "sword_begin_atk_scale": 2.25,
+          "sword_end_atk_scale": 2.25,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "sword_begin_atk_scale": 2.4,
+          "sword_end_atk_scale": 2.4,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "sword_begin_atk_scale": 2.6,
+          "sword_end_atk_scale": 2.6,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "sword_begin_atk_scale": 2.8,
+          "sword_end_atk_scale": 2.8,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "sword_begin_atk_scale": 3.0,
+          "sword_end_atk_scale": 3.0,
+          "sword_end_duration": 4.88
+        },
+        "description": "对前方范围内的地面敌人造成攻击力<@ba.vup>{sword_begin_atk_scale:0%}</>的法术伤害；攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的地面敌人<$ba.sluggish>停顿</>；技能结束时对范围内的地面敌人造成攻击力<@ba.vup>{sword_end_atk_scale:0%}</>的物理伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "承影",
+        "prefabId": "skchr_qiubai_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_qiubai_3": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 8.0,
+          "max_stack_cnt": 4.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 32,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 64,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "attack_speed": 9.0,
+          "max_stack_cnt": 4.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 32,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 63,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 10.0,
+          "max_stack_cnt": 4.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 34,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 62,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 10.0,
+          "max_stack_cnt": 5.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 34,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 61,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "attack_speed": 11.0,
+          "max_stack_cnt": 5.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 36,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 12.0,
+          "max_stack_cnt": 5.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 36,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 13.0,
+          "max_stack_cnt": 6.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 38,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 13.0,
+          "max_stack_cnt": 6.0,
+          "talent_scale": 1.5
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至<@ba.vup>{talent_scale}</>倍，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 13.0,
+          "max_stack_cnt": 7.0,
+          "talent_scale": 1.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至<@ba.vup>{talent_scale}</>倍，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 43,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack_speed": 13.0,
+          "max_stack_cnt": 8.0,
+          "talent_scale": 2.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至<@ba.vup>{talent_scale}</>倍，远程攻击不再降低伤害，每次攻击使自身攻击速度<@ba.vup>+{attack_speed}</>（最多叠加<@ba.vup>{max_stack_cnt}</>次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "问雪",
+        "prefabId": "skchr_qiubai_3",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

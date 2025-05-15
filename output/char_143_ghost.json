@@ -1,0 +1,1011 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "同时攻击阻挡的<@ba.kw>所有敌人</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "幽灵鲨",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 293,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1199,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 215,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1538,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_143_ghost",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 215,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1538,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 291,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1972,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_143_ghost",
+        "evolveCost": {
+          "30012": 6,
+          "30052": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 291,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1972,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 725,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 355,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2630,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_143_ghost",
+        "evolveCost": {
+          "30053": 15,
+          "30074": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 3,
+            "30103": 3,
+            "3303": 5
+          },
+          {
+            "30024": 5,
+            "30044": 3,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 4,
+            "30034": 3,
+            "3303": 5
+          },
+          {
+            "30034": 5,
+            "30054": 3,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ghost_2"
+      }
+    ],
+    "subProfessionId": "centurion",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.0,
+            "max_hp": 0.1
+          },
+          "description": "生命上限+10%",
+          "name": "体力上限提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.0,
+            "max_hp": 0.12
+          },
+          "description": "生命上限+12%<@ba.talpu>（+2%）</>",
+          "name": "体力上限提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.02,
+            "max_hp": 0.1
+          },
+          "description": "生命上限+10%，每秒回复最大生命2%的生命",
+          "name": "深海再生力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.025,
+            "max_hp": 0.12
+          },
+          "description": "生命上限+12%<@ba.talpu>（+2%）</>，每秒回复最大生命2.5%<@ba.talpu>（+0.5%）</>的生命",
+          "name": "深海再生力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Attack_Down": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "uniequip_002_ghost": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_ghost": {
+      "battle": null,
+      "charId": "char_143_ghost",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ghost",
+      "uniEquipName": "幽灵鲨证章"
+    },
+    "uniequip_002_ghost": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 34.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ghost_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 52.0,
+            "def": 42.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ghost_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.03
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "溶于血的经验",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【深海猎人】干员造成的伤害提升3%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 48.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ghost_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.05
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "溶于血的经验",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【深海猎人】干员造成的伤害提升5%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ghost_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_143_ghost",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30074": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "cen-x",
+      "uniEquipId": "uniequip_002_ghost",
+      "uniEquipName": "幽明烛光"
+    }
+  },
+  "skill": {
+    "skchr_ghost_2": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "stun": 10.0
+        },
+        "description": "技能持续期间内干员的生命值始终不会低于<@ba.vup>1</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能结束后干员<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "肉斩骨断",
+        "prefabId": "skchr_ghost_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_atk_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

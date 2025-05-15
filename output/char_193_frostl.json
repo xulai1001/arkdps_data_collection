@@ -1,0 +1,1088 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30031": 4,
+        "3301": 2
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30023": 3,
+        "3302": 3
+      },
+      {
+        "30033": 3,
+        "3303": 4
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 55,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "霜叶",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 272,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 154,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 949,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 400,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 211,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1356,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_193_frostl",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 400,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 211,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1356,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 534,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 268,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1785,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_193_frostl",
+        "evolveCost": {
+          "30032": 1,
+          "30042": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 534,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 268,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1785,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 660,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 323,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2260,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_193_frostl",
+        "evolveCost": {
+          "30083": 7,
+          "30093": 15,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "30064": 1,
+            "3303": 4
+          },
+          {
+            "30074": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_frostl_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 4,
+            "30054": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "30074": 2,
+            "3303": 4
+          },
+          {
+            "30104": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_frostl_2"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "base_attack_time": 0.15
+          },
+          "description": "攻击范围扩大，但攻击间隔略微增大",
+          "name": "掩护打击",
+          "prefabKey": "1",
+          "rangeId": "3-1",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 40
+      },
+      "Combat": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Combat_Down": {
+        "OnAttack": 15,
+        "duration": 35
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "ranged_penalty"
+      ]
+    },
+    "spec": {
+      "skchr_frostl_1": {
+        "sim": true
+      },
+      "tachr_193_frostl_1": {
+        "cloneable": true
+      },
+      "tachr_193_frostl_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_frostl": {
+      "battle": null,
+      "charId": "char_193_frostl",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_frostl",
+      "uniEquipName": "霜叶证章"
+    },
+    "uniequip_002_frostl": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 34.0,
+            "def": 22.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "frostl_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 41.0,
+            "def": 30.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "frostl_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cold": 1.5,
+                    "prob": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "frostl_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "base_attack_time": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "掩护打击",
+                  "prefabKey": "1",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围扩大，攻击有15%概率造成1.5秒<$ba.cold>寒冷</>，但攻击间隔略微增大"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 35.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "frostl_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cold": 1.5,
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "frostl_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "base_attack_time": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "掩护打击",
+                  "prefabKey": "1",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围扩大，攻击有25%概率造成1.5秒<$ba.cold>寒冷</>，但攻击间隔略微增大"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_193_frostl",
+      "itemCost": {
+        "1": {
+          "30053": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30103": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "lor-x",
+      "uniEquipId": "uniequip_002_frostl",
+      "uniEquipName": "不歇律动"
+    }
+  },
+  "skill": {
+    "skchr_frostl_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "duration": 1.5,
+          "move_speed": -0.2
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "duration": 1.5,
+          "move_speed": -0.23
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "duration": 1.5,
+          "move_speed": -0.25
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "duration": 2.0,
+          "move_speed": -0.28
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "duration": 2.0,
+          "move_speed": -0.3
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "duration": 2.0,
+          "move_speed": -0.33
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "duration": 2.5,
+          "move_speed": -0.35
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "duration": 2.5,
+          "move_speed": -0.4
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "duration": 2.5,
+          "move_speed": -0.45
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "duration": 3.0,
+          "move_speed": -0.5
+        },
+        "description": "下次攻击造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，令命中目标在<@ba.vup>{duration}</>秒内移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "寒霜枪刃",
+        "prefabId": "skchr_frostl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_frostl_2": [
+      {
+        "blackboard": {
+          "attack_speed": 5.0,
+          "debuff": 1.5,
+          "move_speed": -0.3,
+          "prob": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 10.0,
+          "debuff": 1.5,
+          "move_speed": -0.32,
+          "prob": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 15.0,
+          "debuff": 1.5,
+          "move_speed": -0.34,
+          "prob": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0,
+          "debuff": 1.5,
+          "move_speed": -0.36,
+          "prob": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0,
+          "debuff": 1.5,
+          "move_speed": -0.38,
+          "prob": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "debuff": 1.5,
+          "move_speed": -0.4,
+          "prob": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0,
+          "debuff": 1.5,
+          "move_speed": -0.42,
+          "prob": 0.25
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "debuff": 2.0,
+          "move_speed": -0.44,
+          "prob": 0.3
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "debuff": 2.0,
+          "move_speed": -0.46,
+          "prob": 0.35
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "debuff": 2.0,
+          "move_speed": -0.5,
+          "prob": 0.4
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>；每次攻击使命中目标移动速度<@ba.vup>-{-move_speed:0%}</>，并有<@ba.vup>{prob:0%}</>的几率使其<$ba.root>束缚</><@ba.vup>{debuff}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "凝冰枪刃",
+        "prefabId": "skchr_frostl_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

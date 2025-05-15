@@ -1,0 +1,857 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "3302": 6
+      },
+      {
+        "30043": 3,
+        "31083": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以通过击倒敌人生成<@ba.kw>召唤物</>，可攻击到自身<@ba.kw>召唤物</>阻挡的敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 35,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "特克诺",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 254,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 28,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 687,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 348,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 42,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 955,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4164_tecno",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 348,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 42,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 955,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 58,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1241,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4164_tecno",
+        "evolveCost": {
+          "30012": 4,
+          "30032": 5,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 58,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1241,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 519,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1655,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4164_tecno",
+        "evolveCost": {
+          "31013": 14,
+          "31024": 7,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31064": 3,
+            "31073": 3,
+            "3303": 5
+          },
+          {
+            "31024": 3,
+            "31084": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_tecno_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 1,
+            "30044": 3,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31044": 5,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31074": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_tecno_2"
+      }
+    ],
+    "subProfessionId": "soulcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "max_token_cnt": 2.0
+          },
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在2个），木偶舞者攻击造成法术伤害",
+          "name": "即兴制偶",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10042_tecno_puppet",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "max_token_cnt": 3.0
+          },
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在3个），木偶舞者攻击造成法术伤害",
+          "name": "即兴制偶",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10042_tecno_puppet",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "max_token_cnt": 5.0
+          },
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+          "name": "即兴制偶",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10042_tecno_puppet",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": null,
+          "name": null,
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": null,
+          "name": null,
+          "prefabKey": "3",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 37
+      },
+      "Idle": 140,
+      "Skill_2_Begin": 8,
+      "Skill_2_End": 12,
+      "Skill_2_Idle": 36,
+      "Skill_2_Loop": {
+        "OnAttack": 20,
+        "duration": 39
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_tecno_1": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "block_cnt": 1.0,
+          "def": 0.7,
+          "max_hp": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "block_cnt": 1.0,
+          "def": 0.7,
+          "max_hp": 0.23
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "block_cnt": 1.0,
+          "def": 0.7,
+          "max_hp": 0.26
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "max_hp": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "max_hp": 0.33
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "max_hp": 0.36
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "block_cnt": 1.0,
+          "def": 0.9,
+          "max_hp": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.43,
+          "block_cnt": 1.0,
+          "def": 0.9,
+          "max_hp": 0.43
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.46,
+          "block_cnt": 1.0,
+          "def": 0.9,
+          "max_hp": 0.46
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "block_cnt": 1.0,
+          "def": 1.0,
+          "max_hp": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，木偶舞者的阻挡数<@ba.vup>+{block_cnt}</>，生命上限<@ba.vup>+{max_hp:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "关节锁定",
+        "prefabId": "skchr_tecno_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_tecno_2": [
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "tecno_s_2[token][mode].attack_speed": 40.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "tecno_s_2[token][mode].attack_speed": 45.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "tecno_s_2[token][mode].attack_speed": 50.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0,
+          "tecno_s_2[token][mode].attack_speed": 55.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 60.0,
+          "tecno_s_2[token][mode].attack_speed": 60.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 65.0,
+          "tecno_s_2[token][mode].attack_speed": 65.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 70.0,
+          "tecno_s_2[token][mode].attack_speed": 70.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 80.0,
+          "tecno_s_2[token][mode].attack_speed": 80.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 90.0,
+          "tecno_s_2[token][mode].attack_speed": 90.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 100.0,
+          "tecno_s_2[token][mode].attack_speed": 100.0
+        },
+        "description": "攻击范围扩大，自身和木偶舞者的攻击速度<@ba.vup>+{attack_speed}</>，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\\n<@ba.rem>技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "恣意挥洒",
+        "prefabId": "skchr_tecno_2",
+        "rangeId": "3-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

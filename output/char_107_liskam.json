@@ -1,0 +1,1155 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30033": 5,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "30093": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡三个敌人，可以进行远程攻击",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 45,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "雷蛇",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 219,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 18,
+            "def": 256,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1307,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 281,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 18,
+            "def": 383,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1743,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_107_liskam",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 281,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 383,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1743,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 352,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 518,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2324,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_107_liskam",
+        "evolveCost": {
+          "30012": 3,
+          "30022": 5,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 352,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 518,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2324,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 425,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 710,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3240,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_107_liskam",
+        "evolveCost": {
+          "30053": 15,
+          "30094": 7,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "2-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 3,
+            "30054": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_liskam_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_liskam_2"
+      }
+    ],
+    "subProfessionId": "shotprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "sp": 1.0
+          },
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力",
+          "name": "战术防御",
+          "prefabKey": "1",
+          "rangeId": "x-5",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "magic_resistance": 10.0
+          },
+          "description": "法术抗性+10",
+          "name": "雷抗",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 13.0
+          },
+          "description": "法术抗性+13<@ba.talpu>（+3）</>",
+          "name": "雷抗",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": null,
+    "options": null,
+    "spec": {
+      "tachr_107_liskam_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_liskam": {
+      "battle": null,
+      "charId": "char_107_liskam",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_liskam",
+      "uniEquipName": "雷蛇证章"
+    },
+    "uniequip_002_liskam": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "liskam_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 47.0,
+            "def": 38.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "liskam_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "extra_sp": 1.0,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "liskam_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术防御",
+                  "prefabKey": "1",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 52.0,
+            "def": 43.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "liskam_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "extra_sp": 1.0,
+                    "prob": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "liskam_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术防御",
+                  "prefabKey": "1",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_107_liskam",
+      "itemCost": {
+        "1": {
+          "30104": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30084": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "spt-x",
+      "uniEquipId": "uniequip_002_liskam",
+      "uniEquipName": "震撼存储"
+    }
+  },
+  "skill": {
+    "skchr_liskam_1": [
+      {
+        "blackboard": {
+          "def": 0.4,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.45,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.5,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.6,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.65,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.7,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.8,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.85,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.9,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.0,
+          "duration": 8.0
+        },
+        "description": "抵挡下一次伤害，在<@ba.vup>{duration}</>秒内防御力<@ba.vup>+{def:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "充能防御",
+        "prefabId": "skchr_liskam_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      }
+    ],
+    "skchr_liskam_2": [
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@buff_prob": 0.1,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@buff_prob": 0.1,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "attack@buff_prob": 0.1,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "attack@buff_prob": 0.15,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@buff_prob": 0.15,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.15,
+          "attack@buff_prob": 0.15,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.25,
+          "attack@buff_prob": 0.2,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@buff_prob": 0.2,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.75,
+          "attack@buff_prob": 0.2,
+          "attack@max_target": 3.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "attack@buff_prob": 0.25,
+          "attack@max_target": 4.0,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.7,
+          "stun": 5.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击对最多<@ba.vup>{attack@max_target}</>个敌人造成<@ba.vup>法术伤害</>，并有<@ba.vup>{attack@buff_prob:0%}</>概率使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒\\n<@ba.rem>持续时间结束后雷蛇<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "反击电弧",
+        "prefabId": "skchr_liskam_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      }
+    ]
+  }
+}

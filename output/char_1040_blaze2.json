@@ -1,0 +1,1267 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30063": 4,
+        "3302": 8
+      },
+      {
+        "30073": 5,
+        "31063": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "烛煌",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 324,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 52,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 668,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 928,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1040_blaze2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 928,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 556,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1206,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1040_blaze2",
+        "evolveCost": {
+          "30012": 12,
+          "30022": 5,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 556,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1206,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 662,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 131,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1608,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1040_blaze2",
+        "evolveCost": {
+          "30155": 4,
+          "31034": 2,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+31",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 31.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "31033": 9,
+            "3303": 8
+          },
+          {
+            "30104": 4,
+            "31064": 8,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31084": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blaze2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 6,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30044": 6,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31044": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blaze2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "31054": 9,
+            "31064": 4,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31074": 2,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blaze2_3"
+      }
+    ],
+    "subProfessionId": "primcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "ep_damage_scale": 2.5,
+            "hp_ratio": 0.06
+          },
+          "description": "全场有敌人<$ba.dt.burning2>灼燃损伤</>爆发开始时，立即对其造成相当于攻击力250%的元素伤害并回复6%最大生命",
+          "name": "熔点引爆",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_scale": 2.8,
+            "hp_ratio": 0.09
+          },
+          "description": "全场有敌人<$ba.dt.burning2>灼燃损伤</>爆发开始时，立即对其造成相当于攻击力280%<@ba.talpu>（+30%）</>的元素伤害并回复9%<@ba.talpu>（+3%）</>最大生命",
+          "name": "熔点引爆",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_scale": 3.5,
+            "hp_ratio": 0.12
+          },
+          "description": "全场有敌人<$ba.dt.burning2>灼燃损伤</>爆发开始时，立即对其造成相当于攻击力350%的元素伤害并回复12%最大生命",
+          "name": "熔点引爆",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_scale": 3.8,
+            "hp_ratio": 0.15
+          },
+          "description": "全场有敌人<$ba.dt.burning2>灼燃损伤</>爆发开始时，立即对其造成相当于攻击力380%<@ba.talpu>（+30%）</>的元素伤害并回复15%<@ba.talpu>（+3%）</>最大生命",
+          "name": "熔点引爆",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "dynamic": 6000.0,
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.03,
+            "stun": 5.0
+          },
+          "description": "被击倒时倒地并获得6000点<$ba.barrier>屏障</>，倒地期间不能攻击，无法被治疗，每秒回复3%生命；生命回满后复活并使附近的敌人<$ba.stun>晕眩</>5秒",
+          "name": "绝处重燃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "dynamic": 6000.0,
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.035,
+            "stun": 5.0
+          },
+          "description": "被击倒时倒地并获得6000点<$ba.barrier>屏障</>，倒地期间不能攻击，无法被治疗，每秒回复3.5%<@ba.talpu>（+0.5%）</>生命，生命回满后复活并使附近的敌人<$ba.stun>晕眩</>5秒",
+          "name": "绝处重燃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": null,
+          "name": null,
+          "prefabKey": "3",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": null,
+          "name": null,
+          "prefabKey": "4",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 48
+      },
+      "Idle": 60,
+      "Revive_Begin": 30,
+      "Revive_End": {
+        "OnAttack": 24,
+        "duration": 24
+      },
+      "Revive_Idle": 52,
+      "Skill_1": {
+        "OnAttack": 14,
+        "duration": 38
+      },
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 13,
+        "duration": 75
+      },
+      "Skill_3_Begin": 12,
+      "Skill_3_End": 30,
+      "Skill_3_Loop": 48,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_blaze2_1": [
+      {
+        "blackboard": {
+          "atk_scale": 0.35,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.43,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.46,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.49,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.52,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.55,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.6,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.65,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7,
+          "element_multiplier": 0.3,
+          "interval": 1.0,
+          "max_duration": 20.0,
+          "range_radius": 1.5
+        },
+        "description": "立即选择攻击范围内生命上限最高的一名干员，每秒对其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_multiplier:0%}</>的<$ba.dt.burning2>灼燃损伤</>，持续{max_duration}秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炙手之援",
+        "prefabId": "skchr_blaze2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_blaze2_2": [
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "atk_scale": 0.35,
+          "attack@hp_ratio": 0.05,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.9,
+          "element_damage_scale": 0.3,
+          "move_speed": -0.5
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>名敌人；攻击时流失<@ba.vdown>{attack@hp_ratio:0%}</>的生命并在目标所在位置留下灼烧地段：经过的敌人移动速度<@ba.vup>{move_speed:0%}</>，每秒受到烛煌攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和相当于法术伤害<@ba.vup>{element_damage_scale:0%}</>的<$ba.dt.burning2>灼燃损伤</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "沸血燎原",
+        "prefabId": "skchr_blaze2_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_blaze2_3": [
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.55,
+          "attack@atk_scale": 0.5,
+          "attack@trigger_time": 15.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.6,
+          "attack@atk_scale": 0.5,
+          "attack@trigger_time": 16.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.65,
+          "attack@atk_scale": 0.5,
+          "attack@trigger_time": 17.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.7,
+          "attack@atk_scale": 0.6,
+          "attack@trigger_time": 18.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.75,
+          "attack@atk_scale": 0.6,
+          "attack@trigger_time": 19.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.8,
+          "attack@atk_scale": 0.6,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.85,
+          "attack@atk_scale": 0.7,
+          "attack@trigger_time": 21.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 0.95,
+          "attack@atk_scale": 0.7,
+          "attack@trigger_time": 23.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 1.05,
+          "attack@atk_scale": 0.7,
+          "attack@trigger_time": 25.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ammo_recover": 2.0,
+          "atk": 1.15,
+          "attack@atk_scale": 0.8,
+          "attack@trigger_time": 25.0,
+          "base_attack_time": -1.3,
+          "lose_hp_scale": 0.03,
+          "skill_max_trigger_time": -1.0
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩短</>，攻击变为群体攻击；若目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间则额外造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的元素伤害\\n<@ba.rem>自身每秒流失最大生命的{lose_hp_scale:0%}，攻击装有{attack@trigger_time}发弹药，全场有敌人进入<$ba.dt.burning2>灼燃损伤</>爆发时获得{ammo_recover}颗额外弹药，弹药打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "众恶的焚场",
+        "prefabId": "skchr_blaze2_3",
+        "rangeId": "4-11",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

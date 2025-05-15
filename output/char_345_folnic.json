@@ -1,0 +1,1052 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "31013": 4,
+        "3302": 6
+      },
+      {
+        "30053": 2,
+        "30073": 4,
+        "3303": 6
+      }
+    ],
+    "description": "恢复友方单位生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "亚叶",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 163,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 58,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 839,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 268,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1183,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_345_folnic",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 268,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1183,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 383,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 106,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1426,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_345_folnic",
+        "evolveCost": {
+          "30032": 5,
+          "30052": 2,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 383,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 106,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1426,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 479,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 133,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1585,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_345_folnic",
+        "evolveCost": {
+          "30054": 8,
+          "30063": 8,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30064": 2,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_folnic_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_folnic_2"
+      }
+    ],
+    "subProfessionId": "physician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.0,
+            "one_minus_status_resistance": -0.5
+          },
+          "description": "拥有<$ba.buffres>抵抗</>",
+          "name": "药物阻断技巧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 0.6,
+            "one_minus_status_resistance": -0.5
+          },
+          "description": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-40%",
+          "name": "药物阻断技巧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 0.5,
+            "one_minus_status_resistance": -0.5
+          },
+          "description": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-50%<@ba.talpu>（+10%）</>",
+          "name": "药物阻断技巧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 7,
+        "duration": 25
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 13,
+        "duration": 37
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_folnic_2": {
+        "attack_begin": 13,
+        "reset_attack": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_folnic": {
+      "battle": null,
+      "charId": "char_345_folnic",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_folnic",
+      "uniEquipName": "亚叶证章"
+    },
+    "uniequip_002_folnic": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 4.0,
+            "max_hp": 70.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "folnic_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "folnic_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.6,
+                    "damage_scale_aura": 0.85,
+                    "one_minus_status_resistance": -0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "药物阻断技巧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-15%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 0.5,
+                    "damage_scale_aura": 0.85,
+                    "one_minus_status_resistance": -0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "药物阻断技巧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-50%<@ba.talpu>（+10%）</>，攻击范围内的其他友方角色受到来自自然环境的伤害-15%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "folnic_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 6.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "folnic_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.6,
+                    "damage_scale_aura": 0.75,
+                    "one_minus_status_resistance": -0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "药物阻断技巧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-25%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 0.5,
+                    "damage_scale_aura": 0.75,
+                    "one_minus_status_resistance": -0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "药物阻断技巧",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "拥有<$ba.buffres>抵抗</>且受到来自自然环境的伤害-50%<@ba.talpu>（+10%）</>，攻击范围内的其他友方角色受到来自自然环境的伤害-25%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "folnic_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_345_folnic",
+      "itemCost": {
+        "1": {
+          "30074": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "phy-y",
+      "uniEquipId": "uniequip_002_folnic",
+      "uniEquipName": "母亲的领巾"
+    }
+  },
+  "skill": {
+    "skchr_folnic_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.2
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.25
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.3
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.35
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.4
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.45
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.5
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 0.6
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 0.7
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 0.8
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "最大剂量输注",
+        "prefabId": "skchr_folnic_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_folnic_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.0,
+          "attack@heal_scale": 0.8
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.1,
+          "attack@heal_scale": 0.85
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2,
+          "attack@heal_scale": 0.9
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.3,
+          "attack@heal_scale": 1.0
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "attack@heal_scale": 1.05
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.5,
+          "attack@heal_scale": 1.1
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.6,
+          "attack@heal_scale": 1.2
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.7,
+          "attack@heal_scale": 1.3
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.8,
+          "attack@heal_scale": 1.4
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.0,
+          "attack@heal_scale": 1.5
+        },
+        "description": "攻击变为射出复合药剂弹片（优先选择敌人），弹片击中时回复周围友方单位相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命，并对敌人造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "复合型药物弹片",
+        "prefabId": "skchr_folnic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

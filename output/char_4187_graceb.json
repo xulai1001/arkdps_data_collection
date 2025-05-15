@@ -1,0 +1,848 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "31093": 4,
+        "3302": 6
+      },
+      {
+        "30093": 1,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡两个敌人，可以造成<@ba.kw>元素伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "聆音",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 366,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 168,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1067,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 523,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 231,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1482,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4187_graceb",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 523,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 231,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1482,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 680,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 297,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1950,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4187_graceb",
+        "evolveCost": {
+          "30022": 2,
+          "30052": 4,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 680,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 22,
+            "def": 297,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1950,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 820,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 22,
+            "def": 350,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2600,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4187_graceb",
+        "evolveCost": {
+          "30083": 14,
+          "31074": 7,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30093": 3,
+            "31074": 3,
+            "3303": 5
+          },
+          {
+            "31014": 6,
+            "31084": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31094": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_graceb_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 3,
+            "31023": 3,
+            "3303": 5
+          },
+          {
+            "31044": 3,
+            "31094": 6,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_graceb_2"
+      }
+    ],
+    "subProfessionId": "primguard",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "atk_bonus": 0.1
+          },
+          "description": "攻击力+5%，击倒过处于<$ba.dt.neural2>神经损伤</>爆发期间的敌人后改为攻击力+10%",
+          "name": "趁势怜悯",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.08,
+            "atk_bonus": 0.13
+          },
+          "description": "攻击力+8%<@ba.talpu>（+3%）</>，击倒过处于<$ba.dt.neural2>神经损伤</>爆发期间的敌人后改为攻击力+13%<@ba.talpu>（+3%）</>",
+          "name": "趁势怜悯",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "atk_bonus": 0.15
+          },
+          "description": "攻击力+10%，击倒过处于<$ba.dt.neural2>神经损伤</>爆发期间的敌人后改为攻击力+15%",
+          "name": "趁势怜悯",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.13,
+            "atk_bonus": 0.18
+          },
+          "description": "攻击力+13%<@ba.talpu>（+3%）</>，击倒过处于<$ba.dt.neural2>神经损伤</>爆发期间的敌人后改为攻击力+18%<@ba.talpu>（+3%）</>",
+          "name": "趁势怜悯",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 43
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 6,
+      "Skill_1_End": 8,
+      "Skill_1_Idle": 60,
+      "Skill_1_Loop": {
+        "OnAttack": 33,
+        "duration": 50
+      },
+      "Skill_2": {
+        "OnAttack": 5,
+        "duration": 41
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_graceb_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.0,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.05,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.1,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.15,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.25,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.3,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.35,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.5,
+          "ep_damage_ratio": 0.1,
+          "mode": 1.0
+        },
+        "description": "攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，攻击附带造成伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "开颅挽歌",
+        "prefabId": "skchr_graceb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_graceb_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.05,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "ct": 1.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "ct": 2.0,
+          "max_target": 5.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "ct": 2.0,
+          "max_target": 6.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "ct": 2.0,
+          "max_target": 6.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "ct": 2.0,
+          "max_target": 6.0
+        },
+        "description": "立即对周围最多<@ba.vup>{max_target}</>名地面敌人造成三次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，若目标处于<$ba.dt.neural2>神经损伤</>爆发期间则改为造成元素伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "破膛弥撒",
+        "prefabId": "skchr_graceb_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

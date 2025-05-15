@@ -1,0 +1,1217 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 6,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30022": 5,
+        "3302": 8
+      },
+      {
+        "30032": 4,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "31063": 5,
+        "3302": 8
+      },
+      {
+        "30103": 5,
+        "31083": 1,
+        "3303": 8
+      }
+    ],
+    "description": "持有<@ba.kw>回旋投射物</>时才能够攻击（投射物需要时间回收）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "娜仁图亚",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 229,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 60,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1064,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 382,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1520,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4138_narant",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 382,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1520,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 144,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2000,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4138_narant",
+        "evolveCost": {
+          "30042": 4,
+          "30052": 7,
+          "3241": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-7"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 144,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2000,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 675,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 170,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2500,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4138_narant",
+        "evolveCost": {
+          "30125": 4,
+          "31014": 7,
+          "3243": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-7"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30064": 4,
+            "31063": 1,
+            "3303": 8
+          },
+          {
+            "31034": 7,
+            "31074": 4,
+            "3303": 12
+          },
+          {
+            "30054": 2,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_narant_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 7,
+            "30094": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "31064": 10,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31084": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_narant_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 6,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "31034": 4,
+            "31044": 7,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31054": 1,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_narant_3"
+      }
+    ],
+    "subProfessionId": "loopshooter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@steal_atk": 15.0,
+            "attack@steal_atk_max": 150.0,
+            "attack@steal_def": 10.0,
+            "attack@steal_def_max": 100.0
+          },
+          "description": "在场时，每次攻击到敌人<$ba.steal>偷取</>其15点攻击力（最高150点）与10点防御力（最高100点）",
+          "name": "“我见，我得”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_atk": 17.0,
+            "attack@steal_atk_max": 170.0,
+            "attack@steal_def": 11.0,
+            "attack@steal_def_max": 110.0
+          },
+          "description": "在场时，每次攻击到敌人<$ba.steal>偷取</>其17<@ba.talpu>（+2）</>点攻击力（最高170<@ba.talpu>（+20）</>点）与11<@ba.talpu>（+1）</>点防御力（最高110<@ba.talpu>（+10）</>点）",
+          "name": "“我见，我得”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_atk": 25.0,
+            "attack@steal_atk_max": 250.0,
+            "attack@steal_def": 20.0,
+            "attack@steal_def_max": 200.0
+          },
+          "description": "在场时，每次攻击到敌人<$ba.steal>偷取</>其25点攻击力（最高250点）与20点防御力（最高200点）",
+          "name": "“我见，我得”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@steal_atk": 27.0,
+            "attack@steal_atk_max": 270.0,
+            "attack@steal_def": 21.0,
+            "attack@steal_def_max": 210.0
+          },
+          "description": "在场时，每次攻击到敌人<$ba.steal>偷取</>其27<@ba.talpu>（+2）</>点攻击力（最高270<@ba.talpu>（+20）</>点）与21<@ba.talpu>（+1）</>点防御力（最高210<@ba.talpu>（+10）</>点）",
+          "name": "“我见，我得”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "damage_hitrate_magical": -0.2,
+            "damage_hitrate_physical": -0.2,
+            "prob": 0.35
+          },
+          "description": "获得35%的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%",
+          "name": "婀娜虚影",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_hitrate_magical": -0.2,
+            "damage_hitrate_physical": -0.2,
+            "prob": 0.38
+          },
+          "description": "获得38%<@ba.talpu>（+3%）</>的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%",
+          "name": "婀娜虚影",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {},
+        "overrideDescripton": "持有<@ba.kw>回旋投射物</>时才能够攻击（投射物需要时间回收）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 30
+      },
+      "Attack_Down": {
+        "OnAttack": 16,
+        "duration": 30
+      },
+      "Idle": 168,
+      "Skill_1": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_2_Begin": 5,
+      "Skill_2_End": 5,
+      "Skill_2_Idle": 42,
+      "Skill_2_Loop": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 5,
+      "Skill_3_Idle": 42,
+      "Skill_3_Loop": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Skill_Down_1": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_Down_2_Begin": 5,
+      "Skill_Down_2_End": 5,
+      "Skill_Down_2_Idle": 42,
+      "Skill_Down_2_Loop": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill_Down_3_Begin": 5,
+      "Skill_Down_3_End": 5,
+      "Skill_Down_3_Idle": 42,
+      "Skill_Down_3_Loop": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_narant_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.2,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.25,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.3,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.4,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.45,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.5,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.6,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.7,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.8,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": -1.0,
+          "attack@atk_scale": 1.9,
+          "attack@times": 3.0
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击距离<@ba.vdown>-1</>，回旋投射物造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害，并且可以在敌人间重复弹射（最多弹跳<@ba.vup>{attack@times}</>次）",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "旋刃",
+        "prefabId": "skchr_narant_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_narant_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.9,
+          "attack@atk_scale_comeback": 1.4,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.0,
+          "attack@atk_scale_comeback": 1.45,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.05,
+          "attack@atk_scale_comeback": 1.5,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.1,
+          "attack@atk_scale_comeback": 1.55,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.15,
+          "attack@atk_scale_comeback": 1.6,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.2,
+          "attack@atk_scale_comeback": 1.65,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.25,
+          "attack@atk_scale_comeback": 1.7,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.3,
+          "attack@atk_scale_comeback": 1.8,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.4,
+          "attack@atk_scale_comeback": 1.9,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.5,
+          "attack@atk_scale_comeback": 2.0,
+          "attack@move_ahead_time": 0.5,
+          "attack@projectile_range": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力<@ba.vup>{attack@atk_scale_comeback:0%}</>的物理伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "恶魇",
+        "prefabId": "skchr_narant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_narant_3": [
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.2,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.3,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.2,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.35,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.2,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.4,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.3,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.45,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.3,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.5,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.3,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.55,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.4,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.6,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.45,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.65,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.5,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.7,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 19,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_aoe": 1.6,
+          "attack@aoe.max_target": 3.0,
+          "attack@atk_scale": 1.75,
+          "cnt": 3.0,
+          "sluggish": 1.0
+        },
+        "description": "每次攻击发射<@ba.vup>{cnt}</>个回旋投射物（每个造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多<@ba.vup>{attack@aoe.max_target}</>名敌人造成一次相当于攻击力<@ba.vup>{atk_scale_AOE:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "吞日",
+        "prefabId": "skchr_narant_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

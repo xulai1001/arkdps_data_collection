@@ -1,0 +1,1209 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31043": 4,
+        "3302": 6
+      },
+      {
+        "31053": 3,
+        "31083": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多3个）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 130,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "戴菲恩",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 541,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 667,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 773,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 82,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 954,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4110_delphn",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-13"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 773,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 82,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 954,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1004,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 114,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1240,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4110_delphn",
+        "evolveCost": {
+          "30012": 4,
+          "30062": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-14"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 1004,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 114,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1240,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1240,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1532,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4110_delphn",
+        "evolveCost": {
+          "31043": 10,
+          "31084": 8,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-14"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30093": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "31014": 5,
+            "31044": 3,
+            "3303": 6
+          },
+          {
+            "30155": 4,
+            "31034": 2,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_delphn_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31044": 3,
+            "31063": 4,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31064": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_delphn_2"
+      }
+    ],
+    "subProfessionId": "mystic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.1,
+            "hp_ratio": 0.8
+          },
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高10%",
+          "name": "濯洗剑锋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.12,
+            "hp_ratio": 0.8
+          },
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高12%<@ba.talpu>（+2%）</>",
+          "name": "濯洗剑锋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.18,
+            "hp_ratio": 0.8
+          },
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高18%",
+          "name": "濯洗剑锋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.2,
+            "hp_ratio": 0.8
+          },
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高20%<@ba.talpu>（+2%）</>",
+          "name": "濯洗剑锋",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.2,
+            "times_2": 1.0
+          },
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量",
+          "name": "挥斩敌愁",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "times": 3.0,
+          "times_2": 0.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 90
+      },
+      "Charge": {
+        "OnAttack": 16,
+        "duration": 90
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 20,
+      "Skill_1_End": 20,
+      "Skill_1_Loop": 60,
+      "Skill_2_Begin": 20,
+      "Skill_2_Charge": {
+        "OnAttack": 18,
+        "duration": 90
+      },
+      "Skill_2_End": 20,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 18,
+        "duration": 90
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_delphn": {
+      "battle": null,
+      "charId": "char_4110_delphn",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_delphn",
+      "uniEquipName": "戴菲恩证章"
+    },
+    "uniequip_002_delphn": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 95.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "delphn_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "delphn_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.21,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "濯洗剑锋",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击生命值高于80%的敌人时造成的伤害提高21%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.23,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "濯洗剑锋",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击生命值高于80%的敌人时造成的伤害提高23%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 92.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拥有已储存的攻击能量时，攻击速度+30",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "delphn_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.23,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "濯洗剑锋",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击生命值高于80%的敌人时造成的伤害提高23%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.25,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "濯洗剑锋",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击生命值高于80%的敌人时造成的伤害提高25%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4110_delphn",
+      "itemCost": {
+        "1": {
+          "31014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "msc-y",
+      "uniEquipId": "uniequip_002_delphn",
+      "uniEquipName": "正义黯淡"
+    }
+  },
+  "skill": {
+    "skchr_delphn_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.3,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.31,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.32,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.35,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.36,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.37,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.4,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.43,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.46,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.5,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "“贯注”",
+        "prefabId": "skchr_delphn_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_delphn_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@damage_addition": 0.06,
+          "attack@max_cnt": 0.24,
+          "damage_addition": 0.06,
+          "max_cnt": 0.24
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，不再以生命值低于<@ba.vup>50%</>的敌人为目标，攻击会使命中目标每秒受到<@ba.vup>{damage_addition:0%}</>戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“抢攻”",
+        "prefabId": "skchr_delphn_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

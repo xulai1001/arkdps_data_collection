@@ -1,0 +1,1114 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30051": 3,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 3
+      },
+      {
+        "30012": 4,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3302": 3
+      },
+      {
+        "30013": 3,
+        "3303": 4
+      }
+    ],
+    "description": "同时恢复三个友方单位的生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 25,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 150,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "调香师",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 117,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 69,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 710,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 189,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 92,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 960,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_181_flower",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 189,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 92,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 960,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 256,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1232,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_181_flower",
+        "evolveCost": {
+          "30032": 1,
+          "30052": 1,
+          "3261": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 256,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1232,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 320,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 145,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1560,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_181_flower",
+        "evolveCost": {
+          "30053": 8,
+          "30073": 19,
+          "3262": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+19",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 19.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 1,
+            "30103": 3,
+            "3303": 2
+          },
+          {
+            "30024": 2,
+            "30044": 2,
+            "3303": 4
+          },
+          {
+            "30094": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_heal_up[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 5,
+            "30034": 1,
+            "3303": 2
+          },
+          {
+            "30034": 2,
+            "30054": 2,
+            "3303": 4
+          },
+          {
+            "30064": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_flower_2"
+      }
+    ],
+    "subProfessionId": "ringhealer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_to_hp_recovery_ratio": 0.03
+          },
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力3%的生命",
+          "name": "熏衣草",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_to_hp_recovery_ratio": 0.035
+          },
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力3.5%<@ba.talpu>（+0.5%）</>的生命",
+          "name": "熏衣草",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_to_hp_recovery_ratio": 0.05
+          },
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5%的生命",
+          "name": "熏衣香",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_to_hp_recovery_ratio": 0.055
+          },
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5.5%<@ba.talpu>（+0.5%）</>的生命",
+          "name": "熏衣香",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 30,
+        "duration": 90
+      },
+      "Idle": 90,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "uniequip_002_flower": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_flower": {
+      "battle": null,
+      "charId": "char_181_flower",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_flower",
+      "uniEquipName": "调香师证章"
+    },
+    "uniequip_002_flower": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 55.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "flower_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 75.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "flower_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_to_hp_recovery_ratio": 0.06
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熏衣香",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在战场时全体友方单位每秒恢复相当于调香师攻击力6%的生命"
+                },
+                {
+                  "blackboard": {
+                    "atk_to_hp_recovery_ratio": 0.065
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熏衣香",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在战场时全体友方单位每秒恢复相当于调香师攻击力6.5%<@ba.talpu>（+0.5%）</>的生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "flower_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_to_hp_recovery_ratio": 0.065
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熏衣香",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在战场时全体友方单位每秒恢复相当于调香师攻击力6.5%的生命"
+                },
+                {
+                  "blackboard": {
+                    "atk_to_hp_recovery_ratio": 0.07
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熏衣香",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在战场时全体友方单位每秒恢复相当于调香师攻击力7%<@ba.talpu>（+0.5%）</>的生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_181_flower",
+      "itemCost": {
+        "1": {
+          "30043": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30073": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "rin-y",
+      "uniEquipId": "uniequip_002_flower",
+      "uniEquipName": "“爱琴之吻”"
+    }
+  },
+  "skill": {
+    "skchr_flower_2": [
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.9,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.1,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.2,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.3,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.5,
+          "attack_speed": -50.0
+        },
+        "description": "攻击速度<@ba.vdown>-{-attack_speed}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "精调",
+        "prefabId": "skchr_flower_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_heal_up[2]": [
+      {
+        "blackboard": {
+          "atk": 0.15
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "治疗强化·β型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

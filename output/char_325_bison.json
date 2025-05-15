@@ -1,0 +1,1055 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30023": 5,
+        "3302": 6
+      },
+      {
+        "30033": 3,
+        "30083": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡三个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 80,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "拜松",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 198,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 245,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1475,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 254,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 367,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1941,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_325_bison",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 254,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 367,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1941,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 318,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 504,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2522,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_325_bison",
+        "evolveCost": {
+          "30012": 4,
+          "30032": 5,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 318,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 24,
+            "def": 504,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2522,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 375,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 24,
+            "def": 701,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3456,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_325_bison",
+        "evolveCost": {
+          "30094": 7,
+          "30103": 11,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 4,
+            "30034": 3,
+            "3303": 5
+          },
+          {
+            "30034": 5,
+            "30054": 3,
+            "3303": 6
+          },
+          {
+            "30084": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_def_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 1,
+            "30044": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30064": 2,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bison_2"
+      }
+    ],
+    "subProfessionId": "protector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def": 25.0
+          },
+          "description": "在场时自身防御力+25，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+          "name": "交叉掩护",
+          "prefabKey": "1",
+          "rangeId": "b-1",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 45.0
+          },
+          "description": "在场时自身防御力+45<@ba.talpu>（+20）</>，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+          "name": "交叉掩护",
+          "prefabKey": "1",
+          "rangeId": "b-1",
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 50.0
+          },
+          "description": "在场时自身防御力+50，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+          "name": "交叉掩护",
+          "prefabKey": "1",
+          "rangeId": "b-1",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 70.0
+          },
+          "description": "在场时自身防御力+70<@ba.talpu>（+20）</>，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+          "name": "交叉掩护",
+          "prefabKey": "1",
+          "rangeId": "b-1",
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 35
+      },
+      "Idle": 120,
+      "Skill": 20,
+      "Skill_Begin": 4,
+      "Skill_End": 4,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "block"
+      ]
+    },
+    "spec": {
+      "uniequip_002_bison": {
+        "defer": true,
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_bison": {
+      "battle": null,
+      "charId": "char_325_bison",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_bison",
+      "uniEquipName": "拜松证章"
+    },
+    "uniequip_002_bison": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 60.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bison_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 75.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bison_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 60.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "交叉掩护",
+                  "prefabKey": "1",
+                  "rangeId": "b-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身防御力+60，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+                },
+                {
+                  "blackboard": {
+                    "def": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "交叉掩护",
+                  "prefabKey": "1",
+                  "rangeId": "b-1",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身防御力+80<@ba.talpu>（+20）</>，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 85.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "bison_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "交叉掩护",
+                  "prefabKey": "1",
+                  "rangeId": "b-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身防御力+80，自己身后的干员也能享受到相同效果"
+                },
+                {
+                  "blackboard": {
+                    "def": 100.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "交叉掩护",
+                  "prefabKey": "1",
+                  "rangeId": "b-1",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身防御力+100<@ba.talpu>（+20）</>，自己身后的干员也能享受到相同效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bison_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_325_bison",
+      "itemCost": {
+        "1": {
+          "30044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30074": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30094": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "pro-x",
+      "uniEquipId": "uniequip_002_bison",
+      "uniEquipName": "“一路以来”"
+    }
+  },
+  "skill": {
+    "skchr_bison_2": [
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.15,
+          "bison_s_2[self].def": 0.5,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.15,
+          "bison_s_2[self].def": 0.55,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.15,
+          "bison_s_2[self].def": 0.6,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.2,
+          "bison_s_2[self].def": 0.65,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.2,
+          "bison_s_2[self].def": 0.7,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.2,
+          "bison_s_2[self].def": 0.75,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.25,
+          "bison_s_2[self].def": 0.8,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.25,
+          "bison_s_2[self].def": 0.9,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.25,
+          "bison_s_2[self].def": 1.0,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "bison_s_2[ally].def": 0.3,
+          "bison_s_2[self].def": 1.2,
+          "bison_s_2[self].taunt_level": 1.0
+        },
+        "description": "停止攻击敌人；防御力<@ba.vup>+{bison_s_2[self].def:0%}</>，周围4格内的其余友方单位防御力<@ba.vup>+{bison_s_2[ally].def:0%}</>，自身更容易受到敌人攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "深化阵线",
+        "prefabId": "skchr_bison_2",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_def_up[3]": [
+      {
+        "blackboard": {
+          "def": 0.3
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.35
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.4
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.45
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.5
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.55
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.6
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.75
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.9
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.0
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "防御力强化·γ型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

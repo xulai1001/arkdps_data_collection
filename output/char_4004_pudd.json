@@ -1,0 +1,1011 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30011": 5,
+        "3301": 2
+      },
+      {
+        "30022": 2,
+        "3302": 3
+      },
+      {
+        "30032": 3,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3302": 3
+      },
+      {
+        "31033": 3,
+        "3303": 4
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>3</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "凭证交易所",
+    "name": "布丁",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 241,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 39,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 542,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 345,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 775,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4004_pudd",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 345,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 775,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 91,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1007,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4004_pudd",
+        "evolveCost": {
+          "30022": 1,
+          "30052": 1,
+          "3251": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 91,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1007,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 542,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1326,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4004_pudd",
+        "evolveCost": {
+          "30103": 11,
+          "31054": 3,
+          "3252": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "31034": 1,
+            "3303": 2
+          },
+          {
+            "30044": 1,
+            "30064": 2,
+            "3303": 4
+          },
+          {
+            "30104": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_magic_rage[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 4,
+            "31054": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "30074": 2,
+            "3303": 4
+          },
+          {
+            "30145": 2,
+            "31054": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pudd_2"
+      }
+    ],
+    "subProfessionId": "chain",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.08
+          },
+          "description": "攻击力+8%",
+          "name": "电磁波",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1
+          },
+          "description": "攻击力+10%",
+          "name": "电磁波",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@max_target": 3.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>（精英2后更新）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 4.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 40
+      },
+      "Idle": 200,
+      "Skill": {
+        "OnAttack": 12,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "tachr_4004_pudd_1": {
+        "cloneable": true
+      },
+      "uniequip_002_pudd": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_pudd": {
+      "battle": null,
+      "charId": "char_4004_pudd",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_pudd",
+      "uniEquipName": "布丁证章"
+    },
+    "uniequip_002_pudd": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 4.0,
+            "max_hp": 70.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "电磁波",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+13%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.16
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "电磁波",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+16%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4004_pudd",
+      "itemCost": {
+        "1": {
+          "30063": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30013": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "cha-y",
+      "uniEquipId": "uniequip_002_pudd",
+      "uniEquipName": "便携测电设备"
+    }
+  },
+  "skill": {
+    "skchr_pudd_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@max_target": 4.0
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，攻击可在敌人间重复跳跃，最多弹跳<@ba.vup>{attack@max_target}</>次",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "扩散电流",
+        "prefabId": "skchr_pudd_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_magic_rage[2]": [
+      {
+        "blackboard": {
+          "attack_speed": 15.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 65.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 75.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

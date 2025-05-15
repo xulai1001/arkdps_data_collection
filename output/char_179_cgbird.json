@@ -1,0 +1,1721 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 5,
+        "30051": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30093": 5,
+        "3302": 8
+      },
+      {
+        "30033": 5,
+        "30103": 3,
+        "3303": 8
+      }
+    ],
+    "description": "同时恢复三个友方单位的生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "夜莺",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 132,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 796,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 210,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1076,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_179_cgbird",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 210,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1076,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 280,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 140,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1346,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_179_cgbird",
+        "evolveCost": {
+          "30042": 3,
+          "30062": 6,
+          "3261": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 280,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 140,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1346,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 350,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 169,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1705,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_179_cgbird",
+        "evolveCost": {
+          "30054": 6,
+          "30135": 4,
+          "3263": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAGIC_RESISTANCE",
+        "description": "法术抗性+10",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 10.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 6
+          },
+          {
+            "30024": 7,
+            "30044": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_heal_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 4,
+            "30103": 5,
+            "3303": 6
+          },
+          {
+            "30034": 7,
+            "30054": 4,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cgbird_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 8,
+            "30034": 4,
+            "3303": 6
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30084": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cgbird_3"
+      }
+    ],
+    "subProfessionId": "ringhealer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "magic_resistance": 5.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+5",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 7.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+7<@ba.talpu>（+2）</>",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 10.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+10",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 12.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+12<@ba.talpu>（+2）</>",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 15.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+15",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 17.0
+          },
+          "description": "攻击范围内的友方单位法术抗性+17<@ba.talpu>（+2）</>",
+          "name": "白恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命",
+          "name": "转瞬即逝的幻影",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10003_cgbird_bird",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 27,
+        "duration": 90
+      },
+      "Idle": 120,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_cgbird_2": {
+        "damage_type": 2
+      },
+      "uniequip_002_cgbird": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_cgbird": {
+      "battle": null,
+      "charId": "char_179_cgbird",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_cgbird",
+      "uniEquipName": "夜莺证章"
+    },
+    "uniequip_002_cgbird": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "magic_resistance": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "y-3",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "magic_resistance": 5.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "y-3",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale": 1.03,
+                    "magic_resistance": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "白恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale": 1.03,
+                    "magic_resistance": 17.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "白恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位法术抗性+17<@ba.talpu>（+2）</>且受到的治疗效果提升3%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "magic_resistance": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "y-3",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale": 1.05,
+                    "magic_resistance": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "白恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale": 1.05,
+                    "magic_resistance": 17.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "白恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位法术抗性+17<@ba.talpu>（+2）</>且受到的治疗效果提升5%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_179_cgbird",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "rin-x",
+      "uniEquipId": "uniequip_002_cgbird",
+      "uniEquipName": "“封闭的希望”"
+    },
+    "uniequip_003_cgbird": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0,
+                    "skill@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 6.0,
+            "max_hp": 195.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "转瞬即逝的幻影",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10003_cgbird_bird",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命；夜莺部署时获得3个幻影"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0,
+                    "skill@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 7.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "同时恢复<@ba.kw>四</>个友方单位的生命",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "转瞬即逝的幻影",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10003_cgbird_bird",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，40%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命；夜莺部署时获得3个幻影"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 4.0,
+                    "skill@max_target": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cgbird_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.03,
+                    "max_deploy_count": 2.0,
+                    "prob": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "转瞬即逝的幻影",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "拥有75法术抗性，40%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_179_cgbird",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "rin-y",
+      "uniEquipId": "uniequip_003_cgbird",
+      "uniEquipName": "“莺歌”"
+    }
+  },
+  "skill": {
+    "skchr_cgbird_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "ct": 1.0,
+          "duration": 3.0,
+          "magic_resistance": 5.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.43,
+          "ct": 1.0,
+          "duration": 3.0,
+          "magic_resistance": 5.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.46,
+          "ct": 1.0,
+          "duration": 3.0,
+          "magic_resistance": 5.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "ct": 2.0,
+          "duration": 3.5,
+          "magic_resistance": 10.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.53,
+          "ct": 2.0,
+          "duration": 3.5,
+          "magic_resistance": 10.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.56,
+          "ct": 2.0,
+          "duration": 3.5,
+          "magic_resistance": 10.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.6,
+          "ct": 2.0,
+          "duration": 4.0,
+          "magic_resistance": 15.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7,
+          "ct": 3.0,
+          "duration": 4.0,
+          "magic_resistance": 15.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "ct": 3.0,
+          "duration": 4.0,
+          "magic_resistance": 15.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "ct": 3.0,
+          "duration": 5.0,
+          "magic_resistance": 20.0
+        },
+        "description": "下次治疗使所有目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障能吸收相当于夜莺攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术</>伤害，同时使目标法术抗性<@ba.vup>+{magic_resistance}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "法术护盾",
+        "prefabId": "skchr_cgbird_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_cgbird_3": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "magic_resistance": 0.75,
+          "prob": 0.1
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "magic_resistance": 0.8,
+          "prob": 0.1
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "magic_resistance": 0.85,
+          "prob": 0.1
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "magic_resistance": 0.9,
+          "prob": 0.15
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 105,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "magic_resistance": 0.95,
+          "prob": 0.15
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 105,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "magic_resistance": 1.0,
+          "prob": 0.15
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 105,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "magic_resistance": 1.05,
+          "prob": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 110,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "magic_resistance": 1.2,
+          "prob": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 110,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "magic_resistance": 1.35,
+          "prob": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 110,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "magic_resistance": 1.5,
+          "prob": 0.25
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击范围内的友方单位法术抗性<@ba.vup>+{magic_resistance:0%}</>并获得<@ba.vup>{prob:0%}</>的法术闪避",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "圣域",
+        "prefabId": "skchr_cgbird_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 115,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_heal_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "治疗强化·γ型",
+        "prefabId": "skcom_heal_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

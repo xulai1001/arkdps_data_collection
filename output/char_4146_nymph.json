@@ -1,0 +1,1144 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 4,
+        "30051": 6,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "31023": 6,
+        "3302": 8
+      },
+      {
+        "30033": 5,
+        "30063": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "妮芙",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 52,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 685,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 440,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 952,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4146_nymph",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 440,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 952,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 550,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1237,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4146_nymph",
+        "evolveCost": {
+          "30022": 6,
+          "30032": 8,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 550,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1237,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 655,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 129,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1650,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4146_nymph",
+        "evolveCost": {
+          "30064": 5,
+          "30115": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 4,
+            "31013": 3,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31044": 4,
+            "3303": 12
+          },
+          {
+            "30104": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nymph_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30064": 4,
+            "30073": 1,
+            "3303": 8
+          },
+          {
+            "31034": 7,
+            "31074": 4,
+            "3303": 12
+          },
+          {
+            "30054": 2,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nymph_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 4,
+            "31073": 5,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "31064": 10,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31084": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nymph_3"
+      }
+    ],
+    "subProfessionId": "primcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "element_atk_scale": 0.3
+          },
+          "description": "攻击处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间的敌人时使其每秒受到相当于攻击力30%的元素伤害，持续至<$ba.dt.apoptosis2>凋亡损伤</>爆发结束",
+          "name": "失魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "element_atk_scale": 0.4
+          },
+          "description": "攻击处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间的敌人时使其每秒受到相当于攻击力40%的元素伤害，持续至<$ba.dt.apoptosis2>凋亡损伤</>爆发结束",
+          "name": "失魂",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.02,
+            "max_stack_cnt": 10.0
+          },
+          "description": "每当自身攻击范围内敌人<$ba.dt.apoptosis2>凋亡损伤</>爆发，攻击力+2%，最多可叠加10层",
+          "name": "窥心钥",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.02,
+            "max_stack_cnt": 12.0
+          },
+          "description": "每当自身攻击范围内敌人<$ba.dt.apoptosis2>凋亡损伤</>爆发，攻击力+2%，最多可叠加12<@ba.talpu>（+2）</>层",
+          "name": "窥心钥",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 48
+      },
+      "Idle": 100,
+      "Skill_2": {
+        "OnAttack": 14,
+        "duration": 33
+      },
+      "Skill_3_Attack": {
+        "OnAttack": 16,
+        "duration": 48
+      },
+      "Skill_3_Begin": 8,
+      "Skill_3_End": 5,
+      "Skill_3_Idle": 100,
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_nymph_1": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@ep_damage_ratio": 0.1,
+          "attack@extra_ep_damage_scale": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@extra_ep_damage_scale": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@extra_ep_damage_scale": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@extra_ep_damage_scale": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击附带造成法术伤害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间则对其额外造成相当于攻击力<@ba.vup>{attack@extra_ep_damage_scale:0%}</>的元素伤害",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "笞心击",
+        "prefabId": "skchr_nymph_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nymph_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "ct": 1.0,
+          "element_atk_scale": 0.6,
+          "ep_damage_ratio": 0.16,
+          "fear": 3.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "ct": 1.0,
+          "element_atk_scale": 0.6,
+          "ep_damage_ratio": 0.16,
+          "fear": 3.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "ct": 1.0,
+          "element_atk_scale": 0.6,
+          "ep_damage_ratio": 0.18,
+          "fear": 3.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "ct": 1.0,
+          "element_atk_scale": 0.7,
+          "ep_damage_ratio": 0.18,
+          "fear": 4.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "ct": 1.0,
+          "element_atk_scale": 0.75,
+          "ep_damage_ratio": 0.2,
+          "fear": 4.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "ct": 1.0,
+          "element_atk_scale": 0.8,
+          "ep_damage_ratio": 0.2,
+          "fear": 4.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "ct": 2.0,
+          "element_atk_scale": 0.85,
+          "ep_damage_ratio": 0.22,
+          "fear": 5.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "ct": 2.0,
+          "element_atk_scale": 0.9,
+          "ep_damage_ratio": 0.22,
+          "fear": 5.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "ct": 2.0,
+          "element_atk_scale": 0.95,
+          "ep_damage_ratio": 0.25,
+          "fear": 5.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "ct": 2.0,
+          "element_atk_scale": 1.0,
+          "ep_damage_ratio": 0.25,
+          "fear": 5.0,
+          "projectile_range": 1.5
+        },
+        "description": "对敌人造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、使其<$ba.fear>恐惧</><@ba.vup>{fear}</>秒，并对目标周围造成一次等额法术溅射伤害，均附带造成法术伤害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.apoptosis2>凋亡损伤</>；若攻击到的单位处于凋亡损伤爆发期间，使第一天赋造成的伤害效果提高至攻击力的<@ba.vup>{element_atk_scale:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "怵然震爆",
+        "prefabId": "skchr_nymph_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nymph_3": [
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 25.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 25.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 25.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 30.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 19,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 30.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 30.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 45.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.9,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 45.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.05,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 60.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.2,
+          "attack@magic_atk_scale": 0.0,
+          "attack@max_target": 2.0,
+          "attack@split_atk_scale": 1.0,
+          "attack_speed": 60.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，若目标处于<$ba.dt.apoptosis2>凋亡损伤</>爆发期间，攻击造成元素伤害",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "心防溃决",
+        "prefabId": "skchr_nymph_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 36,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

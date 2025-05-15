@@ -1,0 +1,998 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30053": 2,
+        "30073": 4,
+        "3303": 6
+      }
+    ],
+    "description": "同时攻击阻挡的<@ba.kw>所有敌人</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "周年奖励",
+    "name": "暴行",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 284,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1108,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 395,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 193,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1421,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_230_savage",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 395,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 193,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1421,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 535,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1822,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_230_savage",
+        "evolveCost": {
+          "30022": 4,
+          "30032": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 535,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1822,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 705,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 320,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2430,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_230_savage",
+        "evolveCost": {
+          "30014": 9,
+          "30023": 18,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+250",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 250.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "attributeType": "MAGIC_RESISTANCE",
+        "description": "法术抗性+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_savage_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_savage_2"
+      }
+    ],
+    "subProfessionId": "centurion",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "cnt": 2.0,
+            "def": 0.05
+          },
+          "description": "周围四格中有两格以上的高地地形时攻击力和防御力+5%",
+          "name": "山谷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "cnt": 2.0,
+            "def": 0.1
+          },
+          "description": "周围四格中有两格以上的高地地形时攻击力和防御力+10%",
+          "name": "山谷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 35
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 18,
+        "duration": 35
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_230_savage": {
+        "note": "潜能6暂未实装"
+      },
+      "skchr_savage_2": {
+        "attack_begin": 18,
+        "cast_time": 35
+      },
+      "tachr_230_savage_1": {
+        "cond": true
+      },
+      "uniequip_002_savage": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_savage": {
+      "battle": null,
+      "charId": "char_230_savage",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_savage",
+      "uniEquipName": "暴行证章"
+    },
+    "uniequip_002_savage": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 22.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "savage_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 27.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "savage_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.13,
+                    "cnt": 2.0,
+                    "def": 0.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "山谷",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格中有两格以上的高地地形时攻击力和防御力+13%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 30.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，攻击被阻挡的敌人攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "savage_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "cnt": 2.0,
+                    "def": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "山谷",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格中有两格以上的高地地形时攻击力和防御力+15%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_230_savage",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30064": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31034": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "cen-x",
+      "uniEquipId": "uniequip_002_savage",
+      "uniEquipName": "未竟的旅程"
+    }
+  },
+  "skill": {
+    "skchr_savage_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_savage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_savage_2": [
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "max_target": 3.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "max_target": 3.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "max_target": 3.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "max_target": 4.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4,
+          "max_target": 4.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "max_target": 4.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "max_target": 4.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.7,
+          "max_target": 5.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "max_target": 5.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "max_target": 5.0
+        },
+        "description": "对前方三格范围内至多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "微差爆破",
+        "prefabId": "skchr_savage_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ]
+  }
+}

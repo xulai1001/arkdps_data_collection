@@ -1,0 +1,1775 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "31043": 5,
+        "3302": 8
+      },
+      {
+        "30023": 4,
+        "31033": 6,
+        "3303": 8
+      }
+    ],
+    "description": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒<@ba.kw>消耗</>3点部署费用（不足时自动撤退）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 55,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "琳琅诗怀雅",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 386,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 235,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1146,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 530,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1509,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1033_swire2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 530,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1509,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 672,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 388,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1864,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1033_swire2",
+        "evolveCost": {
+          "30022": 8,
+          "30042": 5,
+          "3281": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 672,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 388,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1864,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 810,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 457,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2360,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1033_swire2",
+        "evolveCost": {
+          "30074": 6,
+          "30135": 4,
+          "3283": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 4,
+            "31013": 5,
+            "3303": 8
+          },
+          {
+            "31044": 8,
+            "31064": 4,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_swire2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30093": 6,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "30084": 4,
+            "30104": 7,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31064": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10031_swire2_gdtrap",
+        "skillId": "skchr_swire2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "31034": 4,
+            "3303": 8
+          },
+          {
+            "30054": 4,
+            "30084": 7,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31014": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_swire2_3"
+      }
+    ],
+    "subProfessionId": "merchant",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.0,
+            "max_stack_cnt": 0.0,
+            "sp": 0.0,
+            "trait_sp": 1.0
+          },
+          "description": "技能期间每次特性消耗费用时获得1枚金币（可用于技能消耗）",
+          "name": "大买家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.03,
+            "max_stack_cnt": 5.0,
+            "sp": 0.0,
+            "trait_sp": 1.0
+          },
+          "description": "技能期间每次特性消耗费用时获得1枚金币（可用于技能消耗），并提升自身3%的攻击力（最多叠加5次）",
+          "name": "大买家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.03,
+            "max_stack_cnt": 6.0,
+            "sp": 0.0,
+            "trait_sp": 1.0
+          },
+          "description": "技能期间每次特性消耗费用时获得1枚金币（可用于技能消耗），并提升自身3%的攻击力（最多叠加6<@ba.talpu>（+1）</>次）",
+          "name": "大买家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.04,
+            "max_stack_cnt": 8.0,
+            "sp": 1.0,
+            "trait_sp": 1.0
+          },
+          "description": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身4%的攻击力（最多叠加8次）",
+          "name": "大买家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.04,
+            "max_stack_cnt": 9.0,
+            "sp": 1.0,
+            "trait_sp": 1.0
+          },
+          "description": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身4%的攻击力（最多叠加9<@ba.talpu>（+1）</>次）",
+          "name": "大买家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "cost": -5.0,
+            "cost_multi": 2.0,
+            "hp_ratio": 0.7
+          },
+          "description": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到70%，每次触发该天赋时消耗的费用翻倍",
+          "name": "破财消灾",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": -5.0,
+            "cost_multi": 2.0,
+            "hp_ratio": 0.8
+          },
+          "description": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到80%<@ba.talpu>（+10%）</>，每次触发该天赋时消耗的费用翻倍",
+          "name": "破财消灾",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "cost": -3.0,
+          "interval": 3.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 6,
+        "duration": 30
+      },
+      "Idle": 120,
+      "Skill_1": {
+        "OnAttack": 6,
+        "duration": 30
+      },
+      "Skill_2": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Skill_3_Begin": 10,
+      "Skill_3_End": {
+        "OnAttack": 13,
+        "duration": 40
+      },
+      "Skill_3_Idle": 64,
+      "Skill_3_Loop": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 15,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": {
+        "text": "[s2]放置三秒",
+        "tooltip": "2技能-香槟3秒后2连击"
+      },
+      "tags": [
+        "stack",
+        "cond",
+        "swire2_s3_coin"
+      ]
+    },
+    "spec": {
+      "skchr_swire2_1": {
+        "attack_begin": 6,
+        "cast_time": 30,
+        "note": "以2s普攻计算"
+      },
+      "skchr_swire2_2": {
+        "attack_begin": 10,
+        "cast_time": 30,
+        "note": "以2s普攻计算"
+      },
+      "skchr_swire2_3": {
+        "times": 2
+      },
+      "tachr_1033_swire2_1": {
+        "stack": true
+      },
+      "uniequip_002_swire2": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_swire2": {
+      "battle": null,
+      "charId": "char_1033_swire2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_swire2",
+      "uniEquipName": "琳琅诗怀雅证章"
+    },
+    "uniequip_002_swire2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 35.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 43.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "max_stack_cnt": 8.0,
+                    "sp": 1.0,
+                    "trait_sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "大买家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加8次）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "max_stack_cnt": 9.0,
+                    "sp": 1.0,
+                    "trait_sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "大买家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加9<@ba.talpu>（+1）</>次）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 50.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "max_stack_cnt": 8.0,
+                    "sp": 2.0,
+                    "trait_sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "大买家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "开启技能时获得2枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加8次）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "max_stack_cnt": 9.0,
+                    "sp": 2.0,
+                    "trait_sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "大买家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "开启技能时获得2枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加9<@ba.talpu>（+1）</>次）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1033_swire2",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "mer-x",
+      "uniEquipId": "uniequip_002_swire2",
+      "uniEquipName": "“金币辉煌”"
+    },
+    "uniequip_003_swire2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 57.0,
+            "def": 44.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "interval": 3.0,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "swire2_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 71.0,
+            "def": 53.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -5.0,
+                    "cost_addition": -5.0,
+                    "hp_ratio": 0.7
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "破财消灾",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到70%，每次触发该天赋时消耗的费用增加5点"
+                },
+                {
+                  "blackboard": {
+                    "cost": -5.0,
+                    "cost_addition": -5.0,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "破财消灾",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到80%<@ba.talpu>（+10%）</>，每次触发该天赋时消耗的费用增加5点"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "swire2_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "interval": 3.0,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "swire2_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 81.0,
+            "def": 60.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -3.0,
+                    "cost_addition": -3.0,
+                    "hp_ratio": 0.7
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "破财消灾",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到致命伤害时，若费用足够则消耗3点部署费用使生命恢复到70%，每次触发该天赋时消耗的费用增加3点"
+                },
+                {
+                  "blackboard": {
+                    "cost": -3.0,
+                    "cost_addition": -3.0,
+                    "hp_ratio": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "破财消灾",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到致命伤害时，若费用足够则消耗3点部署费用使生命恢复到80%<@ba.talpu>（+10%）</>，每次触发该天赋时消耗的费用增加3点"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "swire2_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "interval": 3.0,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "swire2_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1033_swire2",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "mer-y",
+      "uniEquipId": "uniequip_003_swire2",
+      "uniEquipName": "诗怀雅的龙门美食指南"
+    }
+  },
+  "skill": {
+    "skchr_swire2_1": [
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "attack@sp": -1.0,
+          "sp": 1.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为1</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.3,
+          "attack@sp": -1.0,
+          "sp": 1.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为1</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.35,
+          "attack@sp": -1.0,
+          "sp": 1.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为1</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.4,
+          "attack@sp": -1.0,
+          "sp": 2.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为2</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.45,
+          "attack@sp": -1.0,
+          "sp": 2.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为2</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.5,
+          "attack@sp": -1.0,
+          "sp": 2.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为2</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.55,
+          "attack@sp": -1.0,
+          "sp": 2.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为2</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.6,
+          "attack@sp": -1.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.7,
+          "attack@sp": -1.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.8,
+          "attack@sp": -1.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币，下一次攻击会为周围八格内血量不足70%的一名友方单位恢复相当于攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命\\n<@ba.rem>携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "仗义疏财",
+        "prefabId": "skchr_swire2_1",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_swire2_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 3.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为3</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 4.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为4</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 4.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为4</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 5.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为5</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "attack@sp": -1.0,
+          "sluggish": 2.0,
+          "sp": 5.0
+        },
+        "description": "消耗<@ba.vup>一枚</>金币在范围内一个可放置且可通行的地面放置香槟炸弹，香槟炸弹会对触碰到的首个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒\\n<@ba.rem>香槟炸弹在场3秒后可额外造成一次伤害；携带此技能时金币上限为5</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“见面礼”",
+        "prefabId": "skchr_swire2_2",
+        "rangeId": "1-1",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_swire2_3": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.85,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 0.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>小力地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0,
+          "sp": 10.0
+        },
+        "description": "攻击变为二连击，击倒敌人时获得一枚金币；主动关闭技能时消耗<@ba.vup>所有</>金币对前方范围内敌人随机攻击，每消耗一枚金币造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并将目标<@ba.vup>中等力度地</>向前推开\\n<@ba.rem>持续时间无限，可随时主动关闭技能；携带此技能时金币上限为10</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "千金一掷",
+        "prefabId": "skchr_swire2_3",
+        "rangeId": "1-1",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

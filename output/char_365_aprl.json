@@ -1,0 +1,1038 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "优先攻击空中单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "四月",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 178,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 56,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 572,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 298,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 94,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 818,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_365_aprl",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 298,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 94,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 818,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 432,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1049,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_365_aprl",
+        "evolveCost": {
+          "30042": 4,
+          "30052": 2,
+          "3241": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 432,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 135,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1049,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 528,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1280,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_365_aprl",
+        "evolveCost": {
+          "30103": 9,
+          "31014": 9,
+          "3243": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aprl_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30014": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aprl_2"
+      }
+    ],
+    "subProfessionId": "fastshot",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": 0.0,
+            "respawn_time": -15.0
+          },
+          "description": "自身再部署时间-15秒",
+          "name": "熟练猎手",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": -1.0,
+            "respawn_time": -20.0
+          },
+          "description": "自身再部署时间-20秒，自身部署费用-1",
+          "name": "熟练猎手",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 30
+      },
+      "Idle": 120,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_aprl": {
+      "battle": null,
+      "charId": "char_365_aprl",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_aprl",
+      "uniEquipName": "四月证章"
+    },
+    "uniequip_002_aprl": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 23.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内存在地面敌人时攻击速度<@ba.kw>+8</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aprl_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内存在地面敌人时攻击速度<@ba.kw>+8</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aprl_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "respawn_time": -25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熟练猎手",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身再部署时间-25秒，自身部署费用-2"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内存在地面敌人时攻击速度<@ba.kw>+8</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aprl_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "respawn_time": -28.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "熟练猎手",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身再部署时间-28秒，自身部署费用-2"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_365_aprl",
+      "itemCost": {
+        "1": {
+          "30084": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "mar-y",
+      "uniEquipId": "uniequip_002_aprl",
+      "uniEquipName": "高保真通讯耳机"
+    }
+  },
+  "skill": {
+    "skchr_aprl_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "精准射击",
+        "prefabId": "skchr_aprl_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_aprl_2": [
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "部署后攻击力<@ba.vup>+{atk:0%}</>，获得<$ba.camou>迷彩</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "灵活伪装",
+        "prefabId": "skchr_aprl_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ]
+  }
+}

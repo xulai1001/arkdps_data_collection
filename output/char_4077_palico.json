@@ -1,0 +1,300 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>两次</>物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 100,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "泰拉大陆调查团",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 220,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 40,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 414,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 276,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 51,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 518,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4077_palico",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_1",
+    "skills": null,
+    "subProfessionId": "bombarder",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@bomb_scale": 2.0,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.1
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成200%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.1秒；什么都没有发生！触发3次伤害效果后天赋失效 ",
+          "name": "猫式抽签爆弹·I",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_scale": 2.5,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.1
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成250%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.1秒；什么都没有发生！触发3次伤害效果后天赋失效",
+          "name": "猫式抽签爆弹·II",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 1,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_scale": 3.0,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.1
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成300%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.1秒；什么都没有发生！触发3次伤害效果后天赋失效",
+          "name": "猫式抽签爆弹·III",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_scale": 3.5,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.2
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成350%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.2秒；什么都没有发生！触发3次伤害效果后天赋失效",
+          "name": "猫式抽签爆弹·IV",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 3,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_scale": 4.0,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.2
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成400%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.2秒；什么都没有发生！触发3次伤害效果后天赋失效",
+          "name": "猫式抽签爆弹·V",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_scale": 4.5,
+            "attack@prob1": 0.2,
+            "attack@prob2": 0.3,
+            "attack@prob3": 0.3,
+            "attack@prob4": 0.2,
+            "attack@sleep": 1.0,
+            "attack@stun": 0.2
+          },
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成450%的物理伤害；目标<$ba.sleep>沉睡</>1秒；目标<$ba.stun>晕眩</>0.2秒；什么都没有发生！触发3次伤害效果后天赋失效",
+          "name": "猫式抽签爆弹·VI",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@append_atk_scale": 0.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": {
+        "OnActivateEffect": 20,
+        "OnDeactivateEffect": 0,
+        "duration": 35
+      },
+      "Attack_End": {
+        "OnActivateEffect": 0,
+        "OnDeactivateEffect": 13,
+        "duration": 22
+      },
+      "Attack_Loop": {
+        "OnActivateEffect": 50,
+        "OnAttack": 6,
+        "OnDeactivateEffect": 6,
+        "duration": 63
+      },
+      "Idle": 120,
+      "Start": 30,
+      "Stun": 120
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}

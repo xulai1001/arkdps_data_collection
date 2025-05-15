@@ -1,0 +1,1121 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30043": 4,
+        "3302": 6
+      },
+      {
+        "30053": 2,
+        "30073": 4,
+        "3303": 6
+      }
+    ],
+    "description": "操作<@ba.kw>浮游单元</>对敌人造成<@ba.kw>法术伤害</>\\n浮游单元连续攻击同一敌人时伤害提升（最高造成干员110%攻击力的伤害）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "耶拉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 135,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 604,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 191,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 73,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 863,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4013_kjera",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 191,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 73,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 863,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 246,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 101,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1121,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4013_kjera",
+        "evolveCost": {
+          "30022": 4,
+          "30042": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 246,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 101,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1121,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 294,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 121,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1475,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4013_kjera",
+        "evolveCost": {
+          "30094": 8,
+          "31023": 13,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "31054": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 4,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "30084": 3,
+            "31054": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31024": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_kjera_2"
+      }
+    ],
+    "subProfessionId": "funnel",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "cnt": 2.0,
+            "kjera_t_1[high].atk": 0.11
+          },
+          "description": "攻击力+5%，攻击范围内存在2格以上的地面地形时，改为攻击力+11%",
+          "name": "低眉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.08,
+            "cnt": 2.0,
+            "kjera_t_1[high].atk": 0.14
+          },
+          "description": "攻击力+8%<@ba.talpu>（+3%）</>，攻击范围内存在2格以上的地面地形时，改为攻击力+14%<@ba.talpu>（+3%）</>",
+          "name": "低眉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "cnt": 2.0,
+            "kjera_t_1[high].atk": 0.16
+          },
+          "description": "攻击力+10%，攻击范围内存在2格以上的地面地形时，改为攻击力+16%",
+          "name": "低眉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.13,
+            "cnt": 2.0,
+            "kjera_t_1[high].atk": 0.19
+          },
+          "description": "攻击力+13%<@ba.talpu>（+3%）</>，攻击范围内存在2格以上的地面地形时，改为攻击力+19%<@ba.talpu>（+3%）</>",
+          "name": "低眉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "delta_atk_scale": 0.15,
+          "init_atk_scale": 0.2,
+          "max_atk_scale": 1.1,
+          "max_stack_cnt": 6.0
+        },
+        "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Idle": 120,
+      "Skill_Begin": 15,
+      "Skill_End": 15,
+      "Skill_Idle": 120,
+      "Skill_Loop": {
+        "OnAttack": 11,
+        "duration": 25
+      },
+      "Start": {
+        "OnStart": 11,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "freeze"
+      ]
+    },
+    "spec": {
+      "char_4013_kjera": {
+        "frame_corr": 1,
+        "grad": true
+      },
+      "skchr_kjera_2": {
+        "attack_begin": 20,
+        "frame_corr": 0,
+        "funnel": 2,
+        "reset_attack": true
+      },
+      "tachr_4013_kjera_1": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_kjera": {
+      "battle": null,
+      "charId": "char_4013_kjera",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_kjera",
+      "uniEquipName": "耶拉证章"
+    },
+    "uniequip_002_kjera": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 18.0,
+            "max_hp": 65.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.2,
+                    "max_atk_scale": 1.2,
+                    "max_stack_cnt": 7.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（最高造成干员120%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 23.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.2,
+                    "max_atk_scale": 1.2,
+                    "max_stack_cnt": 7.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（最高造成干员120%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "cnt": 2.0,
+                    "kjera_t_1[high].atk": 0.21
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低眉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+15%，攻击范围内存在2格以上的地面地形时，改为攻击力+21%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "cnt": 2.0,
+                    "kjera_t_1[high].atk": 0.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低眉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+18%<@ba.talpu>（+3%）</>，攻击范围内存在2格以上的地面地形时，改为攻击力+24%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 102.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.2,
+                    "max_atk_scale": 1.2,
+                    "max_stack_cnt": 7.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（最高造成干员120%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "cnt": 2.0,
+                    "kjera_t_1[high].atk": 0.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低眉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+18%，攻击范围内存在2格以上的地面地形时，改为攻击力+24%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.21,
+                    "cnt": 2.0,
+                    "kjera_t_1[high].atk": 0.27
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低眉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+21%<@ba.talpu>（+3%）</>，攻击范围内存在2格以上的地面地形时，改为攻击力+27%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4013_kjera",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "fun-y",
+      "uniEquipId": "uniequip_002_kjera",
+      "uniEquipName": "以雪为线"
+    }
+  },
+  "skill": {
+    "skchr_kjera_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.32,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.15
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.2
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.22
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.22
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@cnt": 1.0,
+          "attack@cold": 2.5,
+          "attack@prob": 0.22
+        },
+        "description": "浮游单元<@ba.vup>+{attack@cnt}</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，自身与浮游单元攻击有<@ba.vup>{attack@prob:0%}</>概率对敌人造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>。\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "心随意动",
+        "prefabId": "skchr_kjera_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_atk_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

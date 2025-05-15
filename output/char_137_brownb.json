@@ -1,0 +1,1047 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30053": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "猎蜂",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 211,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 131,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1151,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 311,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 191,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1556,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_137_brownb",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 311,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 191,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1556,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 415,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1996,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_137_brownb",
+        "evolveCost": {
+          "30012": 1,
+          "30062": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 415,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1996,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 513,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 312,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2435,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_137_brownb",
+        "evolveCost": {
+          "30023": 19,
+          "30103": 7,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+180",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 180.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "30074": 1,
+            "3303": 2
+          },
+          {
+            "30074": 3,
+            "30094": 2,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_brownb_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30074": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_brownb_2"
+      }
+    ],
+    "subProfessionId": "fighter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.03,
+            "max_stack_cnt": 5.0
+          },
+          "description": "攻击相同目标时每次攻击可提高自身攻击力3%，最多可叠加5层。更换目标会失去之前叠加的效果",
+          "name": "竞技专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.04,
+            "max_stack_cnt": 5.0
+          },
+          "description": "攻击相同目标时每次攻击可提高自身攻击力4%<@ba.talpu>（+1%）</>，最多可叠加5层。更换目标会失去之前叠加的效果",
+          "name": "竞技专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "max_stack_cnt": 5.0
+          },
+          "description": "攻击相同目标时每次攻击可提高自身攻击力5%，最多可叠加5层。更换目标会失去之前叠加的效果",
+          "name": "竞技专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.06,
+            "max_stack_cnt": 5.0
+          },
+          "description": "攻击相同目标时每次攻击可提高自身攻击力6%<@ba.talpu>（+1%）</>，最多可叠加5层。更换目标会失去之前叠加的效果",
+          "name": "竞技专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 30
+      },
+      "Idle": 80,
+      "Skill_Begin": 3,
+      "Skill_End": 3,
+      "Skill_Loop": {
+        "OnAttack": 7,
+        "duration": 8
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "stack"
+      ]
+    },
+    "spec": {
+      "skchr_brownb_1": {
+        "passive": true
+      },
+      "tachr_137_brownb_1": {
+        "stack": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_brownb": {
+      "battle": null,
+      "charId": "char_137_brownb",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_brownb",
+      "uniEquipName": "猎蜂证章"
+    },
+    "uniequip_002_brownb": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "brownb_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 145.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "brownb_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.06,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "竞技专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击相同目标时每次攻击可提高自身攻击力6%，最多可叠加5层。更换目标会失去之前叠加的效果"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.07,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "竞技专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击相同目标时每次攻击可提高自身攻击力7%<@ba.talpu>（+1%）</>，最多可叠加5层。更换目标会失去之前叠加的效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "brownb_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.07,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "竞技专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击相同目标时每次攻击可提高自身攻击力7%，最多可叠加5层。更换目标会失去之前叠加的效果"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "max_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "竞技专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击相同目标时每次攻击可提高自身攻击力8%<@ba.talpu>（+1%）</>，最多可叠加5层。更换目标会失去之前叠加的效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_137_brownb",
+      "itemCost": {
+        "1": {
+          "31053": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "fgt-y",
+      "uniEquipId": "uniequip_002_brownb",
+      "uniEquipName": "咬紧牙关"
+    }
+  },
+  "skill": {
+    "skchr_brownb_1": [
+      {
+        "blackboard": {
+          "prob": 0.2
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.23
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.26
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.3
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.33
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.36
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.4
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.45
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.5
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "prob": 0.6
+        },
+        "description": "获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高机动",
+        "prefabId": "skchr_brownb_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_brownb_2": [
+      {
+        "blackboard": {
+          "base_attack_time": -0.5
+        },
+        "description": "攻击间隔<@ba.vup>减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.5
+        },
+        "description": "攻击间隔<@ba.vup>减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.5
+        },
+        "description": "攻击间隔<@ba.vup>减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.55
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.55
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.55
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.55
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>大幅度减小</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "急速拳",
+        "prefabId": "skchr_brownb_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

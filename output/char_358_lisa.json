@@ -1,0 +1,1586 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30103": 4,
+        "3302": 8
+      },
+      {
+        "30043": 3,
+        "30093": 5,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "铃兰",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 220,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 57,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 673,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 324,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 83,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 922,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_358_lisa",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 324,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 83,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 922,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 432,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1184,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_358_lisa",
+        "evolveCost": {
+          "30032": 8,
+          "30042": 4,
+          "3271": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 432,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1184,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 521,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1480,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_358_lisa",
+        "evolveCost": {
+          "30094": 8,
+          "30135": 4,
+          "3273": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 5,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lisa_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31024": 7,
+            "3303": 12
+          },
+          {
+            "30094": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lisa_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lisa_3"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "sp_recovery_per_sec": 0.2
+          },
+          "description": "在场时所有【辅助】干员的技力自然回复速度+0.2/秒（同类效果取最高）",
+          "name": "技力光环·辅助",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "sp_recovery_per_sec": 0.4
+          },
+          "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高）",
+          "name": "技力光环·辅助",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 1.0,
+            "damage_scale": 1.2
+          },
+          "description": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的20%的<$ba.fragile>脆弱</>效果",
+          "name": "画地为牢",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 1.0,
+            "damage_scale": 1.23
+          },
+          "description": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的23%<@ba.talpu>（+3%）</>的<$ba.fragile>脆弱</>效果",
+          "name": "画地为牢",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 43
+      },
+      "Idle": 80,
+      "Skill2": {
+        "OnAttack": 24,
+        "duration": 52
+      },
+      "Skill3_Begin": 15,
+      "Skill3_End": 27,
+      "Skill3_Loop": {
+        "OnAttack": 17,
+        "duration": 34
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "equip",
+        "short_mode"
+      ]
+    },
+    "spec": {
+      "char_358_lisa": {
+        "frame_corr": 1
+      },
+      "tachr_358_lisa_2": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_lisa": {
+      "battle": null,
+      "charId": "char_358_lisa",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_lisa",
+      "uniEquipName": "铃兰证章"
+    },
+    "uniequip_002_lisa": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 4.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lisa_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lisa_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.06,
+                    "sp_recovery_per_sec": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技力光环·辅助",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lisa_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 6.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lisa_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.09,
+                    "sp_recovery_per_sec": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技力光环·辅助",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lisa_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_358_lisa",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dec-x",
+      "uniEquipId": "uniequip_002_lisa",
+      "uniEquipName": "怀中御守"
+    },
+    "uniequip_003_lisa": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 43.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.95,
+                    "damage_scale": 1.21
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "画地为牢",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的21%的<$ba.fragile>脆弱</>效果和5％<$ba.weaken>虚弱</>效果"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.95,
+                    "damage_scale": 1.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "画地为牢",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的24%<@ba.talpu>（+3%）</>的<$ba.fragile>脆弱</>效果和5％<$ba.weaken>虚弱</>效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 46.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.92,
+                    "damage_scale": 1.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "画地为牢",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的22%的<$ba.fragile>脆弱</>效果和8％<$ba.weaken>虚弱</>效果"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.92,
+                    "damage_scale": 1.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "画地为牢",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内被<$ba.sluggish>停顿</>的敌人在下一瞬间起还会受到等长时间的25%<@ba.talpu>（+3%）</>的<$ba.fragile>脆弱</>效果和8％<$ba.weaken>虚弱</>效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_358_lisa",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dec-y",
+      "uniEquipId": "uniequip_003_lisa",
+      "uniEquipName": "孩子们"
+    }
+  },
+  "skill": {
+    "skchr_lisa_1": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 5.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 5.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 5.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack_speed": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "全力以赴",
+        "prefabId": "skchr_lisa_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_lisa_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 110,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 107,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 104,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 101,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 98,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 95,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 92,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 89,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 86,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，可以同时攻击<@ba.vup>{attack@max_target}</>个敌方单位\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "儿时的舞乐",
+        "prefabId": "skchr_lisa_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_lisa_3": [
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.07,
+          "scale_delta_to_one": 1.1
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.07,
+          "scale_delta_to_one": 1.2
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 41,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.07,
+          "scale_delta_to_one": 1.3
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 42,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.09,
+          "scale_delta_to_one": 1.4
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 43,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.09,
+          "scale_delta_to_one": 1.5
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 44,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.09,
+          "scale_delta_to_one": 1.6
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.11,
+          "scale_delta_to_one": 1.7
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 46,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.14,
+          "scale_delta_to_one": 1.8
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 47,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.17,
+          "scale_delta_to_one": 1.9
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 48,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.2,
+          "scale_delta_to_one": 2.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍，攻击范围内的所有敌人被<$ba.sluggish><@ba.vup>停顿</></>，且每秒回复范围内所有友方单位相当于攻击力<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "狐火渺然",
+        "prefabId": "skchr_lisa_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1166 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30051": 3,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 3
+      },
+      {
+        "30012": 4,
+        "3302": 3
+      },
+      {
+        "31023": 2,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3303": 4
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 55,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "芳汀",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 263,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 162,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 945,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 388,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 222,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1350,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_271_spikes",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 388,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 222,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1350,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 518,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 282,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1777,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_271_spikes",
+        "evolveCost": {
+          "30012": 1,
+          "30052": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 518,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 282,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1777,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 640,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 340,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2250,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_271_spikes",
+        "evolveCost": {
+          "30013": 21,
+          "30063": 7,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+18",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 18.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "30074": 1,
+            "3303": 2
+          },
+          {
+            "30104": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31014": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_spikes_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 1,
+            "31013": 3,
+            "3303": 2
+          },
+          {
+            "30014": 2,
+            "30094": 3,
+            "3303": 4
+          },
+          {
+            "30115": 2,
+            "31014": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_spikes_2"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.0
+          },
+          "description": "优先攻击【无人机】单位",
+          "name": "结构分解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.2
+          },
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+20%",
+          "name": "结构分解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.23
+          },
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+23%<@ba.talpu>（+3%）</>",
+          "name": "结构分解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.4
+          },
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+40%",
+          "name": "结构分解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.43
+          },
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+43%<@ba.talpu>（+3%）</>",
+          "name": "结构分解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_01": {
+        "OnAttack": 17,
+        "duration": 40
+      },
+      "Combat": {
+        "OnAttack": 17,
+        "duration": 40
+      },
+      "Idle": 120,
+      "Skill_01": {
+        "OnAttack": 25,
+        "duration": 40
+      },
+      "Skill_02": {
+        "OnAttack": 17,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "ranged_penalty"
+      ]
+    },
+    "spec": {
+      "tachr_271_spikes_1": {
+        "cond": true
+      },
+      "tachr_271_spikes_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_spikes": {
+      "battle": null,
+      "charId": "char_271_spikes",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_spikes",
+      "uniEquipName": "芳汀证章"
+    },
+    "uniequip_002_spikes": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "spikes_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 39.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "spikes_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "结构分解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+50%"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.53
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "结构分解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+53%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 185.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "spikes_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "结构分解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+55%"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.58
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "结构分解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+58%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_271_spikes",
+      "itemCost": {
+        "1": {
+          "30043": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31063": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30103": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "lor-y",
+      "uniEquipId": "uniequip_002_spikes",
+      "uniEquipName": "芳汀之书"
+    }
+  },
+  "skill": {
+    "skchr_spikes_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.0
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.05
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.1
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.15
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.25
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.3
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.35
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.5
+        },
+        "description": "阻挡数变为0，攻击变为二连击，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "小玩笑",
+        "prefabId": "skchr_spikes_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_spikes_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.1,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.15,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.25,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.3,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.35,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.45,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.5,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.6,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击范围扩大，远程攻击不再降低攻击力，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，额外攻击一名目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "致命恶作剧",
+        "prefabId": "skchr_spikes_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

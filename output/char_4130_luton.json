@@ -1,0 +1,1064 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30031": 4,
+        "3301": 2
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30093": 2,
+        "3302": 3
+      },
+      {
+        "31073": 2,
+        "3303": 4
+      }
+    ],
+    "description": "<@ba.kw>无法</>被友方角色治疗",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 400,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "露托",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 332,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 30,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1516,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 462,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 30,
+            "def": 285,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1995,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4130_luton",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 462,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 32,
+            "def": 285,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1995,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 616,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 32,
+            "def": 381,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2591,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4130_luton",
+        "evolveCost": {
+          "30032": 1,
+          "30042": 1,
+          "3231": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 616,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 34,
+            "def": 381,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2591,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 790,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 34,
+            "def": 495,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3550,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4130_luton",
+        "evolveCost": {
+          "30063": 7,
+          "31043": 14,
+          "3232": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 1,
+            "31033": 4,
+            "3303": 2
+          },
+          {
+            "30104": 2,
+            "31084": 2,
+            "3303": 4
+          },
+          {
+            "30115": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_luton_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31074": 1,
+            "3303": 2
+          },
+          {
+            "30064": 2,
+            "30104": 1,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31064": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_luton_2"
+      }
+    ],
+    "subProfessionId": "unyield",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_ratio": 0.12
+          },
+          "description": "自身阻挡的敌方单位被击杀时，回复自身12%的生命",
+          "name": "死里求生",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.14
+          },
+          "description": "自身阻挡的敌方单位被击杀时，回复自身14%<@ba.talpu>（+2%）</>的生命",
+          "name": "死里求生",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.16
+          },
+          "description": "自身阻挡的敌方单位被击杀时，回复自身16%的生命",
+          "name": "死里求生",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.18
+          },
+          "description": "自身阻挡的敌方单位被击杀时，回复自身18%<@ba.talpu>（+2%）</>的生命",
+          "name": "死里求生",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Idle": 30,
+      "Skill_Begin": 15,
+      "Skill_End": 5,
+      "Skill_Loop": 40,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_luton": {
+      "battle": null,
+      "charId": "char_4130_luton",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_luton",
+      "uniEquipName": "露托证章"
+    },
+    "uniequip_002_luton": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 30.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "luton_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 50.0,
+            "max_hp": 280.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "luton_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "死里求生",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身阻挡的敌方单位被击杀时，回复自身18%的生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "死里求生",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身阻挡的敌方单位被击杀时，回复自身20%<@ba.talpu>（+2%）</>的生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 60.0,
+            "max_hp": 350.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "luton_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "死里求生",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身阻挡的敌方单位被击杀时，回复自身20%的生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "死里求生",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身阻挡的敌方单位被击杀时，回复自身22%<@ba.talpu>（+2%）</>的生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4130_luton",
+      "itemCost": {
+        "1": {
+          "30033": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30013": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30093": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "uny-x",
+      "uniEquipId": "uniequip_002_luton",
+      "uniEquipName": "生还的人与物"
+    }
+  },
+  "skill": {
+    "skchr_luton_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·β型",
+        "prefabId": "skchr_luton_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_luton_2": [
+      {
+        "blackboard": {
+          "def": 0.45,
+          "interval": 2.0,
+          "magic_atk_scale": 0.3,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.5,
+          "interval": 2.0,
+          "magic_atk_scale": 0.35,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.55,
+          "interval": 2.0,
+          "magic_atk_scale": 0.4,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.7,
+          "interval": 2.0,
+          "magic_atk_scale": 0.5,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.75,
+          "interval": 2.0,
+          "magic_atk_scale": 0.55,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.8,
+          "interval": 2.0,
+          "magic_atk_scale": 0.6,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.95,
+          "interval": 2.0,
+          "magic_atk_scale": 0.7,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.05,
+          "interval": 2.0,
+          "magic_atk_scale": 0.8,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.15,
+          "interval": 2.0,
+          "magic_atk_scale": 0.9,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 1.3,
+          "interval": 2.0,
+          "magic_atk_scale": 1.0,
+          "mode": 1.0,
+          "p_force": 0.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，展开大盾并开启强磁场模式，防御力<@ba.vup>+{def:0%}</>，每<@ba.vup>{interval}</>秒对周围所有地面敌人造成相当于攻击力<@ba.vup>{magic_atk_scale:0%}</>的法术伤害，并将所有未被阻挡的敌人<@ba.vup>小力地</>拖拽至自身中心",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "强磁防卫",
+        "prefabId": "skchr_luton_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

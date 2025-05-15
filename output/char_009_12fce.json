@@ -1,0 +1,175 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "攻击造成<@ba.kw>群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "12F",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 302,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 31,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1461,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 432,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 50,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1461,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_009_12fce",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "2-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+12",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 12.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-5秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -5.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+12",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 12.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_2",
+    "skills": null,
+    "subProfessionId": "splashcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.5
+          },
+          "description": "获得50%的物理闪避",
+          "name": "闪避率提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 30,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}

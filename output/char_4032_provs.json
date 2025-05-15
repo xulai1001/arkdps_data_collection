@@ -1,0 +1,1213 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30083": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30093": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 65,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "但书",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 216,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 606,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 318,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 820,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4032_provs",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 318,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 66,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 820,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 425,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4032_provs",
+        "evolveCost": {
+          "30042": 4,
+          "30062": 4,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 425,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 513,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1298,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4032_provs",
+        "evolveCost": {
+          "30044": 7,
+          "30083": 12,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_provs_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 3,
+            "31053": 2,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31014": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_provs_2"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 6.0
+          },
+          "description": "攻击速度+6，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+          "name": "卡西米尔法律专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 8.0
+          },
+          "description": "攻击速度+8<@ba.talpu>（+2）</>，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+          "name": "卡西米尔法律专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 10.0
+          },
+          "description": "攻击速度+10，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+          "name": "卡西米尔法律专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 12.0
+          },
+          "description": "攻击速度+12<@ba.talpu>（+2）</>，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+          "name": "卡西米尔法律专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 38
+      },
+      "B_Attack": {
+        "OnAttack": 13,
+        "duration": 38
+      },
+      "B_Default": 0,
+      "B_Idle": 0,
+      "B_Skill_2_Begin": {
+        "OnAttack": 14,
+        "duration": 23
+      },
+      "B_Skill_2_End": 10,
+      "B_Skill_2_Idle": 30,
+      "B_Skill_2_Loop": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "B_Start": 30,
+      "Idle": 40,
+      "Skill_2_Begin": {
+        "OnAttack": 14,
+        "duration": 23
+      },
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 30,
+      "Skill_2_Loop": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_4032_provs": {
+        "frame_corr": 1
+      },
+      "skchr_provs_1": {
+        "attack_begin": 13,
+        "cast_time": 38,
+        "sim": true
+      },
+      "skchr_provs_2": {
+        "attack_begin": 13,
+        "frame_corr": "0"
+      },
+      "uniequip_002_provs": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_provs": {
+      "battle": null,
+      "charId": "char_4032_provs",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_provs",
+      "uniEquipName": "但书证章"
+    },
+    "uniequip_002_provs": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "provs_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "provs_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "attack_speed": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "卡西米尔法律专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+10，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "attack_speed": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "卡西米尔法律专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+12<@ba.talpu>（+2）</>，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "provs_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "provs_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "attack_speed": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "卡西米尔法律专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+10，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "attack_speed": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "卡西米尔法律专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+12<@ba.talpu>（+2）</>，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "provs_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4032_provs",
+      "itemCost": {
+        "1": {
+          "30024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30104": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "dec-x",
+      "uniEquipId": "uniequip_002_provs",
+      "uniEquipName": "黛丝特的毕业礼"
+    }
+  },
+  "skill": {
+    "skchr_provs_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "ct": 1.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "ct": 1.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "ct": 1.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "ct": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "ct": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "ct": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "ct": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "ct": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "ct": 3.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "ct": 3.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并稍微延长特性的<$ba.sluggish>停顿</>持续时间\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纠纷起诉",
+        "prefabId": "skchr_provs_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_provs_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "base_attack_time": -0.8,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "base_attack_time": -0.8,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "base_attack_time": -0.8,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "base_attack_time": -0.9,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔较大幅度缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "base_attack_time": -0.9,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔较大幅度缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "base_attack_time": -0.9,
+          "silence": 6.0,
+          "sluggish": 6.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔较大幅度缩短",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "base_attack_time": -1.0,
+          "silence": 7.0,
+          "sluggish": 7.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔大幅度缩短",
+        "duration": 7.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "base_attack_time": -1.0,
+          "silence": 8.0,
+          "sluggish": 8.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔大幅度缩短",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "base_attack_time": -1.0,
+          "silence": 9.0,
+          "sluggish": 9.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔大幅度缩短",
+        "duration": 9.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "base_attack_time": -1.1,
+          "silence": 10.0,
+          "sluggish": 10.0
+        },
+        "description": "对攻击范围内所有单位造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害使其<$ba.sluggish>停顿</>并失去特殊能力，持续<@ba.vup>{sluggish}秒</>，之后自身攻击间隔极大幅度缩短",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "致胜立论",
+        "prefabId": "skchr_provs_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

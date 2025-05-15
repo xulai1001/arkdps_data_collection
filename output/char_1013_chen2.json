@@ -1,0 +1,1459 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30093": 4,
+        "3303": 8
+      }
+    ],
+    "description": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "假日威龙陈",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 29,
+            "def": 110,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1110,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 502,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 29,
+            "def": 143,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1481,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1013_chen2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 502,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 143,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1481,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 649,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 182,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1875,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1013_chen2",
+        "evolveCost": {
+          "30022": 6,
+          "30032": 8,
+          "3241": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "2-5"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 649,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 182,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1875,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 773,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 203,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2501,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1013_chen2",
+        "evolveCost": {
+          "30125": 4,
+          "31024": 6,
+          "3243": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "2-5"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 8
+          },
+          {
+            "30074": 8,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30084": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_chen2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "31014": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30094": 6,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_chen2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_chen2_3"
+      }
+    ],
+    "subProfessionId": "reaperrange",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.0,
+            "spareshot_chen.prob": 0.15
+          },
+          "description": "在场时自身弹药类技能攻击时15%概率不消耗对应弹药（同类效果取最高）",
+          "name": "节约风气",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.0,
+            "spareshot_chen.prob": 0.17
+          },
+          "description": "在场时自身弹药类技能攻击时17%<@ba.talpu>（+2%）</>概率不消耗对应弹药（同类效果取最高）",
+          "name": "节约风气",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.1,
+            "spareshot_chen.prob": 0.2
+          },
+          "description": "在场时自身弹药类技能攻击时20%概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为10%概率不消耗（同类效果取最高）",
+          "name": "节约风气",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.1,
+            "spareshot_chen.prob": 0.22
+          },
+          "description": "在场时自身弹药类技能攻击时22%<@ba.talpu>（+2%）</>概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为10%概率不消耗（同类效果取最高）",
+          "name": "节约风气",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "chen2_t_2[common].attack_speed": 8.0,
+            "chen2_t_2[map].attack_speed": 4.0
+          },
+          "description": "攻击速度+8，当场地中存在水地形时改为攻击速度+12",
+          "name": "假日余韵",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": "-1",
+        "rangeId": "1-3",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Attack_Down": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 3,
+      "Skill_1_Daze": 15,
+      "Skill_1_End": 3,
+      "Skill_1_Idle": 30,
+      "Skill_1_Loop": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Skill_1_Loop_Down": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Skill_2_Begin": 3,
+      "Skill_2_Daze": 15,
+      "Skill_2_End": 3,
+      "Skill_2_Idle": 30,
+      "Skill_2_Loop": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Skill_2_Loop_Down": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Skill_Begin": 3,
+      "Skill_Daze": 15,
+      "Skill_End": 3,
+      "Skill_Idle": 30,
+      "Skill_Loop": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Skill_Loop_Down": {
+        "OnAttack": 15,
+        "duration": 69
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "cond",
+        "charge",
+        "archet",
+        "water"
+      ]
+    },
+    "spec": {
+      "skchr_chen2_1": {
+        "magazine": 4,
+        "reset_attack": true
+      },
+      "skchr_chen2_2": {
+        "charge": true,
+        "magazine": 8,
+        "reset_attack": true
+      },
+      "skchr_chen2_3": {
+        "magazine": 16,
+        "note": "减防为最终加算",
+        "reset_attack": true,
+        "times": 2
+      },
+      "tachr_1013_chen2_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_chen2": {
+      "battle": null,
+      "charId": "char_1013_chen2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_chen2",
+      "uniEquipName": "假日威龙陈证章"
+    },
+    "uniequip_002_chen2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 37.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "def": 42.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "chen2_t_002[spareshot][other].prob": 0.08,
+                    "chen2_t_002[spareshot][sniper].prob": 0.2,
+                    "e_spareshot_chen.prob": 0.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "节约风气",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身弹药类技能攻击时23%概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为20%概率不消耗，其他远程干员的弹药类技能改为8%概率不消耗（同类效果取最高）"
+                },
+                {
+                  "blackboard": {
+                    "chen2_t_002[spareshot][other].prob": 0.08,
+                    "chen2_t_002[spareshot][sniper].prob": 0.2,
+                    "e_spareshot_chen.prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "节约风气",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身弹药类技能攻击时25%<@ba.talpu>（+2%）</>概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为20%概率不消耗，其他远程干员的弹药类技能改为8%概率不消耗（同类效果取最高）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "chen2_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 45.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "chen2_t_002[spareshot][other].prob": 0.12,
+                    "chen2_t_002[spareshot][sniper].prob": 0.2,
+                    "e_spareshot_chen.prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "节约风气",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身弹药类技能攻击时25%概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为20%概率不消耗，其他远程干员的弹药类技能改为12%概率不消耗（同类效果取最高）"
+                },
+                {
+                  "blackboard": {
+                    "chen2_t_002[spareshot][other].prob": 0.12,
+                    "chen2_t_002[spareshot][sniper].prob": 0.2,
+                    "e_spareshot_chen.prob": 0.27
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "节约风气",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时自身弹药类技能攻击时27%<@ba.talpu>（+2%）</>概率不消耗对应弹药，其他【狙击】干员的弹药类技能改为20%概率不消耗，其他远程干员的弹药类技能改为12%概率不消耗（同类效果取最高）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "chen2_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1013_chen2",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30155": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "rpr-x",
+      "uniEquipId": "uniequip_002_chen2",
+      "uniEquipName": "沙滩战斗套装"
+    }
+  },
+  "skill": {
+    "skchr_chen2_1": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@trigger_time": 4.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击时对攻击范围内的所有敌人应用特性加成\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "高压冲击",
+        "prefabId": "skchr_chen2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_chen2_2": [
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -50.0,
+          "attack@move_speed": -0.1,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -50.0,
+          "attack@move_speed": -0.1,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -50.0,
+          "attack@move_speed": -0.1,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -150.0,
+          "attack@move_speed": -0.3,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -150.0,
+          "attack@move_speed": -0.3,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -170.0,
+          "attack@move_speed": -0.35,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@another_trigger_time": 20.0,
+          "attack@def": -170.0,
+          "attack@move_speed": -0.35,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 8.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加），<$ba.charged>蓄力</>额外效果：改为{attack@another_trigger_time}发弹药\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“堇青之夜”",
+        "prefabId": "skchr_chen2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_chen2_3": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@def": -100.0,
+          "attack@move_speed": -0.2,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@def": -150.0,
+          "attack@move_speed": -0.3,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@def": -150.0,
+          "attack@move_speed": -0.3,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@def": -150.0,
+          "attack@move_speed": -0.3,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@def": -200.0,
+          "attack@move_speed": -0.4,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@def": -220.0,
+          "attack@move_speed": -0.45,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@def": -220.0,
+          "attack@move_speed": -0.45,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 29,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@def": -220.0,
+          "attack@move_speed": -0.45,
+          "attack@projectile_life_time": 5.0,
+          "attack@trigger_time": 32.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击造成两次伤害，对攻击范围内的所有敌人应用特性加成，每次攻击在范围内生成持续{attack@projectile_life_time}秒的粘液，地面敌人经过时移动速度<@ba.vup>{attack@move_speed:0%}</>、防御力<@ba.vup>{attack@def}</>（不叠加）\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，每次攻击消耗2发，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“假日风暴”",
+        "prefabId": "skchr_chen2_3",
+        "rangeId": "2-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

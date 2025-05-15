@@ -1,0 +1,1129 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30041": 3,
+        "3301": 2
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30062": 2,
+        "3302": 3
+      },
+      {
+        "30073": 2,
+        "3302": 3
+      },
+      {
+        "30083": 3,
+        "3303": 4
+      }
+    ],
+    "description": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 55,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "松果",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 303,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 27,
+            "def": 90,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 977,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 434,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 27,
+            "def": 118,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1303,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_440_pinecn",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "2-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 434,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 118,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1303,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 560,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1650,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_440_pinecn",
+        "evolveCost": {
+          "30032": 1,
+          "30052": 1,
+          "3241": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "2-5"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 560,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 150,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1650,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 667,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 167,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2200,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_440_pinecn",
+        "evolveCost": {
+          "30093": 8,
+          "31023": 16,
+          "3242": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "2-5"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+28",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 28.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 1,
+            "31023": 3,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30064": 1,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pinecn_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 2,
+            "30064": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30044": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pinecn_2"
+      }
+    ],
+    "subProfessionId": "reaperrange",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "duration": 60.0,
+            "sp_recovery_per_sec": 0.2
+          },
+          "description": "部署后60秒内技力自然回复速度+0.2/秒",
+          "name": "便携电源",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 60.0,
+            "sp_recovery_per_sec": 0.25
+          },
+          "description": "部署后60秒内技力自然回复速度+0.25<@ba.talpu>（+0.05）</>/秒",
+          "name": "便携电源",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 60.0,
+            "sp_recovery_per_sec": 0.45
+          },
+          "description": "部署后60秒内技力自然回复速度+0.45/秒",
+          "name": "便携电源",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 60.0,
+            "sp_recovery_per_sec": 0.5
+          },
+          "description": "部署后60秒内技力自然回复速度+0.5<@ba.talpu>（+0.05）</>/秒",
+          "name": "便携电源",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": "-1",
+        "rangeId": "1-3",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 29
+      },
+      "Attack_Down": {
+        "OnAttack": 12,
+        "duration": 29
+      },
+      "Idle": 32,
+      "Skill_1": {
+        "OnAttack": 14,
+        "duration": 39
+      },
+      "Skill_1_Down": {
+        "OnAttack": 14,
+        "duration": 39
+      },
+      "Skill_2": {
+        "OnAttack": 14,
+        "duration": 38
+      },
+      "Skill_2_Down": {
+        "OnAttack": 14,
+        "duration": 38
+      },
+      "Start": 23
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "cond",
+        "warmup"
+      ]
+    },
+    "spec": {
+      "skchr_pinecn_1": {
+        "reset_attack": "ogcd"
+      },
+      "skchr_pinecn_2": {
+        "reset_attack": true
+      },
+      "tachr_440_pinecn_1": {
+        "cond": true
+      },
+      "tachr_440_pinecn_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_pinecn": {
+      "battle": null,
+      "charId": "char_440_pinecn",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_pinecn",
+      "uniEquipName": "松果证章"
+    },
+    "uniequip_002_pinecn": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 15.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "def": 25.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "duration": 70.0,
+                    "sp_recovery_per_sec": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "便携电源",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后70秒内技力自然回复速度+0.5/秒"
+                },
+                {
+                  "blackboard": {
+                    "duration": 70.0,
+                    "sp_recovery_per_sec": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "便携电源",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后70秒内技力自然回复速度+0.55<@ba.talpu>（+0.05）</>/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 30.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.6
+                  },
+                  "overrideDescripton": "攻击范围内的<@ba.kw>所有敌人</>，对自己前方一横排的敌人攻击力提升至<@ba.kw>160%</>",
+                  "prefabKey": "-1",
+                  "rangeId": "1-3",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "duration": 75.0,
+                    "sp_recovery_per_sec": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "便携电源",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后75秒内技力自然回复速度+0.55/秒"
+                },
+                {
+                  "blackboard": {
+                    "duration": 75.0,
+                    "sp_recovery_per_sec": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "便携电源",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后75秒内技力自然回复速度+0.6<@ba.talpu>（+0.05）</>/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_440_pinecn",
+      "itemCost": {
+        "1": {
+          "31023": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30033": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31063": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "rpr-x",
+      "uniEquipId": "uniequip_002_pinecn",
+      "uniEquipName": "移动电箱"
+    }
+  },
+  "skill": {
+    "skchr_pinecn_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 1.0,
+          "def_penetrate_fixed": 150.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "cnt": 1.0,
+          "def_penetrate_fixed": 160.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 1.0,
+          "def_penetrate_fixed": 170.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "cnt": 2.0,
+          "def_penetrate_fixed": 180.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 2.0,
+          "def_penetrate_fixed": 190.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75,
+          "cnt": 2.0,
+          "def_penetrate_fixed": 200.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 3.0,
+          "def_penetrate_fixed": 210.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "cnt": 3.0,
+          "def_penetrate_fixed": 220.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "cnt": 3.0,
+          "def_penetrate_fixed": 230.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 3.0,
+          "def_penetrate_fixed": 250.0
+        },
+        "description": "立即以<@ba.vup>{atk_scale:0%}</>的攻击力进行一次攻击，无视敌人<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "RMA长钉",
+        "prefabId": "skchr_pinecn_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_pinecn_2": [
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.1,
+          "pinecn_s_2[b].atk": 0.3,
+          "pinecn_s_2[c].atk": 0.5,
+          "pinecn_s_2[d].atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.15,
+          "pinecn_s_2[b].atk": 0.35,
+          "pinecn_s_2[c].atk": 0.55,
+          "pinecn_s_2[d].atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.2,
+          "pinecn_s_2[b].atk": 0.4,
+          "pinecn_s_2[c].atk": 0.6,
+          "pinecn_s_2[d].atk": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.25,
+          "pinecn_s_2[b].atk": 0.45,
+          "pinecn_s_2[c].atk": 0.65,
+          "pinecn_s_2[d].atk": 0.85
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.3,
+          "pinecn_s_2[b].atk": 0.5,
+          "pinecn_s_2[c].atk": 0.7,
+          "pinecn_s_2[d].atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.35,
+          "pinecn_s_2[b].atk": 0.55,
+          "pinecn_s_2[c].atk": 0.75,
+          "pinecn_s_2[d].atk": 0.95
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.4,
+          "pinecn_s_2[b].atk": 0.6,
+          "pinecn_s_2[c].atk": 0.8,
+          "pinecn_s_2[d].atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.45,
+          "pinecn_s_2[b].atk": 0.65,
+          "pinecn_s_2[c].atk": 0.85,
+          "pinecn_s_2[d].atk": 1.05
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.5,
+          "pinecn_s_2[b].atk": 0.7,
+          "pinecn_s_2[c].atk": 0.9,
+          "pinecn_s_2[d].atk": 1.1
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pinecn_s_2[a].atk": 0.6,
+          "pinecn_s_2[b].atk": 0.8,
+          "pinecn_s_2[c].atk": 1.0,
+          "pinecn_s_2[d].atk": 1.2
+        },
+        "description": "攻击力<@ba.vup>+{pinecn_s_2[a].atk:0%}</>，攻击范围<@ba.vdown>缩短</>；每使用过一次技能额外追加攻击力<@ba.vup>+20%</>的效果（最多+60%）",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "电能过载",
+        "prefabId": "skchr_pinecn_2",
+        "rangeId": "1-3",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

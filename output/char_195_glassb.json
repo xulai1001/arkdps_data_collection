@@ -1,0 +1,1045 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 65,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "真理",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 218,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 581,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 67,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 797,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_195_glassb",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 67,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 797,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 429,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1024,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_195_glassb",
+        "evolveCost": {
+          "30032": 5,
+          "30052": 2,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 429,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1024,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 518,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 104,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1280,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_195_glassb",
+        "evolveCost": {
+          "30064": 5,
+          "30103": 9,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 3,
+            "30103": 3,
+            "3303": 5
+          },
+          {
+            "30024": 5,
+            "30044": 3,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glassb_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 4,
+            "30034": 3,
+            "3303": 5
+          },
+          {
+            "30034": 5,
+            "30054": 3,
+            "3303": 6
+          },
+          {
+            "30054": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glassb_2"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 18.0,
+            "def": -0.35
+          },
+          "description": "防御力-35%，但攻击速度+18",
+          "name": "探知者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 21.0,
+            "def": -0.35
+          },
+          "description": "防御力-35%，但攻击速度+21<@ba.talpu>（+3）</>",
+          "name": "探知者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Idle": 60,
+      "Skill_End": 11,
+      "Skill_Loop": {
+        "OnAttack": 5,
+        "duration": 40
+      },
+      "Skill_Start": 11,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "char_195_glassb": {
+        "frame_corr": 1
+      },
+      "skchr_glassb_2": {
+        "frame_corr": 0
+      },
+      "tachr_195_glassb_1": {
+        "cloneable": true
+      },
+      "uniequip_002_glassb": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_glassb": {
+      "battle": null,
+      "charId": "char_195_glassb",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_glassb",
+      "uniEquipName": "真理证章"
+    },
+    "uniequip_002_glassb": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 3.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 4.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 21.0,
+                    "def": -0.35,
+                    "glassb_e_t_1[skill].attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探知者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升5"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 24.0,
+                    "def": -0.35,
+                    "glassb_e_t_1[skill].attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探知者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力-35%，但攻击速度+24<@ba.talpu>（+3）</>，技能期间攻速加成额外提升5"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "glassb_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 21.0,
+                    "def": -0.35,
+                    "glassb_e_t_1[skill].attack_speed": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探知者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升10"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 24.0,
+                    "def": -0.35,
+                    "glassb_e_t_1[skill].attack_speed": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "探知者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力-35%，但攻击速度+24<@ba.talpu>（+3）</>，技能期间攻速加成额外提升10"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "glassb_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_195_glassb",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30084": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "dec-y",
+      "uniEquipId": "uniequip_002_glassb",
+      "uniEquipName": "读书笔记"
+    }
+  },
+  "skill": {
+    "skchr_glassb_1": [
+      {
+        "blackboard": {
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.9
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.9
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.9
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -1.0
+        },
+        "description": "攻击间隔<@ba.vup>大幅度缩短</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -1.0
+        },
+        "description": "攻击间隔<@ba.vup>大幅度缩短</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -1.0
+        },
+        "description": "攻击间隔<@ba.vup>大幅度缩短</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -1.1
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "专心致志",
+        "prefabId": "skchr_glassb_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_glassb_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>一</>个目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>一</>个目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>一</>个目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，额外攻击<@ba.vup>两</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "文学风暴",
+        "prefabId": "skchr_glassb_2",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

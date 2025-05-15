@@ -1,0 +1,1066 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30083": 2,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "可以使用陷阱来协助作战，但陷阱无法放置于<@ba.kw>敌人已在</>的格子中",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "罗宾",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 232,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 674,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 319,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 104,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 899,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_451_robin",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 319,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 104,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 899,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 420,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 137,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1139,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_451_robin",
+        "evolveCost": {
+          "30032": 5,
+          "30042": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 420,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 137,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1139,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 513,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 166,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1442,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_451_robin",
+        "evolveCost": {
+          "30053": 11,
+          "31024": 8,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30054": 3,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_robin_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30064": 2,
+            "31014": 6,
+            "3303": 6
+          },
+          {
+            "30044": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_robin_2"
+      }
+    ],
+    "subProfessionId": "traper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 4.0
+          },
+          "description": "可以使用4个\"夹子\"陷阱（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 6.0
+          },
+          "description": "可以使用6<@ba.talpu>（+2）</>个\"夹子\"陷阱（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 6.0
+          },
+          "description": "可以使用6个\"夹子\"陷阱（最多拥有8个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 8.0
+          },
+          "description": "可以使用8<@ba.talpu>（+2）</>个\"夹子\"陷阱（最多拥有8个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 8.0
+          },
+          "description": "可以使用8个\"夹子\"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 10.0
+          },
+          "description": "可以使用10<@ba.talpu>（+2）</>个\"夹子\"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果",
+          "name": "“夹子”专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10013_robin_mine",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "duration": 28
+      },
+      "Idle": 135,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit"
+      ]
+    },
+    "spec": {
+      "char_451_robin": {
+        "token": "token_10013_robin_mine"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_robin": {
+      "battle": null,
+      "charId": "char_451_robin",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_robin",
+      "uniEquipName": "罗宾证章"
+    },
+    "uniequip_002_robin": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robin_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 39.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robin_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "talent_duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "进阶隐蔽",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到攻击后获得迷彩，持续4秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "robin_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 41.0,
+            "max_hp": 185.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robin_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "talent_duration": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "进阶隐蔽",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到攻击后获得迷彩，持续6秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "robin_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_451_robin",
+      "itemCost": {
+        "1": {
+          "30014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "trp-y",
+      "uniEquipId": "uniequip_002_robin",
+      "uniEquipName": "限量版年历"
+    }
+  },
+  "skill": {
+    "skchr_robin_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 1.0,
+          "constraint": 1.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 1.0,
+          "constraint": 2.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 1.0,
+          "constraint": 2.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cnt": 1.0,
+          "constraint": 2.5
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cnt": 1.0,
+          "constraint": 3.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{constraint}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "束缚“夹子”",
+        "prefabId": "skchr_robin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_robin_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>小力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>中等力度地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>中等力度地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>中等力度地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "cnt": 1.0,
+          "force": 2.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并将其<@ba.vup>较大力地</>推动\\n主动效果：立即获得一个陷阱",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "弹射“夹子”",
+        "prefabId": "skchr_robin_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

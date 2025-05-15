@@ -1,0 +1,1085 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "31033": 4,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "30103": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>超远距离的群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 60,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "阿罗玛",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 343,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 43,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 693,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 991,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_446_aroma",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "4-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 74,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 991,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 638,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 103,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1288,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_446_aroma",
+        "evolveCost": {
+          "30022": 2,
+          "30052": 4,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "5-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 638,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 103,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1288,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 760,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 115,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1591,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_446_aroma",
+        "evolveCost": {
+          "30073": 21,
+          "30104": 7,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "5-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31054": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aroma_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30064": 3,
+            "31034": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aroma_2"
+      }
+    ],
+    "subProfessionId": "blastcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.05,
+            "levitate_duration": 2.5
+          },
+          "description": "对每个敌人首次进行攻击时攻击力提升至105%，并使目标浮空2.5秒",
+          "name": "起泡性能测试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.1,
+            "levitate_duration": 2.5
+          },
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%<@ba.talpu>（+5%）</>，并使目标浮空2.5秒",
+          "name": "起泡性能测试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.1,
+            "levitate_duration": 2.5
+          },
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%，并使目标浮空2.5秒",
+          "name": "起泡性能测试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.15,
+            "levitate_duration": 2.5
+          },
+          "description": "对每个敌人首次进行攻击时攻击力提升至115%<@ba.talpu>（+5%）</>，并使目标浮空2.5秒",
+          "name": "起泡性能测试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 87
+      },
+      "Attack_Down": {
+        "OnAttack": 20,
+        "duration": 87
+      },
+      "Idle": 60,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 87
+      },
+      "Skill_2_Begin": 15,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 22,
+        "duration": 87
+      },
+      "Skill_Down_1": {
+        "OnAttack": 16,
+        "duration": 87
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_aroma": {
+      "battle": null,
+      "charId": "char_446_aroma",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_aroma",
+      "uniEquipName": "阿罗玛证章"
+    },
+    "uniequip_002_aroma": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 49.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aroma_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aroma_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.15,
+                    "levitate_duration": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "起泡性能测试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次进行攻击时攻击力提升至115%，并使目标浮空2.5秒"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.2,
+                    "levitate_duration": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "起泡性能测试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次进行攻击时攻击力提升至120%<@ba.talpu>（+5%）</>，并使目标浮空2.5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aroma_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.2,
+                    "levitate_duration": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "起泡性能测试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次进行攻击时攻击力提升至120%，并使目标浮空2.5秒"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.25,
+                    "levitate_duration": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "起泡性能测试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对每个敌人首次进行攻击时攻击力提升至125%<@ba.talpu>（+5%）</>，并使目标浮空2.5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_446_aroma",
+      "itemCost": {
+        "1": {
+          "30014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "bla-x",
+      "uniEquipId": "uniequip_002_aroma",
+      "uniEquipName": "柠檬味的童年"
+    }
+  },
+  "skill": {
+    "skchr_aroma_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "atk_scale_to_fly": 0.4
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "atk_scale_to_fly": 0.45
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "atk_scale_to_fly": 0.5
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "atk_scale_to_fly": 0.55
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "atk_scale_to_fly": 0.6
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "atk_scale_to_fly": 0.65
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "atk_scale_to_fly": 0.7
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "atk_scale_to_fly": 0.75
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "atk_scale_to_fly": 0.8
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "atk_scale_to_fly": 0.9
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，对空中敌人额外造成相当于攻击力<@ba.vup>{atk_scale_to_fly:0%}</>的法术伤害\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "强效清洁",
+        "prefabId": "skchr_aroma_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_aroma_2": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@atk_scale_when_fly_finish": 0.5,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@atk_scale_when_fly_finish": 0.55,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@atk_scale_when_fly_finish": 0.6,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@atk_scale_when_fly_finish": 0.65,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@atk_scale_when_fly_finish": 0.7,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@atk_scale_when_fly_finish": 0.75,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@atk_scale_when_fly_finish": 0.8,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@atk_scale_when_fly_finish": 0.9,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "attack@atk_scale_when_fly_finish": 1.0,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@atk_scale_when_fly_finish": 1.1,
+          "attack@duration": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力<@ba.vup>{attack@atk_scale_when_fly_finish:0%}</>的法术伤害",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "小心地滑",
+        "prefabId": "skchr_aroma_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

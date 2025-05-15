@@ -1,0 +1,1150 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31033": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "活动获得",
+    "name": "炎狱炎熔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 370,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 692,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 962,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1011_lava2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 35,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 962,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 670,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 35,
+            "def": 96,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1203,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1011_lava2",
+        "evolveCost": {
+          "30012": 6,
+          "30052": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 670,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 35,
+            "def": 96,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1203,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 798,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 35,
+            "def": 115,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1543,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1011_lava2",
+        "evolveCost": {
+          "30074": 8,
+          "30093": 13,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-6"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "31014": 5,
+            "31034": 3,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lava2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lava2_2"
+      }
+    ],
+    "subProfessionId": "splashcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "lava2_t_1[ally].sp": 2.0,
+            "lava2_t_1[self].sp": 15.0
+          },
+          "description": "首次部署后立即获得15点技力，每次部署时使在场术师干员技力+2，在场时其余友方术师干员初始技力+2",
+          "name": "咒术阵线",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "lava2_t_1[ally].sp": 3.0,
+            "lava2_t_1[self].sp": 20.0
+          },
+          "description": "首次部署后立即获得20<@ba.talpu>（+5）</>点技力，每次部署时使在场术师干员技力+3<@ba.talpu>（+1）</>，在场时其余友方术师干员初始技力+3<@ba.talpu>（+1）</>",
+          "name": "咒术阵线",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "lava2_t_1[ally].sp": 4.0,
+            "lava2_t_1[self].sp": 30.0
+          },
+          "description": "首次部署后立即获得30点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+          "name": "咒术阵线",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "lava2_t_1[ally].sp": 5.0,
+            "lava2_t_1[self].sp": 35.0
+          },
+          "description": "首次部署后立即获得35<@ba.talpu>（+5）</>点技力，每次部署时使在场术师干员技力+5<@ba.talpu>（+1）</>，在场时其余友方术师干员初始技力+5<@ba.talpu>（+1）</>",
+          "name": "咒术阵线",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 32
+      },
+      "Idle": 40,
+      "Skill_1": {
+        "OnAttack": 13,
+        "duration": 42
+      },
+      "Skill_2_Begin": {
+        "OnAttack": 10,
+        "duration": 10
+      },
+      "Skill_2_End": 14,
+      "Skill_2_Loop": 30,
+      "Start": {
+        "OnStart": 6,
+        "duration": 24
+      }
+    },
+    "options": null,
+    "spec": {
+      "char_1011_lava2": {
+        "frame_corr": 1
+      },
+      "skchr_lava2_2": {
+        "note": "不重叠部分伤害减半",
+        "sec": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_lava2": {
+      "battle": null,
+      "charId": "char_1011_lava2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_lava2",
+      "uniEquipName": "炎狱炎熔证章"
+    },
+    "uniequip_002_lava2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 43.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lava2_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lava2_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "lava2_t_1[ally].sp": 4.0,
+                    "lava2_t_1[self].sp": 33.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "咒术阵线",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "首次部署后立即获得33点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4"
+                },
+                {
+                  "blackboard": {
+                    "lava2_t_1[ally].sp": 5.0,
+                    "lava2_t_1[self].sp": 38.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "咒术阵线",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "首次部署后立即获得38<@ba.talpu>（+5）</>点技力，每次部署时使在场术师干员技力+5<@ba.talpu>（+1）</>，在场时其余友方术师干员初始技力+5<@ba.talpu>（+1）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 62.0,
+            "max_hp": 165.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lava2_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "lava2_t_1[ally].sp": 4.0,
+                    "lava2_t_1[self].sp": 35.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "咒术阵线",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "首次部署后立即获得35点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4"
+                },
+                {
+                  "blackboard": {
+                    "lava2_t_1[ally].sp": 5.0,
+                    "lava2_t_1[self].sp": 40.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "咒术阵线",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "首次部署后立即获得40<@ba.talpu>（+5）</>点技力，每次部署时使在场术师干员技力+5<@ba.talpu>（+1）</>，在场时其余友方术师干员初始技力+5<@ba.talpu>（+1）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1011_lava2",
+      "itemCost": {
+        "1": {
+          "30084": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "spc-x",
+      "uniEquipId": "uniequip_002_lava2",
+      "uniEquipName": "萨卡兹的刀"
+    }
+  },
+  "skill": {
+    "skchr_lava2_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.02,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.04,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.06,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.08,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.1,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.12,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.14,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.16,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.18,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.2,
+          "attack@max_target": 2.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "焰淬匕首",
+        "prefabId": "skchr_lava2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_lava2_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.3,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.3,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 79,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.3,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.35,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 77,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.35,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 76,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.35,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 74,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 37.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 73,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 72,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "interval": 1.0
+        },
+        "description": "停止攻击，立即选择攻击范围内生命值最高的友方单位，使其和自身被火环笼罩，每秒对各自周围8格的所有敌人造成相当于炎狱炎熔攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "狱火之环",
+        "prefabId": "skchr_lava2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

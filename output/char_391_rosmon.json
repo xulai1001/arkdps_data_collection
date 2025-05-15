@@ -1,0 +1,1764 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30063": 4,
+        "3302": 8
+      },
+      {
+        "30053": 4,
+        "30073": 5,
+        "3303": 8
+      }
+    ],
+    "description": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>两次</>物理伤害（第二次为余震，伤害降低至攻击力的一半）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "迷迭香",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 341,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 123,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 874,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 461,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1166,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_391_rosmon",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 461,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1166,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 584,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 200,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1477,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_391_rosmon",
+        "evolveCost": {
+          "30022": 9,
+          "30062": 3,
+          "3241": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-9"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 584,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 200,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1477,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 688,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 245,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1944,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_391_rosmon",
+        "evolveCost": {
+          "30054": 5,
+          "30135": 4,
+          "3243": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-9"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+32",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 32.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31024": 7,
+            "3303": 12
+          },
+          {
+            "30014": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rosmon_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 8
+          },
+          {
+            "30054": 4,
+            "31014": 9,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rosmon_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 11,
+            "31014": 4,
+            "3303": 8
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10012_rosmon_shield",
+        "skillId": "skchr_rosmon_3"
+      }
+    ],
+    "subProfessionId": "bombarder",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 90.0
+          },
+          "description": "攻击无视目标90防御力",
+          "name": "歼灭战装备",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 105.0
+          },
+          "description": "攻击无视目标105<@ba.talpu>（+15）</>防御力",
+          "name": "歼灭战装备",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 160.0
+          },
+          "description": "攻击无视目标160防御力",
+          "name": "歼灭战装备",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 175.0
+          },
+          "description": "攻击无视目标175<@ba.talpu>（+15）</>防御力",
+          "name": "歼灭战装备",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.08
+          },
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%",
+          "name": "感知稳定",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@append_atk_scale": 0.5,
+          "attack@times": 2.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_A": {
+        "OnAttack": 16,
+        "OnPlayAudio": 46,
+        "duration": 63
+      },
+      "Attack_B": {
+        "OnAttack": 16,
+        "OnPlayAudio": 46,
+        "duration": 63
+      },
+      "Idle": 180,
+      "Skill_2": {
+        "OnAttack": 36,
+        "OnPlayAudio": 65,
+        "duration": 94
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 13,
+      "Skill_3_Loop": {
+        "OnAttack": 1,
+        "duration": 120
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      },
+      "Stun": 60,
+      "Stun_Skill_3": 60
+    },
+    "options": {
+      "cond_info": {
+        "text": "[s3]战术装置减防",
+        "tooltip": "勾选表示敌人被战术装置阻挡，防御-160"
+      },
+      "tags": [
+        "cond",
+        "rosmon_double",
+        "archet",
+        "chen"
+      ]
+    },
+    "spec": {
+      "skchr_rosmon_1": {
+        "cast_time": 31,
+        "damage_type": "0",
+        "note": "1技能动画时间待测试",
+        "sim": true
+      },
+      "uniequip_002_rosmon": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_rosmon": {
+      "battle": null,
+      "charId": "char_391_rosmon",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_rosmon",
+      "uniEquipName": "迷迭香证章"
+    },
+    "uniequip_002_rosmon": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@times": 3.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@times": 3.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 190.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "歼灭战装备",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击无视目标190防御力"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 205.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "歼灭战装备",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击无视目标205<@ba.talpu>（+15）</>防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 275.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@times": 3.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 220.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "歼灭战装备",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击无视目标220防御力"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 235.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "歼灭战装备",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击无视目标235<@ba.talpu>（+15）</>防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_391_rosmon",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "bom-x",
+      "uniEquipId": "uniequip_002_rosmon",
+      "uniEquipName": "“记事”"
+    },
+    "uniequip_003_rosmon": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击额外造成<@ba.kw>一次</>攻击力<@ba.kw>100%</>的法术伤害",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "equip_atk_scale": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rosmon_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击额外造成<@ba.kw>一次</>攻击力<@ba.kw>100%</>的法术伤害",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "extra_profession": "caster",
+                    "game_tag_meta": "roguelike"
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "OVERWRITE_BATTLE_DATA",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "equip_atk_scale": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rosmon_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "感知稳定",
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10012_rosmon_shield",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%；在<@ba.kw>集成战略</>中，迷迭香可同时享受【术师】收藏品加成，部署【狙击】【术师】干员时在该干员范围内召唤1个战术装备"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rosmon_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10012_rosmon_shield": [
+              {
+                "key": "max_deploy_count",
+                "value": 18.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击额外造成<@ba.kw>一次</>攻击力<@ba.kw>100%</>的法术伤害",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": true,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "def": -400.0,
+                    "magic_resistance": -20.0,
+                    "rosmon_e_003_token[passive].def": 330.0,
+                    "rosmon_e_003_token[passive].magic_resistance": 35.0,
+                    "rosmon_e_003_token[passive].max_hp": 1750.0,
+                    "stun": 5.0
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，在<@ba.kw>集成战略</>中，出现造成的晕眩时间延长至5秒，降低阻挡敌人防御力的效果改为使周围8格的地面敌人防御力<@ba.kw>-400</>，法术抗性<@ba.kw>-20</>（不叠加）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "rosmon_equip_2_3_p3",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "extra_profession": "caster",
+                    "game_tag_meta": "roguelike"
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "OVERWRITE_BATTLE_DATA",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "equip_atk_scale": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rosmon_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "感知稳定",
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": "token_10012_rosmon_shield",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%；在<@ba.kw>集成战略</>中，迷迭香可同时享受【术师】收藏品加成，部署【狙击】【术师】干员时在该干员范围内召唤1个具有特殊效果且属性更强的战术装备"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rosmon_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10012_rosmon_shield": [
+              {
+                "key": "max_deploy_count",
+                "value": 18.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_391_rosmon",
+      "itemCost": {
+        "1": {
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "mod_unlock_token": 1
+        },
+        "3": {
+          "mod_unlock_token": 1
+        }
+      },
+      "typeIcon": "isw-a",
+      "uniEquipId": "uniequip_003_rosmon",
+      "uniEquipName": "迷迭香特限证章"
+    }
+  },
+  "skill": {
+    "skchr_rosmon_1": [
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 0.8
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 0.85
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 0.95
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.0
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.05
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.1
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.2
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.4
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.6
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.5,
+          "extra_atk_scale": 1.8
+        },
+        "description": "下次攻击额外造成一次相当于攻击力<@ba.vup>{extra_atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "思维膨大",
+        "prefabId": "skchr_rosmon_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_rosmon_2": [
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.1,
+          "attack@prob": 0.2,
+          "attack@stun": 0.7,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.1,
+          "attack@prob": 0.2,
+          "attack@stun": 0.7,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.1,
+          "attack@prob": 0.2,
+          "attack@stun": 0.7,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.2,
+          "attack@prob": 0.2,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.2,
+          "attack@prob": 0.2,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.2,
+          "attack@prob": 0.2,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.3,
+          "attack@prob": 0.2,
+          "attack@stun": 1.1,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.37,
+          "attack@prob": 0.2,
+          "attack@stun": 1.2,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 37.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.45,
+          "attack@prob": 0.2,
+          "attack@stun": 1.3,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "add_times": 2.0,
+          "atk": 0.55,
+          "attack@prob": 0.2,
+          "attack@stun": 1.5,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，溅射范围<@ba.vup>扩大</>，每次攻击额外造成<@ba.vup>2</>次余震；受到攻击和余震的目标有<@ba.vup>{attack@prob:0%}</>的几率<$ba.stun>晕眩</><@ba.vup>{attack@stun}</>秒",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "末梢阻断",
+        "prefabId": "skchr_rosmon_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_rosmon_3": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 1.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 1.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 79,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 1.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 77,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 76,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.0
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 74,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 2.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 66,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@append_atk_scale": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.5,
+          "def": 1.0,
+          "stun": 3.0
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击<@ba.vup>{attack@max_target}</>个敌人但仅选择<@ba.rem>被阻挡的</>敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后<$ba.stun>晕眩</>周围敌人<@ba.vup>{stun}</>秒，阻挡的敌人防御力<@ba.vup>-160</>）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“如你所愿”",
+        "prefabId": "skchr_rosmon_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

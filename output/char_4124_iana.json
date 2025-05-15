@@ -1,0 +1,1139 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30093": 3,
+        "3302": 6
+      },
+      {
+        "30013": 2,
+        "31073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "双月",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1139,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 440,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 185,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1519,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4124_iana",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 440,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 185,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1519,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 580,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 241,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1924,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4124_iana",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 580,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 241,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1924,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 708,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 291,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2436,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4124_iana",
+        "evolveCost": {
+          "31064": 7,
+          "31083": 12,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 4,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "30084": 3,
+            "31034": 4,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_iana_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31014": 3,
+            "31063": 4,
+            "3303": 5
+          },
+          {
+            "31054": 6,
+            "31084": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31024": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_iana_2"
+      }
+    ],
+    "subProfessionId": "dollkeeper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.0,
+            "duration": 6.0,
+            "weak[limit]": 0.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在6秒内隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.0,
+            "duration": 6.0,
+            "weak[limit]": 0.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在6秒内隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.1,
+            "duration": 6.0,
+            "weak[limit]": 6.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在6秒内受到10%的脆弱且隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.12,
+            "duration": 6.0,
+            "weak[limit]": 6.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在6秒内受到12%<@ba.talpu>（+2%）</>的脆弱且隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.2,
+            "duration": 8.0,
+            "weak[limit]": 8.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在8秒内受到20%的脆弱且隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "block_cnt": -2.0,
+            "damage_scale": 1.22,
+            "duration": 8.0,
+            "weak[limit]": 8.0
+          },
+          "description": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在8秒内受到22%<@ba.talpu>（+2%）</>的脆弱且隐匿效果失效，并立即切换为<替身>作战",
+          "name": "双子分身复制器",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk": 0.0,
+          "duration": 20.0,
+          "max_hp": 0.0,
+          "talent_override_rangeid_flag": 1.0
+        },
+        "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20s后自身再次替换<替身>",
+        "prefabKey": "-1",
+        "rangeId": "x-1",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Doll_Attack_Begin": 5,
+      "Doll_Attack_Begin_Down": 5,
+      "Doll_Attack_End": 20,
+      "Doll_Attack_End_Down": 20,
+      "Doll_Attack_Loop": {
+        "OnAttack": 3,
+        "duration": 24
+      },
+      "Doll_Attack_Loop_Down": {
+        "OnAttack": 3,
+        "duration": 24
+      },
+      "Doll_Die": 30,
+      "Doll_Idle": 120,
+      "Doll_Skill_1_SwitchIn": {
+        "OnAttack": 2,
+        "OnStart": 2,
+        "duration": 30
+      },
+      "Doll_Skill_2_SwitchIn": {
+        "OnAttack": 6,
+        "OnStart": 6,
+        "duration": 30
+      },
+      "Doll_SwitchOut": 30,
+      "Idle": 120,
+      "Skill_1_SwitchOut": 30,
+      "Skill_2_SwitchOut": 30,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      },
+      "Stun": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_iana": {
+      "battle": null,
+      "charId": "char_4124_iana",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_iana",
+      "uniEquipName": "双月证章"
+    },
+    "uniequip_002_iana": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "def": 25.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-1",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 35.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-1",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": -2.0,
+                    "damage_scale": 1.25,
+                    "duration": 10.0,
+                    "weak[limit]": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "双子分身复制器",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在10秒内受到25%的脆弱且隐匿效果失效，并立即切换为<替身>作战"
+                },
+                {
+                  "blackboard": {
+                    "block_cnt": -2.0,
+                    "damage_scale": 1.27,
+                    "duration": 10.0,
+                    "weak[limit]": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "双子分身复制器",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在10秒内受到27%<@ba.talpu>（+2%）</>的脆弱且隐匿效果失效，并立即切换为<替身>作战"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 40.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-1",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": -2.0,
+                    "damage_scale": 1.28,
+                    "duration": 10.0,
+                    "weak[limit]": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "双子分身复制器",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在10秒内受到28%的脆弱且隐匿效果失效，并立即切换为<替身>作战"
+                },
+                {
+                  "blackboard": {
+                    "block_cnt": -2.0,
+                    "damage_scale": 1.3,
+                    "duration": 10.0,
+                    "weak[limit]": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "双子分身复制器",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署时原地释放全息幻影，该幻影不会攻击，受到攻击时使攻击幻影的敌人在10秒内受到30%<@ba.talpu>（+2%）</>的脆弱且隐匿效果失效，并立即切换为<替身>作战"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4124_iana",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31064": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "pum-x",
+      "uniEquipId": "uniequip_002_iana",
+      "uniEquipName": "“遥远陌生的世界”"
+    }
+  },
+  "skill": {
+    "skchr_iana_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.6
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0
+        },
+        "description": "切换为<替身>作战时，立即对攻击全息幻影的敌人及其周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "幻影诡雷",
+        "prefabId": "skchr_iana_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_iana_2": [
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 200.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 210.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 220.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 230.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 240.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 8.0,
+          "attack_speed": 250.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 10.0,
+          "attack_speed": 260.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 10.0,
+          "attack_speed": 270.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 10.0,
+          "attack_speed": 280.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "anti_invisible_duration": 10.0,
+          "attack_speed": 300.0
+        },
+        "description": "立即使周围的敌人在<@ba.vup>{anti_invisible_duration}</>秒内<$ba.invisible>隐匿</>效果失效并切换为<替身>作战\\n持续时间内攻击速度<@ba.vup>+{attack_speed}</>并获得<$ba.invisible>隐匿</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全知者的战术",
+        "prefabId": "skchr_iana_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

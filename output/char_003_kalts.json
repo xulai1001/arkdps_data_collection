@@ -1,0 +1,2090 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30043": 6,
+        "3302": 8
+      },
+      {
+        "30053": 3,
+        "30073": 6,
+        "3303": 8
+      }
+    ],
+    "description": "恢复友方单位生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 400,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "凯尔希",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 167,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 94,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 865,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 274,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 137,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1219,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_003_kalts",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 274,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 137,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1219,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 392,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1469,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_003_kalts",
+        "evolveCost": {
+          "30022": 8,
+          "30052": 5,
+          "3261": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-8"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 392,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1469,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 490,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 215,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1633,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_003_kalts",
+        "evolveCost": {
+          "30064": 4,
+          "30145": 4,
+          "3263": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-10"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_kalts_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 8
+          },
+          {
+            "30084": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_kalts_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "31014": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_kalts_3"
+      }
+    ],
+    "subProfessionId": "physician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 0.0,
+            "cnt": 1.0,
+            "def": 0.0
+          },
+          "description": "可以使用并治疗Mon3tr，拥有35秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+          "name": "Mon3tr",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10002_kalts_mon3tr",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 0.0,
+            "cnt": 1.0,
+            "def": 0.0
+          },
+          "description": "可以使用并治疗Mon3tr，拥有30秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+          "name": "Mon3tr",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10002_kalts_mon3tr",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 0.0,
+            "cnt": 1.0,
+            "def": 0.0
+          },
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+          "name": "Mon3tr",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10002_kalts_mon3tr",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3秒并对其造成1200点真实伤害",
+          "name": "不毁重构",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5<@ba.talpu>（+0.5）</>秒并对其造成1400<@ba.talpu>（+200）</>点真实伤害",
+          "name": "不毁重构",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "char_id": "char_4179_monstr"
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Idle": 270,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "token",
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_003_kalts": {
+        "frame_corr": 1,
+        "token": "token_10002_kalts_mon3tr",
+        "token_damage_type": "0"
+      },
+      "skchr_kalts_1": {
+        "token_damage_type": "0"
+      },
+      "skchr_kalts_2": {
+        "attack_begin": 13,
+        "reset_attack": true,
+        "token_attack_begin": 14,
+        "token_damage_type": "0",
+        "use_token_for_mastery": true
+      },
+      "skchr_kalts_3": {
+        "attack_begin": 13,
+        "damage_type": 2,
+        "grad": true,
+        "reset_attack": true,
+        "token_attack_begin": 21,
+        "token_damage_type": 3,
+        "use_token_for_mastery": true
+      },
+      "uniequip_002_kalts": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_kalts": {
+      "battle": null,
+      "charId": "char_003_kalts",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_kalts",
+      "uniEquipName": "凯尔希证章"
+    },
+    "uniequip_002_kalts": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 15.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 20.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3秒并对其造成1200点真实伤害"
+                },
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5<@ba.talpu>（+0.5）</>秒并对其造成1400<@ba.talpu>（+200）</>点真实伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "stun": 3.0,
+                    "value": 1200.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3秒并对其造成1200点真实伤害"
+                },
+                {
+                  "blackboard": {
+                    "stun": 3.5,
+                    "value": 1400.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5<@ba.talpu>（+0.5）</>秒并对其造成1400<@ba.talpu>（+200）</>点真实伤害"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.5,
+                    "stun": 3.0,
+                    "value": 1200.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.5,
+                    "stun": 3.5,
+                    "value": 1400.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "kalts_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 25.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5秒并对其造成1500点真实伤害"
+                },
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>4<@ba.talpu>（+0.5）</>秒并对其造成1700<@ba.talpu>（+200）</>点真实伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "stun": 3.5,
+                    "value": 1500.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5秒并对其造成1500点真实伤害"
+                },
+                {
+                  "blackboard": {
+                    "stun": 4.0,
+                    "value": 1700.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不毁重构",
+                  "prefabKey": "2",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>4<@ba.talpu>（+0.5）</>秒并对其造成1700<@ba.talpu>（+200）</>点真实伤害"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.5,
+                    "stun": 3.5,
+                    "value": 1500.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.5,
+                    "stun": 4.0,
+                    "value": 1700.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "kalts_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_003_kalts",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "phy-x",
+      "uniEquipId": "uniequip_002_kalts",
+      "uniEquipName": "Mon2tr"
+    },
+    "uniequip_003_kalts": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "attack_speed": 5.0,
+            "max_hp": 115.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 6.0,
+            "max_hp": 155.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 1.0,
+                    "def": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10002_kalts_mon3tr",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "attack_speed": 7.0,
+            "max_hp": 195.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 20.0,
+                    "cnt": 1.0,
+                    "def": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10002_kalts_mon3tr",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_003_kalts",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "phy-y",
+      "uniEquipId": "uniequip_003_kalts",
+      "uniEquipName": "医者"
+    },
+    "uniequip_004_kalts": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 24.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，同时治疗<@ba.kw>两</>个目标",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_3_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，同时治疗<@ba.kw>两</>个目标",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_3_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 0.0,
+                    "cnt": 1.0,
+                    "def": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10002_kalts_mon3tr",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中，Mon3tr不占用部署位，生命上限和攻击力+25%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.25,
+                    "max_hp": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "kalts_equip_3_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以被凯尔希治疗，不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中不占用部署位，生命上限和攻击力+25%"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，同时治疗<@ba.kw>两</>个目标",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "kalts_equip_3_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 0.0,
+                    "cnt": 1.0,
+                    "def": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10002_kalts_mon3tr",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中，Mon3tr不占用部署位，生命上限和攻击力+50%且受到的治疗效果提升50%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.5,
+                    "heal_scale": 1.5,
+                    "max_hp": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "kalts_equip_3_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "Mon3tr",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以被凯尔希治疗，不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中不占用部署位，生命上限和攻击力+50%且受到的治疗效果提升50%"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_003_kalts",
+      "itemCost": {
+        "1": {
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "mod_unlock_token": 1
+        },
+        "3": {
+          "mod_unlock_token": 1
+        }
+      },
+      "typeIcon": "isw-a",
+      "uniEquipId": "uniequip_004_kalts",
+      "uniEquipName": "凯尔希特限证章"
+    }
+  },
+  "skill": {
+    "skchr_kalts_1": [
+      {
+        "blackboard": {
+          "attack@def": 0.6,
+          "def": 0.6,
+          "prob": 0.2
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 0.7,
+          "def": 0.7,
+          "prob": 0.2
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 0.8,
+          "def": 0.8,
+          "prob": 0.2
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 0.9,
+          "def": 0.9,
+          "prob": 0.3
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.0,
+          "def": 1.0,
+          "prob": 0.3
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.1,
+          "def": 1.1,
+          "prob": 0.3
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.2,
+          "def": 1.2,
+          "prob": 0.4
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.3,
+          "def": 1.3,
+          "prob": 0.4
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 37.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.4,
+          "def": 1.4,
+          "prob": 0.4
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@def": 1.5,
+          "def": 1.5,
+          "prob": 0.5
+        },
+        "description": "自身和Mon3tr的防御力<@ba.vup>+{def:0%}</>，且自身获得<@ba.vup>{prob:0%}</>的物理格挡",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "指令：结构加固",
+        "prefabId": "skchr_kalts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_kalts_2": [
+      {
+        "blackboard": {
+          "attack@atk": 0.2,
+          "attack_speed": 30.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.25,
+          "attack_speed": 35.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.3,
+          "attack_speed": 40.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.35,
+          "attack_speed": 45.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.4,
+          "attack_speed": 50.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.45,
+          "attack_speed": 55.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.5,
+          "attack_speed": 60.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.6,
+          "attack_speed": 70.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.75,
+          "attack_speed": 80.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 0.9,
+          "attack_speed": 100.0
+        },
+        "description": "自身的攻击速度<@ba.vup>+{attack_speed}</>，Mon3tr的攻击力<@ba.vup>+{attack@atk:0%}</>，Mon3tr可以攻击阻挡的所有敌人\\n<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "指令：战术协同",
+        "prefabId": "skchr_kalts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_kalts_3": [
+      {
+        "blackboard": {
+          "attack@atk": 1.3,
+          "attack@def": 1.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.4,
+          "attack@def": 1.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.5,
+          "attack@def": 1.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.6,
+          "attack@def": 1.2,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.7,
+          "attack@def": 1.2,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.8,
+          "attack@def": 1.2,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 1.9,
+          "attack@def": 1.4,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 2.1,
+          "attack@def": 1.6,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 2.3,
+          "attack@def": 1.8,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk": 2.6,
+          "attack@def": 2.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "Mon3tr的防御力<@ba.vup>+{attack@def:0%}</>，技能期间攻击力从<@ba.vup>+{attack@atk:0%}</>逐渐降低至+0%且伤害类型变为<@ba.vup>真实</>，此期间如果未击杀任何敌人则技能结束后流失最大生命的<@ba.vup>{attack@hp_ratio:0%}</>。<@ba.rem>该技能与Mon3tr</><$ba.binding><@ba.rem>绑定</></>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "指令：熔毁",
+        "prefabId": "skchr_kalts_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

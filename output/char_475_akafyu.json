@@ -1,0 +1,1158 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30063": 3,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "30073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 55,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "赤冬",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 325,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 157,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1491,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 465,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 216,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2071,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_475_akafyu",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 465,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 216,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2071,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 278,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2726,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_475_akafyu",
+        "evolveCost": {
+          "30012": 7,
+          "30042": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 278,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2726,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 728,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 328,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3635,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_475_akafyu",
+        "evolveCost": {
+          "30053": 15,
+          "31014": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31014": 5,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_akafyu_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31024": 5,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_akafyu_2"
+      }
+    ],
+    "subProfessionId": "musha",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "min_attack_speed": 50.0,
+            "min_hp_ratio": 0.5
+          },
+          "description": "在场时，自身获得最高+50攻击速度的<$ba.berserk>坚忍</>（损失50%生命值时达到最大加成）",
+          "name": "信影流·羽飞",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 75.0,
+            "min_hp_ratio": 0.4
+          },
+          "description": "在场时，自身获得最高+75攻击速度的<$ba.berserk>坚忍</>（损失60%生命值时达到最大加成）",
+          "name": "信影流·羽飞",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 100.0,
+            "min_hp_ratio": 0.3
+          },
+          "description": "在场时，自身获得最高+100攻击速度的<$ba.berserk>坚忍</>（损失70%生命值时达到最大加成）",
+          "name": "信影流·羽飞",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 30.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英1后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英2后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_1"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 70.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 50
+      },
+      "Attack_Begin": 1,
+      "Attack_Down": {
+        "OnAttack": 14,
+        "duration": 50
+      },
+      "Attack_End": 1,
+      "Idle": 400,
+      "Skill": {
+        "OnAttack": 14,
+        "duration": 50
+      },
+      "Skill2": {
+        "OnAttack": 9,
+        "duration": 29
+      },
+      "Skill2_Begin": 1,
+      "Skill2_Down": {
+        "OnAttack": 9,
+        "duration": 29
+      },
+      "Skill2_End": 1,
+      "Skill2_Idle": 400,
+      "Skill_Down": {
+        "OnAttack": 14,
+        "duration": 50
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "musha_hp"
+      ]
+    },
+    "spec": {
+      "uniequip_002_akafyu": {
+        "override_talent": 1,
+        "remove_keys": [
+          "hp_ratio"
+        ]
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_akafyu": {
+      "battle": null,
+      "charId": "char_475_akafyu",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_akafyu",
+      "uniEquipName": "赤冬证章"
+    },
+    "uniequip_002_akafyu": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "akafyu_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 42.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "akafyu_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信影流·逆风",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡敌人时防御力+8%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "akafyu_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "def": 50.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "akafyu_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信影流·逆风",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡敌人时防御力+12%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "akafyu_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_475_akafyu",
+      "itemCost": {
+        "1": {
+          "30014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sbl-x",
+      "uniEquipId": "uniequip_002_akafyu",
+      "uniEquipName": "武将甲胄"
+    }
+  },
+  "skill": {
+    "skchr_akafyu_1": [
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "信影流·雷刀之势",
+        "prefabId": "skchr_akafyu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_akafyu_2": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.7,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.7,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.7,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "def": 0.8,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "def": 0.8,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "def": 0.8,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "def": 0.9,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "def": 1.0,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "def": 1.1,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "def": 1.2,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，获得一层<$ba.shield>护盾</>（技能结束后消失），攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信影流·十文字胜",
+        "prefabId": "skchr_akafyu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

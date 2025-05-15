@@ -1,0 +1,399 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30011": 2,
+        "3301": 2
+      },
+      {
+        "30022": 1,
+        "3302": 1
+      },
+      {
+        "30032": 2,
+        "3302": 1
+      },
+      {
+        "30043": 1,
+        "3302": 1
+      },
+      {
+        "30053": 2,
+        "3303": 2
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "芬",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 157,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 9,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 742,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 235,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 9,
+            "def": 187,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1060,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_123_fang",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 235,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 187,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1060,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 325,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 260,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1325,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_123_fang",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+20",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 20.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_charge_cost[1]"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": -1.0
+          },
+          "description": "自身部署费用-1",
+          "name": "轻量化",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Attack_Down": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skcom_charge_cost[1]": [
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 6.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·α型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

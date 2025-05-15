@@ -1,0 +1,1150 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30043": 2,
+        "3302": 3
+      },
+      {
+        "30013": 3,
+        "3303": 4
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "波登可",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 208,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 43,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 528,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 306,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 62,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 724,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_258_podego",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 306,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 62,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 724,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 408,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 930,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_258_podego",
+        "evolveCost": {
+          "30032": 1,
+          "30042": 1,
+          "3271": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 408,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 930,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 492,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 96,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1163,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_258_podego",
+        "evolveCost": {
+          "30093": 5,
+          "31023": 19,
+          "3272": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+21",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 21.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 2,
+            "30064": 1,
+            "3303": 2
+          },
+          {
+            "30014": 3,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30125": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_podego_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 1,
+            "31023": 3,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_podego_2"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05
+          },
+          "description": "在场时，所有【辅助】干员攻击力+5%",
+          "name": "园丁",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07
+          },
+          "description": "在场时，所有【辅助】干员攻击力+7%<@ba.talpu>（+2%）</>",
+          "name": "园丁",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09
+          },
+          "description": "在场时，所有【辅助】干员攻击力+9%",
+          "name": "园丁",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.11
+          },
+          "description": "在场时，所有【辅助】干员攻击力+11%<@ba.talpu>（+2%）</>",
+          "name": "园丁",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 21,
+        "duration": 33
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_258_podego": {
+        "frame_corr": 1
+      },
+      "skchr_podego_1": {
+        "reset_attack": true
+      },
+      "skchr_podego_2": {
+        "cast_time": 33,
+        "reset_attack": "ogcd"
+      },
+      "uniequip_002_podego": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_podego": {
+      "battle": null,
+      "charId": "char_258_podego",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_podego",
+      "uniEquipName": "波登可证章"
+    },
+    "uniequip_002_podego": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 70.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "podego_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "podego_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.09,
+                    "attack_speed": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "园丁",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【辅助】干员攻击力+9%，攻击速度+3"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.11,
+                    "attack_speed": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "园丁",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【辅助】干员攻击力+11%<@ba.talpu>（+2%）</>，攻击速度+3"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "podego_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "podego_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.09,
+                    "attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "园丁",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【辅助】干员攻击力+9%，攻击速度+5"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.11,
+                    "attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "园丁",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【辅助】干员攻击力+11%<@ba.talpu>（+2%）</>，攻击速度+5"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "podego_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_258_podego",
+      "itemCost": {
+        "1": {
+          "30013": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30103": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "dec-x",
+      "uniEquipId": "uniequip_002_podego",
+      "uniEquipName": "“不谢的苗圃”"
+    }
+  },
+  "skill": {
+    "skchr_podego_1": [
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，普通攻击改为<@ba.vup>治疗</>友方单位",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "花香疗法",
+        "prefabId": "skchr_podego_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_podego_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.6,
+          "projectile_delay_time": 5.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.65,
+          "projectile_delay_time": 6.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7,
+          "projectile_delay_time": 6.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "projectile_delay_time": 6.0
+        },
+        "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续<@ba.vup>{projectile_delay_time}</>秒的孢子群\\n孢子群范围内所有敌人被<$ba.sluggish>停顿</>且失去特殊能力，每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "孢子扩散",
+        "prefabId": "skchr_podego_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

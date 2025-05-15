@@ -1,0 +1,995 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30021": 4,
+        "3301": 2
+      },
+      {
+        "30032": 2,
+        "3302": 3
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30093": 2,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3303": 4
+      }
+    ],
+    "description": "同时攻击阻挡的<@ba.kw>所有敌人</>\\n可以放置于远程位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 35,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "阿消",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 252,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 151,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 824,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 229,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1099,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_277_sqrrel",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 229,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1099,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 469,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1392,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_277_sqrrel",
+        "evolveCost": {
+          "30012": 1,
+          "30022": 1,
+          "3281": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 469,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1392,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 580,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 365,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1785,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_277_sqrrel",
+        "evolveCost": {
+          "30033": 11,
+          "30063": 12,
+          "3282": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+140",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 140.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 1,
+            "30093": 4,
+            "3303": 2
+          },
+          {
+            "30014": 3,
+            "30034": 2,
+            "3303": 4
+          },
+          {
+            "30064": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_sqrrel_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 1,
+            "30103": 3,
+            "3303": 2
+          },
+          {
+            "30024": 2,
+            "30044": 2,
+            "3303": 4
+          },
+          {
+            "30044": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_sqrrel_2"
+      }
+    ],
+    "subProfessionId": "pusher",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "magic_resistance": 7.0
+          },
+          "description": "法术抗性+7",
+          "name": "防火护服",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 15.0
+          },
+          "description": "法术抗性+15",
+          "name": "防火护服",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 5,
+      "Attack_End": 5,
+      "Attack_Loop": {
+        "OnAttack": 11,
+        "duration": 25
+      },
+      "Idle": 50,
+      "Skill_Down": {
+        "OnAttack": 18,
+        "duration": 40
+      },
+      "Skill_Right": {
+        "OnAttack": 18,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "tachr_277_sqrrel_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_sqrrel": {
+      "battle": null,
+      "charId": "char_277_sqrrel",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_sqrrel",
+      "uniEquipName": "阿消证章"
+    },
+    "uniequip_002_sqrrel": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 21.0,
+            "def": 12.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sqrrel_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 27.0,
+            "def": 17.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sqrrel_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": 20.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防火护服",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "法术抗性+20"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "def": 22.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sqrrel_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": 23.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防火护服",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "法术抗性+23"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_277_sqrrel",
+      "itemCost": {
+        "1": {
+          "30083": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30023": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "pus-y",
+      "uniEquipId": "uniequip_002_sqrrel",
+      "uniEquipName": "客制化防火服"
+    }
+  },
+  "skill": {
+    "skchr_sqrrel_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "force": 0.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "force": 0.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "force": 0.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.24,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.27,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "force": 1.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 2.0
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>较大力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "水蒸气泵",
+        "prefabId": "skchr_sqrrel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_sqrrel_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "force": 0.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "force": 0.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "force": 0.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>小力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "force": 1.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "force": 1.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "force": 1.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>中等力度地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "force": 2.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>较大力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "force": 2.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>较大力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "force": 2.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>较大力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "force": 2.0
+        },
+        "description": "立即将前方两格内所有敌人往攻击方向<@ba.vup>较大力地</>推开，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高压水炮",
+        "prefabId": "skchr_sqrrel_2",
+        "rangeId": "2-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

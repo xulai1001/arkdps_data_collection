@@ -1,0 +1,1666 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30022": 5,
+        "3302": 8
+      },
+      {
+        "30032": 4,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30103": 6,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30063": 4,
+        "3303": 8
+      }
+    ],
+    "description": "能够阻挡三个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 60,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "星熊",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 221,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 257,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1602,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 284,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 384,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2165,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_136_hsguma",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 284,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 384,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2165,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 527,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2849,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_136_hsguma",
+        "evolveCost": {
+          "30012": 11,
+          "30042": 5,
+          "3231": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 527,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2849,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 430,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 723,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3850,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_136_hsguma",
+        "evolveCost": {
+          "30094": 5,
+          "30115": 4,
+          "3233": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 4,
+            "30103": 5,
+            "3303": 6
+          },
+          {
+            "30034": 7,
+            "30054": 4,
+            "3303": 12
+          },
+          {
+            "30094": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hsguma_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 8,
+            "30034": 4,
+            "3303": 6
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30034": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hsguma_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 4,
+            "3303": 6
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hsguma_3"
+      }
+    ],
+    "subProfessionId": "protector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.12
+          },
+          "description": "获得12%的伤害抵挡",
+          "name": "战术装甲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.15
+          },
+          "description": "获得15%<@ba.talpu>（+3%）</>的伤害抵挡",
+          "name": "战术装甲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.25
+          },
+          "description": "获得25%的伤害抵挡",
+          "name": "战术装甲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.28
+          },
+          "description": "获得28%<@ba.talpu>（+3%）</>的伤害抵挡",
+          "name": "战术装甲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "def": 0.06
+          },
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%",
+          "name": "特种作战策略",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.08
+          },
+          "description": "在场时所有友方【重装】职业干员的防御力提升8%<@ba.talpu>（+2%）</>",
+          "name": "特种作战策略",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Attack_Down": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Idle": 90,
+      "Skill": 10,
+      "Skill_Begin": {
+        "OnAttack": 10,
+        "duration": 22
+      },
+      "Skill_Down": 10,
+      "Skill_Down_Begin": {
+        "OnAttack": 10,
+        "duration": 22
+      },
+      "Skill_Down_End": 12,
+      "Skill_End": 12,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_hsguma_2": {
+        "cloneable": true,
+        "passive": true,
+        "reflect": true
+      },
+      "skchr_hsguma_3": {
+        "sec": true
+      },
+      "tachr_136_hsguma_2": {
+        "cloneable": true
+      },
+      "uniequip_002_hsguma": {
+        "override_talent": 1
+      },
+      "uniequip_003_hsguma": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_hsguma": {
+      "battle": null,
+      "charId": "char_136_hsguma",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_hsguma",
+      "uniEquipName": "星熊证章"
+    },
+    "uniequip_002_hsguma": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "block_cnt": 1.0,
+            "def": 70.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "能够阻挡四个敌人",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 62.0,
+            "block_cnt": 1.0,
+            "def": 90.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "能够阻挡四个敌人",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "duration": 3.0,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术装甲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得30%的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "duration": 3.0,
+                    "prob": 0.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术装甲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得33%<@ba.talpu>（+3%）</>的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hsguma_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "block_cnt": 1.0,
+            "def": 100.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "能够阻挡四个敌人",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.35,
+                    "duration": 5.0,
+                    "prob": 0.32
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术装甲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得32%的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.35,
+                    "duration": 5.0,
+                    "prob": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术装甲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得35%<@ba.talpu>（+3%）</>的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hsguma_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_136_hsguma",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "pro-y",
+      "uniEquipId": "uniequip_002_hsguma",
+      "uniEquipName": "友人们的赠礼"
+    },
+    "uniequip_003_hsguma": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 85.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hsguma_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 115.0,
+            "max_hp": 165.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hsguma_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.04
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "特种作战策略",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.04
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "特种作战策略",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有友方【重装】职业干员的防御力提升11%<@ba.talpu>（+2%）</>，自身防御力额外提升4%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hsguma_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.09
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "def": 0.11
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 140.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hsguma_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.06
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "特种作战策略",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.06
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "特种作战策略",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时所有友方【重装】职业干员的防御力提升13%<@ba.talpu>（+2%）</>，自身防御力额外提升6%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hsguma_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.11
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "def": 0.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_136_hsguma",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "pro-x",
+      "uniEquipId": "uniequip_003_hsguma",
+      "uniEquipName": "护身符"
+    }
+  },
+  "skill": {
+    "skchr_hsguma_1": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "def": 0.35
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "def": 0.4
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "def": 0.45
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.5
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.55
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.6
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.65
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.7
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.75
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.8
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>，攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "战意",
+        "prefabId": "skchr_hsguma_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_hsguma_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "def": 0.05
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.55,
+          "def": 0.07
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.6,
+          "def": 0.09
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.65,
+          "def": 0.13
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7,
+          "def": 0.15
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.75,
+          "def": 0.17
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "def": 0.21
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.85,
+          "def": 0.24
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "def": 0.27
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "def": 0.3
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>\\n每次受到攻击时对目标造成相当于星熊攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "荆棘",
+        "prefabId": "skchr_hsguma_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_hsguma_3": [
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "def": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "def": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.25,
+          "def": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "def": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，对前方一格的所有敌人使用盾牌进行切割",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "力之锯",
+        "prefabId": "skchr_hsguma_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

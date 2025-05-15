@@ -1,0 +1,1718 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30063": 4,
+        "3302": 8
+      },
+      {
+        "30053": 4,
+        "30073": 5,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>超远距离的群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 110,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "伊芙利特",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 377,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 52,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 687,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 563,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 31,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 982,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_134_ifrit",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "4-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 563,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 982,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 722,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_134_ifrit",
+        "evolveCost": {
+          "30012": 8,
+          "30032": 8,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "5-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 722,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 870,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 34,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1680,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_134_ifrit",
+        "evolveCost": {
+          "30034": 7,
+          "30135": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "5-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 6
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30034": 6,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ifrit_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30104": 8,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ifrit_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 6
+          },
+          {
+            "30014": 10,
+            "30034": 4,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ifrit_3"
+      }
+    ],
+    "subProfessionId": "blastcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "magic_resistance": -0.15
+          },
+          "description": "攻击范围内的敌军法术抗性-15%",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": -0.19
+          },
+          "description": "攻击范围内的敌军法术抗性-19%<@ba.talpu>（+4%）</>",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": -0.27
+          },
+          "description": "攻击范围内的敌军法术抗性-27%",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": -0.31
+          },
+          "description": "攻击范围内的敌军法术抗性-31%<@ba.talpu>（+4%）</>",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": -0.4
+          },
+          "description": "攻击范围内的敌军法术抗性-40%",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": -0.44
+          },
+          "description": "攻击范围内的敌军法术抗性-44%<@ba.talpu>（+4%）</>",
+          "name": "精神融解",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "interval": 6.0,
+            "sp": 2.0
+          },
+          "description": "每6秒额外回复2点技力",
+          "name": "莱茵回路",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "interval": 5.5,
+            "sp": 2.0
+          },
+          "description": "每5.5<@ba.talpu>（-0.5）</>秒额外回复2点技力",
+          "name": "莱茵回路",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 10,
+        "duration": 39
+      },
+      "Attack_Down": {
+        "OnAttack": 10,
+        "duration": 39
+      },
+      "Idle": 90,
+      "Skill_2_Begin": {
+        "OnAttack": 12,
+        "duration": 21
+      },
+      "Skill_2_End": 15,
+      "Skill_2_Loop": 12,
+      "Skill_Down_2_Begin": {
+        "OnAttack": 10,
+        "duration": 21
+      },
+      "Skill_Down_2_End": {
+        "OnAttack": 0,
+        "duration": 15
+      },
+      "Skill_Down_2_Loop": {
+        "OnAttack": 12,
+        "duration": 12
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_134_ifrit": {
+        "frame_corr": 1
+      },
+      "skchr_ifrit_2": {
+        "cast_time": 39,
+        "sim": true
+      },
+      "skchr_ifrit_3": {
+        "frame_corr": 0,
+        "reset_attack": true,
+        "sec": true
+      },
+      "uniequip_002_ifrit": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_ifrit": {
+      "battle": null,
+      "charId": "char_134_ifrit",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ifrit",
+      "uniEquipName": "伊芙利特证章"
+    },
+    "uniequip_002_ifrit": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 64.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ifrit_e_002[dice_sp].interval": 6.0,
+                    "ifrit_e_002[dice_sp].prob": 0.2,
+                    "ifrit_e_002[dice_sp].sp": 5.0,
+                    "interval": 6.0,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "莱茵回路",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每6秒额外回复2点技力，有20%概率额外回复5点技力"
+                },
+                {
+                  "blackboard": {
+                    "ifrit_e_002[dice_sp].interval": 5.5,
+                    "ifrit_e_002[dice_sp].prob": 0.2,
+                    "ifrit_e_002[dice_sp].sp": 5.0,
+                    "interval": 5.5,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "莱茵回路",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每5.5<@ba.talpu>（-0.5）</>秒额外回复2点技力，有20%概率额外回复5点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ifrit_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 72.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "damage_scale": 0.1,
+                    "max_dist": 4.0,
+                    "min_dist": 0.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>超远距离的群体法术伤害</>，距离越远伤害越高，最高达到<@ba.kw>110%</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ifrit_e_002[dice_sp].interval": 6.0,
+                    "ifrit_e_002[dice_sp].prob": 0.3,
+                    "ifrit_e_002[dice_sp].sp": 5.0,
+                    "interval": 6.0,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "莱茵回路",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每6秒额外回复2点技力，有30%概率额外回复5点技力"
+                },
+                {
+                  "blackboard": {
+                    "ifrit_e_002[dice_sp].interval": 5.5,
+                    "ifrit_e_002[dice_sp].prob": 0.3,
+                    "ifrit_e_002[dice_sp].sp": 5.0,
+                    "interval": 5.5,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "莱茵回路",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每5.5<@ba.talpu>（-0.5）</>秒额外回复2点技力，有30%概率额外回复5点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ifrit_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_134_ifrit",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "bla-x",
+      "uniEquipId": "uniequip_002_ifrit",
+      "uniEquipName": "“同熔”"
+    },
+    "uniequip_003_ifrit": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.burning2>灼燃损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 165.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.burning2>灼燃损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": -0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神融解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的敌军法术抗性-40%，若攻击目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间，攻击对其额外造成相当于攻击力40%的元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "magic_resistance": -0.44
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神融解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的敌军法术抗性-44%<@ba.talpu>（+4%）</>，若攻击目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间，攻击对其额外造成相当于攻击力40%的元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "element_atk_scale": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ifrit_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成法术伤害时附带相当于<@ba.vup>8%</>伤害的<$ba.dt.burning2>灼燃损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.08
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "ifrit_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": -0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神融解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的敌军法术抗性-40%，若攻击目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间，攻击对其额外造成相当于攻击力50%的元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "magic_resistance": -0.44
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神融解",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的敌军法术抗性-44%<@ba.talpu>（+4%）</>，若攻击目标处于<$ba.dt.burning2>灼燃损伤</>爆发期间，攻击对其额外造成相当于攻击力50%的元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "element_atk_scale": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "ifrit_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_134_ifrit",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "bla-d",
+      "uniEquipId": "uniequip_003_ifrit",
+      "uniEquipName": "“热成形记忆”"
+    }
+  },
+  "skill": {
+    "skchr_ifrit_1": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 45.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 48.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 50.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 58.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 61.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 64.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 67.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 70.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 75.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 80.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "狂热",
+        "prefabId": "skchr_ifrit_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ifrit_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "burn.atk_scale": 0.33,
+          "ct": 2.0,
+          "def": -100.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "burn.atk_scale": 0.33,
+          "ct": 3.0,
+          "def": -200.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15,
+          "burn.atk_scale": 0.33,
+          "ct": 3.0,
+          "def": -200.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.25,
+          "burn.atk_scale": 0.33,
+          "ct": 3.0,
+          "def": -200.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "burn.atk_scale": 0.33,
+          "ct": 3.0,
+          "def": -300.0,
+          "duration": 3.01
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标在<@ba.vup>3</>秒内防御力<@ba.vup>-{-def}</>并持续受到灼烧伤害\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "炎爆",
+        "prefabId": "skchr_ifrit_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ifrit_3": [
+      {
+        "blackboard": {
+          "atk_scale": 0.75,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.85,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.95,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "hp_ratio": 0.02,
+          "magic_resistance": -7.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "hp_ratio": 0.02,
+          "magic_resistance": -10.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "hp_ratio": 0.02,
+          "magic_resistance": -13.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "hp_ratio": 0.02,
+          "magic_resistance": -16.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "hp_ratio": 0.02,
+          "magic_resistance": -20.0
+        },
+        "description": "对攻击范围内的地面敌人造成每秒相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，命中目标的法术抗性<@ba.vup>-{-magic_resistance}</>\\n<@ba.rem>自己每秒流失最大生命值的{hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "灼地",
+        "prefabId": "skchr_ifrit_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

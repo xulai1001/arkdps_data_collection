@@ -1,0 +1,1441 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 6,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30022": 5,
+        "3302": 8
+      },
+      {
+        "30032": 4,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30093": 4,
+        "3303": 8
+      }
+    ],
+    "description": "可以使用陷阱来协助作战，但陷阱无法放置于<@ba.kw>敌人已在</>的格子中",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "多萝西",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 263,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 702,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 361,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 936,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4048_doroth",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 361,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 936,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 476,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 142,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1186,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4048_doroth",
+        "evolveCost": {
+          "30012": 7,
+          "30062": 5,
+          "3281": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 476,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 142,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1186,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1502,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4048_doroth",
+        "evolveCost": {
+          "30115": 4,
+          "31054": 8,
+          "3283": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 8
+          },
+          {
+            "30084": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30125": 6,
+            "31054": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_doroth_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 11,
+            "31014": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31024": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_doroth_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 5,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30064": 6,
+            "31054": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31014": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_doroth_3"
+      }
+    ],
+    "subProfessionId": "traper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@max_cnt": 0.0,
+            "cnt": 4.0
+          },
+          "description": "可以使用4个共振装置（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_cnt": 0.0,
+            "cnt": 6.0
+          },
+          "description": "可以使用6<@ba.talpu>（+2）</>个共振装置（最多拥有6个），踩上去的第一个敌人会触发其效果",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_cnt": 1.0,
+            "cnt": 6.0
+          },
+          "description": "可以使用6个共振装置（最多拥有8个），踩上去的第一个敌人会触发其效果，部署后立刻在攻击范围内召唤1个共振装置",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_cnt": 1.0,
+            "cnt": 8.0
+          },
+          "description": "可以使用8<@ba.talpu>（+2）</>个共振装置（最多拥有8个），踩上去的第一个敌人会触发其效果，部署后立刻在攻击范围内召唤1个共振装置",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_cnt": 2.0,
+            "cnt": 8.0
+          },
+          "description": "可以使用8个共振装置（最多拥有10个），踩上去的第一个敌人会触发其效果，部署后立刻在攻击范围内召唤2个共振装置",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_cnt": 2.0,
+            "cnt": 10.0
+          },
+          "description": "可以使用10<@ba.talpu>（+2）</>个共振装置（最多拥有10个），踩上去的第一个敌人会触发其效果，部署后立刻在攻击范围内召唤2个共振装置",
+          "name": "共振装置",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10025_doroth_recttp",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.02,
+            "max_stack_cnt": 10.0
+          },
+          "description": "陷阱触发后，多萝西获得2%的攻击力，最多叠加10层",
+          "name": "梦想家",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.02,
+            "max_stack_cnt": 12.0
+          },
+          "description": "陷阱触发后，多萝西获得2%的攻击力，最多叠加12<@ba.talpu>（+2）</>层",
+          "name": "梦想家",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 10,
+        "duration": 26
+      },
+      "Attack_2": {
+        "OnAttack": 10,
+        "duration": 26
+      },
+      "Idle": 80,
+      "Idle_2": 80,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "stack",
+        "crit"
+      ]
+    },
+    "spec": {
+      "tachr_4048_doroth_2": {
+        "stack": true
+      },
+      "uniequip_002_doroth": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_doroth": {
+      "battle": null,
+      "charId": "char_4048_doroth",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_doroth",
+      "uniEquipName": "多萝西证章"
+    },
+    "uniequip_002_doroth": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 42.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "doroth_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "doroth_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.03,
+                    "max_stack_cnt": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "梦想家",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "陷阱触发后，多萝西获得3%的攻击力，最多叠加10层"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.03,
+                    "max_stack_cnt": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "梦想家",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "陷阱触发后，多萝西获得3%的攻击力，最多叠加12<@ba.talpu>（+2）</>层"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 57.0,
+            "max_hp": 155.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "有20%概率部署造成2倍伤害的陷阱",
+                  "blackboard": {
+                    "atk_scale": 2.0,
+                    "prob": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "doroth_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "max_stack_cnt": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "梦想家",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "陷阱触发后，多萝西获得4%的攻击力，最多叠加10层"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.04,
+                    "max_stack_cnt": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "梦想家",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "陷阱触发后，多萝西获得4%的攻击力，最多叠加12<@ba.talpu>（+2）</>层"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4048_doroth",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "trp-y",
+      "uniEquipId": "uniequip_002_doroth",
+      "uniEquipName": "童话书"
+    }
+  },
+  "skill": {
+    "skchr_doroth_1": [
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "cnt": 1.0,
+          "def": -0.25,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.7,
+          "cnt": 1.0,
+          "def": -0.3,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.9,
+          "cnt": 1.0,
+          "def": -0.32,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "cnt": 1.0,
+          "def": -0.33,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "cnt": 1.0,
+          "def": -0.35,
+          "duration": 5.0
+        },
+        "description": "被动效果：陷阱触发时对目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>，持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "危险目标清除",
+        "prefabId": "skchr_doroth_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_doroth_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.0,
+          "duration_2": 3.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 2.5,
+          "duration_2": 5.0
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 3.0,
+          "duration_2": 5.0
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 3.0,
+          "duration_2": 5.5
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 1.0,
+          "cnt_2": 1.0,
+          "duration": 3.5,
+          "duration_2": 6.0
+        },
+        "description": "被动效果：陷阱触发时对周围所有目标造成相当于攻击力的<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.root>束缚</><@ba.vup>{duration}</>秒,如果陷阱只命中<@ba.vup>1</>名敌人，则使其<$ba.root>束缚</><@ba.vup>{duration_2}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "流沙区域生成",
+        "prefabId": "skchr_doroth_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_doroth_3": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 3.5
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 4.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 4.5
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cnt": 1.0,
+          "interval": 2.0,
+          "sluggish": 5.0
+        },
+        "description": "被动效果：陷阱触发时对范围内所有目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒，并延迟触发范围内的其他共振装置\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高速共振排障",
+        "prefabId": "skchr_doroth_3",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

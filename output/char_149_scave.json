@@ -1,0 +1,1056 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30011": 5,
+        "3301": 2
+      },
+      {
+        "30022": 2,
+        "3302": 3
+      },
+      {
+        "30032": 3,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3302": 3
+      },
+      {
+        "30013": 3,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "清道夫",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 185,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 10,
+            "def": 136,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 693,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 281,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 10,
+            "def": 198,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 937,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_149_scave",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 281,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 198,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 937,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 385,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 255,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1284,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_149_scave",
+        "evolveCost": {
+          "30012": 1,
+          "30022": 1,
+          "3211": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 385,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 255,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1284,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 470,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 310,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1835,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_149_scave",
+        "evolveCost": {
+          "30063": 6,
+          "30073": 20,
+          "3212": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 1,
+            "30103": 3,
+            "3303": 2
+          },
+          {
+            "30024": 2,
+            "30044": 2,
+            "3303": 4
+          },
+          {
+            "30094": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_charge_cost[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 5,
+            "30034": 1,
+            "3303": 2
+          },
+          {
+            "30034": 2,
+            "30054": 2,
+            "3303": 4
+          },
+          {
+            "30084": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_scave_2"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "def": 0.05
+          },
+          "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+5%",
+          "name": "单独行动者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "def": 0.07
+          },
+          "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+7%<@ba.talpu>（+2%）</>",
+          "name": "单独行动者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.11,
+            "def": 0.11
+          },
+          "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+11%",
+          "name": "单独行动者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.13,
+            "def": 0.13
+          },
+          "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+13%<@ba.talpu>（+2%）</>",
+          "name": "单独行动者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 28
+      },
+      "Attack_End": 16,
+      "Attack_Pre": 16,
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 24
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "tachr_149_scave_1": {
+        "cond": true
+      },
+      "uniequip_002_scave": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_scave": {
+      "battle": null,
+      "charId": "char_149_scave",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_scave",
+      "uniEquipName": "清道夫证章"
+    },
+    "uniequip_002_scave": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 27.0,
+            "def": 18.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "scave_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "def": 22.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "scave_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.14,
+                    "def": 0.14
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "单独行动者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围四格内没有其他友方单位时，攻击力和防御力各+14%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.16,
+                    "def": 0.16
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "单独行动者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "def": 25.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "scave_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.16,
+                    "def": 0.16
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "单独行动者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "def": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "单独行动者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围四格内没有其他友方单位时，攻击力和防御力各+18%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_149_scave",
+      "itemCost": {
+        "1": {
+          "30043": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31023": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "sol-x",
+      "uniEquipId": "uniequip_002_scave",
+      "uniEquipName": "“专属餐具”"
+    }
+  },
+  "skill": {
+    "skchr_scave_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "cost": 11.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用\\n攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·攻击",
+        "prefabId": "skchr_scave_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_charge_cost[2]": [
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 9.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·β型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

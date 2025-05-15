@@ -1,0 +1,1791 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30043": 6,
+        "3302": 8
+      },
+      {
+        "30053": 4,
+        "30073": 5,
+        "3303": 8
+      }
+    ],
+    "description": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 85,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "风笛",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 250,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 173,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 975,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 369,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 241,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1355,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_222_bpipe",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 369,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 241,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1355,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 492,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 313,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1738,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_222_bpipe",
+        "evolveCost": {
+          "30032": 10,
+          "30052": 3,
+          "3211": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 492,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 313,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1738,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 586,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 382,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2484,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_222_bpipe",
+        "evolveCost": {
+          "30014": 9,
+          "30115": 4,
+          "3213": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30084": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_quickattack[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bpipe_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_bpipe_3"
+      }
+    ],
+    "subProfessionId": "charger",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.1,
+            "prob": 0.25
+          },
+          "description": "每次攻击有25%的概率攻击力提升至110%，且额外攻击一个目标",
+          "name": "精密填弹",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.1,
+            "prob": 0.28
+          },
+          "description": "每次攻击有28%<@ba.talpu>（+3%）</>的概率攻击力提升至110%，且额外攻击一个目标",
+          "name": "精密填弹",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.3,
+            "prob": 0.25
+          },
+          "description": "每次攻击有25%的概率攻击力提升至130%，且额外攻击一个目标",
+          "name": "精密填弹",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.3,
+            "prob": 0.28
+          },
+          "description": "每次攻击有28%<@ba.talpu>（+3%）</>的概率攻击力提升至130%，且额外攻击一个目标",
+          "name": "精密填弹",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "sp": 6.0
+          },
+          "description": "编入队伍时所有【先锋】干员的初始技力+6",
+          "name": "军事传统",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "sp": 8.0
+          },
+          "description": "编入队伍时所有【先锋】干员的初始技力+8<@ba.talpu>（+2）</>",
+          "name": "军事传统",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "cost": 1.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 5,
+      "Attack_End": 5,
+      "Attack_Loop": {
+        "OnAttack": 8,
+        "duration": 25
+      },
+      "Attack_Loop_Down": {
+        "OnAttack": 8,
+        "duration": 25
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Skill_2_Begin": 3,
+      "Skill_2_End": 3,
+      "Skill_2_Loop": {
+        "OnAttack": 20,
+        "duration": 51
+      },
+      "Skill_2_Loop_Down": {
+        "OnAttack": 20,
+        "duration": 51
+      },
+      "Skill_Down": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Start": {
+        "OnAttack": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit"
+      ]
+    },
+    "spec": {
+      "skchr_bpipe_2": {
+        "anim_key": "Skill",
+        "sim": true
+      },
+      "skchr_bpipe_3": {
+        "attack_begin": 15
+      },
+      "tachr_222_bpipe_1": {
+        "crit": true
+      },
+      "uniequip_002_bpipe": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_bpipe": {
+      "battle": null,
+      "charId": "char_222_bpipe",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_bpipe",
+      "uniEquipName": "风笛证章"
+    },
+    "uniequip_002_bpipe": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": 2.0
+                  },
+                  "overrideDescripton": "击杀敌人后获得<@ba.vup>{cost:0}</>点部署费用，撤退时返还<@ba.kw>该次</>部署费用",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "withdraw_cost_recover_ratio": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 64.0,
+            "max_hp": 165.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": 2.0
+                  },
+                  "overrideDescripton": "击杀敌人后获得<@ba.vup>{cost:0}</>点部署费用，撤退时返还<@ba.kw>该次</>部署费用",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "withdraw_cost_recover_ratio": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "bpipe_e_2[locate].sp": 2.0,
+                    "sp": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军事传统",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得2点技力"
+                },
+                {
+                  "blackboard": {
+                    "bpipe_e_2[locate].sp": 2.0,
+                    "sp": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军事传统",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】干员的初始技力+8<@ba.talpu>（+2）</>，自身部署时额外获得2点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 73.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": 2.0
+                  },
+                  "overrideDescripton": "击杀敌人后获得<@ba.vup>{cost:0}</>点部署费用，撤退时返还<@ba.kw>该次</>部署费用",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "withdraw_cost_recover_ratio": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "bpipe_e_2[locate].sp": 4.0,
+                    "sp": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军事传统",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得4点技力"
+                },
+                {
+                  "blackboard": {
+                    "bpipe_e_2[locate].sp": 4.0,
+                    "sp": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军事传统",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】干员的初始技力+8<@ba.talpu>（+2）</>，自身部署时额外获得4点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_222_bpipe",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "chg-x",
+      "uniEquipId": "uniequip_002_bpipe",
+      "uniEquipName": "破城矛弹夹"
+    },
+    "uniequip_003_bpipe": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 13.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "def": 17.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.35,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精密填弹",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每次攻击有30%的概率攻击力提升至135%，且额外攻击一个目标"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.35,
+                    "prob": 0.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精密填弹",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每次攻击有33%<@ba.talpu>（+3%）</>的概率攻击力提升至135%，且额外攻击一个目标"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "def": 20.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击生命值低于<@ba.vup>{hp_ratio:0%}</>的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "bpipe_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.4,
+                    "prob": 0.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精密填弹",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每次攻击有33%的概率攻击力提升至140%，且额外攻击一个目标"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.4,
+                    "prob": 0.36
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精密填弹",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每次攻击有36%<@ba.talpu>（+3%）</>的概率攻击力提升至140%，且额外攻击一个目标"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_222_bpipe",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "chg-y",
+      "uniEquipId": "uniequip_003_bpipe",
+      "uniEquipName": "“棍棒与口袋”"
+    }
+  },
+  "skill": {
+    "skchr_bpipe_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "cnt": 1.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 2.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 2.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 3.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 3.0
+        },
+        "description": "下一次的攻击力提升至<@ba.vup>{atk_scale:0%}</>，且额外攻击一次\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "高效冲击",
+        "prefabId": "skchr_bpipe_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_bpipe_3": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.3
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.4
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.6
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.7
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.8
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 0.9
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 1.1
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "base_attack_time": 0.7,
+          "block_cnt": 1.0,
+          "def": 1.2
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，阻挡数<@ba.vup>+{block_cnt}</>，攻击力和防御力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>三连击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "闭膛连发",
+        "prefabId": "skchr_bpipe_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_quickattack[3]": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 45.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1944 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 4,
+        "30051": 6,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30043": 6,
+        "3302": 8
+      },
+      {
+        "30053": 3,
+        "30073": 6,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "安洁莉娜",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 228,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 53,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 629,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 336,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 863,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_291_aglina",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 336,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 863,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1108,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_291_aglina",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 7,
+          "3271": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 449,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1108,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 542,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1385,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_291_aglina",
+        "evolveCost": {
+          "30024": 5,
+          "30125": 4,
+          "3273": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 6
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30024": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aglina_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 6
+          },
+          {
+            "30084": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30024": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aglina_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 6
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aglina_3"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 3.0
+          },
+          "description": "全场友方单位攻速+3",
+          "name": "加速力场",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 4.0
+          },
+          "description": "全场友方单位攻速+4<@ba.talpu>（+1）</>",
+          "name": "加速力场",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 7.0
+          },
+          "description": "全场友方单位攻速+7",
+          "name": "加速力场",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 8.0
+          },
+          "description": "全场友方单位攻速+8<@ba.talpu>（+1）</>",
+          "name": "加速力场",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 20.0
+          },
+          "description": "技能未开启时，全场友方单位每秒回复20点生命",
+          "name": "兼职工作",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 25.0
+          },
+          "description": "技能未开启时，全场友方单位每秒回复25<@ba.talpu>（+5）</>点生命",
+          "name": "兼职工作",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 40
+      },
+      "Idle": 60,
+      "Idle_Charge": 60,
+      "Skill1_Begin": 15,
+      "Skill1_End": 15,
+      "Skill1_Loop": {
+        "OnAttack": 7,
+        "duration": 14
+      },
+      "Skill2_Begin": 20,
+      "Skill2_End": 15,
+      "Skill2_Loop": {
+        "OnAttack": 7,
+        "duration": 14
+      },
+      "Start": {
+        "OnStart": 25,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "char_291_aglina": {
+        "frame_corr": 1
+      },
+      "skchr_aglina_1": {
+        "attack_begin": 19,
+        "reset_attack": true
+      },
+      "skchr_aglina_2": {
+        "attack_begin": 10
+      },
+      "skchr_aglina_3": {
+        "attack_begin": 23
+      },
+      "uniequip_002_aglina": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_aglina": {
+      "battle": null,
+      "charId": "char_291_aglina",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_aglina",
+      "uniEquipName": "安洁莉娜证章"
+    },
+    "uniequip_002_aglina": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "兼职工作",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能未开启时，全场友方单位每秒回复30点生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 35.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "兼职工作",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能未开启时，全场友方单位每秒回复35<@ba.talpu>（+5）</>点生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sluggish": 1.2
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成<@ba.kw>较长</>的<$ba.sluggish>停顿</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 35.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "兼职工作",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能未开启时，全场友方单位每秒回复35点生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 40.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "兼职工作",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能未开启时，全场友方单位每秒回复40<@ba.talpu>（+5）</>点生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_291_aglina",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dec-y",
+      "uniEquipId": "uniequip_002_aglina",
+      "uniEquipName": "重力校准模块"
+    },
+    "uniequip_003_aglina": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 10.0,
+            "attack_speed": 4.0,
+            "max_hp": 60.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "attack_speed": 5.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+8<@ba.talpu>（+1）</>，自身攻击范围内的友方单位攻速额外+3"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "attack_speed": 6.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+8<@ba.talpu>（+1）</>，自身攻击范围内的友方单位攻速额外+5"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_291_aglina",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dec-X",
+      "uniEquipId": "uniequip_003_aglina",
+      "uniEquipName": "实验用反重力模块"
+    },
+    "uniequip_004_aglina": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，在场时全场敌人重量额外-1",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "mass_level": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_3_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 51.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，在场时全场敌人重量额外-1",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "mass_level": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_3_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.4,
+                    "interval": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+7；在<@ba.kw>集成战略</>中，在场时全场处于失衡、<$ba.levitate>浮空</>状态的敌人每0.5秒受到安洁莉娜40%攻击力的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.4,
+                    "interval": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+8<@ba.talpu>（+1）</>；在<@ba.kw>集成战略</>中，在场时全场处于失衡、<$ba.levitate>浮空</>状态的敌人每0.5秒受到安洁莉娜40%攻击力的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_3_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，在场时全场敌人重量额外-1",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "mass_level": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_3_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 0.6,
+                    "duration": 3.0,
+                    "interval": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+7；在<@ba.kw>集成战略</>中，在场时全场处于失衡、<$ba.levitate>浮空</>状态的敌人每0.5秒受到安洁莉娜60%攻击力的法术伤害；安洁莉娜开启技能期间攻击使目标<$ba.levitate>浮空</>3秒，且攻击<$ba.levitate>浮空</>状态目标时使其<$ba.levitate>浮空</>时间刷新"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 0.6,
+                    "duration": 3.0,
+                    "interval": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "加速力场",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "全场友方单位攻速+8<@ba.talpu>（+1）</>；在<@ba.kw>集成战略</>中，在场时全场处于失衡、<$ba.levitate>浮空</>状态的敌人每0.5秒受到安洁莉娜60%攻击力的法术伤害；安洁莉娜开启技能期间攻击使目标<$ba.levitate>浮空</>3秒，且攻击<$ba.levitate>浮空</>状态目标时使其<$ba.levitate>浮空</>时间刷新"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "aglina_equip_3_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_291_aglina",
+      "itemCost": {
+        "1": {
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "mod_unlock_token": 1
+        },
+        "3": {
+          "mod_unlock_token": 1
+        }
+      },
+      "typeIcon": "isw-a",
+      "uniEquipId": "uniequip_004_aglina",
+      "uniEquipName": "安洁莉娜特限证章"
+    }
+  },
+  "skill": {
+    "skchr_aglina_1": [
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能自动开启</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "秘杖·速充模式",
+        "prefabId": "skchr_aglina_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_aglina_2": [
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.3
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.3
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.3
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.35
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.35
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.35
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.4
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.4
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.4
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.15,
+          "damage_scale": 0.45
+        },
+        "description": "攻击间隔<@ba.vup>极大幅度缩短</>，但每次攻击只能造成相当于攻击力<@ba.vdown>{damage_scale:0%}的法术伤害</>\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "秘杖·微粒模式",
+        "prefabId": "skchr_aglina_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_aglina_3": [
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@max_target": 4.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "attack@max_target": 5.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@max_target": 5.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@max_target": 5.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@max_target": 5.0
+        },
+        "description": "全场所有敌人<$ba.weightless>失重</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，可以攻击<@ba.vup>{attack@max_target}</>个敌人\\n<@ba.rem>技能未开启时无法普通攻击</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "秘杖·反重力模式",
+        "prefabId": "skchr_aglina_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

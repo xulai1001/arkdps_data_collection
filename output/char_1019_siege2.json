@@ -1,0 +1,1361 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "31043": 5,
+        "3302": 8
+      },
+      {
+        "30023": 5,
+        "31073": 4,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "维娜·维多利亚",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 289,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 189,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1320,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 420,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 271,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1738,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1019_siege2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 420,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 271,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1738,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 348,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2200,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1019_siege2",
+        "evolveCost": {
+          "30012": 12,
+          "30032": 5,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 348,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2200,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 675,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.25,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 420,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2895,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1019_siege2",
+        "evolveCost": {
+          "30014": 2,
+          "30145": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+28",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 28.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "31033": 9,
+            "3303": 8
+          },
+          {
+            "30104": 4,
+            "31084": 7,
+            "3303": 12
+          },
+          {
+            "30044": 1,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_siege2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 6,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "31034": 4,
+            "31044": 7,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31054": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_siege2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30064": 5,
+            "30084": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31074": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10040_siege2_vlion",
+        "skillId": "skchr_siege2_3"
+      }
+    ],
+    "subProfessionId": "artsfghter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.03,
+            "damage_resistance": 0.12
+          },
+          "description": "自身与周围8格友方单位受到的物理伤害减少12%，且此范围内每个友方单位使维娜攻击力+3%",
+          "name": "诸王的叹息",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.04,
+            "damage_resistance": 0.14
+          },
+          "description": "自身与周围8格友方单位受到的物理伤害减少14%<@ba.talpu>（+2%）</>，且此范围内每个友方单位使维娜攻击力+4%<@ba.talpu>（+1%）</>",
+          "name": "诸王的叹息",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "damage_resistance": 0.2
+          },
+          "description": "自身与周围8格友方单位受到的物理伤害减少20%，且此范围内每个友方单位使维娜攻击力+5%",
+          "name": "诸王的叹息",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.06,
+            "damage_resistance": 0.22
+          },
+          "description": "自身与周围8格友方单位受到的物理伤害减少22%<@ba.talpu>（+2%）</>，且此范围内每个友方单位使维娜攻击力+6%<@ba.talpu>（+1%）</>",
+          "name": "诸王的叹息",
+          "prefabKey": "1",
+          "rangeId": "x-4",
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "not_combat": 4.0
+          },
+          "description": "对每个敌人首次造成伤害时，使其<$ba.tremble>战栗</>4秒",
+          "name": "无拘的锋芒",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "not_combat": 5.0
+          },
+          "description": "对每个敌人首次造成伤害时，使其<$ba.tremble>战栗</>5<@ba.talpu>（+1）</>秒",
+          "name": "无拘的锋芒",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_1": {
+        "OnAttack": 15,
+        "duration": 38
+      },
+      "Attack_2": {
+        "OnAttack": 15,
+        "duration": 38
+      },
+      "Idle": 120,
+      "Skill_1": {
+        "OnAttack": 19,
+        "duration": 38
+      },
+      "Skill_2_Begin": 15,
+      "Skill_2_Idle": 105,
+      "Skill_2_Loop": {
+        "OnAttack": 15,
+        "duration": 38
+      },
+      "Skill_3_Begin": 12,
+      "Skill_3_End": 25,
+      "Skill_3_Idle": 30,
+      "Skill_3_Loop": {
+        "OnAttack": 13,
+        "duration": 38
+      },
+      "Skill_Down_2_Loop": {
+        "OnAttack": 15,
+        "duration": 38
+      },
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_siege2": {
+      "battle": null,
+      "charId": "char_1019_siege2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_siege2",
+      "uniEquipName": "维娜·维多利亚证章"
+    },
+    "uniequip_002_siege2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 260.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "未阻挡敌人时攻击速度<@ba.kw>+{attack_speed}</>",
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "siege2_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 360.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "未阻挡敌人时攻击速度<@ba.kw>+{attack_speed}</>",
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "siege2_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.06,
+                    "damage_resistance": 0.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "诸王的叹息",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身与周围8格友方单位受到的物理伤害减少24%，且此范围内每个友方单位使维娜攻击力+6%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.07,
+                    "damage_resistance": 0.26
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "诸王的叹息",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身与周围8格友方单位受到的物理伤害减少26%<@ba.talpu>（+2%）</>，且此范围内每个友方单位使维娜攻击力+7%<@ba.talpu>（+1%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 56.0,
+            "max_hp": 440.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "未阻挡敌人时攻击速度<@ba.kw>+{attack_speed}</>",
+                  "blackboard": {
+                    "attack_speed": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "siege2_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.07,
+                    "damage_resistance": 0.26
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "诸王的叹息",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身与周围8格友方单位受到的物理伤害减少26%，且此范围内每个友方单位使维娜攻击力+7%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "damage_resistance": 0.28
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "诸王的叹息",
+                  "prefabKey": "1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身与周围8格友方单位受到的物理伤害减少28%<@ba.talpu>（+2%）</>，且此范围内每个友方单位使维娜攻击力+8%<@ba.talpu>（+1%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1019_siege2",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "aft-x",
+      "uniEquipId": "uniequip_002_siege2",
+      "uniEquipName": "城主的冒险"
+    }
+  },
+  "skill": {
+    "skchr_siege2_1": [
+      {
+        "blackboard": {
+          "atk_scale": 0.6
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击对四周所有地面敌人额外造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>真实</>伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "重铸晖光",
+        "prefabId": "skchr_siege2_1",
+        "rangeId": "x-5",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_siege2_2": [
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.2
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.25,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.2
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.2
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.3
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.3
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.45,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.3
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.5
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.5
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.5
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@max_target": 2.0,
+          "buff_stack_cnt": 2.0,
+          "sp_recovery_per_sec": 0.5
+        },
+        "description": "被动效果：天赋一生效范围内若有2个及以上友方单位，维娜技力回复速度<@ba.vup>+{sp_recovery_per_sec}/秒</>\\n自动开启：攻击距离<@ba.vup>+1</>，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</> \\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "进赴故土",
+        "prefabId": "skchr_siege2_2",
+        "rangeId": "2-2",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_siege2_3": [
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.45,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.55,
+          "attack@max_target": 2.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+1</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@max_target": 3.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+2</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack@max_target": 3.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+2</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 31,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@max_target": 3.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+2</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.9,
+          "attack@max_target": 4.0,
+          "base_attack_time": -0.25
+        },
+        "description": "立即在天赋一生效范围内可部署地面召唤“黄金盟誓”；技能期间可攻击被天赋一生效范围友方单位阻挡的敌人，攻击力<@ba.vup>+{atk:0%}</>，攻击目标数<@ba.vup>+3</>，攻击间隔<@ba.vup>缩短</>，攻击时伤害类型变为<@ba.vup>真实</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "俱以我之名",
+        "prefabId": "skchr_siege2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

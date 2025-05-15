@@ -1,0 +1,1625 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30063": 4,
+        "3302": 8
+      },
+      {
+        "30073": 6,
+        "31023": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "霍尔海雅",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 287,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 49,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 743,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 399,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1062,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4027_heyak",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 399,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1062,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 525,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1380,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4027_heyak",
+        "evolveCost": {
+          "30022": 6,
+          "30032": 8,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 525,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1380,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 633,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1770,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4027_heyak",
+        "evolveCost": {
+          "30135": 4,
+          "31064": 7,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 4,
+            "30103": 3,
+            "3303": 8
+          },
+          {
+            "31034": 7,
+            "31054": 4,
+            "3303": 12
+          },
+          {
+            "30014": 6,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_heyak_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31034": 4,
+            "31063": 3,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_heyak_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 6,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30094": 4,
+            "31064": 7,
+            "3303": 12
+          },
+          {
+            "30084": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_heyak_3"
+      }
+    ],
+    "subProfessionId": "corecaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.1,
+            "silence": 1.0
+          },
+          "description": "攻击空中目标时攻击力提升至110%，并使其特殊能力失效1秒",
+          "name": "传承终焉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.13,
+            "silence": 1.0
+          },
+          "description": "攻击空中目标时攻击力提升至113%<@ba.talpu>（+3%）</>，并使其特殊能力失效1秒",
+          "name": "传承终焉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.2,
+            "silence": 3.0
+          },
+          "description": "攻击空中目标时攻击力提升至120%，并使其特殊能力失效3秒",
+          "name": "传承终焉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.23,
+            "silence": 3.0
+          },
+          "description": "攻击空中目标时攻击力提升至123%<@ba.talpu>（+3%）</>，并使其特殊能力失效3秒",
+          "name": "传承终焉",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "hp_ratio": 0.8
+          },
+          "description": "攻击范围内所有生命值高于80%的敌人<$ba.weightless>失重</>",
+          "name": "曾有羽翼",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 48
+      },
+      "Idle": 100,
+      "Skill_1": {
+        "OnAttack": 12,
+        "duration": 48
+      },
+      "Skill_2_Begin": 6,
+      "Skill_2_End": 6,
+      "Skill_2_Loop": 140,
+      "Skill_3_Begin": 8,
+      "Skill_3_End": 8,
+      "Skill_3_Idle": 100,
+      "Skill_3_Loop": {
+        "OnAttack": 26,
+        "duration": 96
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "range4"
+      ]
+    },
+    "spec": {
+      "skchr_heyak_1": {
+        "attack_begin": 12,
+        "cast_time": 48,
+        "sim": true
+      },
+      "skchr_heyak_2": {
+        "times": 9
+      },
+      "skchr_heyak_3": {
+        "attack_begin": 26,
+        "frame_corr": 1
+      },
+      "tachr_4027_heyak_1": {
+        "cond": true
+      },
+      "uniequip_002_heyak": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_heyak": {
+      "battle": null,
+      "charId": "char_4027_heyak",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_heyak",
+      "uniEquipName": "霍尔海雅证章"
+    },
+    "uniequip_002_heyak": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.3,
+                    "silence": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "传承终焉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击空中目标时攻击力提升至130%，并使其特殊能力失效4秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.33,
+                    "silence": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "传承终焉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击空中目标时攻击力提升至133%<@ba.talpu>（+3%）</>，并使其特殊能力失效4秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.35,
+                    "silence": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "传承终焉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击空中目标时攻击力提升至135%，并使其特殊能力失效5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.38,
+                    "silence": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "传承终焉",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击空中目标时攻击力提升至138%<@ba.talpu>（+3%）</>，并使其特殊能力失效5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4027_heyak",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "ccr-x",
+      "uniEquipId": "uniequip_002_heyak",
+      "uniEquipName": "“图书馆”"
+    },
+    "uniequip_003_heyak": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "def": 15.0,
+            "max_hp": 105.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>{sp}</>点技力",
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 20.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>{sp}</>点技力",
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "曾有羽翼",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内所有生命值高于60%的敌人<$ba.weightless>失重</>，生命值低于50%的敌人获得10%的<$ba.magicfragile>【法术脆弱】</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "heyak_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "def": 25.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>{sp}</>点技力",
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "heyak_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "曾有羽翼",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内所有生命值高于50%的敌人<$ba.weightless>失重</>，生命值低于50%的敌人获得20%的<$ba.magicfragile>【法术脆弱】</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.2,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "heyak_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4027_heyak",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30155": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "ccr-y",
+      "uniEquipId": "uniequip_003_heyak",
+      "uniEquipName": "羽蛇的时间博物馆"
+    }
+  },
+  "skill": {
+    "skchr_heyak_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 1.0,
+          "levitate": 2.0
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 1.0,
+          "levitate": 2.0
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "levitate": 2.0
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 1.0,
+          "levitate": 2.5
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 1.0,
+          "levitate": 2.5
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "levitate": 2.5
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 2.0,
+          "levitate": 3.0
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 2.0,
+          "levitate": 3.5
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cnt": 3.0,
+          "levitate": 3.5
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 3.0,
+          "levitate": 4.0
+        },
+        "description": "下次攻击额外攻击一个目标并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，仅攻击到<@ba.vup>1</>名目标时使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "但为求索",
+        "prefabId": "skchr_heyak_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_heyak_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.2,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.08
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.22,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.08
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.24,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.08
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.27,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.1
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.29,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.1
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.31,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.1
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.35,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.12
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.38,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.13
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.41,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.14
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.45,
+          "attack@levitate": 1.0,
+          "attack@prob": 0.15
+        },
+        "description": "攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>9</>连发，随机攻击范围内的目标，每发有<@ba.vup>{attack@prob:0%}</>的概率使目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "群星逶迤",
+        "prefabId": "skchr_heyak_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_heyak_3": [
+      {
+        "blackboard": {
+          "attack@levitate": 1.6,
+          "attack@max_atk_scale": 3.2,
+          "attack@min_atk_scale": 2.13,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 1.6,
+          "attack@max_atk_scale": 3.3,
+          "attack@min_atk_scale": 2.2,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 69,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 1.6,
+          "attack@max_atk_scale": 3.4,
+          "attack@min_atk_scale": 2.27,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 68,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 1.8,
+          "attack@max_atk_scale": 3.5,
+          "attack@min_atk_scale": 2.33,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 41,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 67,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 1.8,
+          "attack@max_atk_scale": 3.6,
+          "attack@min_atk_scale": 2.4,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 41,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 66,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 1.8,
+          "attack@max_atk_scale": 3.7,
+          "attack@min_atk_scale": 2.47,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 41,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 2.0,
+          "attack@max_atk_scale": 3.8,
+          "attack@min_atk_scale": 2.53,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 42,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 64,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 2.0,
+          "attack@max_atk_scale": 4.0,
+          "attack@min_atk_scale": 2.67,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 43,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 63,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 2.0,
+          "attack@max_atk_scale": 4.1,
+          "attack@min_atk_scale": 2.73,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 44,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 62,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@levitate": 2.2,
+          "attack@max_atk_scale": 4.2,
+          "attack@min_atk_scale": 2.8,
+          "base_attack_time": 1.4
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击间隔<@ba.vdown>延长</>，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标<$ba.levitate>浮空</><@ba.vup>{attack@levitate}</>秒，并造成最高<@ba.vup>{attack@max_atk_scale:0%}</>攻击力的法术伤害",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "博览者的狂语",
+        "prefabId": "skchr_heyak_3",
+        "rangeId": "3-10",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

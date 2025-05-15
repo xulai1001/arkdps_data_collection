@@ -1,0 +1,1067 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30063": 3,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "30073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访、见习任务",
+    "name": "德克萨斯",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 203,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 139,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 727,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 208,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 996,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_102_texas",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 208,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 996,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 410,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 274,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1365,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_102_texas",
+        "evolveCost": {
+          "30032": 5,
+          "30042": 3,
+          "3211": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 410,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 274,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1365,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 500,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 343,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1950,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_102_texas",
+        "evolveCost": {
+          "30013": 16,
+          "30034": 8,
+          "3213": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30034": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_charge_cost[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_texas_2"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": 1.0
+          },
+          "description": "编入队伍后，额外获得1点初始部署费用",
+          "name": "战术快递",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": 2.0
+          },
+          "description": "编入队伍后，额外获得2点初始部署费用",
+          "name": "战术快递",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_End": 15,
+      "Attack_Loop": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Attack_Start": 15,
+      "Idle": 60,
+      "Skill": 65,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_texas_2": {
+        "anim_cast": true,
+        "anim_key": "Skill",
+        "anim_max_scale": 1,
+        "cast_time": 65
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_texas": {
+      "battle": null,
+      "charId": "char_102_texas",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_texas",
+      "uniEquipName": "德克萨斯证章"
+    },
+    "uniequip_002_texas": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 15.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "texas_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 39.0,
+            "def": 19.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "texas_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术快递",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "texas_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 42.0,
+            "def": 22.0,
+            "max_hp": 155.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "texas_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "战术快递",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "texas_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_102_texas",
+      "itemCost": {
+        "1": {
+          "30104": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30084": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sol-y",
+      "uniEquipId": "uniequip_002_texas",
+      "uniEquipName": "外勤私人补给包"
+    }
+  },
+  "skill": {
+    "skchr_texas_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "cost": 9.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "cost": 9.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "cost": 9.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "cost": 10.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "cost": 10.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cost": 10.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "cost": 11.0,
+          "stun": 2.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cost": 11.0,
+          "stun": 3.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "cost": 11.0,
+          "stun": 3.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cost": 12.0,
+          "stun": 3.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并令击中目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "剑雨",
+        "prefabId": "skchr_texas_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_charge_cost[3]": [
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

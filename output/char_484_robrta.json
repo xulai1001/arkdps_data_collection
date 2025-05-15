@@ -1,0 +1,1226 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30093": 2,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡两个敌人，使用<支援装置>协助作战",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 35,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 35,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "罗比菈塔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 226,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1123,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 333,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 270,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1539,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_484_robrta",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 333,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 270,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1539,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 349,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1976,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_484_robrta",
+        "evolveCost": {
+          "30012": 1,
+          "30042": 1,
+          "3271": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 444,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 349,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1976,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 535,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 415,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2470,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_484_robrta",
+        "evolveCost": {
+          "30063": 7,
+          "31043": 14,
+          "3272": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30084": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_robrta_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 3,
+            "30104": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31044": 2,
+            "3303": 4
+          },
+          {
+            "30074": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_robrta_2"
+      }
+    ],
+    "subProfessionId": "craftsman",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "携带2个造型仪（最多部署3个），使一名近战位上的单位防御力+10%并获得1层<$ba.shield>护盾</>（持续15秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "携带2个造型仪（最多部署3个），使一名近战位上的单位防御力+13%<@ba.talpu>（+3%）</>并获得1层<$ba.shield>护盾</>（持续15秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+20%并获得1层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+23%<@ba.talpu>（+3%）</>并获得1层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+30%并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+33%<@ba.talpu>（+3%）</>并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）",
+          "name": "造型仪调试",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10018_robrta_mach",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 46
+      },
+      "Idle": 160,
+      "Skill2_Begin": 5,
+      "Skill2_Die": 31,
+      "Skill2_End": 20,
+      "Skill2_Loop": 145,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "uniequip_002_robrta": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_robrta": {
+      "battle": null,
+      "charId": "char_484_robrta",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_robrta",
+      "uniEquipName": "罗比菈塔证章"
+    },
+    "uniequip_002_robrta": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 28.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robrta_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10018_robrta_mach": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "def": 38.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robrta_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10018_robrta_mach",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+36%并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10018_robrta_mach",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+39%<@ba.talpu>（+3%）</>并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.36,
+                    "duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使一名近战位上的单位防御力+36%并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.39,
+                    "duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使一名近战位上的单位防御力+39%<@ba.talpu>（+3%）</>并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10018_robrta_mach": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "def": 46.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "robrta_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10018_robrta_mach",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+40%并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10018_robrta_mach",
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+43%<@ba.talpu>（+3%）</>并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.4,
+                    "duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使一名近战位上的单位防御力+40%并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.43,
+                    "duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "造型仪调试",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使一名近战位上的单位防御力+43%<@ba.talpu>（+3%）</>并获得2层<$ba.shield>护盾</>（持续25秒，防御加成不叠加）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10018_robrta_mach": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_484_robrta",
+      "itemCost": {
+        "1": {
+          "30093": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30053": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30073": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "cra-x",
+      "uniEquipId": "uniequip_002_robrta",
+      "uniEquipName": "半自动造型工具套组"
+    }
+  },
+  "skill": {
+    "skchr_robrta_1": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "def": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "def": 0.14
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "def": 0.18
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "def": 0.22
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "def": 0.26
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "def": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "def": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "叙拉古式上妆",
+        "prefabId": "skchr_robrta_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_robrta_2": [
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.2,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.25,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.3,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.35,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.4,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.45,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.5,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.6,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.7,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "robrta_s_2[recharge].cnt": 1.0
+        },
+        "description": "停止攻击，阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，技能结束时获得一个造型仪",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "全自动造型仪",
+        "prefabId": "skchr_robrta_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

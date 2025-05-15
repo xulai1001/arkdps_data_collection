@@ -1,0 +1,1514 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "3302": 8
+      },
+      {
+        "30023": 5,
+        "30063": 3,
+        "3303": 8
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "斯卡蒂",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 452,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1521,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 665,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 167,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2174,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_263_skadi",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 665,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 167,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2174,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 842,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 220,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2938,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_263_skadi",
+        "evolveCost": {
+          "30032": 5,
+          "30062": 5,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 842,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 220,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2938,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1015,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3866,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_263_skadi",
+        "evolveCost": {
+          "30014": 9,
+          "30135": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+33",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 33.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 6
+          },
+          {
+            "30084": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30014": 7,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_quickattack[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 6
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30014": 6,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_skadi_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30104": 8,
+            "3303": 12
+          },
+          {
+            "30034": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_skadi_3"
+      }
+    ],
+    "subProfessionId": "fearless",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.07
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+7%",
+          "name": "深海掠食者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+9%<@ba.talpu>（+2%）</>",
+          "name": "深海掠食者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.14
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+14%",
+          "name": "深海掠食者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.16
+          },
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+16%<@ba.talpu>（+2%）</>",
+          "name": "深海掠食者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "respawn_time": -10.0
+          },
+          "description": "自身再部署时间-10秒",
+          "name": "迅捷出击",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 26,
+        "duration": 45
+      },
+      "Attack_Begin": 5,
+      "Attack_End": 5,
+      "Idle": 60,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "tachr_263_skadi_1": {
+        "cloneable": true
+      },
+      "uniequip_002_skadi": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_skadi": {
+      "battle": null,
+      "charId": "char_263_skadi",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_skadi",
+      "uniEquipName": "斯卡蒂证章"
+    },
+    "uniequip_002_skadi": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 400.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "max_hp": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "深海掠食者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的攻击力+18%，生命值+10%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "max_hp": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "深海掠食者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的攻击力+20%<@ba.talpu>（+2%）</>，生命值+10%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "skadi_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 450.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.22,
+                    "max_hp": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "深海掠食者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的攻击力+22%，生命值+20%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.24,
+                    "max_hp": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "深海掠食者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时，所有【深海猎人】干员的攻击力+24%<@ba.talpu>（+2%）</>，生命值+20%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "skadi_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_263_skadi",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dre-y",
+      "uniEquipId": "uniequip_002_skadi",
+      "uniEquipName": "潮湿的剑袋"
+    },
+    "uniequip_003_skadi": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "max_hp": 270.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "respawn_time": -20.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迅捷出击",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身再部署时间-20秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 105.0,
+            "max_hp": 320.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "skadi_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "respawn_time": -30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迅捷出击",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身再部署时间-30秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_263_skadi",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dre-x",
+      "uniEquipId": "uniequip_003_skadi",
+      "uniEquipName": "往日残梦"
+    }
+  },
+  "skill": {
+    "skchr_skadi_2": [
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "duration": 15.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "duration": 16.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "duration": 17.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "duration": 20.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "duration": 21.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "duration": 22.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "duration": 25.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "duration": 27.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "duration": 28.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "duration": 30.0
+        },
+        "description": "部署后<@ba.vup>{duration}</>秒内攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "跃浪击",
+        "prefabId": "skchr_skadi_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_skadi_3": [
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "def": 0.7,
+          "max_hp": 0.7
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "def": 0.75,
+          "max_hp": 0.75
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "def": 0.8,
+          "max_hp": 0.8
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "def": 0.85,
+          "max_hp": 0.85
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "def": 0.9,
+          "max_hp": 0.9
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "def": 0.95,
+          "max_hp": 0.95
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "def": 1.0,
+          "max_hp": 1.0
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 41.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 60,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "def": 1.1,
+          "max_hp": 1.1
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 44.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 63,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "def": 1.2,
+          "max_hp": 1.2
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 47.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 66,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "def": 1.3,
+          "max_hp": 1.3
+        },
+        "description": "攻击力、防御力和生命上限各<@ba.vup>+{atk:0%}</>",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "涌潮悲歌",
+        "prefabId": "skchr_skadi_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 70,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_quickattack[3]": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 45.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "迅捷打击·γ型",
+        "prefabId": "skcom_quickattack",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

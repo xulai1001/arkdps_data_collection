@@ -1,0 +1,1058 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "30043": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能可以治疗友方单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "临光",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 191,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 240,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1154,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 353,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1560,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_148_nearl",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 353,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1560,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 369,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 471,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2001,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_148_nearl",
+        "evolveCost": {
+          "30032": 3,
+          "30062": 3,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 369,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 471,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2001,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 462,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 575,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2780,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_148_nearl",
+        "evolveCost": {
+          "30033": 16,
+          "30074": 9,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 4,
+            "30034": 3,
+            "3303": 5
+          },
+          {
+            "30034": 5,
+            "30054": 3,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nearl_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 1,
+            "30044": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30064": 2,
+            "3303": 6
+          },
+          {
+            "30034": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nearl_2"
+      }
+    ],
+    "subProfessionId": "guardian",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "heal_scale": 1.1
+          },
+          "description": "自身医疗效果提高10%",
+          "name": "医疗效果大提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale": 1.12
+          },
+          "description": "自身医疗效果提高12%<@ba.talpu>（+2%）</>",
+          "name": "医疗效果大提升",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale": 1.1
+          },
+          "description": "在场时，全地图的友方单位医疗效果提高10%",
+          "name": "天马光环",
+          "prefabKey": "1+",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale": 1.12
+          },
+          "description": "在场时，全地图的友方单位医疗效果提高12%<@ba.talpu>（+2%）</>",
+          "name": "天马光环",
+          "prefabKey": "1+",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 16,
+        "duration": 35
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "uniequip_002_nearl": {
+        "override_talent": "1+"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_nearl": {
+      "battle": null,
+      "charId": "char_148_nearl",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_nearl",
+      "uniEquipName": "临光证章"
+    },
+    "uniequip_002_nearl": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "nearl_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "nearl_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale": 1.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "天马光环",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，全地图的友方单位医疗效果提高13%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "天马光环",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，全地图的友方单位医疗效果提高15%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "nearl_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "天马光环",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，全地图的友方单位医疗效果提高15%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale": 1.17
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "天马光环",
+                  "prefabKey": "1+",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，全地图的友方单位医疗效果提高17%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_148_nearl",
+      "itemCost": {
+        "1": {
+          "30054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "gua-x",
+      "uniEquipId": "uniequip_002_nearl",
+      "uniEquipName": "改良骑士盾牌"
+    }
+  },
+  "skill": {
+    "skchr_nearl_1": [
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.1
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.15
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.2
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.3
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.35
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.4
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.5
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.6
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.7
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 3.0,
+          "heal_scale": 1.8
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_nearl_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nearl_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "急救模式",
+        "prefabId": "skchr_nearl_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30083": 2,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "贾维",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 212,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 138,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 679,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 312,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 207,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 931,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_349_chiave",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 312,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 207,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 931,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 273,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_349_chiave",
+        "evolveCost": {
+          "30022": 3,
+          "30062": 3,
+          "3211": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 273,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 342,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1824,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_349_chiave",
+        "evolveCost": {
+          "30084": 7,
+          "30093": 13,
+          "3213": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_charge_cost[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31023": 1,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_chiave_2"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "def": 0.07,
+            "respawn_time": 0.4
+          },
+          "description": "在场时，所有【支援机械】干员的再部署时间-60%；场上每有一名【支援机械】干员，自身的攻击力和防御力+7%",
+          "name": "技工专长",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09,
+            "def": 0.09,
+            "respawn_time": 0.4
+          },
+          "description": "在场时，所有【支援机械】干员的再部署时间-60%；场上每有一名【支援机械】干员，自身的攻击力和防御力+9%<@ba.talpu>（+2%）</>",
+          "name": "技工专长",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.11,
+            "def": 0.11,
+            "respawn_time": 0.25
+          },
+          "description": "在场时，所有【支援机械】干员的再部署时间-75%；场上每有一名【支援机械】干员，自身的攻击力和防御力+11%",
+          "name": "技工专长",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.13,
+            "def": 0.13,
+            "respawn_time": 0.25
+          },
+          "description": "在场时，所有【支援机械】干员的再部署时间-75%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%<@ba.talpu>（+2%）</>",
+          "name": "技工专长",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 17,
+        "duration": 38
+      },
+      "Idle": 120,
+      "Skill": {
+        "OnAttack": 20,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 9,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "skchr_chiave_2": {
+        "anim_cast": true,
+        "anim_key": "Skill",
+        "anim_max_scale": 1
+      },
+      "tachr_349_chiave_1": {
+        "cond": true,
+        "note": "天赋按1层计算"
+      },
+      "uniequip_002_chiave": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_chiave": {
+      "battle": null,
+      "charId": "char_349_chiave",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_chiave",
+      "uniEquipName": "贾维证章"
+    },
+    "uniequip_002_chiave": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 37.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "chiave_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 33.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "chiave_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.13,
+                    "def": 0.13,
+                    "respawn_time": 0.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技工专长",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "def": 0.15,
+                    "respawn_time": 0.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技工专长",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 42.0,
+            "def": 35.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首次部署时部署费用-4",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "runtime_cost": -4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "20_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "chiave_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "def": 0.15,
+                    "respawn_time": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技工专长",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.17,
+                    "def": 0.17,
+                    "respawn_time": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "技工专长",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+17%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_349_chiave",
+      "itemCost": {
+        "1": {
+          "31014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30094": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sol-y",
+      "uniEquipId": "uniequip_002_chiave",
+      "uniEquipName": "自制千斤顶"
+    }
+  },
+  "skill": {
+    "skchr_chiave_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cost": 10.0,
+          "duration": 5.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cost": 10.0,
+          "duration": 5.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cost": 10.0,
+          "duration": 5.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cost": 11.0,
+          "duration": 6.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cost": 11.0,
+          "duration": 6.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 29,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "cost": 11.0,
+          "duration": 6.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "cost": 12.0,
+          "duration": 7.0,
+          "magic_resistance": -0.1
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 31,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cost": 12.0,
+          "duration": 7.0,
+          "magic_resistance": -0.13
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 32,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cost": 12.0,
+          "duration": 7.0,
+          "magic_resistance": -0.16
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cost": 13.0,
+          "duration": 8.0,
+          "magic_resistance": -0.2
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用；对周围所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并使命中目标在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火焰剥离",
+        "prefabId": "skchr_chiave_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_charge_cost[3]": [
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

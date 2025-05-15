@@ -1,0 +1,1425 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 4,
+        "30051": 6,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "31023": 6,
+        "3302": 8
+      },
+      {
+        "30063": 3,
+        "31013": 4,
+        "3303": 8
+      }
+    ],
+    "description": "不攻击，持续恢复范围内所有友军<@ba.kw>生命</>（每秒恢复相当于自身攻击力10%的生命），自身不受<$ba.inspire>鼓舞</>影响",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "魔王",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 146,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 94,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 623,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 229,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 141,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 891,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4134_cetsyr",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "x-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 229,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 141,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 891,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 306,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1221,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4134_cetsyr",
+        "evolveCost": {
+          "30022": 5,
+          "30042": 7,
+          "3271": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "x-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 306,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1221,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 369,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 236,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1628,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4134_cetsyr",
+        "evolveCost": {
+          "30084": 6,
+          "30115": 4,
+          "3273": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "x-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30104": 4,
+            "31023": 5,
+            "3303": 8
+          },
+          {
+            "30094": 4,
+            "31064": 8,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31074": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cetsyr_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 5,
+            "31084": 4,
+            "3303": 8
+          },
+          {
+            "30094": 9,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30125": 6,
+            "31084": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cetsyr_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 8,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31044": 4,
+            "3303": 12
+          },
+          {
+            "30044": 3,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cetsyr_3"
+      }
+    ],
+    "subProfessionId": "bard",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@trait_mul": 1.2,
+            "cnt": 3.0,
+            "cooldown": 6.0,
+            "dynamic_spd": 30.0,
+            "range_radius": 1.15,
+            "talent_duration": 6.0
+          },
+          "description": "魔王周围持续围绕3枚“微尘”，“微尘”碰撞友方干员时，消失并使该干员受到魔王特性效果提升至1.2倍，持续6秒，消失的“微尘”在6秒后重生",
+          "name": "过往尘埃",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@trait_mul": 1.5,
+            "cnt": 3.0,
+            "cooldown": 6.0,
+            "dynamic_spd": 30.0,
+            "range_radius": 1.15,
+            "talent_duration": 6.0
+          },
+          "description": "魔王周围持续围绕3枚“微尘”，“微尘”碰撞友方干员时，消失并使该干员受到魔王特性效果提升至1.5倍，持续6秒，消失的“微尘”在6秒后重生",
+          "name": "过往尘埃",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.1
+          },
+          "description": "上阵时，所有友方单位受到【萨卡兹】敌人的伤害降低10%",
+          "name": "魔王残响",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.15
+          },
+          "description": "上阵时，所有友方单位受到【萨卡兹】敌人的伤害降低15%<@ba.talpu>（+5%）</>",
+          "name": "魔王残响",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.1
+        },
+        "overrideDescripton": "不攻击，持续恢复范围内所有友军<@ba.kw>生命</>（每秒相当于自身攻击力<@ba.kw>{attack@atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影响",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Idle": 360,
+      "Skill_1_Begin": 25,
+      "Skill_1_End": 30,
+      "Skill_1_Loop": 60,
+      "Skill_2_Begin": 30,
+      "Skill_2_End": 30,
+      "Skill_2_Loop": 167,
+      "Skill_3_Begin": 36,
+      "Skill_3_End": 67,
+      "Skill_3_Loop": 160,
+      "Start": 30,
+      "Stun": 60,
+      "Stun_Begin": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_cetsyr": {
+      "battle": null,
+      "charId": "char_4134_cetsyr",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_cetsyr",
+      "uniEquipName": "魔王证章"
+    },
+    "uniequip_002_cetsyr": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上其他干员时，攻击力<@ba.kw>+8%</>（不受技能影响）",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cetsyr_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 24.0,
+            "max_hp": 238.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上其他干员时，攻击力<@ba.kw>+8%</>（不受技能影响）",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cetsyr_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@trait_mul": 1.6,
+                    "cnt": 3.0,
+                    "cooldown": 6.0,
+                    "dynamic_spd": 30.0,
+                    "heal_scale": 0.2,
+                    "range_radius": 1.15,
+                    "skill@ability_name": "e1",
+                    "talent_duration": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "过往尘埃",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "魔王周围持续围绕3枚“微尘”，“微尘”碰撞友方干员时，消失并使该干员受到魔王特性效果提升至1.6倍，持续6秒，消失的“微尘”在6秒后重生，干员受到“微尘”效果影响时立刻恢复相当于魔王20%攻击力的生命值"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cetsyr_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 27.0,
+            "max_hp": 280.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上其他干员时，攻击力<@ba.kw>+8%</>（不受技能影响）",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cetsyr_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@trait_mul": 1.6,
+                    "cnt": 3.0,
+                    "cooldown": 6.0,
+                    "dynamic_spd": 30.0,
+                    "heal_scale": 0.3,
+                    "range_radius": 1.15,
+                    "skill@ability_name": "e1",
+                    "talent_duration": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "过往尘埃",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "魔王周围持续围绕3枚“微尘”，“微尘”碰撞友方干员时，消失并使该干员受到魔王特性效果提升至1.6倍，持续6秒，消失的“微尘”在6秒后重生，干员受到“微尘”效果影响时立刻恢复相当于魔王30%攻击力的生命值"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cetsyr_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4134_cetsyr",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "bar-x",
+      "uniEquipId": "uniequip_002_cetsyr",
+      "uniEquipName": "故事的结局"
+    }
+  },
+  "skill": {
+    "skchr_cetsyr_1": [
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.12,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.15,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.18,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.2,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.22,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.25,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.28,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.3,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.32,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 68,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.35,
+          "talent_cool_down": 3.0
+        },
+        "description": "自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”的重生速度加快\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "往昔萦绕身旁",
+        "prefabId": "skchr_cetsyr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_cetsyr_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "attack@atk": 0.5,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "attack@atk": 0.55,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15,
+          "attack@atk": 0.6,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "attack@atk": 0.65,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.35,
+          "attack@atk": 0.7,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "attack@atk": 0.75,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "attack@atk": 0.8,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.65,
+          "attack@atk": 0.85,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "attack@atk": 0.9,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.0
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.75,
+          "attack@atk": 1.0,
+          "dynamic_spd": 0.9,
+          "extra_cnt": 6.0,
+          "outside_radius": 2.0,
+          "unmoveable_duration": 3.5
+        },
+        "description": "“微尘”上限<@ba.vup>+3</>，立刻获得<@ba.vup>{extra_cnt}</>枚“微尘”，“微尘”旋转半径扩大，攻击范围内所有其他友方单位获得相当于魔王<@ba.vup>{attack@atk:0%}</>攻击力的<$ba.inspire>鼓舞</>效果，“微尘”不再碰撞友方干员，“微尘”碰撞敌方单位时造成相当于魔王攻击力<@ba.vup>{atk_scale:0%}</>的真实伤害，并使目标<$ba.root>束缚</><@ba.vup>{unmoveable_duration}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "明日渺远不及",
+        "prefabId": "skchr_cetsyr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_cetsyr_3": [
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.5,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.5
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.55,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.55
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.6,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.6
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.65,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.65
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.7,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.7
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.72,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.75
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.75,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.8
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.8,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.85
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.85,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 0.9
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_to_hp_recovery_ratio": 0.9,
+          "attack@cetsyr_s_3[cal_hp_ratio].interval": 2.0,
+          "attack@cetsyr_s_3[collect_hp_ratio].interval": 2.0,
+          "max_hp": 1.0
+        },
+        "description": "攻击范围扩大，自身特性效果提高至<@ba.vup>{attack@atk_to_hp_recovery_ratio:0%}</>，“微尘”不再消失，攻击范围内所有其它友方单位获得相当于魔王<@ba.vup>{max_hp:0%}</>的最大生命值的<$ba.inspire>鼓舞</>效果，每隔<@ba.vup>2</>秒重新分配攻击范围内所有友方单位的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "编织重构现世",
+        "prefabId": "skchr_cetsyr_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

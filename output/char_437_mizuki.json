@@ -1,0 +1,2100 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30073": 7,
+        "3302": 8
+      },
+      {
+        "30083": 3,
+        "30103": 4,
+        "3303": 8
+      }
+    ],
+    "description": "对攻击范围内<@ba.kw>所有敌人</>造成伤害\\n拥有50%的物理和法术闪避且不容易成为敌人的<@ba.kw>攻击目标</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 110,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "水月",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 372,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 19,
+            "def": 155,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 760,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 532,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 19,
+            "def": 229,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1028,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_437_mizuki",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 532,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 21,
+            "def": 229,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1028,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 692,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 21,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1336,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_437_mizuki",
+        "evolveCost": {
+          "30012": 6,
+          "30022": 10,
+          "3281": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 692,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 21,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1336,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 865,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 21,
+            "def": 356,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1758,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_437_mizuki",
+        "evolveCost": {
+          "30115": 4,
+          "31034": 6,
+          "3283": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+32",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 32.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 5,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30014": 7,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mizuki_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 4,
+            "31023": 4,
+            "3303": 8
+          },
+          {
+            "30064": 5,
+            "30084": 4,
+            "3303": 12
+          },
+          {
+            "30074": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mizuki_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mizuki_3"
+      }
+    ],
+    "subProfessionId": "stalker",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@max_target": 1.0,
+            "attack@mizuki_t_1.atk_scale": 0.2
+          },
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力20%的法术伤害",
+          "name": "创伤性癔症",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_target": 1.0,
+            "attack@mizuki_t_1.atk_scale": 0.3
+          },
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力30%的法术伤害",
+          "name": "创伤性癔症",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@max_target": 1.0,
+            "attack@mizuki_t_1.atk_scale": 0.5
+          },
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害",
+          "name": "创伤性癔症",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "hp_ratio": 0.5
+          },
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+10%",
+          "name": "反移情",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "hp_ratio": 0.5
+          },
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+12%<@ba.talpu>（+2%）</>",
+          "name": "反移情",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "prob": 0.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 43
+      },
+      "Idle": 400,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 45
+      },
+      "Skill_2_End": 30,
+      "Skill_2_Idle": 30,
+      "Skill_2_Loop": {
+        "OnAttack": 16,
+        "duration": 40
+      },
+      "Skill_2_Start": 30,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 2,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "char_437_mizuki": {
+        "frame_corr": 1
+      },
+      "skchr_mizuki_1": {
+        "anim_key": "Attack",
+        "anim_max_scale": 1,
+        "attack_begin": 16,
+        "cast_time": 43,
+        "sim": true
+      },
+      "skchr_mizuki_2": {
+        "attack_begin": 16
+      },
+      "skchr_mizuki_3": {
+        "attack_begin": 16,
+        "reset_attack": true
+      },
+      "tachr_437_mizuki_2": {
+        "cond": true
+      },
+      "uniequip_002_mizuki": {
+        "override_talent": 1
+      },
+      "uniequip_003_mizuki": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_mizuki": {
+      "battle": null,
+      "charId": "char_437_mizuki",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_mizuki",
+      "uniEquipName": "水月证章"
+    },
+    "uniequip_002_mizuki": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 2.0,
+                    "attack@mizuki_t_1.atk_scale": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "创伤性癔症",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对攻击目标中生命值最少的2名敌人额外造成相当于攻击力55%的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 2.0,
+                    "attack@mizuki_t_1.atk_scale": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "创伤性癔症",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对攻击目标中生命值最少的2名敌人额外造成相当于攻击力60%的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_437_mizuki",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "amb-x",
+      "uniEquipId": "uniequip_002_mizuki",
+      "uniEquipName": "使者之约"
+    },
+    "uniequip_003_mizuki": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.65
+                  },
+                  "overrideDescripton": "对攻击范围内<@ba.kw>所有敌人</>造成伤害\\n拥有65%的物理和法术闪避且不容易成为敌人的<@ba.kw>攻击目标</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 62.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.65
+                  },
+                  "overrideDescripton": "对攻击范围内<@ba.kw>所有敌人</>造成伤害\\n拥有65%的物理和法术闪避且不容易成为敌人的<@ba.kw>攻击目标</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "反移情",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在生命值低于一半的敌人时，攻击力+15%；每击杀一名敌人，回复5%的最大生命"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.17,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "反移情",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在生命值低于一半的敌人时，攻击力+17%<@ba.talpu>（+2%）</>；每击杀一名敌人，回复5%的最大生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.05
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.65
+                  },
+                  "overrideDescripton": "对攻击范围内<@ba.kw>所有敌人</>造成伤害\\n拥有65%的物理和法术闪避且不容易成为敌人的<@ba.kw>攻击目标</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "反移情",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在生命值低于一半的敌人时，攻击力+20%；每击杀一名敌人，回复10%的最大生命"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.22,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "反移情",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在生命值低于一半的敌人时，攻击力+22%<@ba.talpu>（+2%）</>；每击杀一名敌人，回复10%的最大生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_437_mizuki",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "amb-y",
+      "uniEquipId": "uniequip_003_mizuki",
+      "uniEquipName": "深蓝之籽"
+    },
+    "uniequip_004_mizuki": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击速度+50，每秒恢复4%生命值",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 50.0,
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "sp_recovery_per_sec": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_3_1_p1",
+              "target": "TALENT",
+              "validInGameTag": "roguelike"
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 110.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击速度+50，每秒恢复4%生命值",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 50.0,
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "sp_recovery_per_sec": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_3_2_p1",
+              "target": "TALENT",
+              "validInGameTag": "roguelike"
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "创伤性癔症",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害；在<@ba.kw>集成战略</>中，目标数+1并将其大力地拖拽至面前"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 2.0,
+                    "attack@mizuki_t_1.atk_scale": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": "roguelike"
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "force_base": 3.0,
+                    "force_in_skill": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_3_2_p4",
+              "target": "TALENT",
+              "validInGameTag": "roguelike"
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 125.0,
+            "max_hp": 240.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "在<@ba.kw>集成战略</>中，攻击速度+50，每秒恢复4%生命值",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 50.0,
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "sp_recovery_per_sec": 0.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_3_3_p1",
+              "target": "TALENT",
+              "validInGameTag": "roguelike"
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "创伤性癔症",
+                  "prefabKey": "#",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害；在<@ba.kw>集成战略</>中，目标数+1并将其大力地拖拽至面前，技能期间目标数再+2"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@max_target": 2.0,
+                    "attack@mizuki_t_1.atk_scale": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": "roguelike"
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "force_base": 3.0,
+                    "force_in_skill": 3.0,
+                    "max_target_plus_in_skill": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mizuki_equip_3_3_p4",
+              "target": "TALENT",
+              "validInGameTag": "roguelike"
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_437_mizuki",
+      "itemCost": {
+        "1": {
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "mod_unlock_token": 1
+        },
+        "3": {
+          "mod_unlock_token": 1
+        }
+      },
+      "typeIcon": "isw-a",
+      "uniEquipId": "uniequip_004_mizuki",
+      "uniEquipName": "水月特限证章"
+    }
+  },
+  "skill": {
+    "skchr_mizuki_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 1.0,
+          "talent_scale": 1.7
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "cnt": 1.0,
+          "talent_scale": 1.7
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "cnt": 1.0,
+          "talent_scale": 1.7
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "cnt": 2.0,
+          "talent_scale": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "cnt": 2.0,
+          "talent_scale": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 2.0,
+          "talent_scale": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "cnt": 2.0,
+          "talent_scale": 2.3
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "cnt": 3.0,
+          "talent_scale": 2.5
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "cnt": 3.0,
+          "talent_scale": 2.7
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cnt": 3.0,
+          "talent_scale": 3.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，且第一天赋伤害倍率提升至<@ba.vup>{talent_scale:0.0}</>倍\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "唤醒",
+        "prefabId": "skchr_mizuki_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mizuki_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.6,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.11,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.6,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.12,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.6,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.8,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.16,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.8,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.17,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 0.8,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 1.0,
+          "base_attack_time": -1.2
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 1.1,
+          "base_attack_time": -1.2
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 1.2,
+          "base_attack_time": -1.2
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 1.0,
+          "attack@unmovable": 1.3,
+          "base_attack_time": -1.5
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>1</>个目标并附加<@ba.vup>{attack@unmovable}</>秒<$ba.root>束缚</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "囚徒困境",
+        "prefabId": "skchr_mizuki_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mizuki_3": [
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.5
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.5
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.5
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.7
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.7
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 0.7
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@hp_ratio": 0.15,
+          "attack@max_target": 2.0,
+          "attack@stun": 1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "attack@hp_ratio": 0.12,
+          "attack@max_target": 2.0,
+          "attack@stun": 1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@hp_ratio": 0.12,
+          "attack@max_target": 2.0,
+          "attack@stun": 1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第一天赋额外攻击<@ba.vup>2</>个目标并附加<@ba.vup>{attack@stun}</>秒<$ba.stun>晕眩</>；每次攻击命中目标少于3名敌人时，自身流失最大生命值的<@ba.vup>{attack@hp_ratio:0%}</>。",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "镜花水月",
+        "prefabId": "skchr_mizuki_3",
+        "rangeId": "y-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30051": 1,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 1
+      },
+      {
+        "30012": 3,
+        "3302": 1
+      },
+      {
+        "30043": 1,
+        "3302": 1
+      },
+      {
+        "30053": 2,
+        "3303": 2
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "史都华德",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 249,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 38,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 592,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 357,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 847,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_210_stward",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 357,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 847,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 470,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 90,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1100,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_210_stward",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_stward_1"
+      }
+    ],
+    "subProfessionId": "corecaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.03
+          },
+          "description": "攻击力+3%，优先攻击防御力最高的敌人",
+          "name": "铠甲突破",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.06
+          },
+          "description": "攻击力+6%，优先攻击防御力最高的敌人",
+          "name": "铠甲突破",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 55,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 26
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "tachr_210_stward_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skchr_stward_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·α型",
+        "prefabId": "skchr_stward_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ]
+  }
+}

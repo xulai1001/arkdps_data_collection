@@ -1,0 +1,1094 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "优先攻击重量最重的敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 150,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "埃拉托",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 60,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 811,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 595,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1054,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4043_erato",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "4-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 595,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1054,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 784,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1318,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4043_erato",
+        "evolveCost": {
+          "30052": 4,
+          "30062": 2,
+          "3241": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "4-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 784,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 102,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1318,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 957,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.4,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 125,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1648,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4043_erato",
+        "evolveCost": {
+          "30064": 5,
+          "30103": 11,
+          "3243": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "4-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+34",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 34.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30014": 2,
+            "30094": 7,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_erato_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_erato_2"
+      }
+    ],
+    "subProfessionId": "siegesniper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def_penetrate": 0.0
+          },
+          "description": "自身可以攻击<$ba.sleep>沉睡</>的敌人",
+          "name": "琴音入梦",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate": 0.4
+          },
+          "description": "自身可以攻击<$ba.sleep>沉睡</>的敌人，并且攻击<$ba.sleep>沉睡</>敌人时无视其防御力的40%",
+          "name": "琴音入梦",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate": 0.5
+          },
+          "description": "自身可以攻击<$ba.sleep>沉睡</>的敌人，并且攻击<$ba.sleep>沉睡</>敌人时无视其防御力的50%",
+          "name": "琴音入梦",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 35
+      },
+      "Idle": 120,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 38
+      },
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 120,
+      "Skill_2_Loop": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_erato_1": {
+        "cast_time": 38,
+        "sim": true
+      },
+      "uniequip_002_erato": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_erato": {
+      "battle": null,
+      "charId": "char_4043_erato",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_erato",
+      "uniEquipName": "埃拉托证章"
+    },
+    "uniequip_002_erato": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至<@ba.kw>115%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "value": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "toddi_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 115.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至<@ba.kw>115%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "value": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "toddi_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "琴音入梦",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身可以攻击<$ba.sleep>沉睡</>的敌人，并且攻击<$ba.sleep>沉睡</>敌人时无视其防御力的55%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至<@ba.kw>115%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.15,
+                    "value": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "toddi_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "琴音入梦",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身可以攻击<$ba.sleep>沉睡</>的敌人，并且攻击<$ba.sleep>沉睡</>敌人时无视其防御力的60%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4043_erato",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sie-x",
+      "uniEquipId": "uniequip_002_erato",
+      "uniEquipName": "改弦更张"
+    }
+  },
+  "skill": {
+    "skchr_erato_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.05,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "sleep": 5.0
+        },
+        "description": "下一次攻击使敌人陷入<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，并造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠旋律",
+        "prefabId": "skchr_erato_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_erato_2": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.27,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.29,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.31,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.38,
+          "attack_speed": 40.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.41,
+          "attack_speed": 40.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 40.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 50.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先攻击<$ba.sleep>沉睡</>的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "英雄赞歌",
+        "prefabId": "skchr_erato_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

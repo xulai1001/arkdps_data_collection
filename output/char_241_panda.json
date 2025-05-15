@@ -1,0 +1,1092 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30033": 5,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "30093": 3,
+        "3303": 6
+      }
+    ],
+    "description": "同时攻击阻挡的<@ba.kw>所有敌人</>\\n可以放置于远程位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "食铁兽",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 279,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 158,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 852,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 388,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 240,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1136,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_241_panda",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 388,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 240,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1136,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 518,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 317,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1439,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_241_panda",
+        "evolveCost": {
+          "30022": 3,
+          "30062": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 518,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 317,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1439,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 640,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 382,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1845,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_241_panda",
+        "evolveCost": {
+          "30033": 15,
+          "30094": 8,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 3,
+            "30054": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_panda_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_panda_2"
+      }
+    ],
+    "subProfessionId": "pusher",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.2
+          },
+          "description": "获得20%的物理闪避",
+          "name": "功夫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.23
+          },
+          "description": "获得23%<@ba.talpu>（+3%）</>的物理闪避",
+          "name": "功夫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.4
+          },
+          "description": "获得40%的物理闪避",
+          "name": "功夫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.43
+          },
+          "description": "获得43%<@ba.talpu>（+3%）</>的物理闪避",
+          "name": "功夫",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Attack_Down": {
+        "OnAttack": 20,
+        "duration": 36
+      },
+      "Idle": 180,
+      "Skill_End": 30,
+      "Skill_Loop": 0,
+      "Skill_Start": {
+        "OnAttack": 20,
+        "duration": 24
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 36
+      }
+    },
+    "options": null,
+    "spec": {
+      "uniequip_002_panda": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_panda": {
+      "battle": null,
+      "charId": "char_241_panda",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_panda",
+      "uniEquipName": "食铁兽证章"
+    },
+    "uniequip_002_panda": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 25.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "panda_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "def": 32.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "panda_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.47
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "功夫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得47%的物理闪避"
+                },
+                {
+                  "blackboard": {
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "功夫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得50%<@ba.talpu>（+3%）</>的物理闪避"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 35.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "base_force_level": 1.0,
+                    "cnt": 2.0
+                  },
+                  "overrideDescripton": "同时攻击阻挡的<@ba.kw>所有敌人</>，阻挡2个及以上敌人时自身推力增加一级\\n可以放置于远程位",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "panda_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.52
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "功夫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得52%的物理闪避"
+                },
+                {
+                  "blackboard": {
+                    "prob": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "功夫",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得55%<@ba.talpu>（+3%）</>的物理闪避"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_241_panda",
+      "itemCost": {
+        "1": {
+          "30104": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "pus-y",
+      "uniEquipId": "uniequip_002_panda",
+      "uniEquipName": "尚蜀风味自制辣酱"
+    }
+  },
+  "skill": {
+    "skchr_panda_1": [
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "force": 0.0,
+          "move_speed": -0.15
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "force": 0.0,
+          "move_speed": -0.16
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "force": 0.0,
+          "move_speed": -0.17
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>小力地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.18
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.19
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.2
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.21
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "force": 1.0,
+          "move_speed": -0.24
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "force": 1.0,
+          "move_speed": -0.27
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>中等力度地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "force": 2.0,
+          "move_speed": -0.3
+        },
+        "description": "下次攻击会把目标往攻击方向<@ba.vup>较大力地</>推动，<@ba.vup>{duration}秒</>内命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "铁意六合",
+        "prefabId": "skchr_panda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_panda_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "duration": 3.0,
+          "force": 1.0,
+          "move_speed": -0.15
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "duration": 3.0,
+          "force": 1.0,
+          "move_speed": -0.16
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "duration": 3.0,
+          "force": 1.0,
+          "move_speed": -0.17
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75,
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.18
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.19
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "duration": 4.0,
+          "force": 1.0,
+          "move_speed": -0.2
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>中等力度地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "duration": 4.0,
+          "force": 2.0,
+          "move_speed": -0.21
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>较大力地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "duration": 5.0,
+          "force": 2.0,
+          "move_speed": -0.24
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>较大力地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "duration": 5.0,
+          "force": 2.0,
+          "move_speed": -0.27
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>较大力地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "duration": 5.0,
+          "force": 3.0,
+          "move_speed": -0.3
+        },
+        "description": "立即往前方突进，寻找前方直线内的最近目标，<@ba.vup>大力地</>击退该目标周围的所有敌军，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，在<@ba.vup>{duration}秒</>内所有命中目标的移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "崩拳式",
+        "prefabId": "skchr_panda_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

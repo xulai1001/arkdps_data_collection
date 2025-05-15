@@ -1,0 +1,1113 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30061": 2,
+        "3301": 2
+      },
+      {
+        "30012": 2,
+        "3302": 3
+      },
+      {
+        "30022": 3,
+        "3302": 3
+      },
+      {
+        "30093": 2,
+        "3302": 3
+      },
+      {
+        "30033": 3,
+        "3303": 4
+      }
+    ],
+    "description": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>50</>生命，最大生效数等于阻挡数",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "休谟斯",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 275,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 194,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 882,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 393,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 266,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1225,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_491_humus",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 393,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 266,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1225,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 511,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 342,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1612,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_491_humus",
+        "evolveCost": {
+          "30012": 1,
+          "30062": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 511,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 342,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1612,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 616,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 403,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2150,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_491_humus",
+        "evolveCost": {
+          "30023": 12,
+          "30103": 11,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 4,
+            "31034": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "31054": 2,
+            "3303": 4
+          },
+          {
+            "30104": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_humus_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31014": 1,
+            "31053": 4,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "31044": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31034": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_humus_2"
+      }
+    ],
+    "subProfessionId": "reaper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def": 0.0,
+            "max_hp_ratio": 0.6
+          },
+          "description": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>；最多不超过自身最大生命值的60%",
+          "name": "再回收",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.0,
+            "max_hp_ratio": 0.64
+          },
+          "description": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>；最多不超过自身最大生命值的64%<@ba.talpu>（+4%）</>",
+          "name": "再回收",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.0,
+            "max_hp_ratio": 1.0
+          },
+          "description": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>；最多不超过自身最大生命值的100%",
+          "name": "再回收",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.0,
+            "max_hp_ratio": 1.04
+          },
+          "description": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>；最多不超过自身最大生命值的104%<@ba.talpu>（+4%）</>",
+          "name": "再回收",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 9,
+        "duration": 39
+      },
+      "Idle": 60,
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 11,
+        "duration": 39
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "musha_hp"
+      ]
+    },
+    "spec": {
+      "uniequip_002_humus": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_humus": {
+      "battle": null,
+      "charId": "char_491_humus",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_humus",
+      "uniEquipName": "休谟斯证章"
+    },
+    "uniequip_002_humus": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 10.0,
+            "def": 14.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "def": 22.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.05,
+                    "max_hp_ratio": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "再回收",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>，最多不超过自身最大生命值的100%；拥有来源于自身的<$ba.barrier>屏障</>时防御力+5%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.05,
+                    "max_hp_ratio": 1.04
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "再回收",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>，最多不超过自身最大生命值的104%<@ba.talpu>（+4%）</>；拥有来源于自身的<$ba.barrier>屏障</>时防御力+5%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 30.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "value": 60.0
+                  },
+                  "overrideDescripton": "无法被友方角色治疗，攻击造成<@ba.kw>群体伤害</>，每攻击到一个敌人回复自身<@ba.kw>{value}</>生命，最大生效数等于阻挡数",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.08,
+                    "max_hp_ratio": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "再回收",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>，最多不超过自身最大生命值的100%；拥有来源于自身的<$ba.barrier>屏障</>时防御力+8%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.08,
+                    "max_hp_ratio": 1.04
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "再回收",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "超出自身生命上限的生命值可转化为<$ba.barrier>屏障</>，最多不超过自身最大生命值的104%<@ba.talpu>（+4%）</>；拥有来源于自身的<$ba.barrier>屏障</>时防御力+8%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_491_humus",
+      "itemCost": {
+        "1": {
+          "31023": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "rea-x",
+      "uniEquipId": "uniequip_002_humus",
+      "uniEquipName": "恶地奇异工具套组"
+    }
+  },
+  "skill": {
+    "skchr_humus_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "value": 50.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "value": 50.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "value": 50.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "value": 60.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "value": 60.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "value": 60.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "value": 80.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "value": 80.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "value": 80.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "value": 80.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并额外回复自身<@ba.kw>{value}</>生命值",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "固废切割",
+        "prefabId": "skchr_humus_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_humus_2": [
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.15,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.3,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.18,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.36,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.21,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.42,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.25,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.5,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.28,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.56,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.32,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.64,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.36,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.72,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.39,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.78,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.42,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.84,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "humus_s_2[peak_1].peak_performance.atk": 0.45,
+          "humus_s_2[peak_1].peak_performance.hp_ratio": 0.5,
+          "humus_s_2[peak_2].peak_performance.atk": 0.9,
+          "humus_s_2[peak_2].peak_performance.hp_ratio": 0.8
+        },
+        "description": "技能持续时间内阻挡数<@ba.vup>+1</>，生命值高于<@ba.vup>{humus_s_2[peak_1].peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{humus_s_2[peak_1].peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>；高于<@ba.vup>{humus_s_2[peak_2].peak_performance.hp_ratio:0%}</>时效果翻倍",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "高效处理",
+        "prefabId": "skchr_humus_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

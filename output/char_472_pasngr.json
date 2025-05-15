@@ -1,0 +1,1715 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30013": 8,
+        "3302": 8
+      },
+      {
+        "30043": 4,
+        "31013": 4,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>3</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 85,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "异客",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 311,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 49,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 654,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 935,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_472_pasngr",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 935,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 571,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1215,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_472_pasngr",
+        "evolveCost": {
+          "30012": 5,
+          "30042": 8,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 571,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1215,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 689,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 33,
+            "def": 130,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1558,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_472_pasngr",
+        "evolveCost": {
+          "30044": 5,
+          "30125": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+32",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 32.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "31014": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30104": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pasngr_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pasngr_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 3,
+            "31034": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31024": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_pasngr_3"
+      }
+    ],
+    "subProfessionId": "chain",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_ratio": 0.8,
+            "pasngr_t_1[enhance].damage_scale": 1.1,
+            "pasngr_t_1[enhance].duration": 3.0
+          },
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升10%",
+          "name": "机理分析",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.8,
+            "pasngr_t_1[enhance].damage_scale": 1.15,
+            "pasngr_t_1[enhance].duration": 3.0
+          },
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升15%<@ba.talpu>（+5%）</>",
+          "name": "机理分析",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.8,
+            "pasngr_t_1[enhance].damage_scale": 1.2,
+            "pasngr_t_1[enhance].duration": 3.0
+          },
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%",
+          "name": "机理分析",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_ratio": 0.8,
+            "pasngr_t_1[enhance].damage_scale": 1.25,
+            "pasngr_t_1[enhance].duration": 3.0
+          },
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升25%<@ba.talpu>（+5%）</>",
+          "name": "机理分析",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.08
+          },
+          "description": "当周围4格没有敌人时，攻击力+8%",
+          "name": "孤卒",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1
+          },
+          "description": "当周围4格没有敌人时，攻击力+10%<@ba.talpu>（+2%）</>",
+          "name": "孤卒",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@max_target": 3.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>（精英2后更新）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 4.0,
+          "attack@sluggish": 0.5
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 70
+      },
+      "Idle": 400,
+      "Skill2": {
+        "OnAttack": 3,
+        "duration": 40
+      },
+      "Skill2_Begin": 1,
+      "Skill2_End": 1,
+      "Skill2_Idle": 80,
+      "Skill3": {
+        "OnAttack": 8,
+        "duration": 36
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "cond_2"
+      ]
+    },
+    "spec": {
+      "skchr_pasngr_1": {
+        "sim": true
+      },
+      "skchr_pasngr_3": {
+        "attack_begin": 13,
+        "cast_time": 36,
+        "reset_attack": "ogcd"
+      },
+      "tachr_472_pasngr_1": {
+        "cond": true
+      },
+      "uniequip_003_pasngr": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_pasngr": {
+      "battle": null,
+      "charId": "char_472_pasngr",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_pasngr",
+      "uniEquipName": "异客证章"
+    },
+    "uniequip_002_pasngr": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 0.9,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.8,
+                    "skill@chain.atk_scale": 0.9,
+                    "skill@pasngr_s_1.chain.atk_scale": 0.9,
+                    "skill@sluggish": 0.8,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低<@ba.kw>{value:0%}</>并造成一定时间<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 80.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 0.9,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.8,
+                    "skill@chain.atk_scale": 0.9,
+                    "skill@pasngr_s_1.chain.atk_scale": 0.9,
+                    "skill@sluggish": 0.8,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低<@ba.kw>{value:0%}</>并造成一定时间<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "孤卒",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围4格没有敌人时，攻击力+8%，技力自然回复速度+0.15/秒"
+                },
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "孤卒",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围4格没有敌人时，攻击力+10%<@ba.talpu>（+2%）</>，技力自然回复速度+0.15/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "pasngr_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 0.9,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.8,
+                    "skill@chain.atk_scale": 0.9,
+                    "skill@pasngr_s_1.chain.atk_scale": 0.9,
+                    "skill@sluggish": 0.8,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害降低<@ba.kw>{value:0%}</>并造成一定时间<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "孤卒",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围4格没有敌人时，攻击力+8%，技力自然回复速度+0.25/秒"
+                },
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "孤卒",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "当周围4格没有敌人时，攻击力+10%<@ba.talpu>（+2%）</>，技力自然回复速度+0.25/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "pasngr_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_472_pasngr",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "cha-x",
+      "uniEquipId": "uniequip_002_pasngr",
+      "uniEquipName": "电磁调节器"
+    },
+    "uniequip_003_pasngr": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 20.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0,
+                    "skill@pasngr_s_1.chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 40.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0,
+                    "skill@pasngr_s_1.chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.8,
+                    "pasngr_t_1[enhance].damage_scale": 1.25,
+                    "pasngr_t_1[enhance].duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "机理分析",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击命中生命值在80%以上的敌人时，4秒内异客对其造成的伤害提升25%"
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.8,
+                    "pasngr_t_1[enhance].damage_scale": 1.3,
+                    "pasngr_t_1[enhance].duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "机理分析",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击命中生命值在80%以上的敌人时，4秒内异客对其造成的伤害提升30%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 100.0,
+            "max_hp": 60.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@chain.atk_scale": 1.0,
+                    "attack@max_target": 4.0,
+                    "attack@sluggish": 0.5,
+                    "skill@chain.atk_scale": 1.0,
+                    "skill@pasngr_s_1.chain.atk_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>{attack@max_target}</>个敌人间跳跃，每次跳跃伤害<@ba.kw>不再降低</>并造成短暂的<$ba.sluggish>停顿</>",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.7,
+                    "pasngr_t_1[enhance].damage_scale": 1.28,
+                    "pasngr_t_1[enhance].duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "机理分析",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击命中生命值在70%以上的敌人时，4秒内异客对其造成的伤害提升28%"
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.7,
+                    "pasngr_t_1[enhance].damage_scale": 1.33,
+                    "pasngr_t_1[enhance].duration": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "机理分析",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击命中生命值在70%以上的敌人时，4秒内异客对其造成的伤害提升33%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_472_pasngr",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "cha-y",
+      "uniEquipId": "uniequip_003_pasngr",
+      "uniEquipName": "王权金币"
+    }
+  },
+  "skill": {
+    "skchr_pasngr_1": [
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 1.5,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 1.6,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 1.7,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 1.8,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 1.9,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 2.0,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 2.1,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 2.2,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 2.3,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "pasngr_s_1.atk_scale": 2.5,
+          "pasngr_s_1.max_target": 4.0,
+          "pasngr_s_1.sluggish": 1.5
+        },
+        "description": "下次攻击时攻击力提升至<@ba.vup>{pasngr_s_1.atk_scale:0%}</>，最多在<@ba.vup>{pasngr_s_1.max_target}</>个目标间跳跃，攻击造成的<$ba.sluggish>停顿</>时间延长至<@ba.vup>{pasngr_s_1.sluggish}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电能之触",
+        "prefabId": "skchr_pasngr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_pasngr_2": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.1,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.2
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.1,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.2
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.1,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.2
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.15,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>小幅度缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.15,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>小幅度缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.15,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.3
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>小幅度缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.2,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.25,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.3,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.3,
+          "attack@max_target": 5.0,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>较大幅度缩短</>，攻击最大弹跳次数提升至<@ba.vup>{attack@max_target}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "聚焦指令",
+        "prefabId": "skchr_pasngr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_pasngr_3": [
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "chain.max_target": 4.0,
+          "ct": 2.0,
+          "duration": 4.0,
+          "interval": 0.5,
+          "projectile_delay_time": 4.0,
+          "sluggish": 0.5
+        },
+        "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续<@ba.vup>{duration}</>秒的雷暴区域，期间每<@ba.vup>{interval}</>秒以<@ba.vup>{atk_scale:0%}</>的攻击力对雷暴区域内的随机敌人进行一次额外攻击；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "辉煌裂片",
+        "prefabId": "skchr_pasngr_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

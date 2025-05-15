@@ -1,0 +1,1665 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 6,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30022": 5,
+        "3302": 8
+      },
+      {
+        "30032": 4,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "31073": 5,
+        "3302": 8
+      },
+      {
+        "30013": 6,
+        "30053": 4,
+        "3303": 8
+      }
+    ],
+    "description": "可以使用陷阱来协助作战，但陷阱无法放置于<@ba.kw>敌人已在</>的格子中",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "艾拉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 270,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 72,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 696,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 366,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 916,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4123_ela",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 366,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 916,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 476,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 141,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1145,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4123_ela",
+        "evolveCost": {
+          "30012": 7,
+          "30062": 5,
+          "3281": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 476,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 141,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1145,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 588,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 173,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1468,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4123_ela",
+        "evolveCost": {
+          "30044": 7,
+          "30125": 4,
+          "3283": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31014": 4,
+            "31033": 9,
+            "3303": 8
+          },
+          {
+            "30054": 4,
+            "31044": 8,
+            "3303": 12
+          },
+          {
+            "30125": 6,
+            "31034": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ela_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31044": 4,
+            "31073": 6,
+            "3303": 8
+          },
+          {
+            "31024": 8,
+            "31084": 4,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31044": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ela_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 4,
+            "30093": 5,
+            "3303": 8
+          },
+          {
+            "30084": 4,
+            "31014": 9,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ela_3"
+      }
+    ],
+    "subProfessionId": "traper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以使用1个雷鸣地雷（最多拥有2个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "可以使用2<@ba.talpu>（+1）</>个雷鸣地雷（最多拥有2个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 2.0
+          },
+          "description": "可以使用2个雷鸣地雷（最多拥有3个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "可以使用3<@ba.talpu>（+1）</>个雷鸣地雷（最多拥有3个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "可以使用3个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 4.0
+          },
+          "description": "可以使用4<@ba.talpu>（+1）</>个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果",
+          "name": "雷鸣地雷",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10033_ela_grzmot",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.5,
+            "prob": 0.3
+          },
+          "description": "攻击有30%几率造成相当于攻击力150%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发",
+          "name": "“正中靶心”",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.6,
+            "prob": 0.3
+          },
+          "description": "攻击有30%几率造成相当于攻击力160%<@ba.talpu>（+10%）</>的物理伤害，对受到雷鸣地雷效果影响的目标必定触发",
+          "name": "“正中靶心”",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 5,
+      "Attack_Down_Loop": {
+        "OnAttack": 0,
+        "duration": 25
+      },
+      "Attack_End": 25,
+      "Attack_Loop": {
+        "OnAttack": 0,
+        "duration": 25
+      },
+      "Idle": 180,
+      "Skill_2_Begin": 30,
+      "Skill_2_End": 25,
+      "Skill_2_Idle": 180,
+      "Skill_2_Loop": {
+        "OnAttack": 0,
+        "duration": 25
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 25,
+      "Skill_3_Idle": 240,
+      "Skill_3_Loop": {
+        "OnAttack": 0,
+        "duration": 15
+      },
+      "Skill_Down_2_Loop": {
+        "OnAttack": 0,
+        "duration": 25
+      },
+      "Skill_Down_3_Loop": {
+        "OnAttack": 0,
+        "duration": 15
+      },
+      "Start": {
+        "OnAttack": 6,
+        "duration": 30
+      },
+      "Stun": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_ela": {
+      "battle": null,
+      "charId": "char_4123_ela",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ela",
+      "uniEquipName": "艾拉证章"
+    },
+    "uniequip_002_ela": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "def": 12.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身可以额外部署在近战位，陷阱可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 22.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身可以额外部署在近战位，陷阱可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.6,
+                    "prob": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“正中靶心”",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击有40%几率造成相当于攻击力160%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.7,
+                    "prob": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“正中靶心”",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击有40%几率造成相当于攻击力170%<@ba.talpu>（+10%）</>的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 30.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "自身可以额外部署在近战位，陷阱可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.7,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“正中靶心”",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击有50%几率造成相当于攻击力170%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.8,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“正中靶心”",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击有50%几率造成相当于攻击力180%<@ba.talpu>（+10%）</>的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4123_ela",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30155": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "trp-d",
+      "uniEquipId": "uniequip_002_ela",
+      "uniEquipName": "社会期望背包"
+    }
+  },
+  "skill": {
+    "skchr_ela_1": [
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.1,
+          "damage_hitrate_physical": -0.1,
+          "duration": 7.0,
+          "projectile_range": 1.7,
+          "sluggish": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.15,
+          "damage_hitrate_physical": -0.15,
+          "duration": 7.0,
+          "projectile_range": 1.7,
+          "sluggish": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.2,
+          "damage_hitrate_physical": -0.2,
+          "duration": 7.0,
+          "projectile_range": 1.7,
+          "sluggish": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.2,
+          "damage_hitrate_physical": -0.2,
+          "duration": 8.0,
+          "projectile_range": 1.7,
+          "sluggish": 8.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.25,
+          "damage_hitrate_physical": -0.25,
+          "duration": 8.0,
+          "projectile_range": 1.7,
+          "sluggish": 8.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.3,
+          "damage_hitrate_physical": -0.3,
+          "duration": 8.0,
+          "projectile_range": 1.7,
+          "sluggish": 8.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.3,
+          "damage_hitrate_physical": -0.3,
+          "duration": 9.0,
+          "projectile_range": 1.7,
+          "sluggish": 9.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.35,
+          "damage_hitrate_physical": -0.35,
+          "duration": 9.0,
+          "projectile_range": 1.7,
+          "sluggish": 9.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.4,
+          "damage_hitrate_physical": -0.4,
+          "duration": 9.0,
+          "projectile_range": 1.7,
+          "sluggish": 9.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_hitrate_magical": -0.4,
+          "damage_hitrate_physical": -0.4,
+          "duration": 10.0,
+          "projectile_range": 1.7,
+          "sluggish": 10.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>且物理与法术命中率<@ba.vup>{damage_hitrate_physical:0%}</>，持续<@ba.vup>{sluggish}</>秒\\n主动效果：立即获得一个陷阱",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "眩目阻滞",
+        "prefabId": "skchr_ela_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ela_2": [
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 1.5,
+          "def_penetrate_fixed": 200.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 1.5,
+          "def_penetrate_fixed": 250.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 1.5,
+          "def_penetrate_fixed": 300.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.0,
+          "def_penetrate_fixed": 350.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.0,
+          "def_penetrate_fixed": 400.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.0,
+          "def_penetrate_fixed": 450.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.5,
+          "def_penetrate_fixed": 500.0,
+          "projectile_range": 1.7,
+          "stun": 4.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.5,
+          "def_penetrate_fixed": 600.0,
+          "projectile_range": 1.7,
+          "stun": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 2.5,
+          "def_penetrate_fixed": 700.0,
+          "projectile_range": 1.7,
+          "stun": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@projectile_range": 1.1,
+          "def": 3.0,
+          "def_penetrate_fixed": 800.0,
+          "projectile_range": 1.7,
+          "stun": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.stun>晕眩</>，持续<@ba.vup>{stun}</>秒\\n主动效果：架设机动护盾使自身防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vdown>缩小</>，攻击对目标周围造成溅射物理伤害且无视其<@ba.vup>{def_penetrate_fixed}</>的防御力\\n<@ba.rem>技能结束时获得一个陷阱</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "震荡坚守",
+        "prefabId": "skchr_ela_2",
+        "rangeId": "3-6",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_ela_3": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.15,
+          "fake_damage_scale": 0.15,
+          "projectile_range": 1.7,
+          "sluggish": 5.0,
+          "weak[limit]": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.15,
+          "fake_damage_scale": 0.15,
+          "projectile_range": 1.7,
+          "sluggish": 5.0,
+          "weak[limit]": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.15,
+          "fake_damage_scale": 0.15,
+          "projectile_range": 1.7,
+          "sluggish": 5.0,
+          "weak[limit]": 5.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.2,
+          "fake_damage_scale": 0.2,
+          "projectile_range": 1.7,
+          "sluggish": 6.0,
+          "weak[limit]": 6.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.2,
+          "fake_damage_scale": 0.2,
+          "projectile_range": 1.7,
+          "sluggish": 6.0,
+          "weak[limit]": 6.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.2,
+          "fake_damage_scale": 0.2,
+          "projectile_range": 1.7,
+          "sluggish": 6.0,
+          "weak[limit]": 6.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.25,
+          "fake_damage_scale": 0.25,
+          "projectile_range": 1.7,
+          "sluggish": 6.0,
+          "weak[limit]": 6.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.3,
+          "fake_damage_scale": 0.3,
+          "projectile_range": 1.7,
+          "sluggish": 7.0,
+          "weak[limit]": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.3,
+          "fake_damage_scale": 0.3,
+          "projectile_range": 1.7,
+          "sluggish": 7.0,
+          "weak[limit]": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@trigger_time": 40.0,
+          "base_attack_time": -0.35,
+          "cnt": 2.0,
+          "damage_scale": 1.35,
+          "fake_damage_scale": 0.35,
+          "projectile_range": 1.7,
+          "sluggish": 7.0,
+          "weak[limit]": 7.0
+        },
+        "description": "被动效果：陷阱触发时使周围所有目标<$ba.sluggish>停顿</>并获得<@ba.vup>{fake_damage_scale:0%}</>的<$ba.fragile>脆弱</>效果，持续<@ba.vup>{sluggish}</>秒\\n主动效果：攻击间隔<@ba.vup>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，优先攻击受到雷鸣地雷效果影响的敌人\\n<@ba.rem>攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "“博萨克风暴”",
+        "prefabId": "skchr_ela_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1157 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30083": 2,
+        "31053": 3,
+        "3303": 6
+      }
+    ],
+    "description": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "夜半",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 187,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 726,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 275,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 78,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_476_blkngt",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 275,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 78,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1038,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 362,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 112,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1332,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_476_blkngt",
+        "evolveCost": {
+          "30042": 4,
+          "30062": 2,
+          "3211": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 362,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 112,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1332,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 442,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 133,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1625,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_476_blkngt",
+        "evolveCost": {
+          "30073": 15,
+          "31024": 8,
+          "3213": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "31013": 2,
+            "3303": 5
+          },
+          {
+            "31014": 6,
+            "31044": 3,
+            "3303": 6
+          },
+          {
+            "30054": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blkngt_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30014": 2,
+            "30094": 7,
+            "3303": 6
+          },
+          {
+            "30094": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blkngt_2"
+      }
+    ],
+    "subProfessionId": "tactician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在20秒后自动刷新",
+          "name": "夜行",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10021_blkngt_hypnos",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在17秒后自动刷新",
+          "name": "夜行",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10021_blkngt_hypnos",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新",
+          "name": "夜行",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10021_blkngt_hypnos",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "OnPlayAudio": 26,
+        "duration": 43
+      },
+      "Attack_Down": {
+        "OnAttack": 5,
+        "duration": 43
+      },
+      "Idle": 100,
+      "Skill_1": {
+        "OnAttack": 5,
+        "duration": 35
+      },
+      "Skill_2": {
+        "OnAttack": 16,
+        "duration": 34
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "cond",
+        "token"
+      ]
+    },
+    "spec": {
+      "char_476_blkngt": {
+        "token": "token_10021_blkngt_hypnos",
+        "use_token_for_mastery": true
+      },
+      "skchr_blkngt_2": {
+        "reset_attack": true,
+        "token_damage_type": 1
+      },
+      "tachr_476_blkngt_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_blkngt": {
+      "battle": null,
+      "charId": "char_476_blkngt",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_blkngt",
+      "uniEquipName": "夜半证章"
+    },
+    "uniequip_002_blkngt": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "def": 10.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "blkngt_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 17.0,
+            "def": 15.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "blkngt_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.05
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "点梦",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在处于沉睡状态的敌人时，自身和眠兽攻击力+5%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "blkngt_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 20.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "blkngt_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "点梦",
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内存在处于沉睡状态的敌人时，自身和眠兽攻击力+10%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "blkngt_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_476_blkngt",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "tac-x",
+      "uniEquipId": "uniequip_002_blkngt",
+      "uniEquipName": "星星与瞌睡虫"
+    }
+  },
+  "skill": {
+    "skchr_blkngt_1": [
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.2,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.2,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.23,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.23,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.26,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.26,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.09
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.3,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.3,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.1
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.33,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.33,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.11
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.36,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.36,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.12
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.4,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.4,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.13
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.45,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.45,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.14
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.5,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.5,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.14
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_hypnos_s_1[rage].atk": 0.55,
+          "blkngt_hypnos_s_1[rage].attack_speed": 0.55,
+          "blkngt_hypnos_s_1[rage].duration": 10.0,
+          "cost": 11.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.14
+        },
+        "description": "立刻获得<@ba.vup>{cost}</>点部署费用，眠兽进入休眠，期间每秒恢复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>最大生命；眠兽受到伤害时醒来，攻击力<@ba.vup>+{blkngt_hypnos_s_1[rage].atk:0%}</>，攻击速度<@ba.vup>+{blkngt_hypnos_s_1[rage].attack_speed:0%}</>，持续<@ba.vup>{blkngt_hypnos_s_1[rage].duration}</>秒",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "半醒",
+        "prefabId": "skchr_blkngt_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_blkngt_2": [
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.2,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.25,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.3,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.35,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.4,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.45,
+          "blkngt_s_2.duration": 4.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能1次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.5,
+          "blkngt_s_2.duration": 5.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.7,
+          "blkngt_s_2.duration": 5.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 1.9,
+          "blkngt_s_2.duration": 5.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "blkngt_s_2.atk_scale": 2.1,
+          "blkngt_s_2.duration": 6.0,
+          "cost": 4.0
+        },
+        "description": "立即使战术点周围的所有地面敌人陷入<@ba.vup>{blkngt_s_2.duration}</>秒<$ba.sleep>沉睡</>并获得<@ba.vup>{cost}</>点部署费用；<@ba.vup>{blkngt_s_2.duration}</>秒内眠兽的攻击变为群体法术攻击，攻击<$ba.sleep>沉睡</>的目标时攻击力提升至<@ba.vup>{blkngt_s_2.atk_scale:0%}</>\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "安眠",
+        "prefabId": "skchr_blkngt_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

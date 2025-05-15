@@ -1,0 +1,1010 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30043": 4,
+        "3302": 6
+      },
+      {
+        "30053": 2,
+        "30073": 4,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>群体物理伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 85,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "陨星",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 377,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 59,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 770,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 539,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 963,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_219_meteo",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 539,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 963,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 674,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1204,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_219_meteo",
+        "evolveCost": {
+          "30032": 3,
+          "30052": 4,
+          "3241": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-8"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 674,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1204,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 865,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1505,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_219_meteo",
+        "evolveCost": {
+          "30083": 14,
+          "30104": 7,
+          "3243": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-10"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+35",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 35.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_meteo_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30014": 5,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_meteo_2"
+      }
+    ],
+    "subProfessionId": "aoesniper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.6,
+            "prob": 0.15
+          },
+          "description": "普通攻击和技能释放时，15%几率当次攻击的攻击力+60%",
+          "name": "爆破附着改装",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.6,
+            "prob": 0.3
+          },
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%",
+          "name": "爆破附着改装",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "duration": 29
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 12,
+        "duration": 31
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit",
+        "archet",
+        "chen"
+      ]
+    },
+    "spec": {
+      "char_219_meteo": {
+        "frame_corr": 1
+      },
+      "skchr_meteo_1": {
+        "cast_time": 31,
+        "sim": true
+      },
+      "skchr_meteo_2": {
+        "attack_begin": 8,
+        "cast_time": 31,
+        "reset_attack": "ogcd"
+      },
+      "tachr_219_meteo_1": {
+        "crit": true
+      },
+      "uniequip_002_meteo": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_meteo": {
+      "battle": null,
+      "charId": "char_219_meteo",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_meteo",
+      "uniEquipName": "陨星证章"
+    },
+    "uniequip_002_meteo": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 37.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 100.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "meteo_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 52.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 100.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "meteo_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.6,
+                    "prob": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "爆破附着改装",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "普通攻击和技能释放时，40%几率当次攻击的攻击力+60%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 100.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "meteo_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.6,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "爆破附着改装",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "普通攻击和技能释放时，50%几率当次攻击的攻击力+60%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_219_meteo",
+      "itemCost": {
+        "1": {
+          "30064": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30024": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30084": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "art-y",
+      "uniEquipId": "uniequip_002_meteo",
+      "uniEquipName": "无名的身份牌"
+    }
+  },
+  "skill": {
+    "skchr_meteo_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.35
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15
+        },
+        "description": "下次攻击的爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "霰射弹头",
+        "prefabId": "skchr_meteo_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_meteo_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "def": -130.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "def": -130.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "def": -130.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "def": -170.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "def": -170.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "def": -170.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "def": -210.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "def": -250.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "def": -290.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "def": -330.0,
+          "duration": 10.0
+        },
+        "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，所有命中目标在<@ba.vup>{duration}</>秒内防御力<@ba.vup>-{-def}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "高爆弹头",
+        "prefabId": "skchr_meteo_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

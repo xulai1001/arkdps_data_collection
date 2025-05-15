@@ -1,0 +1,1105 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30023": 5,
+        "3302": 6
+      },
+      {
+        "30033": 2,
+        "30103": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击使目标周围的其他敌人受到相当于攻击力<@ba.kw>50%</>的<@ba.kw>群体</>物理伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "奥达",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 531,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 162,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1063,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 759,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 223,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1477,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4131_odda",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 759,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 223,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1477,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 987,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 286,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1944,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4131_odda",
+        "evolveCost": {
+          "30032": 3,
+          "30062": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 987,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 286,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1944,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1190,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 337,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2593,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4131_odda",
+        "evolveCost": {
+          "30084": 7,
+          "31073": 13,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "31033": 6,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30044": 2,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_odda_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31043": 1,
+            "3303": 5
+          },
+          {
+            "30074": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30155": 4,
+            "31034": 2,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_odda_2"
+      }
+    ],
+    "subProfessionId": "hammer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.09,
+            "count": 45.0
+          },
+          "description": "累计造成45次物理伤害后，攻击力+9%",
+          "name": "落锤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "count": 45.0
+          },
+          "description": "累计造成45次物理伤害后，攻击力+12%<@ba.talpu>（+3%）</>",
+          "name": "落锤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.15,
+            "count": 30.0
+          },
+          "description": "累计造成30次物理伤害后，攻击力+15%",
+          "name": "落锤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.18,
+            "count": 30.0
+          },
+          "description": "累计造成30次物理伤害后，攻击力+18%<@ba.talpu>（+3%）</>",
+          "name": "落锤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@ability_range_radius": 1.0,
+          "attack@atk_scale_2": 0.5
+        },
+        "overrideDescripton": "攻击使目标周围的其他敌人受到相当于攻击力<@ba.kw>{attack@atk_scale_2:0%}</>的<@ba.kw>群体</>物理伤害",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 54
+      },
+      "Idle": 90,
+      "Skill_1": {
+        "OnAttack": 20,
+        "duration": 54
+      },
+      "Skill_2_Begin": 7,
+      "Skill_2_End": 5,
+      "Skill_2_Idle": 90,
+      "Skill_2_Loop": {
+        "OnAttack": 20,
+        "duration": 54
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_odda": {
+      "battle": null,
+      "charId": "char_4131_odda",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_odda",
+      "uniEquipName": "奥达证章"
+    },
+    "uniequip_002_odda": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至<@ba.kw>{atk_scale_e:0%}</>",
+                  "blackboard": {
+                    "atk_scale_e": 1.15,
+                    "attack@ability_range_radius": 1.0,
+                    "attack@atk_scale_2": 0.5,
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "odda_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至<@ba.kw>{atk_scale_e:0%}</>",
+                  "blackboard": {
+                    "atk_scale_e": 1.15,
+                    "attack@ability_range_radius": 1.0,
+                    "attack@atk_scale_2": 0.5,
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "odda_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "count": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "落锤",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "累计造成30次物理伤害后，攻击力+20%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.23,
+                    "count": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "落锤",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "累计造成30次物理伤害后，攻击力+23%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至<@ba.kw>{atk_scale_e:0%}</>",
+                  "blackboard": {
+                    "atk_scale_e": 1.15,
+                    "attack@ability_range_radius": 1.0,
+                    "attack@atk_scale_2": 0.5,
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "odda_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "count": 20.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "落锤",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "累计造成20次物理伤害后，攻击力+20%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.23,
+                    "count": 20.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "落锤",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "累计造成20次物理伤害后，攻击力+23%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4131_odda",
+      "itemCost": {
+        "1": {
+          "30014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "ham-x",
+      "uniEquipId": "uniequip_002_odda",
+      "uniEquipName": "旧背包"
+    }
+  },
+  "skill": {
+    "skchr_odda_1": [
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.4
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.45
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.6
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.65
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 2.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_radius": 1.5,
+          "atk_scale": 2.4
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>且溅射范围<@ba.vup>扩大</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "火花溅射",
+        "prefabId": "skchr_odda_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_odda_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@levitate_duration": 0.5,
+          "attack@value": 3.0,
+          "def": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击溅射到重量小于等于3的单位会使其<$ba.levitate>浮空</><@ba.vup>{attack@levitate_duration}</>秒",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "锻锤之力",
+        "prefabId": "skchr_odda_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1159 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30013": 5,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "31063": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 65,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "小满",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 221,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 45,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 589,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 326,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 796,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4122_grabds",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 326,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 796,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1008,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4122_grabds",
+        "evolveCost": {
+          "30032": 3,
+          "30052": 4,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1008,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 525,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1260,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4122_grabds",
+        "evolveCost": {
+          "31034": 7,
+          "31053": 11,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31084": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_grabds_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30064": 2,
+            "30073": 4,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_grabds_2"
+      }
+    ],
+    "subProfessionId": "slower",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack_speed": 6.0,
+            "sluggish_addition": 0.2
+          },
+          "description": "攻击速度+6，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>时间略微延长",
+          "name": "好好听话",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 8.0,
+            "sluggish_addition": 0.2
+          },
+          "description": "攻击速度+8<@ba.talpu>（+2）</>，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>时间略微延长",
+          "name": "好好听话",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 10.0,
+            "sluggish_addition": 0.4
+          },
+          "description": "攻击速度+10，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>时间延长",
+          "name": "好好听话",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 12.0,
+            "sluggish_addition": 0.4
+          },
+          "description": "攻击速度+12<@ba.talpu>（+2）</>，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>时间延长",
+          "name": "好好听话",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "sluggish": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 50
+      },
+      "Idle": 160,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 50
+      },
+      "Skill_2_Begin": {
+        "OnAttack": 16,
+        "duration": 26
+      },
+      "Skill_2_End": 12,
+      "Skill_2_Loop": 120,
+      "Start": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_grabds": {
+      "battle": null,
+      "charId": "char_4122_grabds",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_grabds",
+      "uniEquipName": "小满证章"
+    },
+    "uniequip_002_grabds": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "grabds_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "grabds_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "sluggish_addition": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好好听话",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+12，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>进一步延长"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 14.0,
+                    "sluggish_addition": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好好听话",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+14<@ba.talpu>（+2）</>，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>进一步延长"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 41.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "grabds_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 14.0,
+                    "sluggish_addition": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好好听话",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+14，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>更进一步延长"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 16.0,
+                    "sluggish_addition": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好好听话",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+16<@ba.talpu>（+2）</>，若目标为【野生动物】则特性的<$ba.sluggish>停顿</>更进一步延长"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4122_grabds",
+      "itemCost": {
+        "1": {
+          "30074": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "dec-x",
+      "uniEquipId": "uniequip_002_grabds",
+      "uniEquipName": "在田野上"
+    }
+  },
+  "skill": {
+    "skchr_grabds_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "ct": 1.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "ct": 1.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "ct": 1.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "ct": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "ct": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "ct": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "ct": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "ct": 2.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "ct": 3.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "ct": 3.0
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害，并额外攻击一个敌人\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "竹笛飞声",
+        "prefabId": "skchr_grabds_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_grabds_2": [
+      {
+        "blackboard": {
+          "attack_speed": 10.0,
+          "max_target": 3.0,
+          "sleep": 3.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0,
+          "max_target": 3.0,
+          "sleep": 3.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "max_target": 3.0,
+          "sleep": 3.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "max_target": 3.0,
+          "sleep": 4.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 60.0,
+          "max_target": 3.0,
+          "sleep": 4.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 75.0,
+          "max_target": 3.0,
+          "sleep": 4.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 90.0,
+          "max_target": 3.0,
+          "sleep": 4.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 100.0,
+          "max_target": 3.0,
+          "sleep": 5.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 115.0,
+          "max_target": 3.0,
+          "sleep": 5.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 130.0,
+          "max_target": 3.0,
+          "sleep": 5.0
+        },
+        "description": "停止攻击敌人并使攻击范围内<@ba.vup>{max_target}</>个敌方单位<$ba.sleep>沉睡</><@ba.vup>{sleep}</>秒，之后攻击速度<@ba.vup>+{attack_speed}</>，且攻击<@ba.vup>{max_target}</>个敌人",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "乡音沉沉",
+        "prefabId": "skchr_grabds_2",
+        "rangeId": "y-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30073": 7,
+        "3302": 8
+      },
+      {
+        "30083": 3,
+        "30103": 4,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "艾雅法拉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 292,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 732,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 406,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1046,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_180_amgoat",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 406,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 79,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1046,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 535,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1359,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_180_amgoat",
+        "evolveCost": {
+          "30022": 5,
+          "30042": 7,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 535,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1359,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 645,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 122,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1743,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_180_amgoat",
+        "evolveCost": {
+          "30064": 5,
+          "30115": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30104": 8,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_amgoat_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 6
+          },
+          {
+            "30014": 10,
+            "30034": 4,
+            "3303": 12
+          },
+          {
+            "30084": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_amgoat_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 6
+          },
+          {
+            "30024": 7,
+            "30044": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_amgoat_3"
+      }
+    ],
+    "subProfessionId": "corecaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.07
+          },
+          "description": "在场时，所有友方【术师】职业干员的攻击力+7%",
+          "name": "炎息",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09
+          },
+          "description": "在场时，所有友方【术师】职业干员的攻击力+9%<@ba.talpu>（+2%）</>",
+          "name": "炎息",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.14
+          },
+          "description": "在场时，所有友方【术师】职业干员的攻击力+14%",
+          "name": "炎息",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.16
+          },
+          "description": "在场时，所有友方【术师】职业干员的攻击力+16%<@ba.talpu>（+2%）</>",
+          "name": "炎息",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "sp_max": 16.0,
+            "sp_min": 7.0
+          },
+          "description": "部署后立即随机获得一定的技力",
+          "name": "乱火",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "sp_max": 20.0,
+            "sp_min": 10.0
+          },
+          "description": "部署后立即随机获得较多的技力",
+          "name": "乱火",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 36
+      },
+      "Idle": 90,
+      "Skill_End": 60,
+      "Skill_Loop": 36,
+      "Skill_Start": 48,
+      "Start": {
+        "OnStart": 25,
+        "duration": 36
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "warmup"
+      ]
+    },
+    "spec": {
+      "char_180_amgoat": {
+        "frame_corr": 1
+      },
+      "skchr_amgoat_2": {
+        "cast_time": 36,
+        "keep_debuff": true,
+        "sim": true
+      },
+      "tachr_180_amgoat_1": {
+        "cloneable": true
+      },
+      "uniequip_002_amgoat": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_amgoat": {
+      "battle": null,
+      "charId": "char_180_amgoat",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_amgoat",
+      "uniEquipName": "艾雅法拉证章"
+    },
+    "uniequip_002_amgoat": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "amgoat_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "amgoat_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "炎息",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时，所有友方【术师】职业干员的攻击力+18%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "炎息",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时，所有友方【术师】职业干员的攻击力+20%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "amgoat_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "无视目标<@ba.kw>{magic_resist_penetrate_fixed}</>点法术抗性",
+                  "blackboard": {
+                    "magic_resist_penetrate_fixed": 10.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "amgoat_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "炎息",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时，所有友方【术师】职业干员的攻击力+22%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "炎息",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时，所有友方【术师】职业干员的攻击力+24%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "amgoat_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_180_amgoat",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "ccr-x",
+      "uniEquipId": "uniequip_002_amgoat",
+      "uniEquipName": "“错过的声音”"
+    }
+  },
+  "skill": {
+    "skchr_amgoat_1": [
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 30.0,
+          "amgoat_s_1[b].atk": 0.3,
+          "amgoat_s_1[b].attack_speed": 30.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 32.0,
+          "amgoat_s_1[b].atk": 0.32,
+          "amgoat_s_1[b].attack_speed": 32.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 35.0,
+          "amgoat_s_1[b].atk": 0.35,
+          "amgoat_s_1[b].attack_speed": 35.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 38.0,
+          "amgoat_s_1[b].atk": 0.38,
+          "amgoat_s_1[b].attack_speed": 38.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 40.0,
+          "amgoat_s_1[b].atk": 0.4,
+          "amgoat_s_1[b].attack_speed": 40.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 42.0,
+          "amgoat_s_1[b].atk": 0.42,
+          "amgoat_s_1[b].attack_speed": 42.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 45.0,
+          "amgoat_s_1[b].atk": 0.45,
+          "amgoat_s_1[b].attack_speed": 45.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 50.0,
+          "amgoat_s_1[b].atk": 0.5,
+          "amgoat_s_1[b].attack_speed": 50.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 55.0,
+          "amgoat_s_1[b].atk": 0.55,
+          "amgoat_s_1[b].attack_speed": 55.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "amgoat_s_1[a].attack_speed": 60.0,
+          "amgoat_s_1[b].atk": 0.6,
+          "amgoat_s_1[b].attack_speed": 60.0
+        },
+        "description": "攻击速度<@ba.vup>+{amgoat_s_1[a].attack_speed}</>\\n第二次及以后使用时追加攻击力<@ba.vup>+{amgoat_s_1[b].atk:0%}</>的效果",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "二重咏唱",
+        "prefabId": "skchr_amgoat_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_amgoat_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "atk_scale_2": 1.2,
+          "ct": 1.0,
+          "duration": 6.0,
+          "fk": 2.4,
+          "magic_resistance": -0.1
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "atk_scale_2": 1.25,
+          "ct": 1.0,
+          "duration": 6.0,
+          "fk": 2.5,
+          "magic_resistance": -0.1
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "atk_scale_2": 1.3,
+          "ct": 1.0,
+          "duration": 6.0,
+          "fk": 2.6,
+          "magic_resistance": -0.1
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.375,
+          "atk_scale_2": 1.375,
+          "ct": 2.0,
+          "duration": 6.0,
+          "fk": 2.75,
+          "magic_resistance": -0.15
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.425,
+          "atk_scale_2": 1.425,
+          "ct": 2.0,
+          "duration": 6.0,
+          "fk": 2.85,
+          "magic_resistance": -0.15
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.475,
+          "atk_scale_2": 1.475,
+          "ct": 2.0,
+          "duration": 6.0,
+          "fk": 2.95,
+          "magic_resistance": -0.15
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "atk_scale_2": 1.55,
+          "ct": 2.0,
+          "duration": 6.0,
+          "fk": 3.1,
+          "magic_resistance": -0.2
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "atk_scale_2": 1.65,
+          "ct": 3.0,
+          "duration": 6.0,
+          "fk": 3.3,
+          "magic_resistance": -0.2
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75,
+          "atk_scale_2": 1.75,
+          "ct": 3.0,
+          "duration": 6.0,
+          "fk": 3.5,
+          "magic_resistance": -0.2
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "atk_scale_2": 1.85,
+          "ct": 3.0,
+          "duration": 6.0,
+          "fk": 3.7,
+          "magic_resistance": -0.25
+        },
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{fk:0%}</>的法术伤害，命中目标周围的敌人受到一半的爆炸伤害且在<@ba.vup>{duration}</>秒内法术抗性<@ba.vup>-{-magic_resistance:0%}</>\\n<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "点燃",
+        "prefabId": "skchr_amgoat_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_amgoat_3": [
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@max_target": 3.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@max_target": 3.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 31,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@max_target": 3.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 32,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@max_target": 4.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@max_target": 4.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 34,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@max_target": 4.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@max_target": 5.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@max_target": 5.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.15,
+          "attack@max_target": 5.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@max_target": 6.0,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>增大</>，攻击间隔<@ba.vup>大幅度缩短</>，攻击变为随机对攻击范围内至多<@ba.vup>{attack@max_target}</>个敌人发射熔岩",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "火山",
+        "prefabId": "skchr_amgoat_3",
+        "rangeId": "x-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

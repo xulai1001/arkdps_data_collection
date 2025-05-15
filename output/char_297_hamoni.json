@@ -1,0 +1,1096 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30023": 5,
+        "3302": 6
+      },
+      {
+        "30043": 3,
+        "31023": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多3个）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 130,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "和弦",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 543,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 674,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 776,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 964,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_297_hamoni",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-13"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 776,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 964,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1008,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 112,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1252,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_297_hamoni",
+        "evolveCost": {
+          "30032": 3,
+          "30062": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-14"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 1008,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 112,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1252,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1245,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 125,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1546,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_297_hamoni",
+        "evolveCost": {
+          "30043": 15,
+          "30104": 6,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-14"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+45",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 45.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30093": 3,
+            "31054": 3,
+            "3303": 5
+          },
+          {
+            "30094": 6,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31054": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hamoni_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30074": 3,
+            "31013": 4,
+            "3303": 5
+          },
+          {
+            "30084": 3,
+            "30104": 5,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hamoni_2"
+      }
+    ],
+    "subProfessionId": "mystic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.12
+          },
+          "description": "攻击被阻挡的敌人造成伤害提升12%",
+          "name": "不期而至",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.15
+          },
+          "description": "攻击被阻挡的敌人造成伤害提升15%<@ba.talpu>（+3%）</>",
+          "name": "不期而至",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.17
+          },
+          "description": "攻击被阻挡的敌人造成伤害提升17%",
+          "name": "不期而至",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.2
+          },
+          "description": "攻击被阻挡的敌人造成伤害提升20%<@ba.talpu>（+3%）</>",
+          "name": "不期而至",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "times": 3.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 50
+      },
+      "Attack_Charge": {
+        "OnAttack": 18,
+        "duration": 50
+      },
+      "Idle": 120,
+      "Skill_1_Begin": 5,
+      "Skill_1_End": 5,
+      "Skill_1_Loop": 30,
+      "Skill_2": {
+        "OnAttack": 20,
+        "duration": 50
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "skchr_hamoni_1": {
+        "attack_begin": 20
+      },
+      "skchr_hamoni_2": {
+        "attack_begin": 20
+      },
+      "tachr_297_hamoni_1": {
+        "cond": true
+      },
+      "uniequip_002_hamoni": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_hamoni": {
+      "battle": null,
+      "charId": "char_297_hamoni",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_hamoni",
+      "uniEquipName": "和弦证章"
+    },
+    "uniequip_002_hamoni": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "magic_resistance": 3.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 68.0,
+            "magic_resistance": 4.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不期而至",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击被阻挡的敌人造成伤害提升20%"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不期而至",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击被阻挡的敌人造成伤害提升23%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 82.0,
+            "magic_resistance": 4.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "times": 4.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，在找不到攻击目标时可以将攻击能量<@ba.kw>储存</>起来之后一齐发射（最多4个）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.22
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不期而至",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击被阻挡的敌人造成伤害提升22%"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "不期而至",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击被阻挡的敌人造成伤害提升25%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_297_hamoni",
+      "itemCost": {
+        "1": {
+          "30024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30084": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "msc-x",
+      "uniEquipId": "uniequip_002_hamoni",
+      "uniEquipName": "情报人员资料夹"
+    }
+  },
+  "skill": {
+    "skchr_hamoni_1": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.3,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.31,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.32,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.35,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.36,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.37,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.4,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.43,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.46,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.5,
+          "base_attack_time": 0.2
+        },
+        "description": "攻击范围<@ba.vup>改变</>，攻击间隔<@ba.vup>大幅度缩短</>，每次攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "轻巧舞步",
+        "prefabId": "skchr_hamoni_1",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_hamoni_2": [
+      {
+        "blackboard": {
+          "base_attack_time": 0.8,
+          "damage_value": 100.0,
+          "move_speed": -0.45
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>小幅度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.8,
+          "damage_value": 120.0,
+          "move_speed": -0.45
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>小幅度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.8,
+          "damage_value": 140.0,
+          "move_speed": -0.45
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>小幅度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.7,
+          "damage_value": 140.0,
+          "move_speed": -0.5
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>略微缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.7,
+          "damage_value": 160.0,
+          "move_speed": -0.5
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>略微缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.7,
+          "damage_value": 180.0,
+          "move_speed": -0.5
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>略微缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.65,
+          "damage_value": 180.0,
+          "move_speed": -0.55
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>一定程度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.65,
+          "damage_value": 200.0,
+          "move_speed": -0.6
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>一定程度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.65,
+          "damage_value": 230.0,
+          "move_speed": -0.6
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>一定程度缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": 0.6,
+          "damage_value": 250.0,
+          "move_speed": -0.6
+        },
+        "description": "开启技能后自身只攻击被阻挡的敌人，攻击间隔<@ba.vup>缩短</>，攻击范围内生成一个水域，地面敌人经过时移动速度<@ba.vup>-{-move_speed:0%}</>，且每秒受到<@ba.vup>{damage_value}</>的法术伤害",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "沉溺之灾",
+        "prefabId": "skchr_hamoni_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

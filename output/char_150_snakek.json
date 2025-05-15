@@ -1,0 +1,990 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30011": 5,
+        "3301": 2
+      },
+      {
+        "30022": 2,
+        "3302": 3
+      },
+      {
+        "30032": 3,
+        "3302": 3
+      },
+      {
+        "30023": 3,
+        "3302": 3
+      },
+      {
+        "30033": 3,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡三个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 75,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "蛇屠箱",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 193,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 17,
+            "def": 249,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1221,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 248,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 17,
+            "def": 372,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1629,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_150_snakek",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 248,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 372,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1629,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 310,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 503,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2173,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_150_snakek",
+        "evolveCost": {
+          "30012": 1,
+          "30042": 1,
+          "3231": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 310,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 503,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2173,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 365,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 690,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3105,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_150_snakek",
+        "evolveCost": {
+          "30073": 10,
+          "30093": 14,
+          "3232": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "30064": 1,
+            "3303": 4
+          },
+          {
+            "30034": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_def_up[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 4,
+            "30054": 1,
+            "3303": 2
+          },
+          {
+            "30054": 2,
+            "30074": 2,
+            "3303": 4
+          },
+          {
+            "30054": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_snakek_2"
+      }
+    ],
+    "subProfessionId": "protector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def": 0.06
+          },
+          "description": "防御力+6%",
+          "name": "防御专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.12
+          },
+          "description": "防御力+12%",
+          "name": "防御专精",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Skill_Begin": 12,
+      "Skill_End": 14,
+      "Skill_Loop": 24,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "block"
+      ]
+    },
+    "spec": {
+      "tachr_150_snakek_1": {
+        "cloneable": true
+      },
+      "uniequip_002_snakek": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_snakek": {
+      "battle": null,
+      "charId": "char_150_snakek",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_snakek",
+      "uniEquipName": "蛇屠箱证章"
+    },
+    "uniequip_002_snakek": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 60.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snakek_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 70.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snakek_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防御专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力+15%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 80.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "阻挡敌人时防御力<@ba.kw>+20%</>",
+                  "blackboard": {
+                    "def": 0.2
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snakek_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防御专精",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力+18%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_150_snakek",
+      "itemCost": {
+        "1": {
+          "31033": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30103": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30023": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "pro-x",
+      "uniEquipId": "uniequip_002_snakek",
+      "uniEquipName": "超强棒球套装"
+    }
+  },
+  "skill": {
+    "skchr_snakek_2": [
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.55,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.6,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.65,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.75,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.85,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.95,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.05,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.15,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "停止攻击敌人；阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，每秒恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "壳状防御",
+        "prefabId": "skchr_snakek_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_def_up[2]": [
+      {
+        "blackboard": {
+          "def": 0.2
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.25
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.3
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.35
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.4
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.45
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.5
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.6
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.7
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "def": 0.8
+        },
+        "description": "防御力<@ba.vup>+{def:0%}</>",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "防御力强化·β型",
+        "prefabId": "skcom_def_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

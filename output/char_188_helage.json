@@ -1,0 +1,1752 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30093": 4,
+        "3303": 8
+      }
+    ],
+    "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 400,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "赫拉格",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 340,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 160,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1568,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 486,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 220,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2179,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_188_helage",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 486,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 220,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2179,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 632,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 283,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2868,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_188_helage",
+        "evolveCost": {
+          "30012": 6,
+          "30022": 10,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 632,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 283,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2868,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 762,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 26,
+            "def": 334,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3825,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_188_helage",
+        "evolveCost": {
+          "30034": 7,
+          "30125": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 4,
+            "30103": 5,
+            "3303": 8
+          },
+          {
+            "30034": 7,
+            "30054": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_helage_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 8,
+            "30034": 4,
+            "3303": 8
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_helage_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30044": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30094": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_helage_3"
+      }
+    ],
+    "subProfessionId": "musha",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "min_attack_speed": 50.0,
+            "min_hp_ratio": 0.5
+          },
+          "description": "在场时，自身获得最高+50攻击速度的<$ba.berserk>坚忍</>（损失50%生命值时达到最大加成）",
+          "name": "月盈星亏",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 75.0,
+            "min_hp_ratio": 0.4
+          },
+          "description": "在场时，自身获得最高+75攻击速度的<$ba.berserk>坚忍</>（损失60%生命值时达到最大加成）",
+          "name": "月盈星亏",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 100.0,
+            "min_hp_ratio": 0.3
+          },
+          "description": "在场时，自身获得最高+100攻击速度的<$ba.berserk>坚忍</>（损失70%生命值时达到最大加成）",
+          "name": "月盈星亏",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 60.0
+          },
+          "description": "未阻挡敌人时每秒回复60生命",
+          "name": "运筹帷幄",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec": 70.0
+          },
+          "description": "未阻挡敌人时每秒回复70<@ba.talpu>（+10）</>生命",
+          "name": "运筹帷幄",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 30.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英1后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英2后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_1"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 70.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 11,
+        "duration": 39
+      },
+      "Idle": 96,
+      "Skill": {
+        "OnAttack": 21,
+        "duration": 40
+      },
+      "Skill_2": {
+        "OnAttack": 20,
+        "duration": 35
+      },
+      "Skill_3_Begin": 6,
+      "Skill_3_End": 6,
+      "Skill_3_Loop": {
+        "OnAttack": 10,
+        "duration": 38
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "noblock",
+        "musha_hp"
+      ]
+    },
+    "spec": {
+      "skchr_helage_1": {
+        "attack_begin": 21,
+        "cast_time": 40
+      },
+      "skchr_helage_2": {
+        "attack_begin": 20,
+        "reset_attack": true
+      },
+      "skchr_helage_3": {
+        "attack_begin": 10,
+        "reset_attack": true
+      },
+      "uniequip_002_helage": {
+        "override_talent": 1,
+        "remove_keys": [
+          "hp_ratio"
+        ]
+      },
+      "uniequip_003_helage": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_helage": {
+      "battle": null,
+      "charId": "char_188_helage",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_helage",
+      "uniEquipName": "赫拉格证章"
+    },
+    "uniequip_002_helage": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "helage_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "helage_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "min_attack_speed": 120.0,
+                    "min_hp_ratio": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "月盈星亏",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，自身获得最高+120攻击速度的<$ba.berserk>坚忍</>（损失60%生命值时达到最大加成）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "max_hp": 350.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "helage_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "min_attack_speed": 130.0,
+                    "min_hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "月盈星亏",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在场时，自身获得最高+130攻击速度的<$ba.berserk>坚忍</>（损失50%生命值时达到最大加成）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_188_helage",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "sbl-x",
+      "uniEquipId": "uniequip_002_helage",
+      "uniEquipName": "藏锋"
+    },
+    "uniequip_003_helage": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 50.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复<@ba.kw>{hp_ratio:0%}</>生命（单次部署只触发1次）",
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "helage_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "def": 55.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复<@ba.kw>{hp_ratio:0%}</>生命（单次部署只触发1次）",
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "helage_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "hp_recovery_per_sec": 70.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "helage_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 70.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "运筹帷幄",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未阻挡敌人或生命值低于30%时每秒回复70生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "运筹帷幄",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未阻挡敌人或生命值低于30%时每秒回复80<@ba.talpu>（+10）</>生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "def": 60.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复<@ba.kw>{hp_ratio:0%}</>生命（单次部署只触发1次）",
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "helage_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.3,
+                    "hp_recovery_per_sec": 90.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 2,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "helage_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "运筹帷幄",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未阻挡敌人或生命值低于30%时每秒回复80生命"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec": 90.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "运筹帷幄",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未阻挡敌人或生命值低于30%时每秒回复90<@ba.talpu>（+10）</>生命"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_188_helage",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "sbl-y",
+      "uniEquipId": "uniequip_003_helage",
+      "uniEquipName": "“热的雪”"
+    }
+  },
+  "skill": {
+    "skchr_helage_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "新月",
+        "prefabId": "skchr_helage_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_helage_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 11.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "prob": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击变为二连击，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "弦月",
+        "prefabId": "skchr_helage_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_helage_3": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.4,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.45,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.5,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.55,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.6,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.65,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.7,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 0.8,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 0.9,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 14.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 2.0,
+          "atk": 1.0,
+          "attack@max_target": 3.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>+{ability_range_forward_extend}</>格，最多可以同时攻击<@ba.vup>{attack@max_target}</>个目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "满月",
+        "prefabId": "skchr_helage_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

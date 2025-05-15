@@ -1,0 +1,1446 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "31083": 4,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "30073": 3,
+        "3303": 8
+      }
+    ],
+    "description": "普通攻击连续造成<@ba.kw>两次</>伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "锏",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 255,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 147,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1218,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 208,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1669,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4116_blkkgt",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 208,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1669,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 495,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 274,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2168,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4116_blkkgt",
+        "evolveCost": {
+          "30022": 8,
+          "30032": 5,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 495,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 274,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2168,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 635,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 339,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2891,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4116_blkkgt",
+        "evolveCost": {
+          "30094": 7,
+          "30155": 3,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 8,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30074": 10,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blkkgt_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 3,
+            "31074": 5,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31034": 6,
+            "3303": 12
+          },
+          {
+            "30125": 6,
+            "31044": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blkkgt_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 5,
+            "31064": 4,
+            "3303": 8
+          },
+          {
+            "30104": 4,
+            "31024": 8,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_blkkgt_3"
+      }
+    ],
+    "subProfessionId": "sword",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.3,
+            "not_combat": 5.0,
+            "prob": 0.1
+          },
+          "description": "造成伤害时有10%的几率攻击力提升至130%，并使目标<$ba.tremble>战栗</>5秒",
+          "name": "“天生的武者”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.35,
+            "not_combat": 5.0,
+            "prob": 0.1
+          },
+          "description": "造成伤害时有10%的几率攻击力提升至135%<@ba.talpu>（+5%）</>，并使目标<$ba.tremble>战栗</>5秒",
+          "name": "“天生的武者”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.6,
+            "not_combat": 5.0,
+            "prob": 0.1
+          },
+          "description": "造成伤害时有10%的几率攻击力提升至160%，并使目标<$ba.tremble>战栗</>5秒",
+          "name": "“天生的武者”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.65,
+            "not_combat": 5.0,
+            "prob": 0.1
+          },
+          "description": "造成伤害时有10%的几率攻击力提升至165%<@ba.talpu>（+5%）</>，并使目标<$ba.tremble>战栗</>5秒",
+          "name": "“天生的武者”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "def_penetrate": 0.25
+          },
+          "description": "攻击被<$ba.tremble>战栗</>的目标时，无视目标25%的防御力",
+          "name": "活着的传奇",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate": 0.3
+          },
+          "description": "攻击被<$ba.tremble>战栗</>的目标时，无视目标30%<@ba.talpu>（+5%）</>的防御力",
+          "name": "活着的传奇",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 39
+      },
+      "Idle": 80,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 40
+      },
+      "Skill_2": {
+        "OnAttack": 45,
+        "duration": 65
+      },
+      "Skill_2_B": {
+        "OnAttack": 50,
+        "duration": 65
+      },
+      "Skill_3_Begin": 8,
+      "Skill_3_End": {
+        "OnAttack": 10,
+        "duration": 47
+      },
+      "Skill_3_Loop": {
+        "OnAttack": 95,
+        "duration": 95
+      },
+      "Skill_Down_2": {
+        "OnAttack": 45,
+        "duration": 65
+      },
+      "Skill_Down_2_B": {
+        "OnAttack": 50,
+        "duration": 65
+      },
+      "Start": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_blkkgt": {
+      "battle": null,
+      "charId": "char_4116_blkkgt",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_blkkgt",
+      "uniEquipName": "锏证章"
+    },
+    "uniequip_002_blkkgt": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 35.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "blkkgt_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 44.0,
+            "def": 44.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "blkkgt_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.65,
+                    "not_combat": 5.0,
+                    "prob": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“天生的武者”",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有10%的几率攻击力提升至165%，并使目标<$ba.tremble>战栗</>5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.7,
+                    "not_combat": 5.0,
+                    "prob": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“天生的武者”",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有10%的几率攻击力提升至170%<@ba.talpu>（+5%）</>，并使目标<$ba.tremble>战栗</>5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 50.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "blkkgt_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.7,
+                    "not_combat": 5.0,
+                    "prob": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“天生的武者”",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有10%的几率攻击力提升至170%，并使目标<$ba.tremble>战栗</>5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.75,
+                    "not_combat": 5.0,
+                    "prob": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "“天生的武者”",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有10%的几率攻击力提升至175%<@ba.talpu>（+5%）</>，并使目标<$ba.tremble>战栗</>5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4116_blkkgt",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "swo-x",
+      "uniEquipId": "uniequip_002_blkkgt",
+      "uniEquipName": "“过往的注脚”"
+    }
+  },
+  "skill": {
+    "skchr_blkkgt_1": [
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.6,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.65,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.7,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.75,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.8,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.85,
+          "max_target": 5.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 1.9,
+          "max_target": 6.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 2.0,
+          "max_target": 6.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 2.1,
+          "max_target": 6.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale_s1": 2.2,
+          "max_target": 6.0
+        },
+        "description": "下次攻击对周围最多<@ba.vup>{max_target}</>名地面敌人造成两次相当于攻击力<@ba.vup>{atk_scale_s1:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "纯粹的武力",
+        "prefabId": "skchr_blkkgt_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_blkkgt_2": [
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.2,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.3,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.35,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.5,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.6,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.7,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.8,
+          "max_target": 5.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 2.9,
+          "max_target": 6.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 3.0,
+          "max_target": 6.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "blkkgt_s_2[blocked].trig_cnt": 3.0,
+          "blkkgt_s_2[not_blocked].trig_cnt": 2.0,
+          "dot_scale": 3.1,
+          "max_target": 6.0,
+          "prob": 1.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人发动<@ba.vup>{blkkgt_s_2[not_blocked].trig_cnt}</>次斩击，攻击被阻挡的敌人时改为<@ba.vup>{blkkgt_s_2[blocked].trig_cnt}</>次斩击，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，每次斩击造成相当于攻击力<@ba.vup>{dot_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "无声的嘲笑",
+        "prefabId": "skchr_blkkgt_2",
+        "rangeId": "1-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_blkkgt_3": [
+      {
+        "blackboard": {
+          "d_atk_scale": 1.5,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 1.6,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 1.7,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 1.8,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 1.9,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 1.95,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 5.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 2.0,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.0,
+          "e_force": 2.0,
+          "max_target": 6.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 2.1,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.1,
+          "e_force": 2.0,
+          "max_target": 6.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 2.2,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.2,
+          "e_force": 2.0,
+          "max_target": 6.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "d_atk_scale": 2.35,
+          "d_hit_interval": 0.3,
+          "e_atk_scale_end": 3.3,
+          "e_force": 2.0,
+          "max_target": 6.0,
+          "p_force": 1.0,
+          "p_hit_interval": 1.0,
+          "prob": 1.0
+        },
+        "description": "持续发动总计<@ba.vup>10</>次斩击，每次斩击对最多<@ba.vup>{max_target}</>名敌人造成相当于攻击力<@ba.vup>{d_atk_scale:0%}</>的物理伤害，天赋的发动概率提升至<@ba.vup>{prob:0%}</>，并持续将敌人<@ba.vup>中等力度地</>拖拽至自身中心，之后将造成一次相当于攻击力<@ba.vup>{e_atk_scale_end:0%}</>的物理伤害并将敌人<@ba.vup>较大力地</>拖拽至自身中心",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "归于宁静",
+        "prefabId": "skchr_blkkgt_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1045 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30041": 3,
+        "3301": 2
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30062": 2,
+        "3302": 3
+      },
+      {
+        "31013": 2,
+        "3302": 3
+      },
+      {
+        "31023": 3,
+        "3303": 4
+      }
+    ],
+    "description": "优先攻击攻击范围内<@ba.kw>防御力最低</>的敌方单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "安比尔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 437,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 60,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 785,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 608,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1020,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_302_glaze",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 608,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1020,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 801,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_302_glaze",
+        "evolveCost": {
+          "30012": 1,
+          "30052": 1,
+          "3241": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-9"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 801,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 100,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1276,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 977,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.7,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 122,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1595,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_302_glaze",
+        "evolveCost": {
+          "30043": 16,
+          "30103": 6,
+          "3242": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-9"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+6",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 6.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30104": 2,
+            "31024": 2,
+            "3303": 4
+          },
+          {
+            "30074": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glaze_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30014": 3,
+            "31014": 2,
+            "3303": 4
+          },
+          {
+            "30044": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_glaze_2"
+      }
+    ],
+    "subProfessionId": "longrange",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "buff_prob": 0.25,
+            "stun": 2.0
+          },
+          "description": "攻击原本攻击范围以外的目标时，有25%的几率使其<$ba.stun>晕眩</>2秒",
+          "name": "精确打击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "buff_prob": 0.28,
+            "stun": 2.0
+          },
+          "description": "攻击原本攻击范围以外的目标时，有28%<@ba.talpu>（+3%）</>的几率使其<$ba.stun>晕眩</>2秒",
+          "name": "精确打击",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 40
+      },
+      "Attack_Down": {
+        "OnAttack": 18,
+        "duration": 40
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 27,
+        "duration": 49
+      },
+      "Skill_Down": {
+        "OnAttack": 27,
+        "duration": 49
+      },
+      "Start": {
+        "OnStart": 17,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip",
+        "far"
+      ]
+    },
+    "spec": {
+      "skchr_glaze_2": {
+        "attack_begin": 18
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_glaze": {
+      "battle": null,
+      "charId": "char_302_glaze",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_glaze",
+      "uniEquipName": "安比尔证章"
+    },
+    "uniequip_002_glaze": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 65.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击越远的敌人造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15,
+                    "max_dist": 4.5,
+                    "min_dist": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "glaze_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 68.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击越远的敌人造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15,
+                    "max_dist": 4.5,
+                    "min_dist": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "glaze_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buff_prob": 0.33,
+                    "stun": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精确打击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩2.5秒"
+                },
+                {
+                  "blackboard": {
+                    "buff_prob": 0.36,
+                    "stun": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精确打击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击原本攻击范围以外的目标时，有36%<@ba.talpu>（+3%）</>的几率使其晕眩2.5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 81.0,
+            "max_hp": 95.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击越远的敌人造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15,
+                    "max_dist": 4.5,
+                    "min_dist": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "glaze_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buff_prob": 0.33,
+                    "stun": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精确打击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩3秒"
+                },
+                {
+                  "blackboard": {
+                    "buff_prob": 0.36,
+                    "stun": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精确打击",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击原本攻击范围以外的目标时，有36%<@ba.talpu>（+3%）</>的几率使其晕眩3秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_302_glaze",
+      "itemCost": {
+        "1": {
+          "30033": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30063": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "dea-x",
+      "uniEquipId": "uniequip_002_glaze",
+      "uniEquipName": "便携雷达的辅助器材"
+    }
+  },
+  "skill": {
+    "skchr_glaze_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.6
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.6
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.6
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.8
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 0.8
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "attack@sluggish": 1.2
+        },
+        "description": "攻击范围<@ba.vup>+{ability_range_forward_extend}格</>，且攻击会使目标<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "阻挡弹",
+        "prefabId": "skchr_glaze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_glaze_2": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "base_attack_time": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大至整个战场</>，但攻击间隔<@ba.vdown>略微增大</>，且在攻击超出原本攻击范围的敌方单位时攻击前摇<@ba.vdown>增大</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "雷达定位",
+        "prefabId": "skchr_glaze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

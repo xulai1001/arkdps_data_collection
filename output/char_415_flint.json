@@ -1,0 +1,1097 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30093": 3,
+        "3302": 6
+      },
+      {
+        "30053": 2,
+        "30073": 4,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "燧石",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 224,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 144,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1180,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 330,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 207,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1595,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_415_flint",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 330,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 207,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1595,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 441,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 280,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2045,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_415_flint",
+        "evolveCost": {
+          "30032": 5,
+          "30042": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 441,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 280,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2045,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 545,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 334,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2495,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_415_flint",
+        "evolveCost": {
+          "30014": 8,
+          "30093": 15,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31014": 6,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_flint_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_flint_2"
+      }
+    ],
+    "subProfessionId": "fighter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.2
+          },
+          "description": "对未被自身阻挡的敌人造成的伤害提升20%",
+          "name": "身轻无痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.25
+          },
+          "description": "对未被自身阻挡的敌人造成的伤害提升25%<@ba.talpu>（+5%）</>",
+          "name": "身轻无痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.4
+          },
+          "description": "对未被自身阻挡的敌人造成的伤害提升40%",
+          "name": "身轻无痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.45
+          },
+          "description": "对未被自身阻挡的敌人造成的伤害提升45%<@ba.talpu>（+5%）</>",
+          "name": "身轻无痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 8,
+        "duration": 21
+      },
+      "Idle": 80,
+      "Skill1": {
+        "OnAttack": 11,
+        "duration": 22
+      },
+      "Skill2_A": {
+        "OnAttack": 11,
+        "duration": 22
+      },
+      "Skill2_B": {
+        "OnAttack": 11,
+        "duration": 22
+      },
+      "Skill2_Begin": 0,
+      "Skill2_C": {
+        "OnAttack": 11,
+        "duration": 22
+      },
+      "Skill2_End": 0,
+      "Skill2_Idle": 80,
+      "Start": {
+        "OnStart": 15,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "char_415_flint": {
+        "frame_corr": 1
+      },
+      "skchr_flint_2": {
+        "frame_corr": 0,
+        "note": "阻挡0，天赋一定触发"
+      },
+      "tachr_415_flint_1": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_flint": {
+      "battle": null,
+      "charId": "char_415_flint",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_flint",
+      "uniEquipName": "燧石证章"
+    },
+    "uniequip_002_flint": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "flint_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "flint_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "身轻无痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对未被自身阻挡的敌人造成的伤害提升45%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "身轻无痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对未被自身阻挡的敌人造成的伤害提升50%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 185.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "flint_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "身轻无痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对未被自身阻挡的敌人造成的伤害提升50%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "身轻无痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对未被自身阻挡的敌人造成的伤害提升55%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_415_flint",
+      "itemCost": {
+        "1": {
+          "30054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30034": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "fgt-y",
+      "uniEquipId": "uniequip_002_flint",
+      "uniEquipName": "这些花朵的含义"
+    }
+  },
+  "skill": {
+    "skchr_flint_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，将目标朝攻击方向以<@ba.vup>小力度</>推开并造成1秒<$ba.sluggish>停顿</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "不息",
+        "prefabId": "skchr_flint_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_flint_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@sluggish": 0.3,
+          "attack_speed": 10.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@sluggish": 0.3,
+          "attack_speed": 15.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@sluggish": 0.3,
+          "attack_speed": 20.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@sluggish": 0.3,
+          "attack_speed": 25.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@sluggish": 0.3,
+          "attack_speed": 30.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@sluggish": 0.3,
+          "attack_speed": 35.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@sluggish": 0.3,
+          "attack_speed": 40.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@sluggish": 0.3,
+          "attack_speed": 45.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@sluggish": 0.3,
+          "attack_speed": 50.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@sluggish": 0.3,
+          "attack_speed": 55.0
+        },
+        "description": "阻挡数变为0，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击对目标造成0.3秒<$ba.sluggish>停顿</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "锋芒毕露",
+        "prefabId": "skchr_flint_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

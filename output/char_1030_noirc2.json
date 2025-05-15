@@ -1,0 +1,1271 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "31053": 3,
+        "31063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "火龙S黑角",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 324,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 169,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1442,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 463,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 232,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2004,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1030_noirc2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 463,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 232,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2004,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 602,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 298,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2638,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1030_noirc2",
+        "evolveCost": {
+          "30042": 3,
+          "30052": 4,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 602,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 298,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2638,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 726,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 351,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3518,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1030_noirc2",
+        "evolveCost": {
+          "31033": 11,
+          "31064": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATTACK_SPEED",
+        "description": "攻击速度+5",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 5.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 4,
+            "31054": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31064": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_noirc2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 3,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30074": 6,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_noirc2_2"
+      }
+    ],
+    "subProfessionId": "musha",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "min_attack_speed": 30.0,
+            "min_def": 0.3,
+            "min_hp_ratio": 0.5
+          },
+          "description": "在场时，自身获得最高+30攻击速度和最高+30%防御力的<$ba.berserk>坚忍</>（损失50%生命值时达到最大加成）",
+          "name": "坚韧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 40.0,
+            "min_def": 0.4,
+            "min_hp_ratio": 0.4
+          },
+          "description": "在场时，自身获得最高+40攻击速度和最高+40%防御力的<$ba.berserk>坚忍</>（损失60%生命值时达到最大加成）",
+          "name": "坚韧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "min_attack_speed": 50.0,
+            "min_def": 0.5,
+            "min_hp_ratio": 0.3
+          },
+          "description": "在场时，自身获得最高+50攻击速度和最高+50%防御力的<$ba.berserk>坚忍</>（损失70%生命值时达到最大加成）",
+          "name": "坚韧",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.03,
+            "attack@clear_attackcount_time": 1.5,
+            "hit_num": 5.0
+          },
+          "description": "非技能期间，连续攻击5次后自身获得攻击力+3%（最多3层）",
+          "name": "练气",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "attack@clear_attackcount_time": 1.5,
+            "hit_num": 5.0
+          },
+          "description": "非技能期间，连续攻击5次后自身获得攻击力+5%（最多3层）",
+          "name": "练气",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "attack@clear_attackcount_time": 1.5,
+            "hit_num": 5.0
+          },
+          "description": "非技能期间，连续攻击5次后自身获得攻击力+7%（最多3层）",
+          "name": "练气",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "value": 30.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英1后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 50.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命（精英2后更新）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_1"
+        }
+      },
+      {
+        "blackboard": {
+          "value": 70.0
+        },
+        "overrideDescripton": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_1": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Attack_2": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Attack_3": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Attack_4": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Idle": 36,
+      "Skill_1_Begin": 30,
+      "Skill_1_End": {
+        "OnAttack": 2,
+        "duration": 30
+      },
+      "Skill_1_Loop": 30,
+      "Skill_2": {
+        "OnAttack": 26,
+        "duration": 42
+      },
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 2,
+      "tags": [
+        "cond",
+        "od_trigger",
+        "musha_hp"
+      ]
+    },
+    "spec": {
+      "skchr_noirc2_1": {
+        "attack_begin": 2,
+        "interval": 0.2,
+        "note": "准备0.4s，尾刀1s",
+        "reset_attack": true,
+        "sec": true,
+        "skip_edges": true
+      },
+      "skchr_noirc2_2": {
+        "attack_begin": 25,
+        "cast_time": 42,
+        "reset_attack": true,
+        "skip_edges": true
+      },
+      "tachr_1030_noirc2_2": {
+        "cond": true
+      },
+      "uniequip_002_noirc2": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_noirc2": {
+      "battle": null,
+      "charId": "char_1030_noirc2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_noirc2",
+      "uniEquipName": "火龙S黑角证章"
+    },
+    "uniequip_002_noirc2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 24.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "noirc2_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "noirc2_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.08,
+                    "attack@clear_attackcount_time": 1.5,
+                    "hit_num": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "练气",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "max_hp": 500.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值低于50%时，获得25%的<$ba.protect>庇护</>",
+                  "blackboard": {
+                    "value": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.25,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "noirc2_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.09,
+                    "attack@clear_attackcount_time": 1.5,
+                    "hit_num": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "练气",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1030_noirc2",
+      "itemCost": {
+        "1": {
+          "31024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30064": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sbl-x",
+      "uniEquipId": "uniequip_002_noirc2",
+      "uniEquipName": "黑角的随身笔记"
+    }
+  },
+  "skill": {
+    "skchr_noirc2_1": [
+      {
+        "blackboard": {
+          "multi_atk_scale": 0.6,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 0.7,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 0.8,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 0.9,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.0,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.1,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.2,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.3,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.4,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "multi_atk_scale": 1.5,
+          "multi_hit_interval": 0.2,
+          "multi_times": 4.0,
+          "nadao_duration": 5.6,
+          "nadaodonghua_duration": 0.4
+        },
+        "description": "纳刀后<@ba.vdown>停止</>攻击，直到下一次受到攻击时<@ba.vup>抵挡</>此次伤害并选择范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害并立即<@ba.vup>触发一次</>第二天赋。\\n<@ba.rem>技能期间击倒敌人时再次纳刀触发技能",
+        "duration": 6.0,
+        "durationType": "NONE",
+        "name": "居合拔刀气刃斩",
+        "prefabId": "skchr_noirc2_1",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_noirc2_2": [
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 0.9,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.0,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.1,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.2,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.3,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.4,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.5,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.6,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.7,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cnt": 2.0,
+          "multi_atk_scale": 1.8,
+          "multi_times": 7.0
+        },
+        "description": "对前方范围内一名敌人造成<@ba.vup>{multi_times}</>次相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害。\\n<@ba.rem>技能结束后损失一层第二天赋加成,可充能{cnt}次</>",
+        "duration": 1.4,
+        "durationType": "NONE",
+        "name": "气刃兜割",
+        "prefabId": "skchr_noirc2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

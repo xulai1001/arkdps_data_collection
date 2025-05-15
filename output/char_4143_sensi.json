@@ -1,0 +1,1032 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "31073": 3,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能可以治疗友方单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "森西",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 194,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 242,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1150,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 278,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 356,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1555,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4143_sensi",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 278,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 356,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1555,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 475,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1994,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4143_sensi",
+        "evolveCost": {
+          "30022": 4,
+          "30032": 3,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 475,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1994,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 470,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 580,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2770,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4143_sensi",
+        "evolveCost": {
+          "30033": 14,
+          "31084": 7,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 4,
+            "31064": 3,
+            "3303": 5
+          },
+          {
+            "30104": 3,
+            "31084": 5,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_sensi_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 1,
+            "30044": 3,
+            "3303": 5
+          },
+          {
+            "31034": 3,
+            "31044": 5,
+            "3303": 6
+          },
+          {
+            "30064": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_sensi_2"
+      }
+    ],
+    "subProfessionId": "guardian",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def": 0.05,
+            "heal_scale": 1.05
+          },
+          "description": "防御力+5%，自身治疗量提升5%",
+          "name": "十年魔物餐经验",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 0.1,
+            "heal_scale": 1.1
+          },
+          "description": "防御力+10%，自身治疗量提升10%",
+          "name": "十年魔物餐经验",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Attack_Down": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Idle": 90,
+      "Skill_1": {
+        "OnAttack": 78,
+        "duration": 90
+      },
+      "Skill_2": {
+        "OnAttack": 279,
+        "duration": 300
+      },
+      "Start": {
+        "OnStart": 3,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_sensi": {
+      "battle": null,
+      "charId": "char_4143_sensi",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_sensi",
+      "uniEquipName": "森西证章"
+    },
+    "uniequip_002_sensi": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 40.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sensi_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 50.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sensi_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.13,
+                    "heal_scale": 1.13
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "十年魔物餐经验",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力+13%，自身治疗量提升13%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 60.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "sensi_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.15,
+                    "heal_scale": 1.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "十年魔物餐经验",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "防御力+15%，自身治疗量提升15%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4143_sensi",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "gua-y",
+      "uniEquipId": "uniequip_002_sensi",
+      "uniEquipName": "非魔法厨艺"
+    }
+  },
+  "skill": {
+    "skchr_sensi_1": [
+      {
+        "blackboard": {
+          "atk": 0.11,
+          "attack_speed": 11.0,
+          "heal_scale": 1.9,
+          "max_hp": 0.16,
+          "up_duration": 6.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.12,
+          "attack_speed": 12.0,
+          "heal_scale": 2.0,
+          "max_hp": 0.17,
+          "up_duration": 6.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.13,
+          "attack_speed": 13.0,
+          "heal_scale": 2.1,
+          "max_hp": 0.18,
+          "up_duration": 6.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "attack_speed": 14.0,
+          "heal_scale": 2.2,
+          "max_hp": 0.19,
+          "up_duration": 7.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack_speed": 15.0,
+          "heal_scale": 2.3,
+          "max_hp": 0.2,
+          "up_duration": 7.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.16,
+          "attack_speed": 16.0,
+          "heal_scale": 2.4,
+          "max_hp": 0.21,
+          "up_duration": 7.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.17,
+          "attack_speed": 17.0,
+          "heal_scale": 2.5,
+          "max_hp": 0.22,
+          "up_duration": 8.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "attack_speed": 18.0,
+          "heal_scale": 2.6,
+          "max_hp": 0.23,
+          "up_duration": 8.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.19,
+          "attack_speed": 19.0,
+          "heal_scale": 2.7,
+          "max_hp": 0.24,
+          "up_duration": 8.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0,
+          "heal_scale": 2.8,
+          "max_hp": 0.25,
+          "up_duration": 8.0
+        },
+        "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命，且随机获得下列一项增益：攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed:0}</>，生命上限<@ba.vup>+{max_hp:0%}</>，持续<@ba.vup>{up_duration:0}</>秒",
+        "duration": 3.0,
+        "durationType": "NONE",
+        "name": "单人份料理",
+        "prefabId": "skchr_sensi_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_sensi_2": [
+      {
+        "blackboard": {
+          "heal_scale": 1.1,
+          "magic_sp": 6.0,
+          "tick_heal_scale": 0.26
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.15,
+          "magic_sp": 6.0,
+          "tick_heal_scale": 0.28
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.2,
+          "magic_sp": 6.0,
+          "tick_heal_scale": 0.3
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.3,
+          "magic_sp": 8.0,
+          "tick_heal_scale": 0.32
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.35,
+          "magic_sp": 8.0,
+          "tick_heal_scale": 0.34
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.4,
+          "magic_sp": 8.0,
+          "tick_heal_scale": 0.36
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.5,
+          "magic_sp": 10.0,
+          "tick_heal_scale": 0.38
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.6,
+          "magic_sp": 10.0,
+          "tick_heal_scale": 0.4
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.7,
+          "magic_sp": 10.0,
+          "tick_heal_scale": 0.42
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 1.8,
+          "magic_sp": 10.0,
+          "tick_heal_scale": 0.45
+        },
+        "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力<@ba.vup>{tick_heal_scale:0%}</>的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，并回复<@ba.vup>{magic_sp:0}</>点<$ba.magicpoint>魔力</>",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "团体魔物大餐",
+        "prefabId": "skchr_sensi_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

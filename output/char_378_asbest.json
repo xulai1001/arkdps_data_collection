@@ -1,0 +1,818 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30083": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "技能开启时普通攻击会造成法术伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "石棉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 265,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 223,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1252,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 379,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 328,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1692,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_378_asbest",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 379,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 328,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1692,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 506,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 444,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2257,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_378_asbest",
+        "evolveCost": {
+          "30042": 3,
+          "30052": 4,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 506,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 444,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2257,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 633,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 555,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3135,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_378_asbest",
+        "evolveCost": {
+          "30064": 6,
+          "30083": 10,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+210",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 210.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 3,
+            "30064": 2,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_asbest_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31014": 6,
+            "3303": 6
+          },
+          {
+            "30044": 3,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_asbest_2"
+      }
+    ],
+    "subProfessionId": "artsprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "magic_resistance": 5.0,
+            "sp": 1.0
+          },
+          "description": "法术抗性+5，受到敌人的法术普通攻击时获得1点技力",
+          "name": "湿润皮肤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resistance": 10.0,
+            "sp": 3.0
+          },
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力",
+          "name": "湿润皮肤",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 36
+      },
+      "Attack_Down": {
+        "OnAttack": 18,
+        "duration": 36
+      },
+      "Idle": 30,
+      "Skill_Begin": 25,
+      "Skill_End": 10,
+      "Skill_Idle": 90,
+      "Skill_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 22,
+        "duration": 32
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_asbest_1": {
+        "damage_type": 1
+      },
+      "skchr_asbest_2": {
+        "damage_type": 1
+      },
+      "tachr_378_asbest_1": {
+        "cloneable": true
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skchr_asbest_1": [
+      {
+        "blackboard": {
+          "damage_scale": 0.9,
+          "fake": 0.1
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.9,
+          "fake": 0.1
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.9,
+          "fake": 0.1
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.85,
+          "fake": 0.15
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.85,
+          "fake": 0.15
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.85,
+          "fake": 0.15
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.8,
+          "fake": 0.2
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.77,
+          "fake": 0.23
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.74,
+          "fake": 0.26
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "damage_scale": 0.7,
+          "fake": 0.3
+        },
+        "description": "抵消下一次受到的<@ba.vup>法术</>伤害，且技能持续时间内受到的<@ba.vup>法术</>伤害<@ba.vup>-{fake:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "固守模式",
+        "prefabId": "skchr_asbest_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_asbest_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "base_attack_time": 0.4,
+          "def": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "base_attack_time": 0.4,
+          "def": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 41.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 59,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": 0.4,
+          "def": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 42.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "base_attack_time": 0.4,
+          "def": 0.35
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 43.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 57,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": 0.4,
+          "def": 0.35
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 44.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 56,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "base_attack_time": 0.4,
+          "def": 0.35
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 45.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "base_attack_time": 0.4,
+          "def": 0.45
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>扩大</>，攻击变为群体攻击",
+        "duration": 46.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 0.4,
+          "def": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>更加扩大</>，攻击变为群体攻击",
+        "duration": 47.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "3-13",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "base_attack_time": 0.4,
+          "def": 0.55
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>更加扩大</>，攻击变为群体攻击",
+        "duration": 48.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "3-13",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "base_attack_time": 0.4,
+          "def": 0.6
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，攻击范围<@ba.vup>更加扩大</>，攻击变为群体攻击",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火电模式",
+        "prefabId": "skchr_asbest_2",
+        "rangeId": "3-13",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

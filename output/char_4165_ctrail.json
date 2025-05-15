@@ -1,0 +1,906 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30041": 3,
+        "3301": 2
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30062": 2,
+        "3302": 3
+      },
+      {
+        "30073": 2,
+        "3302": 3
+      },
+      {
+        "31083": 2,
+        "3303": 4
+      }
+    ],
+    "description": "<$ba.liftoff>起飞</>后能够阻挡2个飞行敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 35,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 35,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "凭证交易所",
+    "name": "云迹",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 289,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 164,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 947,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 414,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 235,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1353,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4165_ctrail",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 414,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 235,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1353,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 310,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1781,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4165_ctrail",
+        "evolveCost": {
+          "30022": 1,
+          "30042": 1,
+          "3281": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 546,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 310,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1781,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 692,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 393,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2255,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4165_ctrail",
+        "evolveCost": {
+          "30033": 8,
+          "30063": 13,
+          "3282": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "2-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "31054": 1,
+            "3303": 2
+          },
+          {
+            "31064": 3,
+            "31074": 2,
+            "3303": 4
+          },
+          {
+            "30115": 2,
+            "31084": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ctrail_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 5,
+            "31014": 1,
+            "3303": 2
+          },
+          {
+            "30044": 2,
+            "30094": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31044": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ctrail_2"
+      }
+    ],
+    "subProfessionId": "skywalker",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.05,
+            "def": 0.05
+          },
+          "description": "在地面时防御力+5%，<$ba.liftoff>起飞</>后攻击敌人时攻击力提升至105%",
+          "name": "低空乱流",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.07,
+            "def": 0.07
+          },
+          "description": "在地面时防御力+7%<@ba.talpu>（+2%）</>，<$ba.liftoff>起飞</>后攻击敌人时攻击力提升至107%<@ba.talpu>（+2%）</>",
+          "name": "低空乱流",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.1,
+            "def": 0.1
+          },
+          "description": "在地面时防御力+10%，<$ba.liftoff>起飞</>后攻击敌人时攻击力提升至110%",
+          "name": "低空乱流",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.12,
+            "def": 0.12
+          },
+          "description": "在地面时防御力+12%<@ba.talpu>（+2%）</>，<$ba.liftoff>起飞</>后攻击敌人时攻击力提升至112%<@ba.talpu>（+2%）</>",
+          "name": "低空乱流",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Attack_Down": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Idle": 60,
+      "Skill_2_Begin": {
+        "OnAttack": 5,
+        "duration": 30
+      },
+      "Skill_2_Die": 30,
+      "Skill_2_End": {
+        "OnAttack": 25,
+        "duration": 30
+      },
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill_Begin": {
+        "OnAttack": 5,
+        "duration": 30
+      },
+      "Skill_Die": 30,
+      "Skill_Down_2_Loop": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill_Down_Loop": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill_End": {
+        "OnAttack": 25,
+        "duration": 30
+      },
+      "Skill_Idle": 60,
+      "Skill_Loop": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Start": {
+        "OnStart": 23,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_ctrail_1": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@height_offset": 0.8,
+          "duration": 25.0,
+          "prob": 0.4
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@height_offset": 0.8,
+          "duration": 25.0,
+          "prob": 0.4
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@height_offset": 0.8,
+          "duration": 25.0,
+          "prob": 0.4
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@height_offset": 0.8,
+          "duration": 30.0,
+          "prob": 0.5
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@height_offset": 0.8,
+          "duration": 30.0,
+          "prob": 0.5
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@height_offset": 0.8,
+          "duration": 30.0,
+          "prob": 0.5
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@height_offset": 0.8,
+          "duration": 35.0,
+          "prob": 0.6
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@height_offset": 0.8,
+          "duration": 36.0,
+          "prob": 0.6
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@height_offset": 0.8,
+          "duration": 38.0,
+          "prob": 0.6
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@height_offset": 0.8,
+          "duration": 40.0,
+          "prob": 0.6
+        },
+        "description": "部署后立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，获得<@ba.vup>{prob:0%}</>的物理闪避",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "紧急升空",
+        "prefabId": "skchr_ctrail_1",
+        "rangeId": "2-3",
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_ctrail_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.5
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.5
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.5
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@height_offset": 0.8,
+          "attack@max_target": 3.0,
+          "attack@max_walk_target": 2.0,
+          "attack@sluggish": 1.5
+        },
+        "description": "立刻<$ba.liftoff>起飞</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，同时攻击2个敌人且可额外攻击<@ba.vup>1</>个<@ba.vup>飞行</>敌人，击中<@ba.vup>飞行</>敌人时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "掠空飞翎",
+        "prefabId": "skchr_ctrail_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

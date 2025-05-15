@@ -1,0 +1,1715 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 6,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30022": 5,
+        "3302": 8
+      },
+      {
+        "30032": 4,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "3302": 8
+      },
+      {
+        "30063": 3,
+        "31013": 4,
+        "3303": 8
+      }
+    ],
+    "description": "通常时<@ba.kw>不攻击</>且防御力和法术抗性大幅度<@ba.kw>提升</>，技能开启时攻击造成<@ba.kw>群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "卡涅利安",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 435,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 146,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1104,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 170,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1380,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_426_billro",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "x-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 581,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 170,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1380,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 727,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 198,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1726,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_426_billro",
+        "evolveCost": {
+          "30032": 5,
+          "30062": 5,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "x-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 727,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 198,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1726,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 846,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 24,
+            "def": 228,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2106,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_426_billro",
+        "evolveCost": {
+          "30104": 7,
+          "30135": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "x-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+34",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 34.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "30084": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30084": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_billro_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31013": 3,
+            "31034": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_billro_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31024": 7,
+            "3303": 12
+          },
+          {
+            "30104": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_billro_3"
+      }
+    ],
+    "subProfessionId": "phalanx",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "billro_t_1[enhance].heal_scale": 0.6,
+            "heal_scale": 0.3
+          },
+          "description": "开启技能时立即恢复30%最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍",
+          "name": "生命之餐",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "billro_t_1[enhance].heal_scale": 0.7,
+            "heal_scale": 0.35
+          },
+          "description": "开启技能时立即恢复35%<@ba.talpu>（+5%）</>最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍",
+          "name": "生命之餐",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "billro_t_1[enhance].heal_scale": 0.8,
+            "heal_scale": 0.4
+          },
+          "description": "开启技能时立即恢复40%最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍",
+          "name": "生命之餐",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "billro_t_1[enhance].heal_scale": 0.9,
+            "heal_scale": 0.45
+          },
+          "description": "开启技能时立即恢复45%<@ba.talpu>（+5%）</>最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍",
+          "name": "生命之餐",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "sp_recovery_per_sec": 0.6
+          },
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒",
+          "name": "蓄势待发",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "def": 2.0,
+          "magic_resistance": 20.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Idle": 120,
+      "Skill_2_Begin": 15,
+      "Skill_2_End": 15,
+      "Skill_2_Idle": 100,
+      "Skill_2_Loop": {
+        "OnAttack": 10,
+        "duration": 32
+      },
+      "Skill_Begin": 15,
+      "Skill_End": 15,
+      "Skill_Idle": 100,
+      "Skill_Loop": {
+        "OnAttack": 10,
+        "duration": 32
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "charge"
+      ]
+    },
+    "spec": {
+      "char_426_billro": {
+        "frame_corr": 1
+      },
+      "skchr_billro_1": {
+        "charge": true,
+        "reset_attack": true
+      },
+      "skchr_billro_2": {
+        "attack_begin": 12,
+        "charge": true,
+        "frame_corr": "0",
+        "reset_attack": true
+      },
+      "skchr_billro_3": {
+        "attack_begin": 10,
+        "charge": true,
+        "grad": true,
+        "reset_attack": true
+      },
+      "uniequip_002_billro": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_billro": {
+      "battle": null,
+      "charId": "char_426_billro",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_billro",
+      "uniEquipName": "卡涅利安证章"
+    },
+    "uniequip_002_billro": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 66.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "billro_e_002[buff].def": 1.0,
+                    "billro_e_002[buff].magic_resistance": 10.0,
+                    "def": 2.15,
+                    "magic_resistance": 25.0
+                  },
+                  "overrideDescripton": "通常时<@ba.kw>不攻击</>且防御力和法术抗性更大幅度<@ba.kw>提升</>，技能开启时保留部分效果且攻击造成<@ba.kw>群体法术伤害</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "billro_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 76.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "billro_e_002[buff].def": 1.0,
+                    "billro_e_002[buff].magic_resistance": 10.0,
+                    "billro_e_002[max_hp_buff].max_hp": 0.3,
+                    "billro_e_002[max_hp_enhance_buff].max_hp": 0.6,
+                    "def": 2.15,
+                    "magic_resistance": 25.0
+                  },
+                  "overrideDescripton": "通常时<@ba.kw>不攻击</>且防御力和法术抗性更大幅度<@ba.kw>提升</>，技能开启时保留部分效果且攻击造成<@ba.kw>群体法术伤害</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "billro_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "billro_t_1[enhance].heal_scale": 0.8,
+                    "heal_scale": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "生命之餐",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能期间提高自身30%生命值上限，开启技能时立即恢复40%最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍"
+                },
+                {
+                  "blackboard": {
+                    "billro_t_1[enhance].heal_scale": 0.9,
+                    "heal_scale": 0.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "生命之餐",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能期间提高自身30%生命值上限，开启技能时立即恢复45%<@ba.talpu>（+5%）</>最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "max_hp": 260.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "billro_e_002[buff].def": 1.0,
+                    "billro_e_002[buff].magic_resistance": 10.0,
+                    "billro_e_002[max_hp_buff].max_hp": 0.45,
+                    "billro_e_002[max_hp_enhance_buff].max_hp": 0.9,
+                    "def": 2.15,
+                    "magic_resistance": 25.0
+                  },
+                  "overrideDescripton": "通常时<@ba.kw>不攻击</>且防御力和法术抗性更大幅度<@ba.kw>提升</>，技能开启时保留部分效果且攻击造成<@ba.kw>群体法术伤害</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "billro_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "billro_t_1[enhance].heal_scale": 0.9,
+                    "heal_scale": 0.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "生命之餐",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能期间提高自身45%生命值上限，开启技能时立即恢复45%最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍"
+                },
+                {
+                  "blackboard": {
+                    "billro_t_1[enhance].heal_scale": 1.0,
+                    "heal_scale": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "生命之餐",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能期间提高自身45%生命值上限，开启技能时立即恢复50%<@ba.talpu>（+5%）</>最大生命值；\\n<$ba.charged>蓄力</>时效果翻倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_426_billro",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "plx-x",
+      "uniEquipId": "uniequip_002_billro",
+      "uniEquipName": "风信子与匕首"
+    },
+    "uniequip_003_billro": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 30.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内敌人越多造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.03,
+                    "max_valid_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "billro_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "def": 35.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内敌人越多造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.03,
+                    "max_valid_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "billro_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "billro_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蓄势待发",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 95.0,
+            "def": 38.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "范围内敌人越多造成的伤害越高（最高提升<@ba.kw>{damage_scale:0%}</>）",
+                  "blackboard": {
+                    "damage_scale": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.03,
+                    "max_valid_stack_cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "billro_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "billro_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "蓄势待发",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_426_billro",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "plx-y",
+      "uniEquipId": "uniequip_003_billro",
+      "uniEquipName": "乡音"
+    }
+  },
+  "skill": {
+    "skchr_billro_1": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "def": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "def": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "def": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "def": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "def": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；\\n<$ba.charged>蓄力</>额外效果：特性效果在技能期间继续生效",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "沙暴守卫",
+        "prefabId": "skchr_billro_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_billro_2": [
+      {
+        "blackboard": {
+          "atk": 0.05,
+          "attack@root": 0.2,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.05,
+          "attack@root": 0.3,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@root": 0.3,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.4
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@root": 0.3,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@root": 0.4,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@root": 0.4,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.6
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@root": 0.4,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@root": 0.5,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@root": 0.5,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -0.8
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@root": 0.6,
+          "attack@sluggish": 0.3,
+          "base_attack_time": -1.1
+        },
+        "description": "攻击间隔<@ba.vup>大幅度缩短</>，每次攻击对目标造成{attack@sluggish}秒<$ba.sluggish>停顿</>；\\n<$ba.charged>蓄力</>额外效果：攻击力<@ba.vup>+{atk:0%}</>且<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@root}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "沙缚镣锁",
+        "prefabId": "skchr_billro_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_billro_3": [
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.0,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.2,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.4,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 2.8,
+          "attack@damage_scale": 0.2
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力逐渐增至<@ba.vup>+{atk:0%}</>\\n<$ba.charged>蓄力</>额外效果：每次攻击使目标受到来自卡涅利安的伤害提升<@ba.vup>{attack@damage_scale:0%}</>（最多叠加<@ba.vup>5</>次），持续至技能结束",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "食噬之印",
+        "prefabId": "skchr_billro_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

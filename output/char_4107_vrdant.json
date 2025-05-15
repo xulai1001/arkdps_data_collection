@@ -1,0 +1,1088 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30011": 5,
+        "3301": 2
+      },
+      {
+        "30022": 2,
+        "3302": 3
+      },
+      {
+        "30032": 3,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3302": 3
+      },
+      {
+        "31063": 3,
+        "3303": 4
+      }
+    ],
+    "description": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 100,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "维荻",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 305,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 106,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1060,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 418,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 12,
+            "def": 164,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1414,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4107_vrdant",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 418,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 164,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1414,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 214,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1790,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4107_vrdant",
+        "evolveCost": {
+          "30012": 1,
+          "30022": 1,
+          "3281": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 214,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1790,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 672,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 259,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2266,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4107_vrdant",
+        "evolveCost": {
+          "30043": 15,
+          "31073": 9,
+          "3282": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+160",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 160.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 4,
+            "31034": 1,
+            "3303": 2
+          },
+          {
+            "31024": 2,
+            "31054": 2,
+            "3303": 4
+          },
+          {
+            "30094": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vrdant_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31044": 1,
+            "31083": 3,
+            "3303": 2
+          },
+          {
+            "31014": 3,
+            "31084": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_vrdant_2"
+      }
+    ],
+    "subProfessionId": "dollkeeper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+          },
+          "description": "<替身>每秒回复2%生命值",
+          "name": "植物自愈力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.025
+          },
+          "description": "<替身>每秒回复2.5%<@ba.talpu>（+0.5%）</>生命值",
+          "name": "植物自愈力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.035
+          },
+          "description": "<替身>每秒回复3.5%生命值",
+          "name": "植物自愈力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+          },
+          "description": "<替身>每秒回复4%<@ba.talpu>（+0.5%）</>生命值",
+          "name": "植物自愈力",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk": 0.0,
+          "duration": 20.0,
+          "max_hp": 0.0,
+          "talent_override_rangeid_flag": 1.0
+        },
+        "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+        "prefabKey": "-1",
+        "rangeId": "x-4",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Doll_Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Doll_Die": 30,
+      "Doll_Idle": 100,
+      "Doll_SwitchIn": {
+        "OnStart": 5,
+        "duration": 30
+      },
+      "Doll_SwitchOut": 30,
+      "Idle": 100,
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 100,
+      "Skill_2_Loop": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      },
+      "Stun": 30,
+      "SwitchOut": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_vrdant": {
+      "battle": null,
+      "charId": "char_4107_vrdant",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_vrdant",
+      "uniEquipName": "维荻证章"
+    },
+    "uniequip_002_vrdant": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 145.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.035,
+                    "magic_resistance": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "植物自愈力",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>每秒回复3.5%生命值，法术抗性+5"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "magic_resistance": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "植物自愈力",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>每秒回复4%<@ba.talpu>（+0.5%）</>生命值，法术抗性+5"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 185.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "duration": 20.0,
+                    "max_hp": 0.2,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但生命值<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.035,
+                    "magic_resistance": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "植物自愈力",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>每秒回复3.5%生命值，法术抗性+8"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "magic_resistance": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "植物自愈力",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>每秒回复4%<@ba.talpu>（+0.5%）</>生命值，法术抗性+8"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4107_vrdant",
+      "itemCost": {
+        "1": {
+          "31033": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31023": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31053": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "pum-y",
+      "uniEquipId": "uniequip_002_vrdant",
+      "uniEquipName": "密林撷萃"
+    }
+  },
+  "skill": {
+    "skchr_vrdant_1": [
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.1
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.11
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.12
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.14
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.15
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 5.0,
+          "max_hp": 0.16
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 10.0,
+          "max_hp": 0.18
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 11.0,
+          "max_hp": 0.2
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 13.0,
+          "max_hp": 0.22
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "magic_resistance": 15.0,
+          "max_hp": 0.25
+        },
+        "description": "最大生命值<@ba.vup>+{max_hp:0%}</>，法术抗性<@ba.vup>+{magic_resistance}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "苍翠屏障",
+        "prefabId": "skchr_vrdant_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_vrdant_2": [
+      {
+        "blackboard": {
+          "attack_speed": 20.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 60.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 70.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 80.0,
+          "hp_ratio": 0.04
+        },
+        "description": "伤害类型变为法术，攻击速度<@ba.vup>+{attack_speed}</>，每次攻击到敌人时使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "双刃毒藤",
+        "prefabId": "skchr_vrdant_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

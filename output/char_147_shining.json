@@ -1,0 +1,1659 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 6,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30093": 4,
+        "3303": 8
+      }
+    ],
+    "description": "恢复友方单位生命",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 20,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "闪灵",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 180,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 60,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 854,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 296,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 88,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1204,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_147_shining",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 296,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 88,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1204,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 424,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 110,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1451,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_147_shining",
+        "evolveCost": {
+          "30032": 5,
+          "30052": 6,
+          "3261": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 424,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 110,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1451,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 530,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 138,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1613,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_147_shining",
+        "evolveCost": {
+          "30044": 5,
+          "30125": 4,
+          "3263": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 6
+          },
+          {
+            "30014": 10,
+            "30034": 4,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shining_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 6
+          },
+          {
+            "30024": 7,
+            "30044": 4,
+            "3303": 12
+          },
+          {
+            "30094": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shining_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 4,
+            "30103": 5,
+            "3303": 6
+          },
+          {
+            "30034": 7,
+            "30054": 4,
+            "3303": 12
+          },
+          {
+            "30094": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shining_3"
+      }
+    ],
+    "subProfessionId": "physician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def": 20.0
+          },
+          "description": "攻击范围内的友方单位防御力+20",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 25.0
+          },
+          "description": "攻击范围内的友方单位防御力+25<@ba.talpu>（+5）</>",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 40.0
+          },
+          "description": "攻击范围内的友方单位防御力+40",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 45.0
+          },
+          "description": "攻击范围内的友方单位防御力+45<@ba.talpu>（+5）</>",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 60.0
+          },
+          "description": "攻击范围内的友方单位防御力+60",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def": 65.0
+          },
+          "description": "攻击范围内的友方单位防御力+65<@ba.talpu>（+5）</>",
+          "name": "黑恶魔的庇护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "attack_speed": 10.0
+          },
+          "description": "攻击速度+10",
+          "name": "法典",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack_speed": 13.0
+          },
+          "description": "攻击速度+13<@ba.talpu>（+3）</>",
+          "name": "法典",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 6,
+        "duration": 25
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip"
+      ]
+    },
+    "spec": {
+      "skchr_shining_2": {
+        "cast_time": 77,
+        "sim": true
+      },
+      "uniequip_002_shining": {
+        "override_talent": 1
+      },
+      "uniequip_003_shining": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_shining": {
+      "battle": null,
+      "charId": "char_147_shining",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_shining",
+      "uniEquipName": "闪灵证章"
+    },
+    "uniequip_002_shining": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 80.0,
+                    "def_lowland": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "黑恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30"
+                },
+                {
+                  "blackboard": {
+                    "def": 85.0,
+                    "def_lowland": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "黑恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位防御力+85<@ba.talpu>（+5）</>，地面单位防御力额外+30"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "shining_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗地面单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 100.0,
+                    "def_lowland": 40.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "黑恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40"
+                },
+                {
+                  "blackboard": {
+                    "def": 105.0,
+                    "def_lowland": 40.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "黑恶魔的庇护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 5,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位防御力+105<@ba.talpu>（+5）</>，地面单位防御力额外+40"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "shining_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_147_shining",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "phy-y",
+      "uniEquipId": "uniequip_002_shining",
+      "uniEquipName": "干枯剑鞘"
+    },
+    "uniequip_003_shining": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "def": 13.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 17.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法典",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+15，装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 18.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法典",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+18<@ba.talpu>（+3）</>，装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.15,
+                    "sp_recovery_per_sec": 0.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "shining_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 63.0,
+            "def": 20.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shining_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 15.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法典",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+15，装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒"
+                },
+                {
+                  "blackboard": {
+                    "attack_speed": 18.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "法典",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+18<@ba.talpu>（+3）</>，装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.25,
+                    "sp_recovery_per_sec": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "shining_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_147_shining",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "phy-x",
+      "uniEquipId": "uniequip_003_shining",
+      "uniEquipName": "“使徒”"
+    }
+  },
+  "skill": {
+    "skchr_shining_1": [
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.48,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.58,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.61,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.64,
+          "attack_speed": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.67,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "信条",
+        "prefabId": "skchr_shining_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_shining_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.2,
+          "ct": 1.0,
+          "def": 0.2,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.23,
+          "ct": 1.0,
+          "def": 0.2,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.25,
+          "ct": 1.0,
+          "def": 0.2,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.28,
+          "ct": 1.0,
+          "def": 0.25,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.3,
+          "ct": 1.0,
+          "def": 0.25,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.33,
+          "ct": 1.0,
+          "def": 0.25,
+          "duration": 2.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.35,
+          "ct": 2.0,
+          "def": 0.35,
+          "duration": 3.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.4,
+          "ct": 2.0,
+          "def": 0.35,
+          "duration": 3.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.45,
+          "ct": 2.0,
+          "def": 0.35,
+          "duration": 3.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "ct": 3.0,
+          "def": 0.5,
+          "duration": 3.0
+        },
+        "description": "下次治疗使目标获得一个持续<@ba.vup>{duration}</>秒的<$ba.barrier>屏障</>\\n屏障可以吸收相当于闪灵攻击力<@ba.vup>{atk_scale:0%}</>的伤害，同时使目标防御力<@ba.vup>+{def:0%}</>；<@ba.rem>可充能{ct}次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "自动掩护",
+        "prefabId": "skchr_shining_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_shining_3": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "def": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 100,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 105,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.8
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 110,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n攻击范围内的所有友方单位防御力<@ba.vup>+{def:0%}</>",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "教条力场",
+        "prefabId": "skchr_shining_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 115,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 120,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

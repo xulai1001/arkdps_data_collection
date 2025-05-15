@@ -1,0 +1,1553 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 5,
+        "30051": 4,
+        "3301": 5
+      },
+      {
+        "30032": 5,
+        "3302": 8
+      },
+      {
+        "30022": 3,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30033": 7,
+        "3302": 8
+      },
+      {
+        "31013": 3,
+        "31083": 4,
+        "3303": 8
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 85,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "止颂",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 465,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 123,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1449,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 684,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 176,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2070,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4011_lessng",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 684,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 176,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2070,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 866,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 232,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2798,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4011_lessng",
+        "evolveCost": {
+          "30012": 12,
+          "30022": 5,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 866,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 232,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2798,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1044,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 277,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3682,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4011_lessng",
+        "evolveCost": {
+          "30145": 4,
+          "31084": 5,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 7,
+            "31084": 4,
+            "3303": 8
+          },
+          {
+            "30054": 4,
+            "31014": 9,
+            "3303": 12
+          },
+          {
+            "30084": 6,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lessng_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 7,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "30084": 4,
+            "31044": 8,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31014": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lessng_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31063": 5,
+            "3303": 8
+          },
+          {
+            "31074": 4,
+            "31084": 8,
+            "3303": 12
+          },
+          {
+            "30054": 4,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lessng_3"
+      }
+    ],
+    "subProfessionId": "fearless",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.2
+          },
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低20%",
+          "name": "苦痛专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.35
+          },
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%",
+          "name": "苦痛专注",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "add_atk_duration": 15.0,
+            "atk": 0.12
+          },
+          "description": "受到伤害后，攻击力+12%，持续15秒（不可叠加）",
+          "name": "痛楚砺刃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "add_atk_duration": 15.0,
+            "atk": 0.16
+          },
+          "description": "受到伤害后，攻击力+16%<@ba.talpu>（+4%）</>，持续15秒（不可叠加）",
+          "name": "痛楚砺刃",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 45
+      },
+      "Idle": 120,
+      "Skill_2_End": 5,
+      "Skill_2_Idle": 120,
+      "Skill_2_Loop": {
+        "OnAttack": 17,
+        "duration": 45
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 5,
+      "Skill_3_Idle": 120,
+      "Skill_3_Loop": {
+        "OnAttack": 20,
+        "duration": 45
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      },
+      "Start_2": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_lessng": {
+      "battle": null,
+      "charId": "char_4011_lessng",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_lessng",
+      "uniEquipName": "止颂证章"
+    },
+    "uniequip_002_lessng": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 17.0,
+            "def": 17.0,
+            "max_hp": 230.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 24.0,
+            "def": 24.0,
+            "max_hp": 330.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "add_atk_duration": 15.0,
+                    "atk": 0.17
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "痛楚砺刃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到伤害后，攻击力+17%，持续15秒（不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "add_atk_duration": 15.0,
+                    "atk": 0.21
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "痛楚砺刃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到伤害后，攻击力+21%<@ba.talpu>（+4%）</>，持续15秒（不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 30.0,
+            "max_hp": 400.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击被阻挡的敌人时攻击力提升至<@ba.vup>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "add_atk_duration": 15.0,
+                    "atk": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "痛楚砺刃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到伤害后，攻击力+20%，持续15秒（不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "add_atk_duration": 15.0,
+                    "atk": 0.24
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "痛楚砺刃",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "受到伤害后，攻击力+24%<@ba.talpu>（+4%）</>，持续15秒（不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4011_lessng",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dre-x",
+      "uniEquipId": "uniequip_002_lessng",
+      "uniEquipName": "沉锋之束"
+    },
+    "uniequip_003_lessng": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 390.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lessng_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "苦痛专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%；攻击自身阻挡的敌人时，无视目标8%的防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 80.0,
+            "max_hp": 450.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "lessng_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lessng_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "苦痛专注",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低40%；攻击自身阻挡的敌人时，无视目标12%的防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4011_lessng",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "dre-y",
+      "uniEquipId": "uniequip_003_lessng",
+      "uniEquipName": "苦修者的抗压训练"
+    }
+  },
+  "skill": {
+    "skchr_lessng_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.95
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.05
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.15
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.25
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.45
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.65
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "强力击·γ型",
+        "prefabId": "skchr_lessng_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_lessng_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 19.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "talent_scale": 2.0
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "talent_scale": 2.2
+        },
+        "description": "部署后，第一天赋效果提升至<@ba.vup>{talent_scale}</>倍，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "虔修对决",
+        "prefabId": "skchr_lessng_2",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_lessng_3": [
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.4,
+          "magical_value": 600.0,
+          "max_hp": 0.5
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.45,
+          "magical_value": 600.0,
+          "max_hp": 0.55
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.5,
+          "magical_value": 600.0,
+          "max_hp": 0.6
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.6,
+          "magical_value": 600.0,
+          "max_hp": 0.65
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.65,
+          "magical_value": 600.0,
+          "max_hp": 0.7
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.7,
+          "magical_value": 600.0,
+          "max_hp": 0.75
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.8,
+          "magical_value": 600.0,
+          "max_hp": 0.8
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 1.9,
+          "magical_value": 600.0,
+          "max_hp": 0.9
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 2.0,
+          "magical_value": 600.0,
+          "max_hp": 1.0
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "lessng_s3[atk_scale].atk_scale": 2.2,
+          "magical_value": 600.0,
+          "max_hp": 1.1
+        },
+        "description": "自身免疫<$ba.debuff>异常状态</>，生命值<@ba.vup>+{max_hp:0%}</>，攻击被阻挡目标时，造成相当于攻击力<@ba.vup>{lessng_s3[atk_scale].atk_scale:0%}</>的物理伤害\\n<@ba.rem>干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "苦修破誓",
+        "prefabId": "skchr_lessng_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

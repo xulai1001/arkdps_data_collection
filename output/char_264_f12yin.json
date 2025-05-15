@@ -1,0 +1,1421 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30073": 7,
+        "3302": 8
+      },
+      {
+        "30083": 3,
+        "30103": 4,
+        "3303": 8
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 45,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "山",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 242,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 154,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1298,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 221,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1755,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_264_f12yin",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 356,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 221,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1755,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 475,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 299,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2250,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_264_f12yin",
+        "evolveCost": {
+          "30012": 8,
+          "30032": 8,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 475,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 299,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2250,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 587,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 357,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2745,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_264_f12yin",
+        "evolveCost": {
+          "30145": 4,
+          "31014": 8,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 5,
+            "31024": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30084": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_f12yin_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 4,
+            "31023": 4,
+            "3303": 8
+          },
+          {
+            "30064": 5,
+            "30084": 4,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_f12yin_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30094": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_f12yin_3"
+      }
+    ],
+    "subProfessionId": "fighter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": -0.1,
+            "atk_scale": 1.4,
+            "duration": 3.0,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率攻击力提升至140%，并在3秒内使目标攻击力降低10%（不可叠加）",
+          "name": "巨力重拳",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": -0.1,
+            "atk_scale": 1.45,
+            "duration": 3.0,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率攻击力提升至145%<@ba.talpu>（+5%）</>，并在3秒内使目标攻击力降低10%（不可叠加）",
+          "name": "巨力重拳",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": -0.15,
+            "atk_scale": 1.6,
+            "duration": 3.0,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率攻击力提升至160%，并在3秒内使目标攻击力降低15%（不可叠加）",
+          "name": "巨力重拳",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": -0.15,
+            "atk_scale": 1.65,
+            "duration": 3.0,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率攻击力提升至165%<@ba.talpu>（+5%）</>，并在3秒内使目标攻击力降低15%（不可叠加）",
+          "name": "巨力重拳",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "def": 0.1,
+            "prob": 0.15
+          },
+          "description": "防御力+10%，获得15%的物理闪避",
+          "name": "强壮肉体",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_A": {
+        "OnAttack": 5,
+        "duration": 12
+      },
+      "Attack_B": {
+        "OnAttack": 5,
+        "duration": 12
+      },
+      "Idle": 72,
+      "Skill": {
+        "OnAttack": 4,
+        "duration": 23
+      },
+      "Skill_2_Begin": 12,
+      "Skill_2_End": 12,
+      "Skill_2_Idle": 72,
+      "Skill_2_Loop": {
+        "OnAttack": 10,
+        "OnPlayAudio": 10,
+        "duration": 18
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 5,
+      "Skill_3_Idle": 120,
+      "Skill_3_Loop": {
+        "OnAttack": 14,
+        "OnPlayAudio": 14,
+        "duration": 38
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit"
+      ]
+    },
+    "spec": {
+      "char_264_f12yin": {
+        "frame_corr": 1
+      },
+      "skchr_f12yin_1": {
+        "attack_begin": 4,
+        "reset_attack": "false"
+      },
+      "skchr_f12yin_2": {
+        "frame_corr": 0,
+        "max_target": 2,
+        "toggle": true
+      },
+      "skchr_f12yin_3": {
+        "times": 2
+      },
+      "tachr_264_f12yin_1": {
+        "crit": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_f12yin": {
+      "battle": null,
+      "charId": "char_264_f12yin",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_f12yin",
+      "uniEquipName": "山证章"
+    },
+    "uniequip_002_f12yin": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 15.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "f12yin_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 20.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "f12yin_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": -0.15,
+                    "atk_scale": 1.65,
+                    "duration": 3.0,
+                    "prob": 0.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巨力重拳",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有23%的几率攻击力提升至165%，并在3秒内使目标攻击力降低15%（不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "atk": -0.15,
+                    "atk_scale": 1.7,
+                    "duration": 3.0,
+                    "prob": 0.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巨力重拳",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有23%的几率攻击力提升至170%<@ba.talpu>（+5%）</>，并在3秒内使目标攻击力降低15%（不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "def": 20.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack_speed": 10.0
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，生命值高于50%时攻击速度<@ba.vup>+{attack_speed}</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "f12yin_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": -0.15,
+                    "atk_scale": 1.7,
+                    "duration": 3.0,
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巨力重拳",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有25%的几率攻击力提升至170%，并在3秒内使目标攻击力降低15%（不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "atk": -0.15,
+                    "atk_scale": 1.75,
+                    "duration": 3.0,
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巨力重拳",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时有25%的几率攻击力提升至175%<@ba.talpu>（+5%）</>，并在3秒内使目标攻击力降低15%（不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_264_f12yin",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "fgt-y",
+      "uniEquipId": "uniequip_002_f12yin",
+      "uniEquipName": "“自由的代价”"
+    }
+  },
+  "skill": {
+    "skchr_f12yin_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "max_target": 2.0
+        },
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，额外攻击一个目标",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "左勾扫拳",
+        "prefabId": "skchr_f12yin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_f12yin_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "block_cnt": 1.0,
+          "def": -0.3,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "block_cnt": 1.0,
+          "def": -0.25,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "block_cnt": 1.0,
+          "def": -0.25,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.055
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "block_cnt": 1.0,
+          "def": -0.25,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "block_cnt": 1.0,
+          "def": -0.2,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n防御力<@ba.vdown>-{-def:0%}</>，攻击距离<@ba.vdown>缩短</>，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，同时攻击阻挡的所有敌人，每秒恢复最大生命的<@ba.vup>{HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO:0.0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "横扫架势",
+        "prefabId": "skchr_f12yin_2",
+        "rangeId": "0-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_f12yin_3": [
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.4
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.42
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.44
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.48
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.52
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@force": 1.0,
+          "attack@max_target": 3.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.55
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@force": 1.0,
+          "attack@max_target": 4.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.6
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@force": 1.0,
+          "attack@max_target": 4.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.65
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@force": 1.0,
+          "attack@max_target": 4.0,
+          "base_attack_time": 0.7,
+          "talent@prob": 0.75
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击变为<@ba.vup>2</>连击，第一天赋的发动几率提升至<@ba.vup>{talent@prob:0%}</>，每次攻击周围最多<@ba.vup>{attack@max_target}</>个敌人并将其<@ba.vup>中等力度地</>推动",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "震地碎岩击",
+        "prefabId": "skchr_f12yin_3",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

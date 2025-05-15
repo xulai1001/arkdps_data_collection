@@ -1,0 +1,1170 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30023": 5,
+        "3302": 6
+      },
+      {
+        "30033": 3,
+        "30083": 3,
+        "3303": 6
+      }
+    ],
+    "description": "对攻击范围内<@ba.kw>所有敌人</>造成伤害\\n拥有50%的物理和法术闪避且不容易成为敌人的<@ba.kw>攻击目标</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "狮蝎",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 378,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 18,
+            "def": 141,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 777,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 511,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 18,
+            "def": 218,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1080,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_215_mantic",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 511,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 20,
+            "def": 218,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1080,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 656,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 20,
+            "def": 284,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1385,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_215_mantic",
+        "evolveCost": {
+          "30012": 4,
+          "30052": 4,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 656,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 20,
+            "def": 284,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1385,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          },
+          {
+            "atk": 811,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 3.5,
+            "baseForceLevel": 0,
+            "blockCnt": 0,
+            "cost": 20,
+            "def": 343,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1630,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": -1
+          }
+        ],
+        "characterPrefabKey": "char_215_mantic",
+        "evolveCost": {
+          "30023": 12,
+          "30084": 8,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+30",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 30.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 1,
+            "30044": 3,
+            "3303": 5
+          },
+          {
+            "30044": 5,
+            "30064": 2,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mantic_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 3,
+            "30054": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "30074": 3,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mantic_2"
+      }
+    ],
+    "subProfessionId": "stalker",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.25,
+            "delay": 6.0
+          },
+          "description": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+25%。停止攻击6秒后，重新进入<$ba.invisible>隐匿</>状态",
+          "name": "隐匿的杀手·中级",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.29,
+            "delay": 6.0
+          },
+          "description": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+29%<@ba.talpu>（+4%）</>。停止攻击6秒后，重新进入<$ba.invisible>隐匿</>状态",
+          "name": "隐匿的杀手·中级",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.5,
+            "delay": 5.0
+          },
+          "description": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+50%。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态",
+          "name": "隐匿的杀手·精英",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.54,
+            "delay": 5.0
+          },
+          "description": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+54%<@ba.talpu>（+4%）</>。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态",
+          "name": "隐匿的杀手·精英",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "prob": 0.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 40
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 35,
+        "duration": 58
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 25
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_mantic_1": {
+        "passive": true
+      },
+      "skchr_mantic_2": {
+        "attack_begin": 36,
+        "frame_corr": 1
+      },
+      "tachr_215_mantic_1": {
+        "cond": true
+      },
+      "uniequip_002_mantic": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_mantic": {
+      "battle": null,
+      "charId": "char_215_mantic",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_mantic",
+      "uniEquipName": "狮蝎证章"
+    },
+    "uniequip_002_mantic": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 58.0,
+            "def": 22.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mantic_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 72.0,
+            "def": 27.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.55,
+                    "delay": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "隐匿的杀手·精英",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+55%。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.59,
+                    "delay": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "隐匿的杀手·精英",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+59%<@ba.talpu>（+4%）</>。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mantic_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 85.0,
+            "def": 31.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内所有敌人移动速度<@ba.kw>-20%</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.6,
+                    "delay": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "隐匿的杀手·精英",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+60%。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.64,
+                    "delay": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "隐匿的杀手·精英",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "平时处于<$ba.invisible>隐匿</>状态，攻击时会解除<$ba.invisible>隐匿</>状态，且当次攻击的攻击力+64%<@ba.talpu>（+4%）</>。停止攻击5秒后，重新进入<$ba.invisible>隐匿</>状态"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "move_speed": -0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mantic_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_215_mantic",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "amb-x",
+      "uniEquipId": "uniequip_002_mantic",
+      "uniEquipName": "训练用尾部防护套装"
+    }
+  },
+  "skill": {
+    "skchr_mantic_1": [
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "move_speed": -0.23
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "move_speed": -0.25
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.0,
+          "move_speed": -0.27
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.5,
+          "move_speed": -0.29
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.5,
+          "move_speed": -0.31
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 3.5,
+          "move_speed": -0.33
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "move_speed": -0.35
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "move_speed": -0.4
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 4.0,
+          "move_speed": -0.45
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "move_speed": -0.5
+        },
+        "description": "每次攻击会在<@ba.vup>{duration}</>秒内令命中目标移动速度<@ba.vup>-{-move_speed:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "蝎毒",
+        "prefabId": "skchr_mantic_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 0.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_mantic_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@stun": 0.5,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@stun": 0.5,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@stun": 0.5,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@stun": 0.6,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@stun": 0.6,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@stun": 0.6,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@stun": 0.7,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 37.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@stun": 0.8,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@stun": 0.9,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 39.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@stun": 1.0,
+          "base_attack_time": 1.7
+        },
+        "description": "攻击前摇和攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，使命中目标<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "蓄力毒尾击",
+        "prefabId": "skchr_mantic_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

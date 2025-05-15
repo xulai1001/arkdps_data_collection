@@ -1,0 +1,246 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "能够阻挡三个敌人，且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 70,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 100,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "Friston-3",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 158,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 3,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 921,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 198,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 3,
+            "def": 235,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1152,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4093_frston",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_1",
+    "skills": null,
+    "subProfessionId": "protector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": -50.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低50点",
+          "name": "存续·I",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": -55.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低55点",
+          "name": "存续·II",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 1,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": -60.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低60点",
+          "name": "存续·III",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": -65.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低65点",
+          "name": "存续·IV",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 3,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": -70.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低70点",
+          "name": "存续·V",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": -75.0,
+            "duration": 10.0
+          },
+          "description": "部署后10秒内周围八格的所有友方单位受到的伤害降低75点",
+          "name": "存续·VI",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Idle": 16,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}

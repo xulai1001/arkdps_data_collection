@@ -1,0 +1,252 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素损伤</>，且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 125,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "PhonoR-0",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 133,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 19,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 256,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 205,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 30,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 395,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4136_phonor",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_1",
+    "skills": null,
+    "subProfessionId": "ritualist",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 45.0,
+            "damage_scale": 1.03,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带45点凋亡损伤，并使攻击范围内的所有敌人受到3%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·I",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 45.0,
+            "damage_scale": 1.05,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带45点凋亡损伤，并使攻击范围内的所有敌人受到5%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·II",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 1,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 50.0,
+            "damage_scale": 1.05,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带50点凋亡损伤，并使攻击范围内的所有敌人受到5%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·III",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 55.0,
+            "damage_scale": 1.08,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带55点凋亡损伤，并使攻击范围内的所有敌人受到8%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·IV",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 3,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 60.0,
+            "damage_scale": 1.08,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带60点凋亡损伤，并使攻击范围内的所有敌人受到8%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·V",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@dark_damage_value": 60.0,
+            "damage_scale": 1.1,
+            "duration": 40.0
+          },
+          "description": "部署后40秒内攻击附带60点凋亡损伤，并使攻击范围内的所有敌人受到10%的<$ba.magicfragile>【法术脆弱】</>和<$ba.elementfragile>【元素脆弱】</>",
+          "name": "悠远河谷的齐唱·VI",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 48
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}

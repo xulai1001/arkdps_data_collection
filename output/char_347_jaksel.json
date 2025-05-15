@@ -1,0 +1,1087 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30021": 4,
+        "3301": 2
+      },
+      {
+        "30032": 2,
+        "3302": 3
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30053": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3303": 4
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "杰克",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 218,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 129,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1124,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 7,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1520,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_347_jaksel",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 188,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1520,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 258,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1949,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_347_jaksel",
+        "evolveCost": {
+          "30012": 1,
+          "30032": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 258,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1949,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 529,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 0.78,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 9,
+            "def": 308,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2378,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_347_jaksel",
+        "evolveCost": {
+          "30013": 19,
+          "30073": 12,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+21",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 21.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 1,
+            "3303": 2
+          },
+          {
+            "30014": 2,
+            "30094": 3,
+            "3303": 4
+          },
+          {
+            "30125": 2,
+            "31034": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_jaksel_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 1,
+            "3303": 2
+          },
+          {
+            "31014": 2,
+            "31034": 2,
+            "3303": 4
+          },
+          {
+            "30115": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_jaksel_2"
+      }
+    ],
+    "subProfessionId": "fighter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "charge_atk_speed_on_evade.attack_speed": 6.0,
+            "charge_atk_speed_on_evade.duration": 5.0,
+            "prob": 0.15
+          },
+          "description": "获得15%的物理闪避，闪避成功后攻击速度+6（持续5秒，不可叠加）",
+          "name": "极速闪避",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "charge_atk_speed_on_evade.attack_speed": 6.0,
+            "charge_atk_speed_on_evade.duration": 5.0,
+            "prob": 0.18
+          },
+          "description": "获得18%<@ba.talpu>（+3%）</>的物理闪避，闪避成功后攻击速度+6（持续5秒，不可叠加）",
+          "name": "极速闪避",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "charge_atk_speed_on_evade.attack_speed": 12.0,
+            "charge_atk_speed_on_evade.duration": 5.0,
+            "prob": 0.3
+          },
+          "description": "获得30%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）",
+          "name": "极速闪避",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "charge_atk_speed_on_evade.attack_speed": 12.0,
+            "charge_atk_speed_on_evade.duration": 5.0,
+            "prob": 0.33
+          },
+          "description": "获得33%<@ba.talpu>（+3%）</>的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）",
+          "name": "极速闪避",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_A": {
+        "OnAttack": 10,
+        "duration": 22
+      },
+      "Attack_B": {
+        "OnAttack": 10,
+        "duration": 22
+      },
+      "Idle": 270,
+      "Skill_End": 10,
+      "Skill_Idle": 120,
+      "Skill_Loop": {
+        "OnAttack": 10,
+        "duration": 20
+      },
+      "Skill_Start": 10,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "char_347_jaksel": {
+        "frame_corr": 1
+      },
+      "skchr_jaksel_2": {
+        "note": "按最大反击速度计算"
+      },
+      "tachr_347_jaksel_1": {
+        "cond": true,
+        "note": "假设天赋一直生效（勾选触发时)"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_jaksel": {
+      "battle": null,
+      "charId": "char_347_jaksel",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_jaksel",
+      "uniEquipName": "杰克证章"
+    },
+    "uniequip_002_jaksel": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 10.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.15
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，拥有<@ba.kw>15%</>的物理闪避",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "jaksel_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 15.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.15
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，拥有<@ba.kw>15%</>的物理闪避",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "jaksel_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "charge_atk_speed_on_evade.attack_speed": 12.0,
+                    "charge_atk_speed_on_evade.duration": 5.0,
+                    "prob": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "极速闪避",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得35%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "charge_atk_speed_on_evade.attack_speed": 12.0,
+                    "charge_atk_speed_on_evade.duration": 5.0,
+                    "prob": 0.38
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "极速闪避",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得38%<@ba.talpu>（+3%）</>的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 20.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "prob": 0.15
+                  },
+                  "overrideDescripton": "能够阻挡一个敌人，拥有<@ba.kw>15%</>的物理闪避",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "jaksel_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "charge_atk_speed_on_evade.attack_speed": 12.0,
+                    "charge_atk_speed_on_evade.duration": 5.0,
+                    "prob": 0.37
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "极速闪避",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得37%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+                },
+                {
+                  "blackboard": {
+                    "charge_atk_speed_on_evade.attack_speed": 12.0,
+                    "charge_atk_speed_on_evade.duration": 5.0,
+                    "prob": 0.4
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "极速闪避",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得40%<@ba.talpu>（+3%）</>的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_347_jaksel",
+      "itemCost": {
+        "1": {
+          "30013": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30033": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30083": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "fgt-x",
+      "uniEquipId": "uniequip_002_jaksel",
+      "uniEquipName": "D32钢椅"
+    }
+  },
+  "skill": {
+    "skchr_jaksel_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "给你一拳！",
+        "prefabId": "skchr_jaksel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_jaksel_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.2,
+          "base_attack_time": 1.0,
+          "jaksel_skill_2[evade].prob": 0.4
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.25,
+          "base_attack_time": 1.0,
+          "jaksel_skill_2[evade].prob": 0.4
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.3,
+          "base_attack_time": 1.0,
+          "jaksel_skill_2[evade].prob": 0.4
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.35,
+          "base_attack_time": 0.8,
+          "jaksel_skill_2[evade].prob": 0.5
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "base_attack_time": 0.8,
+          "jaksel_skill_2[evade].prob": 0.5
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.45,
+          "base_attack_time": 0.8,
+          "jaksel_skill_2[evade].prob": 0.5
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.5,
+          "base_attack_time": 0.6,
+          "jaksel_skill_2[evade].prob": 0.6
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.55,
+          "base_attack_time": 0.6,
+          "jaksel_skill_2[evade].prob": 0.6
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.6,
+          "base_attack_time": 0.6,
+          "jaksel_skill_2[evade].prob": 0.6
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.6,
+          "base_attack_time": 0.5,
+          "jaksel_skill_2[evade].prob": 0.7
+        },
+        "description": "停止攻击敌人。额外获得物理闪避<@ba.vup>{jaksel_skill_2[evade].prob:0%}</>。闪避成功后立即对一名敌人进行反击，造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害。(反击频率不小于<@ba.vup>{base_attack_time:0%}</>的攻击间隔)",
+        "duration": 18.0,
+        "durationType": "NONE",
+        "name": "全神贯注！",
+        "prefabId": "skchr_jaksel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

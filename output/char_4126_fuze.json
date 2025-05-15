@@ -1,0 +1,1086 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "30033": 5,
+        "3302": 6
+      },
+      {
+        "30093": 2,
+        "31033": 3,
+        "3303": 6
+      }
+    ],
+    "description": "同时攻击阻挡的<@ba.kw>所有敌人</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "导火索",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 122,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1213,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 446,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 175,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1556,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4126_fuze",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 446,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 175,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1556,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 237,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1995,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4126_fuze",
+        "evolveCost": {
+          "30012": 3,
+          "30042": 4,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 604,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 237,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1995,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 795,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 290,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2660,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4126_fuze",
+        "evolveCost": {
+          "30023": 16,
+          "31024": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31044": 3,
+            "3303": 6
+          },
+          {
+            "30064": 2,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_fuze_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 3,
+            "31064": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "31074": 3,
+            "3303": 6
+          },
+          {
+            "30155": 4,
+            "31074": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_fuze_2"
+      }
+    ],
+    "subProfessionId": "centurion",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.17
+          },
+          "description": "获得17%的远程物理抵挡",
+          "name": "防弹护盾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.2
+          },
+          "description": "获得20%<@ba.talpu>（+3%）</>的远程物理抵挡",
+          "name": "防弹护盾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.27
+          },
+          "description": "获得27%的远程物理抵挡",
+          "name": "防弹护盾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.3
+          },
+          "description": "获得30%<@ba.talpu>（+3%）</>的远程物理抵挡",
+          "name": "防弹护盾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 6,
+        "duration": 36
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 7,
+      "Skill_1_End": 41,
+      "Skill_1_Idle": 60,
+      "Skill_1_Loop": {
+        "OnAttack": 6,
+        "duration": 36
+      },
+      "Skill_2": {
+        "OnAttack": 36,
+        "OnPlayAudio": 36,
+        "duration": 100
+      },
+      "Skill_Down_2": {
+        "OnAttack": 36,
+        "OnPlayAudio": 36,
+        "duration": 100
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_fuze": {
+      "battle": null,
+      "charId": "char_4126_fuze",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_fuze",
+      "uniEquipName": "导火索证章"
+    },
+    "uniequip_002_fuze": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值高于50%时受到的物理伤害降低<@ba.kw>{damage_resistance:0%}</>",
+                  "blackboard": {
+                    "damage_resistance": 0.2,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "fuze_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值高于50%时受到的物理伤害降低<@ba.kw>{damage_resistance:0%}</>",
+                  "blackboard": {
+                    "damage_resistance": 0.2,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "fuze_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.03,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防弹护盾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得30%的远程物理抵挡，防御力+3%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.03,
+                    "prob": 0.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防弹护盾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得33%<@ba.talpu>（+3%）</>的远程物理抵挡，防御力+3%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "fuze_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "生命值高于50%时受到的物理伤害降低<@ba.kw>{damage_resistance:0%}</>",
+                  "blackboard": {
+                    "damage_resistance": 0.2,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "fuze_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def": 0.06,
+                    "prob": 0.32
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防弹护盾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得32%的远程物理抵挡，防御力+6%"
+                },
+                {
+                  "blackboard": {
+                    "def": 0.06,
+                    "prob": 0.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "防弹护盾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "获得35%<@ba.talpu>（+3%）</>的远程物理抵挡，防御力+6%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "fuze_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4126_fuze",
+      "itemCost": {
+        "1": {
+          "31024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "cen-y",
+      "uniEquipId": "uniequip_002_fuze",
+      "uniEquipName": "副语言符号展示系统"
+    }
+  },
+  "skill": {
+    "skchr_fuze_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.1,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 60.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.11,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 60.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.12,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 60.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.13,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 70.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.14,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 70.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 51,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.15,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 70.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.17,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 75.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.22,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 80.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.25,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 85.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 23,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.3,
+          "attack@trigger_time": 100.0,
+          "attack_speed": 90.0
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "火力侦察",
+        "prefabId": "skchr_fuze_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_fuze_2": [
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.9,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.1,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.3,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.4,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.6,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.8,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害。<@ba.rem>此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "霰射炸药",
+        "prefabId": "skchr_fuze_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

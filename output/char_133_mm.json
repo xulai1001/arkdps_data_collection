@@ -1,0 +1,1108 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30031": 4,
+        "3301": 2
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3302": 3
+      },
+      {
+        "30073": 3,
+        "3303": 4
+      }
+    ],
+    "description": "优先攻击空中单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 65,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "梅",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 163,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 36,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 730,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 61,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1043,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_133_mm",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 61,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1043,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 391,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 88,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1338,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_133_mm",
+        "evolveCost": {
+          "30042": 1,
+          "30062": 1,
+          "3241": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 391,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 88,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1338,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 478,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1632,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_133_mm",
+        "evolveCost": {
+          "30033": 12,
+          "30043": 14,
+          "3242": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30034": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mm_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 1,
+            "3303": 2
+          },
+          {
+            "30014": 2,
+            "30094": 3,
+            "3303": 4
+          },
+          {
+            "30064": 2,
+            "30115": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mm_2"
+      }
+    ],
+    "subProfessionId": "fastshot",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.04,
+            "attack_speed": 4.0
+          },
+          "description": "攻击力+4%，攻击速度+4",
+          "name": "维多利亚探员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "attack_speed": 5.0
+          },
+          "description": "攻击力+5%<@ba.talpu>（+1%）</>，攻击速度+5<@ba.talpu>（+1）</>",
+          "name": "维多利亚探员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "attack_speed": 7.0
+          },
+          "description": "攻击力+7%，攻击速度+7",
+          "name": "维多利亚探员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.08,
+            "attack_speed": 8.0
+          },
+          "description": "攻击力+8%<@ba.talpu>（+1%）</>，攻击速度+8<@ba.talpu>（+1）</>",
+          "name": "维多利亚探员",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_End": 10,
+      "Attack_Loop": {
+        "OnAttack": 1,
+        "duration": 30
+      },
+      "Attack_Start": 10,
+      "Idle": 60,
+      "Skill_Loop": {
+        "OnAttack": 1,
+        "duration": 45
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "equip",
+        "archet",
+        "chen"
+      ]
+    },
+    "spec": {
+      "char_133_mm": {
+        "attack_begin": 3
+      },
+      "skchr_mm_1": {
+        "sim": true
+      },
+      "skchr_mm_2": {
+        "attack_begin": 3
+      },
+      "tachr_133_mm_1": {
+        "cloneable": true
+      },
+      "uniequip_002_mm": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_mm": {
+      "battle": null,
+      "charId": "char_133_mm",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_mm",
+      "uniEquipName": "梅证章"
+    },
+    "uniequip_002_mm": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 18.0,
+            "attack_speed": 1.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mm_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 23.0,
+            "attack_speed": 2.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mm_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.1,
+                    "attack_speed": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "维多利亚探员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+10%，攻击速度+7"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.11,
+                    "attack_speed": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "维多利亚探员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+11%<@ba.talpu>（+1%）</>，攻击速度+8<@ba.talpu>（+1）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 27.0,
+            "attack_speed": 3.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击空中单位时攻击力提升至<@ba.kw>{atk_scale:0%}</>",
+                  "blackboard": {
+                    "atk_scale": 1.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mm_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.12,
+                    "attack_speed": 7.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "维多利亚探员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+12%，攻击速度+7"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.13,
+                    "attack_speed": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "维多利亚探员",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击力+13%<@ba.talpu>（+1%）</>，攻击速度+8<@ba.talpu>（+1）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_133_mm",
+      "itemCost": {
+        "1": {
+          "30063": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "31043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30103": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "mar-x",
+      "uniEquipId": "uniequip_002_mm",
+      "uniEquipName": "新手侦探礼包"
+    }
+  },
+  "skill": {
+    "skchr_mm_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "sluggish": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "sluggish": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "sluggish": 1.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "sluggish": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "sluggish": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "sluggish": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "sluggish": 2.0
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "sluggish": 2.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "sluggish": 2.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "sluggish": 2.5
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使目标<$ba.sluggish>停顿</><@ba.vup>{sluggish:0.0}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "麻痹弹",
+        "prefabId": "skchr_mm_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_mm_2": [
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 0.9,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.8,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.9,
+          "attack@stun": 1.0,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.9,
+          "attack@stun": 1.1,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@prob": 0.3,
+          "attack@sluggish": 0.9,
+          "attack@stun": 1.1,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@prob": 0.3,
+          "attack@sluggish": 1.0,
+          "attack@stun": 1.2,
+          "base_attack_time": 0.5
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，击中目标时使其<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish:0.0}</>秒，另外还有<@ba.vup>{attack@prob:0%}</>的几率使其<$ba.stun>晕眩</><@ba.vup>{attack@stun:0.0}</>秒",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "束缚电击",
+        "prefabId": "skchr_mm_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

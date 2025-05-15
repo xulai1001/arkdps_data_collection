@@ -1,0 +1,1415 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30013": 8,
+        "3302": 8
+      },
+      {
+        "30043": 4,
+        "31013": 4,
+        "3303": 8
+      }
+    ],
+    "description": "操作<@ba.kw>浮游单元</>对敌人造成<@ba.kw>法术伤害</>\\n浮游单元连续攻击同一敌人时伤害提升（最高造成干员110%攻击力的伤害）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "澄闪",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 153,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 50,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 605,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 216,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 76,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 865,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_377_gdglow",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 216,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 76,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 865,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 278,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1124,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_377_gdglow",
+        "evolveCost": {
+          "30012": 7,
+          "30052": 7,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 278,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 105,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1124,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 331,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 22,
+            "def": 125,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1480,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_377_gdglow",
+        "evolveCost": {
+          "30084": 5,
+          "30125": 4,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_gdglow_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_gdglow_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 4,
+            "31053": 5,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "31024": 7,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_gdglow_3"
+      }
+    ],
+    "subProfessionId": "funnel",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@atk_scale_2": 2.0,
+            "attack@max_stack_cnt": 40.0,
+            "attack@prob": 0.015
+          },
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪200%攻击力的法术伤害",
+          "name": "信标的愤怒",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@atk_scale_2": 2.15,
+            "attack@max_stack_cnt": 40.0,
+            "attack@prob": 0.015
+          },
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪215%<@ba.talpu>（+15%）</>攻击力的法术伤害",
+          "name": "信标的愤怒",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@atk_scale_2": 3.0,
+            "attack@max_stack_cnt": 40.0,
+            "attack@prob": 0.015
+          },
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪300%攻击力的法术伤害",
+          "name": "信标的愤怒",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@atk_scale_2": 3.15,
+            "attack@max_stack_cnt": 40.0,
+            "attack@prob": 0.015
+          },
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪315%<@ba.talpu>（+15%）</>攻击力的法术伤害",
+          "name": "信标的愤怒",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "magic_resist_penetrate_fixed": 15.0
+          },
+          "description": "自身与浮游单元无视敌人15点法术抗性",
+          "name": "精准导流",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "magic_resist_penetrate_fixed": 18.0
+          },
+          "description": "自身与浮游单元无视敌人18<@ba.talpu>（+3）</>点法术抗性",
+          "name": "精准导流",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "delta_atk_scale": 0.15,
+          "init_atk_scale": 0.2,
+          "max_atk_scale": 1.1,
+          "max_stack_cnt": 6.0
+        },
+        "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Attack_End": 10,
+      "Attack_Start": 5,
+      "Idle": 240,
+      "Skill2_Idle": 120,
+      "Skill2_Loop": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Skill2_Start": 10,
+      "Skill3_End": 20,
+      "Skill3_Loop": 120,
+      "Skill3_Start": 10,
+      "Skill_Attack": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Skill_End": 10,
+      "Skill_Idle": 240,
+      "Skill_Start": 5,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "crit",
+        "short_mode"
+      ]
+    },
+    "spec": {
+      "char_377_gdglow": {
+        "grad": true,
+        "note": "爆炸概率按10%计算\n假设爆炸后不改变目标"
+      },
+      "skchr_gdglow_1": {
+        "funnel": 2
+      },
+      "skchr_gdglow_2": {
+        "funnel": 2,
+        "note": "以满层计算(无限血量木桩)"
+      },
+      "skchr_gdglow_3": {
+        "attack_begin": 5,
+        "funnel": 3,
+        "note": "实战可能打出24次攻击",
+        "reset_attack": true
+      },
+      "tachr_377_gdglow_1": {
+        "crit": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_gdglow": {
+      "battle": null,
+      "charId": "char_377_gdglow",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_gdglow",
+      "uniEquipName": "澄闪证章"
+    },
+    "uniequip_002_gdglow": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 22.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.35,
+                    "max_atk_scale": 1.1,
+                    "max_stack_cnt": 5.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（单元初始伤害提高，最高造成干员110%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.35,
+                    "max_atk_scale": 1.1,
+                    "max_stack_cnt": 5.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（单元初始伤害提高，最高造成干员110%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@atk_scale_2": 3.4,
+                    "attack@max_stack_cnt": 40.0,
+                    "attack@prob": 0.015
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信标的愤怒",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪340%攻击力的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "attack@atk_scale_2": 3.55,
+                    "attack@max_stack_cnt": 40.0,
+                    "attack@prob": 0.015
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信标的愤怒",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪355%<@ba.talpu>（+15%）</>攻击力的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "delta_atk_scale": 0.15,
+                    "init_atk_scale": 0.35,
+                    "max_atk_scale": 1.1,
+                    "max_stack_cnt": 5.0
+                  },
+                  "overrideDescripton": "操作<@ba.kw>浮游单元</>造成<@ba.kw>法术伤害</>\\n单元攻击同一敌人伤害提升（单元初始伤害提高，最高造成干员110%攻击力的伤害）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@atk_scale_2": 3.6,
+                    "attack@max_stack_cnt": 40.0,
+                    "attack@prob": 0.015
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信标的愤怒",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪360%攻击力的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "attack@atk_scale_2": 3.75,
+                    "attack@max_stack_cnt": 40.0,
+                    "attack@prob": 0.015
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "信标的愤怒",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪375%<@ba.talpu>（+15%）</>攻击力的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_377_gdglow",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "fun-x",
+      "uniEquipId": "uniequip_002_gdglow",
+      "uniEquipName": "“辛劳之翼”"
+    }
+  },
+  "skill": {
+    "skchr_gdglow_1": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@cnt": 1.0,
+          "attack_speed": 20.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack@cnt": 1.0,
+          "attack_speed": 23.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack@cnt": 1.0,
+          "attack_speed": 26.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack@cnt": 1.0,
+          "attack_speed": 29.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "attack@cnt": 1.0,
+          "attack_speed": 32.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@cnt": 1.0,
+          "attack_speed": 35.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.32,
+          "attack@cnt": 1.0,
+          "attack_speed": 38.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "attack@cnt": 1.0,
+          "attack_speed": 42.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "attack@cnt": 1.0,
+          "attack_speed": 46.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@cnt": 1.0,
+          "attack_speed": 50.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "火花四溅",
+        "prefabId": "skchr_gdglow_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_gdglow_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.24,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.32,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@cnt": 1.0
+        },
+        "description": "浮游单元<@ba.vup>+1</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "电流翻涌",
+        "prefabId": "skchr_gdglow_2",
+        "rangeId": "3-18",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_gdglow_3": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@cnt": 2.0,
+          "attack@sluggish": 0.5
+        },
+        "description": "停止攻击，浮游单元<@ba.vup>+2</>，释放浮游单元锁定敌人攻击，攻击范围<@ba.vup>扩大</>至整个战场，攻击力<@ba.vup>+{atk:0%}</>，浮游单元攻击附带<@ba.vup>{attack@sluggish}</>秒<$ba.sluggish>停顿</>\\n<@ba.rem>浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "澄净闪耀",
+        "prefabId": "skchr_gdglow_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

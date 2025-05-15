@@ -1,0 +1,1107 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30033": 5,
+        "3302": 6
+      },
+      {
+        "30063": 2,
+        "30083": 3,
+        "3303": 6
+      }
+    ],
+    "description": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒<@ba.kw>消耗</>3点部署费用（不足时自动撤退）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 25,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 20,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "裁度",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 354,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 6,
+            "def": 201,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1162,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 485,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 6,
+            "def": 258,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1530,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4155_talr",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 485,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 258,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1530,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 615,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 332,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1890,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4155_talr",
+        "evolveCost": {
+          "30012": 6,
+          "30052": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 615,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 332,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1890,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 741,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 391,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2393,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4155_talr",
+        "evolveCost": {
+          "30014": 10,
+          "31033": 13,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-3秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -3.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "30094": 5,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_talr_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30073": 6,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31054": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_talr_2"
+      }
+    ],
+    "subProfessionId": "merchant",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.1
+          },
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+10%",
+          "name": "谨慎择客",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.15
+          },
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+15%<@ba.talpu>（+5%）</>",
+          "name": "谨慎择客",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.2
+          },
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+20%",
+          "name": "谨慎择客",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.25
+          },
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+25%<@ba.talpu>（+5%）</>",
+          "name": "谨慎择客",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "cost": -3.0,
+          "interval": 3.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 5,
+      "Skill_1_End": 5,
+      "Skill_1_Idle": 60,
+      "Skill_1_Loop": {
+        "OnAttack": 16,
+        "duration": 30
+      },
+      "Skill_2_Begin": {
+        "OnAttack": 10,
+        "duration": 24
+      },
+      "Skill_2_End": 5,
+      "Skill_2_Loop": 30,
+      "Skill_Down_1_Loop": {
+        "OnAttack": 16,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_talr": {
+      "battle": null,
+      "charId": "char_4155_talr",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_talr",
+      "uniEquipName": "裁度证章"
+    },
+    "uniequip_002_talr": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 62.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.27
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "谨慎择客",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击未被自身阻挡的敌人时，自身造成的伤害+27%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.32
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "谨慎择客",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击未被自身阻挡的敌人时，自身造成的伤害+32%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "谨慎择客",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击未被自身阻挡的敌人时，自身造成的伤害+30%"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "谨慎择客",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击未被自身阻挡的敌人时，自身造成的伤害+35%<@ba.talpu>（+5%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4155_talr",
+      "itemCost": {
+        "1": {
+          "31014": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30094": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "mer-x",
+      "uniEquipId": "uniequip_002_talr",
+      "uniEquipName": "“头面人物”"
+    }
+  },
+  "skill": {
+    "skchr_talr_1": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.2
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.23
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.26
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.3
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.33
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.36
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.4
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.5
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.55
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 0.6
+        },
+        "description": "攻击距离<@ba.vup>+{ability_range_forward_extend}</>，攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "量衣尺",
+        "prefabId": "skchr_talr_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_talr_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.95,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.05,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "cost_display": 25.0,
+          "max_target": 3.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cost_display": 25.0,
+          "max_target": 4.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cost_display": 25.0,
+          "max_target": 4.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cost_display": 25.0,
+          "max_target": 4.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cost_display": 25.0,
+          "max_target": 4.0,
+          "talr_s_2[cost].cost": -1.0,
+          "talr_s_2[cost].interval": 0.32
+        },
+        "description": "停止攻击，立即束缚周围最多<@ba.vup>{max_target}</>名敌人，并每秒对被束缚的敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害；技能开启期间逐渐消耗<@ba.vup>{cost_display}</>点部署费用",
+        "duration": 8.0,
+        "durationType": "NONE",
+        "name": "缝线缠身",
+        "prefabId": "skchr_talr_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

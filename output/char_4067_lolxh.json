@@ -1,0 +1,1157 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30031": 4,
+        "3301": 2
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30052": 2,
+        "3302": 3
+      },
+      {
+        "30013": 3,
+        "3302": 3
+      },
+      {
+        "31013": 2,
+        "3303": 4
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 25,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "罗小黑",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 287,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 154,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 856,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 423,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 212,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1224,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4067_lolxh",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 423,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 212,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1224,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 565,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 269,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1611,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4067_lolxh",
+        "evolveCost": {
+          "30012": 1,
+          "30042": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 565,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 269,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1611,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 698,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 325,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2040,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4067_lolxh",
+        "evolveCost": {
+          "30043": 9,
+          "30083": 15,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": null,
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31014": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lolxh_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31024": 1,
+            "31053": 3,
+            "3303": 2
+          },
+          {
+            "31014": 2,
+            "31034": 2,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30145": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_lolxh_2"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "interval": 10.0,
+            "move_speed": -0.8,
+            "sp": 1.0
+          },
+          "description": "造成致命伤害时使敌人保留1点生命并使其<$ba.dying>重伤</>（击杀者技力+1）；罗小黑不攻击<$ba.dying>重伤</>单位",
+          "name": "见习执行者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "interval": 10.0,
+            "move_speed": -0.8,
+            "sp": 2.0
+          },
+          "description": "造成致命伤害时使敌人保留1点生命并使其<$ba.dying>重伤</>（击杀者技力+2）；罗小黑不攻击<$ba.dying>重伤</>单位",
+          "name": "见习执行者",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 39
+      },
+      "Combat": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Die2": 30,
+      "Idle": 180,
+      "Skill2_Attack": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill2_Begin": 25,
+      "Skill2_Combat": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill2_End": 20,
+      "Skill2_Idle": 120,
+      "Skill_Attack": {
+        "OnAttack": 19,
+        "duration": 39
+      },
+      "Skill_Begin": 38,
+      "Skill_End": 25,
+      "Skill_Idle": 120,
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      },
+      "Stun": 30
+    },
+    "options": {
+      "cond_info": {
+        "text": "[s2]半血敌人",
+        "tooltip": "勾选表示2技能攻击半血以下敌人"
+      },
+      "tags": [
+        "ranged_penalty",
+        "cond"
+      ]
+    },
+    "spec": {
+      "skchr_lolxh_1": {
+        "ranged_penalty": false,
+        "toggle": true
+      },
+      "skchr_lolxh_2": {
+        "ranged_penalty": false
+      },
+      "tachr_4067_lolxh_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_lolxh": {
+      "battle": null,
+      "charId": "char_4067_lolxh",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_lolxh",
+      "uniEquipName": "罗小黑证章"
+    },
+    "uniequip_002_lolxh": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 15.0,
+            "max_hp": 65.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lolxh_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 20.0,
+            "max_hp": 83.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lolxh_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.08,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lolxh_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "interval": 10.0,
+                    "move_speed": -0.8,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "见习执行者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对生命值低于一半的单位造成的伤害提升8%；造成致命伤害时使敌人保留1点生命并使其<$ba.dying>重伤</>（击杀者技力+2）；罗小黑不攻击<$ba.dying>重伤</>单位"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 25.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内存在2名及以上敌人时攻击速度<@ba.vup>+12</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack_speed": 12.0,
+                    "cnt": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lolxh_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.12,
+                    "hp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "lolxh_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "interval": 10.0,
+                    "move_speed": -0.8,
+                    "sp": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "见习执行者",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对生命值低于一半的单位造成的伤害提升12%；造成致命伤害时使敌人保留1点生命并使其<$ba.dying>重伤</>（击杀者技力+2）；罗小黑不攻击<$ba.dying>重伤</>单位"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4067_lolxh",
+      "itemCost": {
+        "1": {
+          "30063": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30043": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "30013": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "lor-y",
+      "uniEquipId": "uniequip_002_lolxh",
+      "uniEquipName": "毛线球"
+    }
+  },
+  "skill": {
+    "skchr_lolxh_1": [
+      {
+        "blackboard": {
+          "attack_speed": 0.0,
+          "prob": 0.2
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 0.0,
+          "prob": 0.25
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 0.0,
+          "prob": 0.3
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 10.0,
+          "prob": 0.3
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 15.0,
+          "prob": 0.3
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0,
+          "prob": 0.3
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0,
+          "prob": 0.35
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "prob": 0.35
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0,
+          "prob": 0.35
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "prob": 0.45
+        },
+        "description": "<@ba.rem>可以在下列状态和初始状态间切换：</>\\n攻击范围改为自身周围<@ba.rem>4格</>，攻击速度<@ba.vup>+{attack_speed}</>，获得<@ba.vup>{prob:0%}</>的物理闪避，同时攻击阻挡的所有敌人",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "掠光尾影",
+        "prefabId": "skchr_lolxh_1",
+        "rangeId": "x-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_lolxh_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@def_penetrate_fixed": 100.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack@def_penetrate_fixed": 110.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@def_penetrate_fixed": 120.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@def_penetrate_fixed": 130.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@def_penetrate_fixed": 140.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@def_penetrate_fixed": 150.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@def_penetrate_fixed": 160.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@def_penetrate_fixed": 170.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@def_penetrate_fixed": 180.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@def_penetrate_fixed": 200.0,
+          "attack@hp_ratio": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，远程攻击不再降低攻击力，额外攻击一名目标，目标生命值低于一半时额外追加一次无视敌人<@ba.vup>{attack@def_penetrate_fixed}</>防御力的攻击",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "碎金为刃",
+        "prefabId": "skchr_lolxh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1745 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30013": 8,
+        "3302": 8
+      },
+      {
+        "30053": 3,
+        "30073": 6,
+        "3303": 8
+      }
+    ],
+    "description": "可以进行<@ba.kw>远程攻击</>，但此时攻击力降低至80%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 70,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "棘刺",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 296,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 191,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1096,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 442,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1567,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_293_thorns",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 442,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1567,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 575,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 333,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2063,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_293_thorns",
+        "evolveCost": {
+          "30042": 8,
+          "30052": 3,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 575,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 333,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2063,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 711,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 20,
+            "def": 402,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2612,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_293_thorns",
+        "evolveCost": {
+          "30044": 6,
+          "30115": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-12"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30084": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_atk_up[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30044": 6,
+            "30064": 3,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_thorns_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 7,
+            "30094": 4,
+            "3303": 8
+          },
+          {
+            "30054": 8,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30104": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_thorns_3"
+      }
+    ],
+    "subProfessionId": "lord",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage[normal]": 65.0,
+            "damage[ranged]": 130.0,
+            "duration": 3.0
+          },
+          "description": "攻击使目标中毒，在3秒内每秒受到65点法术伤害（对会远程攻击的目标伤害加倍）",
+          "name": "神经腐蚀",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage[normal]": 80.0,
+            "damage[ranged]": 160.0,
+            "duration": 3.0
+          },
+          "description": "攻击使目标中毒，在3秒内每秒受到80<@ba.talpu>（+15）</>点法术伤害（对会远程攻击的目标伤害加倍）",
+          "name": "神经腐蚀",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage[normal]": 125.0,
+            "damage[ranged]": 250.0,
+            "duration": 3.0
+          },
+          "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害（对会远程攻击的目标伤害加倍）",
+          "name": "神经腐蚀",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage[normal]": 140.0,
+            "damage[ranged]": 280.0,
+            "duration": 3.0
+          },
+          "description": "攻击使目标中毒，在3秒内每秒受到140<@ba.talpu>（+15）</>点法术伤害（对会远程攻击的目标伤害加倍）",
+          "name": "神经腐蚀",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "delay": 2.0,
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.035
+          },
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命3.5%的生命",
+          "name": "故土潮声",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "delay": 2.0,
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+          },
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命4%<@ba.talpu>（+0.5%）</>的生命",
+          "name": "故土潮声",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 0.8
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_1": {
+        "OnAttack": 15,
+        "duration": 36
+      },
+      "Attack_2": {
+        "OnAttack": 15,
+        "duration": 36
+      },
+      "Idle": 100,
+      "Skill1_1": {
+        "OnAttack": 5,
+        "duration": 5
+      },
+      "Skill1_2": 100,
+      "Skill1_3": 7,
+      "Skill2_1": {
+        "OnAttack": 9,
+        "duration": 24
+      },
+      "Skill2_2": {
+        "OnAttack": 9,
+        "duration": 24
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "ranged_penalty",
+        "warmup",
+        "thorns_ranged",
+        "short_mode"
+      ]
+    },
+    "spec": {
+      "skchr_thorns_2": {
+        "reset_attack": true
+      },
+      "skchr_thorns_3": {
+        "reset_attack": true
+      },
+      "tachr_293_thorns_trait": {
+        "ranged_penalty": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_thorns": {
+      "battle": null,
+      "charId": "char_293_thorns",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_thorns",
+      "uniEquipName": "棘刺证章"
+    },
+    "uniequip_002_thorns": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 39.0,
+            "attack_speed": 5.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 48.0,
+            "attack_speed": 6.0,
+            "max_hp": 215.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage[normal]": 125.0,
+                    "damage[ranged]": 250.0,
+                    "duration": 3.0,
+                    "max_cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到125点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）"
+                },
+                {
+                  "blackboard": {
+                    "damage[normal]": 140.0,
+                    "damage[ranged]": 280.0,
+                    "duration": 3.0,
+                    "max_cnt": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到140<@ba.talpu>（+15）</>点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "thorns_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "attack_speed": 7.0,
+            "max_hp": 260.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击附带<@ba.vup>{atk_scale_m:0%}</>攻击力的法术伤害",
+                  "blackboard": {
+                    "atk_scale": 0.8,
+                    "atk_scale_m": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage[normal]": 135.0,
+                    "damage[ranged]": 270.0,
+                    "duration": 3.0,
+                    "max_cnt": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到135点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）"
+                },
+                {
+                  "blackboard": {
+                    "damage[normal]": 150.0,
+                    "damage[ranged]": 300.0,
+                    "duration": 3.0,
+                    "max_cnt": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到150<@ba.talpu>（+15）</>点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "thorns_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_293_thorns",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "lor-x",
+      "uniEquipId": "uniequip_002_thorns",
+      "uniEquipName": "“盐与沙”"
+    },
+    "uniequip_003_thorns": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "attack_speed": 5.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成伤害时附带相当于<@ba.kw>10%</>伤害的<$ba.dt.neural2>神经损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 69.0,
+            "attack_speed": 6.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成伤害时附带相当于<@ba.kw>10%</>伤害的<$ba.dt.neural2>神经损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage[normal]": 200.0,
+                    "damage[ranged]": 400.0,
+                    "duration": 3.0,
+                    "ep_break_multi": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到200点法术伤害（对会远程攻击的目标伤害加倍）。如果敌方单位处于<$ba.dt.neural2>神经损伤</>爆发期间，中毒伤害变为2倍且类型改为元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "damage[normal]": 215.0,
+                    "damage[ranged]": 430.0,
+                    "duration": 3.0,
+                    "ep_break_multi": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到215<@ba.talpu>（+15）</>点法术伤害（对会远程攻击的目标伤害加倍）。如果敌方单位处于<$ba.dt.neural2>神经损伤</>爆发期间，中毒伤害变为2倍且类型改为元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "thorns_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "attack_speed": 7.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "造成伤害时附带相当于<@ba.kw>10%</>伤害的<$ba.dt.neural2>神经损伤</>",
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "thorns_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage[normal]": 300.0,
+                    "damage[ranged]": 600.0,
+                    "duration": 3.0,
+                    "ep_break_multi": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到300点法术伤害（对会远程攻击的目标伤害加倍）。如果敌方单位处于<$ba.dt.neural2>神经损伤</>爆发期间，中毒伤害变为2.5倍且类型改为元素伤害"
+                },
+                {
+                  "blackboard": {
+                    "damage[normal]": 315.0,
+                    "damage[ranged]": 630.0,
+                    "duration": 3.0,
+                    "ep_break_multi": 2.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "神经腐蚀",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击使目标中毒，在3秒内每秒受到315<@ba.talpu>（+15）</>点法术伤害（对会远程攻击的目标伤害加倍）。如果敌方单位处于<$ba.dt.neural2>神经损伤</>爆发期间，中毒伤害变为2.5倍且类型改为元素伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "thorns_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_ratio": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_293_thorns",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30165": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "lor-d",
+      "uniEquipId": "uniequip_003_thorns",
+      "uniEquipName": "沙蚀"
+    }
+  },
+  "skill": {
+    "skchr_thorns_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.4,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.45,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 31.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.5,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.55,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 33.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.6,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cooldown": 0.8,
+          "def": 0.65,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 35.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "cooldown": 0.75,
+          "def": 0.7,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "cooldown": 0.7,
+          "def": 0.8,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 37.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "cooldown": 0.65,
+          "def": 0.9,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "cooldown": 0.6,
+          "def": 1.1,
+          "max_target": 4.0
+        },
+        "description": "停止攻击，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，受到敌人普通攻击时释放尖刺对前方最多<@ba.vup>{max_target}</>名敌人进行一次远程攻击（每<@ba.vup>{cooldown:0.0}</>秒最多触发一次）",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "护身尖刺",
+        "prefabId": "skchr_thorns_2",
+        "rangeId": "3-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_thorns_3": [
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack_speed": 12.0,
+          "thorns_s_3[b].atk": 0.52,
+          "thorns_s_3[b].attack_speed": 24.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "attack_speed": 12.0,
+          "thorns_s_3[b].atk": 0.56,
+          "thorns_s_3[b].attack_speed": 24.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 12.0,
+          "thorns_s_3[b].atk": 0.6,
+          "thorns_s_3[b].attack_speed": 24.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "attack_speed": 14.0,
+          "thorns_s_3[b].atk": 0.66,
+          "thorns_s_3[b].attack_speed": 28.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 14.0,
+          "thorns_s_3[b].atk": 0.7,
+          "thorns_s_3[b].attack_speed": 28.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.37,
+          "attack_speed": 14.0,
+          "thorns_s_3[b].atk": 0.74,
+          "thorns_s_3[b].attack_speed": 28.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 16.0,
+          "thorns_s_3[b].atk": 0.8,
+          "thorns_s_3[b].attack_speed": 32.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 19.0,
+          "thorns_s_3[b].atk": 0.9,
+          "thorns_s_3[b].attack_speed": 38.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 22.0,
+          "thorns_s_3[b].atk": 1.0,
+          "thorns_s_3[b].attack_speed": 44.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack_speed": 25.0,
+          "thorns_s_3[b].atk": 1.2,
+          "thorns_s_3[b].attack_speed": 50.0,
+          "thorns_s_3[b].duration": -1.0
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，远程攻击不再降低攻击力\\n<@ba.rem>第二次及以后使用时能力加成变为最初的两倍，且持续时间无限</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "至高之术",
+        "prefabId": "skchr_thorns_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skcom_atk_up[3]": [
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "攻击力强化·γ型",
+        "prefabId": "skcom_atk_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

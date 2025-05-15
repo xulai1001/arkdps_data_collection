@@ -1,0 +1,395 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 1
+      },
+      {
+        "30031": 1,
+        "3301": 2
+      },
+      {
+        "30042": 1,
+        "3302": 1
+      },
+      {
+        "30052": 2,
+        "3302": 1
+      },
+      {
+        "30083": 1,
+        "3302": 1
+      },
+      {
+        "30093": 1,
+        "3303": 2
+      }
+    ],
+    "description": "攻击造成<@ba.kw>群体物理伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 55,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "空爆",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 340,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 51,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 736,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 487,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 67,
+            "hpRecoveryPerSec": 0.0,
+            "level": 40,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 920,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_282_catap",
+        "evolveCost": null,
+        "maxLevel": 40,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 487,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 67,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 920,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 617,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.8,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 85,
+            "hpRecoveryPerSec": 0.0,
+            "level": 55,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1150,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_282_catap",
+        "evolveCost": null,
+        "maxLevel": 55,
+        "rangeId": "3-8"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_3",
+    "skills": [
+      {
+        "levelUpCostCond": null,
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_catap_1"
+      }
+    ],
+    "subProfessionId": "aoesniper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": -1.0
+          },
+          "description": "自身部署费用-1",
+          "name": "轻量化",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 10,
+        "duration": 30
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_catap_1": [
+      {
+        "blackboard": {
+          "attack@range_scale": 1.5
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 1.5
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 1.5
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 51,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 1.75
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 1.75
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 1.75
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 29.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@range_scale": 2.0
+        },
+        "description": "普通攻击的爆炸范围提升至<@ba.vup>{attack@range_scale:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "爆破范围提升·α型",
+        "prefabId": "skchr_catap_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "31013": 4,
+        "3302": 6
+      },
+      {
+        "30083": 3,
+        "31023": 3,
+        "3303": 6
+      }
+    ],
+    "description": "只有阻挡敌人时才能够回复技力",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 55,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 55,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "极光",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 413,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 257,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1696,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 582,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 28,
+            "def": 378,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2356,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_422_aurora",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 582,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 378,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2356,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 747,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 30,
+            "def": 512,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3100,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_422_aurora",
+        "evolveCost": {
+          "30052": 2,
+          "30062": 3,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 747,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 512,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3100,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 901,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 640,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 4027,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_422_aurora",
+        "evolveCost": {
+          "30013": 19,
+          "30074": 9,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 3,
+            "31053": 2,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aurora_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31024": 5,
+            "3303": 6
+          },
+          {
+            "30104": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aurora_2"
+      }
+    ],
+    "subProfessionId": "duelist",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.015,
+            "sp_ratio": 0.5
+          },
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复1.5%最大生命值",
+          "name": "低温休憩",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.02,
+            "sp_ratio": 0.5
+          },
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复2%<@ba.talpu>（+0.5%）</>最大生命值",
+          "name": "低温休憩",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.03,
+            "sp_ratio": 0.5
+          },
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3%最大生命值",
+          "name": "低温休憩",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.035,
+            "sp_ratio": 0.5
+          },
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%<@ba.talpu>（+0.5%）</>最大生命值",
+          "name": "低温休憩",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 22,
+        "duration": 50
+      },
+      "Idle": 190,
+      "Skill_2_Begin": 20,
+      "Skill_2_End": 15,
+      "Skill_2_Idle": 40,
+      "Skill_2_Loop": {
+        "OnAttack": 9,
+        "duration": 60
+      },
+      "Skill_Begin": 15,
+      "Skill_End": 15,
+      "Skill_Idle": 40,
+      "Skill_Loop": {
+        "OnAttack": 14,
+        "duration": 50
+      },
+      "Start": {
+        "OnPlayAudio": 30,
+        "OnStart": 30,
+        "duration": 34
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "freeze",
+        "crit",
+        "block"
+      ]
+    },
+    "spec": {
+      "skchr_aurora_2": {
+        "magazine": 9,
+        "reset_attack": true
+      },
+      "uniequip_002_aurora": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_aurora": {
+      "battle": null,
+      "charId": "char_422_aurora",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_aurora",
+      "uniEquipName": "极光证章"
+    },
+    "uniequip_002_aurora": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 60.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sp_recover_ratio": -0.8
+                  },
+                  "overrideDescripton": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aurora_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 75.0,
+            "max_hp": 320.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sp_recover_ratio": -0.8
+                  },
+                  "overrideDescripton": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aurora_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.035,
+                    "sp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低温休憩",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%最大生命值"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "sp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低温休憩",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%<@ba.talpu>（+0.5%）</>最大生命值"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 90.0,
+            "max_hp": 380.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "sp_recover_ratio": -0.8
+                  },
+                  "overrideDescripton": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "aurora_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "sp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低温休憩",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%最大生命值"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.045,
+                    "sp_ratio": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "低温休憩",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4.5%<@ba.talpu>（+0.5%）</>最大生命值"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_422_aurora",
+      "itemCost": {
+        "1": {
+          "30024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "hes-x",
+      "uniEquipId": "uniequip_002_aurora",
+      "uniEquipName": "盾用摄制模块"
+    }
+  },
+  "skill": {
+    "skchr_aurora_1": [
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 0.6,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 0.8,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.0,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.2,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.4,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.6,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.8,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 1.9,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 2.0,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 2.0,
+          "def": 2.1,
+          "one_minus_status_resistance": -0.5,
+          "stun": 5.0
+        },
+        "description": "阻挡数<@ba.vup>+{block_cnt}</>，防御力<@ba.vup>+{def:0%}</>，获得<$ba.buffres>抵抗</>\\n<@ba.rem>技能结束后自身<$ba.stun>晕眩</>{stun}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "固守家园",
+        "prefabId": "skchr_aurora_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_aurora_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "atk_scale": 2.0,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "atk_scale": 2.0,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "atk_scale": 2.0,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "atk_scale": 2.5,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "atk_scale": 2.5,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "atk_scale": 2.5,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "atk_scale": 3.0,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "atk_scale": 3.1,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "atk_scale": 3.2,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "atk_scale": 3.3,
+          "attack@cold": 2.5,
+          "base_attack_time": 0.25
+        },
+        "description": "攻击间隔<@ba.vdown>略微增大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击对目标造成<@ba.vup>{attack@cold}</>秒<$ba.cold>寒冷</>，若目标已经处于<$ba.frozen>冻结</>状态，则改为使本次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>\\n<@ba.rem>攻击装有9发子弹，打完后技能结束（期间可随时停止技能）</>",
+        "duration": 0.0,
+        "durationType": "AMMO",
+        "name": "人工降雪",
+        "prefabId": "skchr_aurora_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

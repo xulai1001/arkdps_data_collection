@@ -1,0 +1,1294 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30061": 4,
+        "3301": 4
+      },
+      {
+        "30012": 4,
+        "3302": 6
+      },
+      {
+        "30022": 5,
+        "3302": 6
+      },
+      {
+        "31053": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡两个敌人，使用<支援装置>协助作战",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "掠风",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 238,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 193,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1182,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 277,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1620,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_433_windft",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 277,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1620,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 357,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2080,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_433_windft",
+        "evolveCost": {
+          "30042": 4,
+          "30052": 2,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 357,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2080,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 565,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 425,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2600,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_433_windft",
+        "evolveCost": {
+          "30054": 7,
+          "30093": 11,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30044": 3,
+            "31043": 1,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "31054": 3,
+            "3303": 6
+          },
+          {
+            "30054": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_windft_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 3,
+            "31013": 2,
+            "3303": 5
+          },
+          {
+            "31014": 6,
+            "31044": 3,
+            "3303": 6
+          },
+          {
+            "30094": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_windft_2"
+      }
+    ],
+    "subProfessionId": "craftsman",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "cnt": 2.0,
+            "duration": 20.0
+          },
+          "description": "携带2个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+5%（持续20秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "cnt": 2.0,
+            "duration": 20.0
+          },
+          "description": "携带2个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+7%<@ba.talpu>（+2%）</>（持续20秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.1,
+            "cnt": 3.0,
+            "duration": 30.0
+          },
+          "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+10%（持续30秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "cnt": 3.0,
+            "duration": 30.0
+          },
+          "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+12%<@ba.talpu>（+2%）</>（持续30秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.15,
+            "cnt": 3.0,
+            "duration": 30.0
+          },
+          "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+15%（持续30秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.17,
+            "cnt": 3.0,
+            "duration": 30.0
+          },
+          "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+17%<@ba.talpu>（+2%）</>（持续30秒）",
+          "name": "共进",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": "token_10023_windft_wrench",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 9,
+        "duration": 30
+      },
+      "Idle": 30,
+      "Skill_1": {
+        "OnAttack": 11,
+        "duration": 33
+      },
+      "Skill_2_Begin": 5,
+      "Skill_2_End": 4,
+      "Skill_2_Idle": 33,
+      "Skill_2_Loop": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "stack"
+      ]
+    },
+    "spec": {
+      "char_433_windft": {
+        "frame_corr": 1,
+        "note": "不计算技力回复"
+      },
+      "skchr_windft_1": {
+        "cast_time": 33,
+        "sim": true
+      },
+      "skchr_windft_2": {
+        "attack_begin": 13
+      },
+      "uniequip_002_windft": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_windft": {
+      "battle": null,
+      "charId": "char_433_windft",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_windft",
+      "uniEquipName": "掠风证章"
+    },
+    "uniequip_002_windft": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "windft_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10023_windft_wrench": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "windft_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10023_windft_wrench",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+18%（持续30秒）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10023_windft_wrench",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%<@ba.talpu>（+2%）</>（持续30秒）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "仅对术师和辅助干员生效，使装备者攻击力+18%（持续30秒）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "仅对术师和辅助干员生效，使装备者攻击力+20%<@ba.talpu>（+2%）</>（持续30秒）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10023_windft_wrench": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 48.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "<支援装置>的持有上限<@ba.kw>+{cnt}</>且部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "windft_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10023_windft_wrench",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（持续30秒）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.22,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10023_windft_wrench",
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+22%<@ba.talpu>（+2%）</>（持续30秒）"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "仅对术师和辅助干员生效的可靠电池，使装备者攻击力+20%（持续30秒）"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.22,
+                    "cnt": 3.0,
+                    "duration": 30.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "共进",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "仅对术师和辅助干员生效，使装备者攻击力+22%<@ba.talpu>（+2%）</>（持续30秒）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10023_windft_wrench": [
+              {
+                "key": "cost",
+                "value": -2.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_433_windft",
+      "itemCost": {
+        "1": {
+          "30084": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "cra-x",
+      "uniEquipId": "uniequip_002_windft",
+      "uniEquipName": "“灵机一动”"
+    }
+  },
+  "skill": {
+    "skchr_windft_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.65,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.75,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.85,
+          "attack@sp": 1.0,
+          "ct": 1.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "attack@sp": 1.0,
+          "ct": 2.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "attack@sp": 1.0,
+          "ct": 3.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "attack@sp": 1.0,
+          "ct": 3.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "attack@sp": 1.0,
+          "ct": 3.0
+        },
+        "description": "下次攻击对周围8格内所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并为所有可靠电池的装备者回复<@ba.vup>{attack@sp}</>点技力\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "此身为筑",
+        "prefabId": "skchr_windft_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_windft_2": [
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.1,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.2,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.3,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.4,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.5,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.6,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.7,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.8,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "base_attack_time": 0.5,
+          "talent_scale": 1.9,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "base_attack_time": 0.5,
+          "talent_scale": 2.0,
+          "windft_s_2_recharge.cnt": 1.0
+        },
+        "description": "攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，天赋的攻击力加成效果提升至<@ba.vup>{talent_scale}</>倍，技能结束后获得一个可靠电池",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "此身为源",
+        "prefabId": "skchr_windft_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

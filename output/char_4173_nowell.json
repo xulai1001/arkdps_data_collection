@@ -1,0 +1,1100 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30033": 3,
+        "3303": 6
+      }
+    ],
+    "description": "拥有较大治疗范围，但在治疗较远目标时治疗量变为<@ba.kw>{heal_scale:0%}</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "诺威尔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 180,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 46,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 750,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 296,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 987,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4173_nowell",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 296,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 987,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 412,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 86,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1175,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4173_nowell",
+        "evolveCost": {
+          "30012": 7,
+          "30042": 3,
+          "3261": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-4"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 412,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 86,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1175,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 516,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 108,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1367,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4173_nowell",
+        "evolveCost": {
+          "31054": 8,
+          "31083": 10,
+          "3263": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-4"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "31043": 5,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31074": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nowell_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "31024": 3,
+            "3303": 5
+          },
+          {
+            "30094": 3,
+            "31034": 5,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31064": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nowell_2"
+      }
+    ],
+    "subProfessionId": "healer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "heal_scale_up": 1.1
+          },
+          "description": "治疗处于异常状态中的友方干员时治疗量提升至110%",
+          "name": "精准配镜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale_up": 1.13
+          },
+          "description": "治疗处于异常状态中的友方干员时治疗量提升至113%<@ba.talpu>（+3%）</>",
+          "name": "精准配镜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale_up": 1.2
+          },
+          "description": "治疗处于异常状态中的友方干员时治疗量提升至120%",
+          "name": "精准配镜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "heal_scale_up": 1.23
+          },
+          "description": "治疗处于异常状态中的友方干员时治疗量提升至123%<@ba.talpu>（+3%）</>",
+          "name": "精准配镜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "heal_scale": 0.8
+        },
+        "overrideDescripton": "拥有较大治疗范围，但在治疗较远目标时治疗量变为<@ba.kw>{heal_scale:0%}</>",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 90
+      },
+      "Idle": 120,
+      "Skill_2": {
+        "OnAttack": 16,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_nowell": {
+      "battle": null,
+      "charId": "char_4173_nowell",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_nowell",
+      "uniEquipName": "诺威尔证章"
+    },
+    "uniequip_002_nowell": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "拥有较大治疗范围，治疗较远目标时治疗量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 33.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "拥有较大治疗范围，治疗较远目标时治疗量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale_up": 1.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精准配镜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗处于异常状态中的友方干员时治疗量提升至130%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale_up": 1.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精准配镜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗处于异常状态中的友方干员时治疗量提升至133%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 38.0,
+            "max_hp": 145.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "拥有较大治疗范围，治疗较远目标时治疗量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "heal_scale_up": 1.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精准配镜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗处于异常状态中的友方干员时治疗量提升至135%"
+                },
+                {
+                  "blackboard": {
+                    "heal_scale_up": 1.38
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精准配镜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗处于异常状态中的友方干员时治疗量提升至138%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4173_nowell",
+      "itemCost": {
+        "1": {
+          "31084": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "wah-y",
+      "uniEquipId": "uniequip_002_nowell",
+      "uniEquipName": "致祖父"
+    }
+  },
+  "skill": {
+    "skchr_nowell_1": [
+      {
+        "blackboard": {
+          "atk": 0.15,
+          "attack_speed": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack_speed": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 35.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 40.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 40.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "步履不停",
+        "prefabId": "skchr_nowell_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nowell_2": [
+      {
+        "blackboard": {
+          "heal_scale": 0.25,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.25,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.25,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.3,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.3,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.3,
+          "interval": 1.0,
+          "max_target": 2.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.3,
+          "interval": 1.0,
+          "max_target": 3.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.35,
+          "interval": 1.0,
+          "max_target": 3.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.4,
+          "interval": 1.0,
+          "max_target": 3.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 0.45,
+          "interval": 1.0,
+          "max_target": 3.0,
+          "nowell_s_2[immediately_heal].heal_scale": 0.0,
+          "one_minus_status_resistance": 0.5,
+          "status_resistance[limit]": 12.0
+        },
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "生命不息",
+        "prefabId": "skchr_nowell_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

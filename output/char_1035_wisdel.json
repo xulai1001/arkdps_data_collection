@@ -1,0 +1,1458 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30023": 7,
+        "3302": 8
+      },
+      {
+        "31043": 5,
+        "31063": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>两次</>物理伤害（第二次为余震，伤害降低至攻击力的一半）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 90,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "维什戴尔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 340,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 128,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 849,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 460,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 23,
+            "def": 167,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1132,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1035_wisdel",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 460,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 167,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1132,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 583,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 209,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1434,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1035_wisdel",
+        "evolveCost": {
+          "30022": 9,
+          "30062": 3,
+          "3241": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-9"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 583,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 209,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1434,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 687,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.1,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 25,
+            "def": 256,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1888,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1035_wisdel",
+        "evolveCost": {
+          "30064": 6,
+          "30145": 3,
+          "3243": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-9"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+32",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 32.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31053": 4,
+            "3303": 8
+          },
+          {
+            "30074": 4,
+            "30084": 8,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31014": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_wisdel_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 7,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31074": 4,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31064": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_wisdel_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31033": 6,
+            "31074": 4,
+            "3303": 8
+          },
+          {
+            "31034": 4,
+            "31054": 7,
+            "3303": 12
+          },
+          {
+            "30054": 4,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10035_wisdel_wward",
+        "skillId": "skchr_wisdel_3"
+      }
+    ],
+    "subProfessionId": "bombarder",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "attack@bomb_atk_scale": 1.2,
+            "attack@main_atk_scale": 1.0,
+            "attack@prob": 0.15,
+            "attack@range_radius": 1.1,
+            "attack@stun": 0.5
+          },
+          "description": "攻击时为主目标附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成120%攻击力的物理伤害并使其<$ba.stun>晕眩</>0.5秒",
+          "name": "好礼",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_atk_scale": 1.3,
+            "attack@main_atk_scale": 1.0,
+            "attack@prob": 0.15,
+            "attack@range_radius": 1.1,
+            "attack@stun": 0.5
+          },
+          "description": "攻击时为主目标附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成130%<@ba.talpu>（+10%）</>攻击力的物理伤害并使其<$ba.stun>晕眩</>0.5秒",
+          "name": "好礼",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_atk_scale": 1.5,
+            "attack@main_atk_scale": 1.15,
+            "attack@prob": 0.15,
+            "attack@range_radius": 1.1,
+            "attack@stun": 1.0
+          },
+          "description": "攻击时对主目标的攻击力提升至115%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成150%攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒",
+          "name": "好礼",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "attack@bomb_atk_scale": 1.6,
+            "attack@main_atk_scale": 1.15,
+            "attack@prob": 0.15,
+            "attack@range_radius": 1.1,
+            "attack@stun": 1.0
+          },
+          "description": "攻击时对主目标的攻击力提升至115%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成160%<@ba.talpu>（+10%）</>攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒",
+          "name": "好礼",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": "部署后立刻在攻击范围内召唤一个魂灵之影，在魂灵之影周围时获得<$ba.camou>迷彩</>",
+          "name": "死魂灵的余息",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10035_wisdel_wward",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "attack@append_atk_scale": 0.5,
+          "attack@enable_third_attack": 0.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_A": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Attack_B": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Attack_C": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Attack_Down_A": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Attack_Down_B": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Attack_Down_C": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Idle": 160,
+      "Skill_1": {
+        "OnAttack": 18,
+        "duration": 63
+      },
+      "Skill_2_Begin": 10,
+      "Skill_2_End": 3,
+      "Skill_2_Idle": 120,
+      "Skill_2_Loop": {
+        "OnAttack": 8,
+        "duration": 42
+      },
+      "Skill_2_Overload_Begin": 5,
+      "Skill_2_Overload_End": 15,
+      "Skill_2_Overload_Idle": 120,
+      "Skill_2_Overload_Loop": {
+        "OnAttack": 8,
+        "duration": 42
+      },
+      "Skill_3_Begin": 25,
+      "Skill_3_End": 15,
+      "Skill_3_Idle": 160,
+      "Skill_3_Loop": {
+        "OnAttack": 16,
+        "OnAttackFinished": 45,
+        "duration": 150,
+        "skill_storage_w": 144
+      },
+      "Skill_Down_3_Idle": 160,
+      "Skill_Down_3_Loop": {
+        "OnAttack": 16,
+        "OnAttackFinished": 45,
+        "duration": 150,
+        "skill_storage_w": 144
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      },
+      "Stun": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_wisdel": {
+      "battle": null,
+      "charId": "char_1035_wisdel",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_wisdel",
+      "uniEquipName": "维什戴尔证章"
+    },
+    "uniequip_002_wisdel": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@enable_third_attack": 1.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@enable_third_attack": 1.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@bomb_atk_scale": 1.7,
+                    "attack@main_atk_scale": 1.2,
+                    "attack@prob": 0.15,
+                    "attack@range_radius": 1.1,
+                    "attack@stun": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好礼",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对主目标的攻击力提升至120%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成170%攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒"
+                },
+                {
+                  "blackboard": {
+                    "attack@bomb_atk_scale": 1.8,
+                    "attack@main_atk_scale": 1.2,
+                    "attack@prob": 0.15,
+                    "attack@range_radius": 1.1,
+                    "attack@stun": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好礼",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对主目标的攻击力提升至120%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成180%<@ba.talpu>（+10%）</>攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "attack@append_atk_scale": 0.5,
+                    "attack@enable_third_attack": 1.0
+                  },
+                  "overrideDescripton": "攻击对小范围的<@ba.kw>地面</>敌人造成<@ba.kw>三次</>物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "attack@bomb_atk_scale": 1.75,
+                    "attack@main_atk_scale": 1.25,
+                    "attack@prob": 0.15,
+                    "attack@range_radius": 1.1,
+                    "attack@stun": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好礼",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对主目标的攻击力提升至125%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成175%攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒"
+                },
+                {
+                  "blackboard": {
+                    "attack@bomb_atk_scale": 1.85,
+                    "attack@main_atk_scale": 1.25,
+                    "attack@prob": 0.15,
+                    "attack@range_radius": 1.1,
+                    "attack@stun": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "好礼",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击时对主目标的攻击力提升至125%并为其附着残影，残影受到维什戴尔的余震影响时有15%概率爆炸，对周围所有敌人造成185%<@ba.talpu>（+10%）</>攻击力的物理伤害并使其<$ba.stun>晕眩</>1秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1035_wisdel",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "bom-x",
+      "uniEquipId": "uniequip_002_wisdel",
+      "uniEquipName": "“祖宗发射器”"
+    }
+  },
+  "skill": {
+    "skchr_wisdel_1": [
+      {
+        "blackboard": {
+          "append_atk_scale": 0.6,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.65,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.7,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.75,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.8,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.85,
+          "stun_duration": 0.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 0.9,
+          "stun_duration": 1.0
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 1.0,
+          "stun_duration": 1.0
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 1.1,
+          "stun_duration": 1.0
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "append_atk_scale": 1.2,
+          "stun_duration": 1.5
+        },
+        "description": "下次攻击额外造成2次余震并使所有目标<$ba.stun>晕眩</><@ba.vup>{stun_duration}</>秒，此次攻击的溅射范围<@ba.vup>略微扩大</>且余震伤害变为攻击力的<@ba.vup>{append_atk_scale:0%}</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "定点清算",
+        "prefabId": "skchr_wisdel_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_wisdel_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack@atk_scale_ol": 0.6,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.12,
+          "attack@atk_scale_ol": 0.6,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "attack@atk_scale_ol": 0.6,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.16,
+          "attack@atk_scale_ol": 0.65,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "attack@atk_scale_ol": 0.65,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@atk_scale_ol": 0.65,
+          "base_attack_time": -0.5
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>略微缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@atk_scale_ol": 0.7,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.28,
+          "attack@atk_scale_ol": 0.75,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@atk_scale_ol": 0.75,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@atk_scale_ol": 0.8,
+          "base_attack_time": -0.7
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>缩短</>，可同时攻击<@ba.vup>3</>名敌人\\n<$ba.overdrive>过载</>：攻击改为攻击力<@ba.vup>{attack@atk_scale_ol:0%}</>的<@ba.vup>4</>连发，随机攻击范围内的目标\\n<@ba.rem>该技能可随时主动关闭</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "饱和复仇",
+        "prefabId": "skchr_wisdel_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_wisdel_3": [
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "attack@atk_scale_3": 1.6,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@atk_scale_3": 1.65,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 68,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@atk_scale_3": 1.7,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 66,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@atk_scale_3": 1.75,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 64,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3,
+          "attack@atk_scale_3": 1.8,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 62,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "attack@atk_scale_3": 1.85,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 1.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "attack@atk_scale_3": 1.9,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 2.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 58,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.6,
+          "attack@atk_scale_3": 2.0,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 2.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 36,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.7,
+          "attack@atk_scale_3": 2.1,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 2.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 38,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "attack@atk_scale_3": 2.2,
+          "attack@prob": 1.0,
+          "attack@trigger_time": 6.0,
+          "base_attack_time": 2.9,
+          "max_cnt": 2.0,
+          "sp": 3.0
+        },
+        "description": "立刻在攻击范围内召唤<@ba.vup>{max_cnt}</>个魂灵之影（最多存在3个，技能结束后保留），攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vdown>大幅增大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale_3:0%}</>，溅射范围<@ba.vup>大幅扩大</>且第一天赋的发动概率提高至<@ba.vup>{attack@prob:0%}</>\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "爆裂黎明",
+        "prefabId": "skchr_wisdel_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

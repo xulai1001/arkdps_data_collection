@@ -1,0 +1,1573 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "3302": 8
+      },
+      {
+        "30063": 3,
+        "31013": 4,
+        "3303": 8
+      }
+    ],
+    "description": "普通攻击连续造成<@ba.kw>两次</>伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 20,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "艾丽妮",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 249,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 151,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1236,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 367,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 214,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1694,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4009_irene",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 367,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 214,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1694,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 282,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2201,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4009_irene",
+        "evolveCost": {
+          "30032": 8,
+          "30042": 4,
+          "3221": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 484,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 282,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2201,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 621,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 23,
+            "def": 349,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2935,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4009_irene",
+        "evolveCost": {
+          "30104": 7,
+          "30125": 4,
+          "3223": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 4,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30094": 9,
+            "3303": 12
+          },
+          {
+            "30044": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_irene_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30043": 4,
+            "30064": 3,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31014": 4,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_irene_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 8,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30104": 8,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30044": 5,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_irene_3"
+      }
+    ],
+    "subProfessionId": "sword",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def_penetrate": 0.3,
+            "prob": 0.5
+          },
+          "description": "对敌人造成物理伤害时有50%概率无视其30%防御力，对空中单位概率提升至100%",
+          "name": "审判之火",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate": 0.5,
+            "prob": 0.5
+          },
+          "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%",
+          "name": "审判之火",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.0,
+            "attack_speed": 18.0
+          },
+          "description": "攻击速度+18，场上有【海怪】敌人时效果翻倍",
+          "name": "净化之剑",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.0,
+            "attack_speed": 21.0
+          },
+          "description": "攻击速度+21<@ba.talpu>（+3）</>，场上有【海怪】敌人时效果翻倍",
+          "name": "净化之剑",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 17,
+        "duration": 39
+      },
+      "Idle": 180,
+      "Skill_1": {
+        "OnAttack": 20,
+        "duration": 39
+      },
+      "Skill_2": {
+        "OnAttack": 8,
+        "duration": 30
+      },
+      "Skill_3_Attack": {
+        "OnAttack": 90,
+        "OnPlayAudio": 108,
+        "duration": 115
+      },
+      "Skill_3_Start": {
+        "OnAttack": 4,
+        "duration": 8
+      },
+      "Start": 30
+    },
+    "options": {
+      "cond_info": 2,
+      "tags": [
+        "cond",
+        "crit"
+      ]
+    },
+    "spec": {
+      "char_4009_irene": {
+        "times": 2
+      },
+      "skchr_irene_1": {
+        "times": 2
+      },
+      "skchr_irene_2": {
+        "attack_begin": 8,
+        "cast_time": 30,
+        "reset_attack": "ogcd"
+      },
+      "skchr_irene_3": {
+        "attack_begin": 4,
+        "cast_time": 123,
+        "reset_attack": "ogcd"
+      },
+      "tachr_4009_irene_1": {
+        "crit": true
+      },
+      "tachr_4009_irene_2": {
+        "cond": true
+      },
+      "uniequip_002_irene": {
+        "override_talent": 2
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_irene": {
+      "battle": null,
+      "charId": "char_4009_irene",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_irene",
+      "uniEquipName": "艾丽妮证章"
+    },
+    "uniequip_002_irene": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 35.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 59.0,
+            "def": 44.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.03,
+                    "attack_speed": 18.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净化之剑",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+18，攻击力+3%，场上有【海怪】敌人时效果翻倍"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.03,
+                    "attack_speed": 21.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净化之剑",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+21<@ba.talpu>（+3）</>，攻击力+3%，场上有【海怪】敌人时效果翻倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 50.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "attack_speed": 18.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净化之剑",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+18，攻击力+5%，场上有【海怪】敌人时效果翻倍"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.05,
+                    "attack_speed": 21.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净化之剑",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击速度+21<@ba.talpu>（+3）</>，攻击力+5%，场上有【海怪】敌人时效果翻倍"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4009_irene",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "swo-y",
+      "uniEquipId": "uniequip_002_irene",
+      "uniEquipName": "厚重的经卷"
+    },
+    "uniequip_003_irene": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "attack_speed": 6.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.5,
+                    "prob": 0.5,
+                    "sp": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "审判之火",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "irene_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 80.0,
+            "attack_speed": 7.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "技能造成的伤害提升<@ba.vup>{value:0%}</>",
+                  "blackboard": {
+                    "damage_scale": 1.1,
+                    "value": 0.1
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "irene_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.55,
+                    "prob": 0.5,
+                    "sp": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "审判之火",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "irene_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4009_irene",
+      "itemCost": {
+        "1": {
+          "30125": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30155": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "swo-x",
+      "uniEquipId": "uniequip_003_irene",
+      "uniEquipName": "审判官口粮"
+    }
+  },
+  "skill": {
+    "skchr_irene_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "levitate": 1.0
+        },
+        "description": "下一次攻击对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，再对其追加一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "起风",
+        "prefabId": "skchr_irene_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_irene_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "levitate": 1.0,
+          "max_target": 4.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "levitate": 1.0,
+          "max_target": 4.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "levitate": 1.0,
+          "max_target": 4.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "levitate": 2.0,
+          "max_target": 5.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "levitate": 2.0,
+          "max_target": 5.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "levitate": 2.0,
+          "max_target": 5.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4,
+          "levitate": 3.0,
+          "max_target": 6.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "levitate": 3.0,
+          "max_target": 6.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "levitate": 3.0,
+          "max_target": 6.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "levitate": 4.0,
+          "max_target": 6.0,
+          "value": 3.0
+        },
+        "description": "对前方范围内最多<@ba.vup>{max_target}</>名地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其中重量小于等于3的目标<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒\\n<@ba.rem>可充能2次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "裂潮",
+        "prefabId": "skchr_irene_2",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_irene_3": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "levitate": 2.0,
+          "multi_atk_scale": 1.8,
+          "multi_hit_interval": 0.375,
+          "multi_times": 8.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "levitate": 2.0,
+          "multi_atk_scale": 1.9,
+          "multi_hit_interval": 0.375,
+          "multi_times": 8.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "levitate": 2.0,
+          "multi_atk_scale": 2.0,
+          "multi_hit_interval": 0.375,
+          "multi_times": 8.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "levitate": 2.0,
+          "multi_atk_scale": 2.0,
+          "multi_hit_interval": 0.3,
+          "multi_times": 10.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "levitate": 2.0,
+          "multi_atk_scale": 2.1,
+          "multi_hit_interval": 0.3,
+          "multi_times": 10.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "levitate": 2.0,
+          "multi_atk_scale": 2.2,
+          "multi_hit_interval": 0.3,
+          "multi_times": 10.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "levitate": 3.0,
+          "multi_atk_scale": 2.3,
+          "multi_hit_interval": 0.3,
+          "multi_times": 10.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "levitate": 3.0,
+          "multi_atk_scale": 2.3,
+          "multi_hit_interval": 0.25,
+          "multi_times": 12.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "levitate": 3.0,
+          "multi_atk_scale": 2.4,
+          "multi_hit_interval": 0.25,
+          "multi_times": 12.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "levitate": 4.0,
+          "multi_atk_scale": 2.5,
+          "multi_hit_interval": 0.25,
+          "multi_times": 12.0
+        },
+        "description": "对周围所有地面敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.levitate>浮空</><@ba.vup>{levitate}</>秒，然后快速轰击<@ba.vup>{multi_times}</>次，每次对随机目标周围小范围内所有敌人造成相当于攻击力<@ba.vup>{multi_atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "判决",
+        "prefabId": "skchr_irene_3",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ]
+  }
+}

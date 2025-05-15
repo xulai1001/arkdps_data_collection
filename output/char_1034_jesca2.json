@@ -1,0 +1,1709 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "31033": 6,
+        "3302": 8
+      },
+      {
+        "30093": 5,
+        "31063": 3,
+        "3303": 8
+      }
+    ],
+    "description": "能够阻挡三个敌人，可以进行远程攻击",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 60,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 60,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "涤火杰西卡",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 269,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 258,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1455,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 346,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 386,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1941,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1034_jesca2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 346,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 386,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1941,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 522,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2589,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1034_jesca2",
+        "evolveCost": {
+          "30032": 10,
+          "30052": 3,
+          "3231": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 433,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 522,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2589,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 716,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3608,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1034_jesca2",
+        "evolveCost": {
+          "30064": 4,
+          "30145": 4,
+          "3233": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "2-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+28",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 28.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30064": 3,
+            "31063": 4,
+            "3303": 8
+          },
+          {
+            "30074": 4,
+            "31064": 8,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31034": 5,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_jesca2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30074": 4,
+            "30083": 8,
+            "3303": 8
+          },
+          {
+            "30044": 7,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30084": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_jesca2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 4,
+            "31064": 4,
+            "3303": 8
+          },
+          {
+            "30074": 9,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30084": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_jesca2_3"
+      }
+    ],
+    "subProfessionId": "shotprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.05
+          },
+          "description": "可以使用一个持续20秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+5%",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.08
+          },
+          "description": "可以使用一个持续20秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+8%<@ba.talpu>（+3%）</>",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.1
+          },
+          "description": "可以使用一个持续35秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+10%",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.13
+          },
+          "description": "可以使用一个持续35秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+13%<@ba.talpu>（+3%）</>",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.15
+          },
+          "description": "可以使用一个持续50秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+15%",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "def": 0.18
+          },
+          "description": "可以使用一个持续50秒的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+18%<@ba.talpu>（+3%）</>",
+          "name": "灵活应变",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": "token_10032_jesca2_jckshd",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "prob": 0.5,
+            "sp": 1.0
+          },
+          "description": "机动盾牌受到伤害时，有50%的概率使涤火杰西卡获得1点技力",
+          "name": "蓄能释放",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.55,
+            "sp": 1.0
+          },
+          "description": "机动盾牌受到伤害时，有55%<@ba.talpu>（+5%）</>的概率使涤火杰西卡获得1点技力",
+          "name": "蓄能释放",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 2,
+        "duration": 36
+      },
+      "Attack_Down": {
+        "OnAttack": 2,
+        "duration": 36
+      },
+      "Idle": 60,
+      "Skill_1_Begin": 10,
+      "Skill_1_Idle": 60,
+      "Skill_1_Loop": {
+        "OnAttack": 2,
+        "OnPlayAudio": 25,
+        "duration": 36
+      },
+      "Skill_2_Begin": 5,
+      "Skill_2_End": 5,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 1,
+        "duration": 11
+      },
+      "Skill_3_Begin": 10,
+      "Skill_3_End": 10,
+      "Skill_3_Idle": 60,
+      "Skill_3_Loop": {
+        "OnAttack": 1,
+        "OnPlayAudio": 30,
+        "duration": 54
+      },
+      "Skill_3_Skill": {
+        "OnAttack": 1,
+        "duration": 54
+      },
+      "Skill_Down_1_Loop": {
+        "OnAttack": 2,
+        "OnPlayAudio": 25,
+        "duration": 36
+      },
+      "Skill_Down_2_Loop": {
+        "OnAttack": 1,
+        "duration": 11
+      },
+      "Skill_Down_3_Begin": 10,
+      "Skill_Down_3_End": 10,
+      "Skill_Down_3_Idle": 60,
+      "Skill_Down_3_Loop": {
+        "OnAttack": 1,
+        "OnPlayAudio": 30,
+        "duration": 54
+      },
+      "Skill_Down_3_Skill": {
+        "OnAttack": 1,
+        "duration": 54
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "skchr_jesca2_1": {
+        "infinity": true
+      },
+      "skchr_jesca2_2": {
+        "attack_begin": 1
+      },
+      "skchr_jesca2_3": {
+        "attack_begin": 1,
+        "magazine": 20
+      },
+      "tachr_1034_jesca2_1": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_jesca2": {
+      "battle": null,
+      "charId": "char_1034_jesca2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_jesca2",
+      "uniEquipName": "涤火杰西卡证章"
+    },
+    "uniequip_002_jesca2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 25.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "jesca2_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 57.0,
+            "def": 31.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "jesca2_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0,
+                    "def": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "灵活应变",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10032_jesca2_jckshd",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用一个持续55秒属性更强的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+15%"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 1.0,
+                    "def": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "灵活应变",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10032_jesca2_jckshd",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用一个持续55秒属性更强的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+18%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "duration": 55.0,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "duration": 55.0,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10032_jesca2_jckshd": [
+              {
+                "key": "max_hp",
+                "value": 300.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 57.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 37.0,
+            "max_hp": 250.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围内敌人的<$ba.invisible>隐匿</>效果失效",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "jesca2_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0,
+                    "def": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "灵活应变",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10032_jesca2_jckshd",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用一个持续60秒属性进一步增强的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+15%"
+                },
+                {
+                  "blackboard": {
+                    "cnt": 1.0,
+                    "def": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "灵活应变",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10032_jesca2_jckshd",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用一个持续60秒属性进一步增强的机动盾牌，机动盾牌只能放置于涤火杰西卡四周，机动盾牌部署后，涤火杰西卡立刻转向盾牌且自身与身后的单位防御力+18%<@ba.talpu>（+3%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "duration": 60.0,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "duration": 60.0,
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 2,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10032_jesca2_jckshd": [
+              {
+                "key": "max_hp",
+                "value": 380.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 79.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_1034_jesca2",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "spt-x",
+      "uniEquipId": "uniequip_002_jesca2",
+      "uniEquipName": "“私家英雄”"
+    }
+  },
+  "skill": {
+    "skchr_jesca2_1": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "def": 0.25,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "def": 0.3,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "def": 0.35,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "def": 0.4,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "def": 0.45,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "def": 0.5,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "def": 0.55,
+          "duration": 20.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "def": 0.6,
+          "duration": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "def": 0.65,
+          "duration": 25.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "def": 0.7,
+          "duration": 30.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，自身与机动盾牌防御力<@ba.vup>+{def:0%}</>，机动盾牌持续时间<@ba.vup>+{duration}</>秒\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "坚守阵线",
+        "prefabId": "skchr_jesca2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_jesca2_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "base_attack_time": -0.9,
+          "prob": 0.75
+        },
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击间隔<@ba.vup>大幅缩小</>，获得<@ba.vup>75%</>的物理和法术闪避",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "掩蔽护卫",
+        "prefabId": "skchr_jesca2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_jesca2_3": [
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.0,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.2,
+          "jesca2_s_3_token[def].def": 0.75
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.1,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.3,
+          "jesca2_s_3_token[def].def": 0.8
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.3,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.35,
+          "jesca2_s_3_token[def].def": 0.9
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.4,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.5,
+          "jesca2_s_3_token[def].def": 1.0
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.5,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.55,
+          "jesca2_s_3_token[def].def": 1.1
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.6,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.6,
+          "jesca2_s_3_token[def].def": 1.2
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.7,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.65,
+          "jesca2_s_3_token[def].def": 1.35
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.8,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.5,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.7,
+          "jesca2_s_3_token[def].def": 1.5
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 2.9,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 5.5,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.75,
+          "jesca2_s_3_token[def].def": 1.6
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ability_range_forward_extend": 1.0,
+          "atk": 3.1,
+          "attack@extrabomb.atk_scale": 2.5,
+          "attack@extrabomb.projectile_range": 1.7,
+          "attack@extrabomb.stun": 6.0,
+          "attack@trigger_time": 20.0,
+          "base_attack_time": 0.6,
+          "jesca2_s_3[def].def": 0.8,
+          "jesca2_s_3_token[def].def": 1.7
+        },
+        "description": "攻击距离<@ba.vup>+1</>，攻击间隔<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{jesca2_s_3[def].def:0%}</>，机动盾牌防御力<@ba.vup>+{jesca2_s_3_token[def].def:0%}</>\\n机动盾牌存在时，立刻向前发射一枚炮弹，命中或到达终点时对范围内所有敌人造成相当于攻击力<@ba.vup>{attack@extrabomb.atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{attack@extrabomb.stun}</>秒\\n<@ba.rem>攻击装有{attack@trigger_time}发弹药，打完后结束（可随时停止技能）</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "饱和迸射",
+        "prefabId": "skchr_jesca2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

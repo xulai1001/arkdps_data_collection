@@ -1,0 +1,1346 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 4,
+        "30061": 4,
+        "3301": 5
+      },
+      {
+        "30012": 7,
+        "3302": 8
+      },
+      {
+        "30022": 4,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30083": 6,
+        "3302": 8
+      },
+      {
+        "30073": 6,
+        "31023": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素损伤</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "塑心",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 231,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 48,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 484,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 702,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_245_cello",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 321,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 70,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 702,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 93,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 936,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_245_cello",
+        "evolveCost": {
+          "30012": 7,
+          "30052": 7,
+          "3271": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 93,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 936,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 485,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1201,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_245_cello",
+        "evolveCost": {
+          "30104": 5,
+          "30115": 4,
+          "3273": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "y-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 7,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "30074": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30074": 4,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cello_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 4,
+            "31083": 5,
+            "3303": 8
+          },
+          {
+            "30044": 7,
+            "30104": 4,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31034": 3,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cello_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 7,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "31024": 4,
+            "31034": 7,
+            "3303": 12
+          },
+          {
+            "30014": 6,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cello_3"
+      }
+    ],
+    "subProfessionId": "ritualist",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "ep_damage_ratio": 0.06,
+            "sluggish": 0.0
+          },
+          "description": "使攻击范围内敌人每秒受到相当于攻击力6%的<$ba.dt.apoptosis2>凋亡损伤</>",
+          "name": "无词哀歌",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_ratio": 0.08,
+            "sluggish": 0.2
+          },
+          "description": "使攻击范围内敌人每秒受到相当于攻击力8%的<$ba.dt.apoptosis2>凋亡损伤</>并<$ba.sluggish>停顿</>0.2秒",
+          "name": "无词哀歌",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_ratio": 0.1,
+            "sluggish": 0.2
+          },
+          "description": "使攻击范围内敌人每秒受到相当于攻击力10%的<$ba.dt.apoptosis2>凋亡损伤</>并<$ba.sluggish>停顿</>0.2秒",
+          "name": "无词哀歌",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "ep_damage_scale": 1.2
+          },
+          "description": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高20%",
+          "name": "精神逆构",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_scale": 1.22
+          },
+          "description": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高22%<@ba.talpu>（+2%）</>",
+          "name": "精神逆构",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 48
+      },
+      "Idle": 240,
+      "Skill_1": {
+        "OnAttack": 16,
+        "duration": 48
+      },
+      "Skill_2_Attack": {
+        "OnAttack": 26,
+        "duration": 48
+      },
+      "Skill_2_Begin": 7,
+      "Skill_2_End": 10,
+      "Skill_2_Idle": 30,
+      "Skill_3_Begin": 10,
+      "Skill_3_End": 50,
+      "Skill_3_Loop": 180,
+      "Start": {
+        "OnStart": 8,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_cello": {
+      "battle": null,
+      "charId": "char_245_cello",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_cello",
+      "uniEquipName": "塑心证章"
+    },
+    "uniequip_002_cello": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 135.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cello_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cello_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.03,
+                    "ep_damage_scale": 1.28
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神逆构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高28%，<$ba.dt.apoptosis2>凋亡损伤</>爆发期间受到3%的<$ba.elementfragile>元素脆弱</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.03,
+                    "ep_damage_scale": 1.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神逆构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高30%<@ba.talpu>（+2%）</>，<$ba.dt.apoptosis2>凋亡损伤</>爆发期间受到3%的<$ba.elementfragile>元素脆弱</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cello_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "对精英和领袖敌人造成的元素损伤提升<@ba.kw>18%</>",
+                  "blackboard": {
+                    "ep_damage_scale": 1.18
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cello_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 1.05,
+                    "ep_damage_scale": 1.33
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神逆构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高33%，<$ba.dt.apoptosis2>凋亡损伤</>爆发期间受到5%的<$ba.elementfragile>元素脆弱</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 1.05,
+                    "ep_damage_scale": 1.35
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "精神逆构",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内敌人受到的<$ba.dt.apoptosis2>凋亡损伤</>提高35%<@ba.talpu>（+2%）</>，<$ba.dt.apoptosis2>凋亡损伤</>爆发期间受到5%的<$ba.elementfragile>元素脆弱</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "cello_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_245_cello",
+      "itemCost": {
+        "1": {
+          "30155": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "rit-x",
+      "uniEquipId": "uniequip_002_cello",
+      "uniEquipName": "强弱法"
+    }
+  },
+  "skill": {
+    "skchr_cello_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "ep_damage_ratio": 0.75
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能1次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.9,
+          "ep_damage_ratio": 0.75
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能1次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "ep_damage_ratio": 0.75
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能1次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "ep_damage_ratio": 0.85
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能2次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "ep_damage_ratio": 0.85
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能2次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.3,
+          "ep_damage_ratio": 0.85
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能2次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "ep_damage_ratio": 0.95
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能2次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "ep_damage_ratio": 1.0
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能3次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "ep_damage_ratio": 1.05
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能3次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "ep_damage_ratio": 1.1
+        },
+        "description": "对一个未处于损伤爆发期间的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害并附带<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>\\n<@ba.rem>可充能3次，技能未开启时无法普通攻击</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“黄金的狂喜”",
+        "prefabId": "skchr_cello_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_cello_2": [
+      {
+        "blackboard": {
+          "attack_speed": 15.0,
+          "ep_damage_ratio": 0.1
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0,
+          "ep_damage_ratio": 0.1
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0,
+          "ep_damage_ratio": 0.1
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0,
+          "ep_damage_ratio": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0,
+          "ep_damage_ratio": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0,
+          "ep_damage_ratio": 0.15
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "ep_damage_ratio": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "ep_damage_ratio": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0,
+          "ep_damage_ratio": 0.2
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 60.0,
+          "ep_damage_ratio": 0.25
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外攻击<@ba.vup>1</>个目标，自身和攻击范围内攻击力最高的另一名友方干员对敌人造成伤害时附带自身<@ba.vup>{ep_damage_ratio:0%}</>攻击力的<$ba.dt.apoptosis2>凋亡损伤</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "“安魂的弥撒”",
+        "prefabId": "skchr_cello_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_cello_3": [
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "cello_s_3[atk].atk": 0.15,
+          "cello_s_3[def].def": 0.15,
+          "cello_s_3[max_hp].max_hp": 0.15,
+          "scale_delta_to_one": 1.6
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "cello_s_3[atk].atk": 0.15,
+          "cello_s_3[def].def": 0.15,
+          "cello_s_3[max_hp].max_hp": 0.15,
+          "scale_delta_to_one": 1.7
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "cello_s_3[atk].atk": 0.15,
+          "cello_s_3[def].def": 0.15,
+          "cello_s_3[max_hp].max_hp": 0.15,
+          "scale_delta_to_one": 1.8
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 24,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "cello_s_3[atk].atk": 0.2,
+          "cello_s_3[def].def": 0.2,
+          "cello_s_3[max_hp].max_hp": 0.2,
+          "scale_delta_to_one": 1.9
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.15,
+          "cello_s_3[atk].atk": 0.2,
+          "cello_s_3[def].def": 0.2,
+          "cello_s_3[max_hp].max_hp": 0.2,
+          "scale_delta_to_one": 2.0
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 28,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.25,
+          "cello_s_3[atk].atk": 0.2,
+          "cello_s_3[def].def": 0.2,
+          "cello_s_3[max_hp].max_hp": 0.2,
+          "scale_delta_to_one": 2.1
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 32.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.4,
+          "cello_s_3[atk].atk": 0.25,
+          "cello_s_3[def].def": 0.25,
+          "cello_s_3[max_hp].max_hp": 0.25,
+          "scale_delta_to_one": 2.2
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 34.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 32,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.55,
+          "cello_s_3[atk].atk": 0.25,
+          "cello_s_3[def].def": 0.25,
+          "cello_s_3[max_hp].max_hp": 0.25,
+          "scale_delta_to_one": 2.3
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 36.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.65,
+          "cello_s_3[atk].atk": 0.25,
+          "cello_s_3[def].def": 0.25,
+          "cello_s_3[max_hp].max_hp": 0.25,
+          "scale_delta_to_one": 2.4
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 38.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 37,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.8,
+          "cello_s_3[atk].atk": 0.3,
+          "cello_s_3[def].def": 0.3,
+          "cello_s_3[max_hp].max_hp": 0.3,
+          "scale_delta_to_one": 2.5
+        },
+        "description": "<@ba.vdown>停止攻击</>，攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，第二天赋效果提升至<@ba.vup>{scale_delta_to_one}</>倍；技能期间使攻击范围内其他干员生命上限最高的生命上限<@ba.vup>+{cello_s_3[max_hp].max_hp:0%}</>、攻击力最高的攻击力<@ba.vup>+{cello_s_3[atk].atk:0%}</>、防御力最高的防御力<@ba.vup>+{cello_s_3[def].def:0%}</>",
+        "duration": 40.0,
+        "durationType": "NONE",
+        "name": "“自由的探戈”",
+        "prefabId": "skchr_cello_3",
+        "rangeId": "y-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

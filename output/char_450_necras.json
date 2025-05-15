@@ -1,0 +1,1256 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 4,
+        "30051": 6,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "31083": 4,
+        "3302": 8
+      },
+      {
+        "30083": 5,
+        "31043": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，可以通过击倒敌人生成<@ba.kw>召唤物</>，可攻击到自身<@ba.kw>召唤物</>阻挡的敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 45,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "死芒",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 309,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 54,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 799,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 424,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1111,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_450_necras",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 424,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 81,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1111,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 531,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 110,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1443,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_450_necras",
+        "evolveCost": {
+          "30032": 8,
+          "30042": 4,
+          "3251": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 531,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 110,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1443,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 633,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 133,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1924,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_450_necras",
+        "evolveCost": {
+          "30115": 4,
+          "31064": 6,
+          "3253": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 4,
+            "31083": 5,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30054": 8,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31064": 2,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_necras_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 8
+          },
+          {
+            "31024": 4,
+            "31084": 8,
+            "3303": 12
+          },
+          {
+            "30044": 1,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_necras_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31034": 4,
+            "31073": 3,
+            "3303": 8
+          },
+          {
+            "30054": 4,
+            "31044": 8,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31054": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_necras_3"
+      }
+    ],
+    "subProfessionId": "soulcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.5,
+            "def": 0.2,
+            "max_hp": 0.5,
+            "max_token_cnt": 2.0
+          },
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤2个，若无法再次召唤则使一个悲叹的仆役升级（提升生命、攻击和防御）",
+          "name": "复燃",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10043_necras_skeltn",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.5,
+            "block_cnt": 1.0,
+            "def": 0.2,
+            "max_hp": 0.5,
+            "max_token_cnt": 3.0
+          },
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数、生命、攻击和防御）",
+          "name": "复燃",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10043_necras_skeltn",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 1.0,
+            "block_cnt": 1.0,
+            "def": 0.4,
+            "max_hp": 1.0,
+            "max_token_cnt": 3.0
+          },
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）",
+          "name": "复燃",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10043_necras_skeltn",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.4,
+            "hp_ratio": 0.5
+          },
+          "description": "自身和召唤物攻击生命低于50%的敌人时攻击力提升至140%",
+          "name": "回光黯淡",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.45,
+            "hp_ratio": 0.6
+          },
+          "description": "自身和召唤物攻击生命低于60%<@ba.talpu>（+10%）</>的敌人时攻击力提升至145%<@ba.talpu>（+5%）</>",
+          "name": "回光黯淡",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": null,
+          "name": null,
+          "prefabKey": "3",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 2.0,
+            "base_attack_time": 0.7,
+            "block_cnt": 1.0,
+            "def": 1.0,
+            "magic_resistance": 10.0,
+            "max_hp": 2.0
+          },
+          "description": null,
+          "name": null,
+          "prefabKey": "4",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 48
+      },
+      "Idle": 180,
+      "Skill_1": {
+        "OnAttack": 15,
+        "duration": 48
+      },
+      "Skill_2_Begin": {
+        "OnAttack": 20,
+        "duration": 36
+      },
+      "Skill_2_End": 30,
+      "Skill_2_Loop": 180,
+      "Skill_3_Begin": {
+        "OnAttack": 17,
+        "duration": 22
+      },
+      "Skill_3_End": 10,
+      "Skill_3_Idle": 180,
+      "Skill_3_Loop": {
+        "OnAttack": 17,
+        "duration": 48
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": {
+    "skchr_necras_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.7,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.7,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "range_radius": 1.5
+        },
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "噩愿",
+        "prefabId": "skchr_necras_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_necras_2": [
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 0.7,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 0.8,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 0.9,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.0,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.1,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.2,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.3,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.4,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.5,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "additional_token_cnt": 2.0,
+          "atk_scale": 1.6,
+          "hit_duration": 12.0,
+          "interval": 0.5,
+          "max_target": 2.0
+        },
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "duration": 12.0,
+        "durationType": "NONE",
+        "name": "折朽",
+        "prefabId": "skchr_necras_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_necras_3": [
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 4.5,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 4.8,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 5.2,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 5.5,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 5.8,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 6.2,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 6.5,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 2.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 7.0,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 3.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 7.5,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 3.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@ability_range_forward_extend": 1.0,
+          "attack@atk": 0.8,
+          "attack@atk_scale": 8.0,
+          "attack@block_cnt": 1.0,
+          "attack@def": 0.4,
+          "attack@hp_ratio": 0.2,
+          "attack@magic_resistance": 0.0,
+          "attack@max_hp": 0.8,
+          "attack@max_stack_cnt": 6.0,
+          "attack@max_valid_stack_cnt": -1.0,
+          "attack@necras_s_3[attack_cnt].max_stack_cnt": 3.0
+        },
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "冠死以冕",
+        "prefabId": "skchr_necras_3",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

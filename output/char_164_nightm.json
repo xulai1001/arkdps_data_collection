@@ -1,0 +1,1166 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30063": 3,
+        "3302": 6
+      },
+      {
+        "30053": 3,
+        "30073": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "夜魔",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 281,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 45,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 658,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 396,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 941,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_164_nightm",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 396,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 77,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 941,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1223,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_164_nightm",
+        "evolveCost": {
+          "30012": 7,
+          "30042": 3,
+          "3251": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 522,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 107,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1223,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 622,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 20,
+            "def": 120,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1510,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_164_nightm",
+        "evolveCost": {
+          "30024": 7,
+          "30083": 14,
+          "3253": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+26",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 26.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nightm_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30014": 3,
+            "30094": 6,
+            "3303": 6
+          },
+          {
+            "30034": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nightm_2"
+      }
+    ],
+    "subProfessionId": "corecaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.09,
+            "prob": 0.2
+          },
+          "description": "装备技能1时获得20%的物理和法术闪避，装备技能2时获得+9%攻击力",
+          "name": "表里人格",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "prob": 0.25
+          },
+          "description": "装备技能1时获得25%<@ba.talpu>（+5%）</>的物理和法术闪避，装备技能2时获得+12%<@ba.talpu>（+3%）</>攻击力",
+          "name": "表里人格",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.15,
+            "prob": 0.4
+          },
+          "description": "装备技能1时获得40%的物理和法术闪避，装备技能2时获得+15%攻击力",
+          "name": "表里人格",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.18,
+            "prob": 0.45
+          },
+          "description": "装备技能1时获得45%<@ba.talpu>（+5%）</>的物理和法术闪避，装备技能2时获得+18%<@ba.talpu>（+3%）</>攻击力",
+          "name": "表里人格",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 22,
+        "duration": 54
+      },
+      "Idle": 120,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_nightm_1": {
+        "damage_type": 1
+      },
+      "uniequip_002_nightm": {
+        "note": "不考虑模组额外技力",
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_nightm": {
+      "battle": null,
+      "charId": "char_164_nightm",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_nightm",
+      "uniEquipName": "夜魔证章"
+    },
+    "uniequip_002_nightm": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "attack_speed": 3.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>1</>点技力",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "nightm_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "attack_speed": 4.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>1</>点技力",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "nightm_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "prob": 0.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "表里人格",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "装备技能1时获得45%的物理和法术闪避，装备技能2时获得+18%攻击力"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.21,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "表里人格",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "装备技能1时获得50%<@ba.talpu>（+5%）</>的物理和法术闪避，装备技能2时获得+21%<@ba.talpu>（+3%）</>攻击力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "attack_speed": 5.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "普通攻击命中精英或领袖敌人时获得<@ba.kw>1</>点技力",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "nightm_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "prob": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "表里人格",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "装备技能1时获得50%的物理和法术闪避，装备技能2时获得+20%攻击力"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.23,
+                    "prob": 0.55
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "表里人格",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "装备技能1时获得55%<@ba.talpu>（+5%）</>的物理和法术闪避，装备技能2时获得+23%<@ba.talpu>（+3%）</>攻击力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_164_nightm",
+      "itemCost": {
+        "1": {
+          "30044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "ccr-y",
+      "uniEquipId": "uniequip_002_nightm",
+      "uniEquipName": "“两生花”"
+    }
+  },
+  "skill": {
+    "skchr_nightm_1": [
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.4,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.45,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.5,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.55,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.6,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.65,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 35,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.7,
+          "attack@max_target": 1.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.8,
+          "attack@max_target": 2.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 43,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.9,
+          "attack@max_target": 2.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 46,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 1.0,
+          "attack@max_target": 2.0
+        },
+        "description": "每次攻击对敌人造成伤害的同时会对范围内至多<@ba.vup>{attack@max_target}</>名友方单位恢复相当于伤害量<@ba.vup>{attack@heal_scale:0%}</>的生命值",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "灵魂汲取",
+        "prefabId": "skchr_nightm_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nightm_2": [
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 5.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 6.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 6.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 6.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 7.0,
+          "interval": 0.066,
+          "max_target": 3.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 8.0,
+          "interval": 0.066,
+          "max_target": 4.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 9.0,
+          "interval": 0.066,
+          "max_target": 4.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "duration": 10.0,
+          "interval": 0.066,
+          "max_target": 5.0,
+          "move_speed": -0.6,
+          "value": 1200.0
+        },
+        "description": "立即对攻击范围内最多<@ba.vup>{max_target}</>名敌人施加梦魇效果：\\n敌人的移动速度<@ba.vup>-{-move_speed:0%}</>，并令其在移动时受到正比于距离的<@ba.vup>真实</>伤害，持续<@ba.vup>{duration}</>秒",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "夜魇魔影",
+        "prefabId": "skchr_nightm_2",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

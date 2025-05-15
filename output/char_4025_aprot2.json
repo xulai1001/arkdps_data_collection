@@ -1,0 +1,878 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30063": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能开启时普通攻击会造成法术伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "集成战略获得",
+    "name": "暮落",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 286,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 221,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1234,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 403,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 325,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 5.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1691,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4025_aprot2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 403,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 325,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1691,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 538,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 23,
+            "def": 440,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2255,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4025_aprot2",
+        "evolveCost": {
+          "30032": 5,
+          "30052": 2,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 538,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 440,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2255,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 649,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 25,
+            "def": 550,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3090,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4025_aprot2",
+        "evolveCost": {
+          "30104": 7,
+          "31013": 11,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31014": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aprot2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 6,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30014": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_aprot2_2"
+      }
+    ],
+    "subProfessionId": "artsprotector",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.0,
+            "attack_speed": 10.0
+          },
+          "description": "在【傀影与猩红孤钻】中，攻击速度+10",
+          "name": "回忆之地",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.05,
+            "attack_speed": 20.0
+          },
+          "description": "在【傀影与猩红孤钻】中，攻击力+5%，攻击速度+20",
+          "name": "回忆之地",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.15,
+            "attack_speed": 30.0
+          },
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30",
+          "name": "回忆之地",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "duration": 3.0,
+            "magic_resistance": -0.25,
+            "prob": 0.2
+          },
+          "description": "攻击时有20%的几率使目标法术抗性-25%，持续3秒",
+          "name": "厄运宣告",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 3.0,
+            "magic_resistance": -0.25,
+            "prob": 0.25
+          },
+          "description": "攻击时有25%<@ba.talpu>（+5%）</>的几率使目标法术抗性-25%，持续3秒",
+          "name": "厄运宣告",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 26,
+        "duration": 50
+      },
+      "Idle": 120,
+      "Skill_2_Begin": 25,
+      "Skill_2_End": 10,
+      "Skill_2_Loop": 50,
+      "Skill_Begin": 25,
+      "Skill_End": 10,
+      "Skill_Idle": 30,
+      "Skill_Loop": {
+        "OnAttack": 0,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond"
+      ]
+    },
+    "spec": {
+      "char_4025_aprot2": {
+        "note": "假设全程覆盖Debuff"
+      },
+      "skchr_aprot2_1": {
+        "damage_type": 1
+      },
+      "skchr_aprot2_2": {
+        "damage_type": 1
+      },
+      "tachr_4025_aprot2_1": {
+        "cond": true
+      },
+      "tachr_4025_aprot2_2": {
+        "keep_debuff": true
+      }
+    }
+  },
+  "equip": null,
+  "skill": {
+    "skchr_aprot2_1": [
+      {
+        "blackboard": {
+          "base_attack_time": -0.15,
+          "max_hp": 0.1
+        },
+        "description": "攻击间隔<@ba.vup>略微缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.15,
+          "max_hp": 0.15
+        },
+        "description": "攻击间隔<@ba.vup>略微缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.15,
+          "max_hp": 0.2
+        },
+        "description": "攻击间隔<@ba.vup>略微缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.25,
+          "max_hp": 0.2
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.25,
+          "max_hp": 0.25
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.25,
+          "max_hp": 0.3
+        },
+        "description": "攻击间隔<@ba.vup>小幅度缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.35,
+          "max_hp": 0.3
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.35,
+          "max_hp": 0.4
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.35,
+          "max_hp": 0.5
+        },
+        "description": "攻击间隔<@ba.vup>缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "base_attack_time": -0.45,
+          "max_hp": 0.5
+        },
+        "description": "攻击间隔<@ba.vup>较大幅度缩短</>，生命上限<@ba.vup>+{max_hp:0%}</>，同时攻击所有阻挡的敌人",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "速战速决",
+        "prefabId": "skchr_aprot2_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_aprot2_2": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.55,
+          "attack@times": 4.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.57,
+          "attack@times": 4.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.6,
+          "attack@times": 4.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.6,
+          "attack@times": 5.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.63,
+          "attack@times": 5.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.65,
+          "attack@times": 5.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.65,
+          "attack@times": 6.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.7,
+          "attack@times": 6.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.75,
+          "attack@times": 6.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 0.8,
+          "attack@times": 6.0,
+          "hp_ratio": 0.05
+        },
+        "description": "每秒流失<@ba.vdown>{hp_ratio:0%}</>生命，攻击范围<@ba.vup>扩大</>，每次攻击变为攻击力<@ba.vup>{attack@atk_scale:0%}</>的<@ba.vup>{attack@times}</>连发，随机攻击范围内的目标",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "燃命狂欢",
+        "prefabId": "skchr_aprot2_2",
+        "rangeId": "2-5",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE"
+        }
+      }
+    ]
+  }
+}

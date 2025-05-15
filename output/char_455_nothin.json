@@ -1,0 +1,1164 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "3302": 6
+      },
+      {
+        "31013": 3,
+        "31033": 3,
+        "3303": 6
+      }
+    ],
+    "description": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒<@ba.kw>消耗</>3点部署费用（不足时自动撤退）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "乌有",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 346,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 6,
+            "def": 204,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1165,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 474,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 6,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1534,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_455_nothin",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 474,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 262,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1534,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 601,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 336,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1894,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_455_nothin",
+        "evolveCost": {
+          "30012": 4,
+          "30062": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 601,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 336,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1894,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 725,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 8,
+            "def": 396,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2398,
+            "respawnTime": 25,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_455_nothin",
+        "evolveCost": {
+          "30064": 6,
+          "30083": 10,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-3秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -3.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31024": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nothin_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30093": 4,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31014": 5,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_nothin_2"
+      }
+    ],
+    "subProfessionId": "merchant",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk_scale": 1.25,
+            "delay": 4.0,
+            "stun": 3.0
+          },
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至125%并<$ba.stun>晕眩</>目标3秒",
+          "name": "出其不意",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.3,
+            "delay": 4.0,
+            "stun": 3.0
+          },
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至130%<@ba.talpu>（+5%）</>并<$ba.stun>晕眩</>目标3秒",
+          "name": "出其不意",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.5,
+            "delay": 4.0,
+            "stun": 4.0
+          },
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至150%并<$ba.stun>晕眩</>目标4秒",
+          "name": "出其不意",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk_scale": 1.55,
+            "delay": 4.0,
+            "stun": 4.0
+          },
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至155%<@ba.talpu>（+5%）</>并<$ba.stun>晕眩</>目标4秒",
+          "name": "出其不意",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "cost": -3.0,
+          "interval": 3.0
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 11,
+        "duration": 33
+      },
+      "Idle": 40,
+      "Idle_2": 40,
+      "Skill_1_Begin": {
+        "OnAttack": 24,
+        "duration": 24
+      },
+      "Skill_1_End": 16,
+      "Skill_1_Loop": 25,
+      "Skill_1_die": 25,
+      "Skill_2_Begin": {
+        "OnAttack": 13,
+        "OnPlayAudio": 24,
+        "duration": 33
+      },
+      "Skill_2_End": 10,
+      "Skill_2_Loop": {
+        "OnAttack": 16,
+        "duration": 40
+      },
+      "Start": {
+        "OnStart": 8,
+        "duration": 20
+      }
+    },
+    "options": {
+      "cond_info": 1,
+      "tags": [
+        "cond",
+        "short_mode"
+      ]
+    },
+    "spec": {
+      "uniequip_002_nothin": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_nothin": {
+      "battle": null,
+      "charId": "char_455_nothin",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_nothin",
+      "uniEquipName": "乌有证章"
+    },
+    "uniequip_002_nothin": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.65,
+                    "delay": 4.0,
+                    "stun": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "出其不意",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至165%并<$ba.stun>晕眩</>目标5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.7,
+                    "delay": 4.0,
+                    "stun": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "出其不意",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至170%<@ba.talpu>（+5%）</>并<$ba.stun>晕眩</>目标5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 240.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "cost": -2.0,
+                    "interval": 3.0
+                  },
+                  "overrideDescripton": "再部署时间<@ba.kw>减少</>，撤退时不返还<@ba.kw>部署费用</>，在场时每3秒消耗<@ba.kw>2</>点部署费用（不足时自动撤退）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk_scale": 1.75,
+                    "delay": 3.0,
+                    "stun": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "出其不意",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "如果3秒内没有主动攻击过，下一次攻击的攻击力提升至175%并<$ba.stun>晕眩</>目标5秒"
+                },
+                {
+                  "blackboard": {
+                    "atk_scale": 1.8,
+                    "delay": 3.0,
+                    "stun": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "出其不意",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "如果3秒内没有主动攻击过，下一次攻击的攻击力提升至180%<@ba.talpu>（+5%）</>并<$ba.stun>晕眩</>目标5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_455_nothin",
+      "itemCost": {
+        "1": {
+          "30054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31034": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "mer-x",
+      "uniEquipId": "uniequip_002_nothin",
+      "uniEquipName": "“檐下听雨”"
+    }
+  },
+  "skill": {
+    "skchr_nothin_1": [
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.06,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.07,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.08,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.09,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.1,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.11,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.12,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.13,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.14,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.15,
+          "max_hp_ratio": 0.2,
+          "taunt_level": -1.0
+        },
+        "description": "主动开启：当生命低于<@ba.vup>{max_hp_ratio:0%}</>时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值\\n被动效果：<@ba.rem>携带此技能时阻挡数+1</>；",
+        "duration": 5.0,
+        "durationType": "NONE",
+        "name": "知难而退",
+        "prefabId": "skchr_nothin_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_nothin_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack_speed": 15.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -20.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.3
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23,
+          "attack_speed": 15.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -20.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.3
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack_speed": 15.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -20.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.3
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 20.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -25.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.35
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33,
+          "attack_speed": 20.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -25.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.35
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36,
+          "attack_speed": 20.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -25.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.35
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 25.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -30.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.4
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 25.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -30.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.45
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "attack_speed": 28.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -30.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.45
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack_speed": 28.0,
+          "block_cnt": 1.0,
+          "nothin_s_2[a][attack_speed_down].attack_speed": -35.0,
+          "nothin_s_2[a][attack_speed_down].duration": 5.0,
+          "prob": 0.5
+        },
+        "description": "技能开启时，攻击力<@ba.vup>+{atk:0%}</>，且以下三种效果中随机获得一种：每次攻击使目标攻击速度<@ba.vup>{nothin_s_2[a][attack_speed_down].attack_speed}</>（持续<@ba.vup>{nothin_s_2[a][attack_speed_down].duration}</>秒且不叠加）；攻击速度<@ba.vup>+{attack_speed}</>；获得<@ba.vup>+{prob:0%}</>的物理闪避，阻挡数<@ba.vup>+{block_cnt}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>；",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "阴晴圆缺",
+        "prefabId": "skchr_nothin_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

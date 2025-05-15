@@ -1,0 +1,1978 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30031": 6,
+        "30041": 4,
+        "3301": 5
+      },
+      {
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "31013": 5,
+        "3302": 8
+      },
+      {
+        "30013": 5,
+        "30063": 4,
+        "3303": 8
+      }
+    ],
+    "description": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "缪尔赛思",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 210,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 40,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 811,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 309,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1159,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_249_mlyss",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 309,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 68,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1159,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1486,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_249_mlyss",
+        "evolveCost": {
+          "30012": 6,
+          "30022": 10,
+          "3211": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 407,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 98,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1486,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 497,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 117,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1813,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_249_mlyss",
+        "evolveCost": {
+          "30094": 5,
+          "30125": 4,
+          "3213": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-3"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 8
+          },
+          {
+            "31054": 8,
+            "31064": 4,
+            "3303": 12
+          },
+          {
+            "30044": 3,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mlyss_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 6,
+            "30104": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30074": 10,
+            "3303": 12
+          },
+          {
+            "30155": 6,
+            "31024": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mlyss_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 7,
+            "30084": 4,
+            "3303": 8
+          },
+          {
+            "30044": 4,
+            "30094": 7,
+            "3303": 12
+          },
+          {
+            "30074": 7,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_mlyss_3"
+      }
+    ],
+    "subProfessionId": "tactician",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可召唤流形来复制待部署干员的少量属性（生命上限、攻击、防御、法抗、阻挡数、攻击间隔、攻击范围、伤害类型、根据近/远程位获得特殊特性）协助作战，其被击败后会在30秒后自动刷新",
+          "name": "净水即生命",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10030_mlyss_wtrman",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可召唤流形来复制待部署干员的部分属性（生命上限、攻击、防御、法抗、阻挡数、攻击间隔、攻击范围、伤害类型、根据近/远程位获得特殊特性）协助作战，其被击败后会在28秒后自动刷新",
+          "name": "净水即生命",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10030_mlyss_wtrman",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0
+          },
+          "description": "可召唤流形来复制待部署干员的大部分属性（生命上限、攻击、防御、法抗、阻挡数、攻击间隔、攻击范围、伤害类型、根据近/远程位获得特殊特性）协助作战，其被击败后会在25秒后自动刷新",
+          "name": "净水即生命",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10030_mlyss_wtrman",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "cost": -2.0,
+            "runtime_cost": -1.0
+          },
+          "description": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-1",
+          "name": "开源节流",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": -2.0,
+            "runtime_cost": -2.0
+          },
+          "description": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-2<@ba.talpu>（+1）</>",
+          "name": "开源节流",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.5
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Idle": 90,
+      "Skill_1": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Skill_2_Begin": 5,
+      "Skill_2_End": 5,
+      "Skill_2_Idle": 30,
+      "Skill_2_Loop": {
+        "OnAttack": 11,
+        "duration": 30
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 5,
+      "Skill_3_Idle": 30,
+      "Skill_3_loop": {
+        "OnAttack": 12,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": "trait",
+      "tags": [
+        "token",
+        "cond",
+        "mlyss_count"
+      ]
+    },
+    "spec": {
+      "char_249_mlyss": {
+        "alert": "缪尔赛思计算分身输出的方法：<br>(1) 勾选“计算召唤物数据”<br>(2) 第一列的干员固定为复制目标，在第2-4列计算复制后“流形”的输出<br>(3) 偷取攻击力需要在团辅的“攻击力+x”一栏中输入，最多250<br>(4) DPS图表暂时不可用",
+        "token": "token_10030_mlyss_wtrman",
+        "token_damage_type": 1
+      },
+      "skchr_mlyss_2": {
+        "attack_begin": 12,
+        "reset_attack": true,
+        "token_attack_begin": 12
+      },
+      "skchr_mlyss_3": {
+        "token_attack_begin": 12
+      },
+      "tachr_249_mlyss_trait": {
+        "cond": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_mlyss": {
+      "battle": null,
+      "charId": "char_249_mlyss",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_mlyss",
+      "uniEquipName": "缪尔赛思证章"
+    },
+    "uniequip_002_mlyss": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "def": 20.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 25.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净水即生命",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10030_mlyss_wtrman",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可召唤流形来复制待部署干员的大部分属性（生命上限、攻击、防御、法抗、阻挡数、攻击间隔、攻击范围、伤害类型、根据近/远程位获得特殊特性）协助作战，首次部署后立即获得5点技力，其被击败后会在25秒后自动刷新"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 25.0,
+                    "scale": 0.9
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时复制目标90%的生命值、攻击力、防御力、法抗，以及阻挡数、攻击间隔、攻击范围、初始伤害类型（不攻击、治疗类型则不继承）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 30.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {},
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>，自身攻击援军阻挡的敌人时攻击力提升至150%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "净水即生命",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10030_mlyss_wtrman",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可召唤流形来复制待部署干员的全部属性（生命上限、攻击、防御、法抗、阻挡数、攻击间隔、攻击范围、伤害类型、根据近/远程位获得特殊特性）协助作战，首次部署后立即获得5点技力，其被击败后会在25秒后自动刷新"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "block_cnt": 1.0,
+                    "interval": 25.0,
+                    "scale": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时复制目标100%的生命值、攻击力、防御力、法抗，以及阻挡数、攻击间隔、攻击范围、初始伤害类型（不攻击、治疗类型则不继承）"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_249_mlyss",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30145": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "tac-x",
+      "uniEquipId": "uniequip_002_mlyss",
+      "uniEquipName": "梳妆流形"
+    },
+    "uniequip_003_mlyss": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 21.0,
+            "def": 17.0,
+            "max_hp": 142.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 22.0,
+            "max_hp": 155.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "runtime_cost": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "开源节流",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-1。使用流形复制【莱茵生命】干员时，缪尔赛思立刻获得8技力"
+                },
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "runtime_cost": -2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "开源节流",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-2<@ba.talpu>（+1）</>。使用流形复制【莱茵生命】干员时，缪尔赛思立刻获得8技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "def": 28.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk_scale": 1.65
+                  },
+                  "overrideDescripton": "可以在攻击范围内选择一次<@ba.kw>战术点</>来召唤援军，援军阻挡的敌人更容易受到我方的攻击，自身攻击援军阻挡的敌人时攻击力提升至165%",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "runtime_cost": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "开源节流",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-1。使用流形复制【莱茵生命】干员时，缪尔赛思立刻获得10技力；且部署当前复制的【莱茵生命】干员时使其立刻获得10技力"
+                },
+                {
+                  "blackboard": {
+                    "cost": -2.0,
+                    "runtime_cost": -2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "开源节流",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "携带时【莱茵生命】干员部署费用-2，首名【莱茵生命】干员部署费用额外-2<@ba.talpu>（+1）</>。使用流形复制【莱茵生命】干员时，缪尔赛思立刻获得10技力；且部署当前复制的【莱茵生命】干员时使其立刻获得10技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "taunt_level": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "11",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 10.0,
+                    "sp_other": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "12_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "mlyss_equip_2_3_p3",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_249_mlyss",
+      "itemCost": {
+        "1": {
+          "30165": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30115": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "tac-y",
+      "uniEquipId": "uniequip_003_mlyss",
+      "uniEquipName": "落叶四季"
+    }
+  },
+  "skill": {
+    "skchr_mlyss_1": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "attack_speed": 10.0,
+          "fake_cost": 10.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.501
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "attack_speed": 14.0,
+          "fake_cost": 10.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.501
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "attack_speed": 18.0,
+          "fake_cost": 10.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.501
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "attack_speed": 22.0,
+          "fake_cost": 11.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.364
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "attack_speed": 26.0,
+          "fake_cost": 11.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.364
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack_speed": 30.0,
+          "fake_cost": 11.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.364
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack_speed": 35.0,
+          "fake_cost": 12.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.25
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack_speed": 40.0,
+          "fake_cost": 12.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.25
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack_speed": 45.0,
+          "fake_cost": 12.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.25
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack_speed": 50.0,
+          "fake_cost": 13.0,
+          "mlyss_s_1[cost].cost": 1.0,
+          "mlyss_s_1[cost].interval": 1.154
+        },
+        "description": "期间逐渐回复<@ba.vup>{fake_cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "渐进性润化",
+        "prefabId": "skchr_mlyss_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mlyss_2": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "cost": 12.0,
+          "damage_resistance": 0.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "cost": 12.0,
+          "damage_resistance": 0.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "cost": 12.0,
+          "damage_resistance": 0.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.01
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "cost": 13.0,
+          "damage_resistance": 0.15,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "cost": 13.0,
+          "damage_resistance": 0.15,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cost": 13.0,
+          "damage_resistance": 0.15,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "cost": 14.0,
+          "damage_resistance": 0.2,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "cost": 14.0,
+          "damage_resistance": 0.2,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "cost": 14.0,
+          "damage_resistance": 0.25,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "cost": 15.0,
+          "damage_resistance": 0.25,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时，每秒回复<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>的生命值，获得<@ba.vup>{damage_resistance:0%}</>的<$ba.protect>庇护</>，若为远程复制体时，攻击变为<@ba.vup>二</>连击，随机攻击范围内的目标",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生态耦合",
+        "prefabId": "skchr_mlyss_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mlyss_3": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "cost": 12.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "cost": 12.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "cost": 12.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "cost": 13.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "cost": 13.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cost": 13.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "cost": 14.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "cost": 14.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "cost": 14.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "cost": 15.0,
+          "mlyss_s_3[token_melee_trigger].interval": 2.0,
+          "mlyss_s_3[unmoveable].duration": 1.5
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点费用，自身与流形攻击力<@ba.vup>+{atk:0%}</>，若流形为近战复制体时每<@ba.vup>{mlyss_s_3[token_melee_trigger].interval}</>秒对周围八格敌人向自己中心<@ba.vup>小力度地</>拖拽并使所有阻挡的单位持续<$ba.stun>晕眩</>，若为远程复制体时刷新所有流形且攻击附带持续<@ba.vup>{mlyss_s_3[unmoveable].duration}</>秒的<$ba.root>束缚</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "浅层非熵适应",
+        "prefabId": "skchr_mlyss_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

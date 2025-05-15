@@ -1,0 +1,1095 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30043": 2,
+        "31013": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能可以使敌人产生<@ba.kw>位移</>\\n可以放置于远程位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "雪雉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 320,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 155,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 794,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 458,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 228,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1073,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_383_snsant",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 458,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 228,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1073,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 596,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 301,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1394,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_383_snsant",
+        "evolveCost": {
+          "30022": 4,
+          "30052": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 596,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 301,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1394,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 745,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 355,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1835,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_383_snsant",
+        "evolveCost": {
+          "30043": 15,
+          "31014": 8,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31014": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_snsant_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30054": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_snsant_2"
+      }
+    ],
+    "subProfessionId": "hookmaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "skill@delta_force": 0.0,
+            "skill@silence": 4.0
+          },
+          "description": "在拖拽【感染生物】时，使其失去特殊能力4秒",
+          "name": "捕虫专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "skill@delta_force": 0.0,
+            "skill@silence": 8.0
+          },
+          "description": "在拖拽【感染生物】时，使其失去特殊能力8<@ba.talpu>（+4）</>秒",
+          "name": "捕虫专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "skill@delta_force": 1.0,
+            "skill@silence": 4.0
+          },
+          "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力4秒",
+          "name": "捕虫专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "skill@delta_force": 1.0,
+            "skill@silence": 8.0
+          },
+          "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8<@ba.talpu>（+4）</>秒",
+          "name": "捕虫专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 14,
+        "duration": 45
+      },
+      "Idle": 30,
+      "Skill_2_Begin": {
+        "OnAttack": 28,
+        "duration": 42
+      },
+      "Skill_2_End": 30,
+      "Skill_2_Loop": 18,
+      "Skill_Begin": {
+        "OnAttack": 16,
+        "duration": 30
+      },
+      "Skill_End": 24,
+      "Skill_Loop": 18,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_snsant_1": {
+        "cast_time": 50
+      },
+      "skchr_snsant_2": {
+        "cast_time": 75
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_snsant": {
+      "battle": null,
+      "charId": "char_383_snsant",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_snsant",
+      "uniEquipName": "雪雉证章"
+    },
+    "uniequip_002_snsant": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 22.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snsant_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 27.0,
+            "max_hp": 170.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snsant_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "skill@delta_force": 1.0,
+                    "skill@silence": 6.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "捕虫专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力6秒"
+                },
+                {
+                  "blackboard": {
+                    "skill@delta_force": 1.0,
+                    "skill@silence": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "捕虫专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力10<@ba.talpu>（+4）</>秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 31.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "snsant_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "skill@delta_force": 1.0,
+                    "skill@silence": 8.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "捕虫专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8秒"
+                },
+                {
+                  "blackboard": {
+                    "skill@delta_force": 1.0,
+                    "skill@silence": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "捕虫专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力12<@ba.talpu>（+4）</>秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_383_snsant",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "hok-x",
+      "uniEquipId": "uniequip_002_snsant",
+      "uniEquipName": "雪雉的宝贝存钱罐"
+    }
+  },
+  "skill": {
+    "skchr_snsant_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "force": 0.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "force": 1.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 1.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "force": 1.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 1.0,
+          "sluggish": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0,
+          "sluggish": 1.2
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "force": 1.0,
+          "sluggish": 1.4
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "force": 2.0,
+          "sluggish": 1.6
+        },
+        "description": "下次攻击会将目标<@ba.vup>较大力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "倒刺钩爪",
+        "prefabId": "skchr_snsant_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_snsant_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 0.0,
+          "sluggish": 2.1
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>小力地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "force": 0.0,
+          "sluggish": 2.1
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>小力地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 0.0,
+          "sluggish": 2.1
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>小力地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.45,
+          "force": 1.0,
+          "sluggish": 2.3
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0,
+          "sluggish": 2.3
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.55,
+          "force": 1.0,
+          "sluggish": 2.3
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "force": 1.0,
+          "sluggish": 2.5
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "force": 1.0,
+          "sluggish": 2.8
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "force": 1.0,
+          "sluggish": 3.1
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>中等力度地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "force": 2.0,
+          "sluggish": 3.5
+        },
+        "description": "向前方发射一个捕网，捕网会把目标地点周围的敌人全部<@ba.vup>较大力地</>拖拽至面前，对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>法术伤害</>并使其<$ba.sluggish>停顿</><@ba.vup>{sluggish}</>秒",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "伸缩式电捕网",
+        "prefabId": "skchr_snsant_2",
+        "rangeId": "3-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

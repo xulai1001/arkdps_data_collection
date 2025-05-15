@@ -1,0 +1,1144 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30041": 5,
+        "3301": 4
+      },
+      {
+        "30052": 3,
+        "3302": 6
+      },
+      {
+        "30062": 3,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "<@ba.kw>无法</>被友方角色治疗",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 400,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "火神",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 344,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 31,
+            "def": 222,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1574,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 479,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 31,
+            "def": 337,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2072,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_163_hpsts",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 479,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 33,
+            "def": 337,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2072,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 639,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 33,
+            "def": 450,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2692,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_163_hpsts",
+        "evolveCost": {
+          "30032": 3,
+          "30042": 4,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 639,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 35,
+            "def": 450,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2692,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 820,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 35,
+            "def": 585,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3688,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_163_hpsts",
+        "evolveCost": {
+          "30014": 8,
+          "30053": 15,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+250",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 250.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30104": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hpsts_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30024": 4,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_hpsts_2"
+      }
+    ],
+    "subProfessionId": "unyield",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+            "prob": 0.0
+          },
+          "description": "技能开启时，每秒恢复最大生命值4%的生命",
+          "name": "自我防护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.05,
+            "prob": 0.0
+          },
+          "description": "技能开启时，每秒恢复最大生命值5%<@ba.talpu>（+1%）</>的生命",
+          "name": "自我防护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+            "prob": 0.25
+          },
+          "description": "技能开启时，每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+          "name": "自我防护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "hp_recovery_per_sec_by_max_hp_ratio": 0.05,
+            "prob": 0.3
+          },
+          "description": "技能开启时，每秒恢复最大生命值5%<@ba.talpu>（+1%）</>的生命，同时获得30%<@ba.talpu>（+5%）</>的近战物理闪避",
+          "name": "自我防护",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 35
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 29,
+        "duration": 55
+      },
+      "Start": {
+        "OnStart": 7,
+        "duration": 25
+      }
+    },
+    "options": null,
+    "spec": {
+      "skchr_hpsts_2": {
+        "damage_type": "0"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_hpsts": {
+      "battle": null,
+      "charId": "char_163_hpsts",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_hpsts",
+      "uniEquipName": "火神证章"
+    },
+    "uniequip_002_hpsts": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 35.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hpsts_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 53.0,
+            "max_hp": 300.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hpsts_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "自我防护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.05,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "自我防护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值5%<@ba.talpu>（+1%）</>的生命，同时获得30%<@ba.talpu>（+5%）</>的近战物理闪避"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hpsts_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 68.0,
+            "max_hp": 385.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到来自自身阻挡单位的伤害降低<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_scale": 0.85
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "hpsts_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.04,
+                    "prob": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "自我防护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避"
+                },
+                {
+                  "blackboard": {
+                    "hp_recovery_per_sec_by_max_hp_ratio": 0.05,
+                    "prob": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "自我防护",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值5%<@ba.talpu>（+1%）</>的生命，同时获得30%<@ba.talpu>（+5%）</>的近战物理闪避"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hp_ratio": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "hpsts_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_163_hpsts",
+      "itemCost": {
+        "1": {
+          "31024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30104": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "uny-x",
+      "uniEquipId": "uniequip_002_hpsts",
+      "uniEquipName": "锻椎者"
+    }
+  },
+  "skill": {
+    "skchr_hpsts_1": [
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.6,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.65,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.7,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.02
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.75,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.8,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.85,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.03
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 0.9,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.0,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.1,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.04
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 37,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "block_cnt": 1.0,
+          "def": 1.2,
+          "hp_recovery_per_sec_by_max_hp_ratio": 0.05
+        },
+        "description": "阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{def:0%}</>，每秒额外恢复最大生命的<@ba.vup>{hp_recovery_per_sec_by_max_hp_ratio:0%}</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "坚守模式",
+        "prefabId": "skchr_hpsts_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_hpsts_2": [
+      {
+        "blackboard": {
+          "atk": 0.65,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.05
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.05
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 21.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 21,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.05
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 22,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.06
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 23.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.06
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 26,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.95,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.06
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 27,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.05,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.07
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.08
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 33,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.35,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.09
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 37,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5,
+          "base_attack_time": 0.4,
+          "block_cnt": -1.0,
+          "hp_ratio": 0.1
+        },
+        "description": "阻挡数<@ba.vdown>-1</>，攻击间隔略微<@ba.vdown>增大</>，攻击力<@ba.vup>+{atk:0%}</>，每次攻击恢复自身最大生命值的<@ba.vup>{hp_ratio:0%}</>，同时攻击阻挡的所有敌人",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "武力模式",
+        "prefabId": "skchr_hpsts_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

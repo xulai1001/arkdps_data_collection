@@ -1,0 +1,1411 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30053": 6,
+        "3302": 8
+      },
+      {
+        "30083": 3,
+        "31033": 6,
+        "3303": 8
+      }
+    ],
+    "description": "攻击时需要消耗子弹且攻击力提升至<@ba.kw>120%</>，不攻击时会缓慢地装填子弹（最多8发）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 120,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "莱伊",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 547,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 103,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 904,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 720,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 140,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1190,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4117_ray",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-12"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 720,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 140,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1190,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 900,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 19,
+            "def": 180,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1507,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4117_ray",
+        "evolveCost": {
+          "30032": 8,
+          "30042": 4,
+          "3241": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "4-9"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 900,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 180,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1507,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 1072,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 21,
+            "def": 228,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1933,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4117_ray",
+        "evolveCost": {
+          "30014": 8,
+          "30125": 4,
+          "3243": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "4-9"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+37",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 37.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30064": 3,
+            "31013": 4,
+            "3303": 8
+          },
+          {
+            "30094": 8,
+            "31044": 4,
+            "3303": 12
+          },
+          {
+            "30145": 6,
+            "31064": 4,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ray_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30104": 4,
+            "31043": 4,
+            "3303": 8
+          },
+          {
+            "30064": 4,
+            "30084": 6,
+            "3303": 12
+          },
+          {
+            "30014": 5,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10034_ray_sndbst",
+        "skillId": "skchr_ray_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 6,
+            "30074": 4,
+            "3303": 8
+          },
+          {
+            "30104": 7,
+            "31084": 4,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31024": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_ray_3"
+      }
+    ],
+    "subProfessionId": "hunter",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 0.1
+          },
+          "description": "可以在攻击范围内部署沙地兽于15秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高10%",
+          "name": "巡哨伙伴",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10034_ray_sndbst",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 0.15
+          },
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%",
+          "name": "巡哨伙伴",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": "token_10034_ray_sndbst",
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.08,
+            "max_stack_cnt": 3.0
+          },
+          "description": "攻击相同目标时每次攻击提高自身攻击力8%，最多3层",
+          "name": "入神",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09,
+            "max_stack_cnt": 3.0
+          },
+          "description": "攻击相同目标时每次攻击提高自身攻击力9%<@ba.talpu>（+1%）</>，最多3层",
+          "name": "入神",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "value": 4.0
+        },
+        "overrideDescripton": "攻击时需要消耗子弹且攻击力提升至<@ba.kw>{atk_scale:0%}</>，不攻击时会缓慢地装填子弹（最多{value}发，精英1后更新）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "value": 6.0
+        },
+        "overrideDescripton": "攻击时需要消耗子弹且攻击力提升至<@ba.kw>{atk_scale:0%}</>，不攻击时会缓慢地装填子弹（最多{value}发，精英2后更新）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_1"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "value": 8.0
+        },
+        "overrideDescripton": "攻击时需要消耗子弹且攻击力提升至<@ba.kw>{atk_scale:0%}</>，不攻击时会缓慢地装填子弹（最多{value}发）",
+        "prefabKey": "-1",
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_2"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 6,
+      "Attack_Down_Begin": 6,
+      "Attack_Down_End": 6,
+      "Attack_Down_Loop": {
+        "OnAttack": 11,
+        "duration": 48
+      },
+      "Attack_End": 6,
+      "Attack_Loop": {
+        "OnAttack": 11,
+        "duration": 48
+      },
+      "Down_Reload_Begin": 5,
+      "Down_Reload_Break": 5,
+      "Down_Reload_End": 5,
+      "Down_Reload_Loop": 48,
+      "Idle": 160,
+      "Reload_Begin": 5,
+      "Reload_Break": 5,
+      "Reload_End": 5,
+      "Reload_Loop": 48,
+      "Skill_1_Begin": 6,
+      "Skill_1_End": 6,
+      "Skill_1_Loop": {
+        "OnAttack": 8,
+        "duration": 48
+      },
+      "Skill_2_Begin": 6,
+      "Skill_2_End": 6,
+      "Skill_2_Idle": 40,
+      "Skill_2_Loop": {
+        "OnAttack": 12,
+        "duration": 48
+      },
+      "Skill_2_Reload_Begin": 5,
+      "Skill_2_Reload_Break": 5,
+      "Skill_2_Reload_End": 5,
+      "Skill_2_Reload_Loop": 48,
+      "Skill_3_Begin": 6,
+      "Skill_3_End": 9,
+      "Skill_3_Idle": 40,
+      "Skill_3_Loop": {
+        "OnAttack": 9,
+        "duration": 48
+      },
+      "Skill_3_Reload_Begin": 5,
+      "Skill_3_Reload_Break": 5,
+      "Skill_3_Reload_End": 5,
+      "Skill_3_Reload_Loop": 12,
+      "Skill_Down_1_Begin": 6,
+      "Skill_Down_1_End": 6,
+      "Skill_Down_1_Loop": {
+        "OnAttack": 8,
+        "duration": 48
+      },
+      "Skill_Down_2_Begin": 6,
+      "Skill_Down_2_End": 6,
+      "Skill_Down_2_Idle": 40,
+      "Skill_Down_2_Loop": {
+        "OnAttack": 12,
+        "duration": 48
+      },
+      "Skill_Down_2_Reload_Begin": 5,
+      "Skill_Down_2_Reload_Break": 5,
+      "Skill_Down_2_Reload_End": 5,
+      "Skill_Down_2_Reload_Loop": 48,
+      "Skill_Down_3_Begin": 6,
+      "Skill_Down_3_End": 9,
+      "Skill_Down_3_Idle": 40,
+      "Skill_Down_3_Loop": {
+        "OnAttack": 9,
+        "duration": 48
+      },
+      "Skill_Down_3_Reload_Begin": 5,
+      "Skill_Down_3_Reload_Break": 5,
+      "Skill_Down_3_Reload_End": 5,
+      "Skill_Down_3_Reload_Loop": 12,
+      "Start": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_ray": {
+      "battle": null,
+      "charId": "char_4117_ray",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_ray",
+      "uniEquipName": "莱伊证章"
+    },
+    "uniequip_002_ray": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 15.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "子弹数量为空时下次装填额外加装1发子弹",
+                  "blackboard": {
+                    "atk_scale": 1.2,
+                    "extra_add": 1.0,
+                    "value": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 20.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "子弹数量为空时下次装填额外加装1发子弹",
+                  "blackboard": {
+                    "atk_scale": 1.2,
+                    "extra_add": 1.0,
+                    "value": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巡哨伙伴",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10034_ray_sndbst",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高18%，沙地兽的再部署时间-5秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10034_ray_sndbst": [
+              {
+                "key": "respawn_time",
+                "value": -5.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 70.0,
+            "def": 25.0,
+            "max_hp": 200.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "子弹数量为空时下次装填额外加装1发子弹",
+                  "blackboard": {
+                    "atk_scale": 1.2,
+                    "extra_add": 1.0,
+                    "value": 8.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": "-1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 0.2
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "巡哨伙伴",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": "token_10034_ray_sndbst",
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高20%，沙地兽的再部署时间-10秒"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10034_ray_sndbst": [
+              {
+                "key": "respawn_time",
+                "value": -10.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_4117_ray",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "hun-x",
+      "uniEquipId": "uniequip_002_ray",
+      "uniEquipName": "《跳舞的月光》"
+    }
+  },
+  "skill": {
+    "skchr_ray_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 14,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "cnt": 1.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.9,
+          "cnt": 2.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "cnt": 2.0,
+          "force": 1.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>中等力度地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "cnt": 2.0,
+          "force": 2.0
+        },
+        "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害并将其<@ba.vup>较大力地</>推开，若将其击倒则使下次装填额外加装<@ba.vup>{cnt}</>发子弹\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "脱身矢",
+        "prefabId": "skchr_ray_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_ray_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "respawn_time": -0.1
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "respawn_time": -0.1
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "respawn_time": -0.1
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "respawn_time": -0.2
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "respawn_time": -0.2
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "respawn_time": -0.2
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "respawn_time": -0.3
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "respawn_time": -0.3
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "respawn_time": -0.3
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "respawn_time": -0.4
+        },
+        "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\\n自动开启：攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，沙地兽的再部署时间<@ba.vup>{respawn_time:0%}</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "广域警觉",
+        "prefabId": "skchr_ray_2",
+        "rangeId": "4-10",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_ray_3": [
+      {
+        "blackboard": {
+          "attack@atk_scale": 1.9,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.0,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.1,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.3,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.4,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.5,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.7,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 2.9,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 3.1,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@atk_scale": 3.3,
+          "attack@unmove_duration": 2.0,
+          "reload_interval": -1.2,
+          "sp": 10.0
+        },
+        "description": "立即<@ba.vdown>停止攻击</>直至子弹装满，装填间隔<@ba.vup>大幅缩短</>，攻击范围<@ba.vup>扩大</>，攻击造成相当于攻击力<@ba.vup>{attack@atk_scale:0%}</>的物理伤害并使目标束缚<@ba.vup>{attack@unmove_duration}</>秒\\n<@ba.rem>技能期间若击倒敌人，技能结束时获得{sp}点技力</>",
+        "duration": 16.0,
+        "durationType": "NONE",
+        "name": "“得见光芒”",
+        "prefabId": "skchr_ray_3",
+        "rangeId": "3-8",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

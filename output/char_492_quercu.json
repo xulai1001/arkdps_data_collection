@@ -1,0 +1,1087 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30083": 4,
+        "3302": 6
+      },
+      {
+        "30013": 4,
+        "30093": 2,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 400,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "夏栎",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 209,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 80,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 658,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 115,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 969,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_492_quercu",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 115,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 969,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 384,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 151,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1310,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_492_quercu",
+        "evolveCost": {
+          "30012": 4,
+          "30052": 4,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 384,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 151,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1310,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 463,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 172,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1680,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_492_quercu",
+        "evolveCost": {
+          "30044": 6,
+          "30083": 13,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-6"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+160",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 160.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30014": 7,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30084": 3,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_quercu_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30084": 3,
+            "31053": 2,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31024": 3,
+            "3303": 6
+          },
+          {
+            "30074": 5,
+            "30115": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_quercu_2"
+      }
+    ],
+    "subProfessionId": "blessing",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.08,
+            "hp_ratio": 0.7
+          },
+          "description": "攻击范围内的友军生命大于70%时，使其获得8%的<$ba.protect>庇护</>",
+          "name": "丛林的荫庇",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.1,
+            "hp_ratio": 0.7
+          },
+          "description": "攻击范围内的友军生命大于70%时，使其获得10%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>",
+          "name": "丛林的荫庇",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.14,
+            "hp_ratio": 0.7
+          },
+          "description": "攻击范围内的友军生命大于70%时，使其获得14%的<$ba.protect>庇护</>",
+          "name": "丛林的荫庇",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.16,
+            "hp_ratio": 0.7
+          },
+          "description": "攻击范围内的友军生命大于70%时，使其获得16%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>",
+          "name": "丛林的荫庇",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "heal_scale": 0.75
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 27,
+        "duration": 50
+      },
+      "Idle": 60,
+      "Skill_2_End": 20,
+      "Skill_2_Idle": 60,
+      "Skill_2_Loop": {
+        "OnAttack": 25,
+        "duration": 50
+      },
+      "Skill_2_begin": 20,
+      "Skill_End": 20,
+      "Skill_Idle": 60,
+      "Skill_Loop": {
+        "OnAttack": 13,
+        "duration": 50
+      },
+      "Skill_begin": 20,
+      "Start": {
+        "OnStart": 25,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "short_mode"
+      ]
+    },
+    "spec": {
+      "skchr_quercu_1": {
+        "damage_type": 2
+      },
+      "skchr_quercu_2": {
+        "reset_attack": true
+      },
+      "uniequip_002_quercu": {
+        "override_talent": 1,
+        "override_trait": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_quercu": {
+      "battle": null,
+      "charId": "char_492_quercu",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_quercu",
+      "uniEquipName": "夏栎证章"
+    },
+    "uniequip_002_quercu": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 15.0,
+            "def": 10.0,
+            "max_hp": 60.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "def": 15.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.16,
+                    "hp_ratio": 0.7
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "丛林的荫庇",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命大于70%时，使其获得16%的<$ba.protect>庇护</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.18,
+                    "hp_ratio": 0.7
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "丛林的荫庇",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命大于70%时，使其获得18%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 25.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.16,
+                    "hp_ratio": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "丛林的荫庇",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命大于60%时，使其获得16%的<$ba.protect>庇护</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.18,
+                    "hp_ratio": 0.6
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "丛林的荫庇",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友军生命大于60%时，使其获得18%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_492_quercu",
+      "itemCost": {
+        "1": {
+          "30054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "bls-x",
+      "uniEquipId": "uniequip_002_quercu",
+      "uniEquipName": "锈枝"
+    }
+  },
+  "skill": {
+    "skchr_quercu_1": [
+      {
+        "blackboard": {
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.13
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.16
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.23
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.33
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.36
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>\\n<@ba.rem>技能持续时间无限，可主动关闭技能</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "大地的慈悲",
+        "prefabId": "skchr_quercu_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_quercu_2": [
+      {
+        "blackboard": {
+          "attack_speed": 25.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 28.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 31.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 36.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 39.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 42.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 13.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 50.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 60.0,
+          "sp": 1.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，并在治疗目标时为其恢复<@ba.vup>1</>点技力",
+        "duration": 17.0,
+        "durationType": "NONE",
+        "name": "生灵的回响",
+        "prefabId": "skchr_quercu_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

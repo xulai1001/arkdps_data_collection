@@ -1,0 +1,1345 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 5,
+        "30051": 4,
+        "3301": 5
+      },
+      {
+        "30032": 5,
+        "3302": 8
+      },
+      {
+        "30022": 3,
+        "30042": 4,
+        "3302": 8
+      },
+      {
+        "30013": 8,
+        "3302": 8
+      },
+      {
+        "30043": 3,
+        "31043": 5,
+        "3303": 8
+      }
+    ],
+    "description": "恢复友方单位生命，并回复相当于攻击力50%的<@ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<@ba.dt.element>元素损伤</>）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": true,
+    "itemObtainApproach": "招募寻访",
+    "name": "纯烬艾雅法拉",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 148,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 47,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 789,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 244,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 14,
+            "def": 69,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1039,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1016_agoat2",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 244,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 69,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1039,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 339,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1237,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1016_agoat2",
+        "evolveCost": {
+          "30012": 12,
+          "30032": 5,
+          "3261": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-17"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 339,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1237,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 424,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.85,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 109,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1439,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_1016_agoat2",
+        "evolveCost": {
+          "30044": 5,
+          "30125": 4,
+          "3263": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-17"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "MEDIC",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30053": 8,
+            "3303": 8
+          },
+          {
+            "30064": 4,
+            "31034": 5,
+            "3303": 12
+          },
+          {
+            "30054": 4,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_agoat2_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 7,
+            "30094": 4,
+            "3303": 8
+          },
+          {
+            "30014": 4,
+            "30054": 8,
+            "3303": 12
+          },
+          {
+            "30115": 6,
+            "31044": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_agoat2_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30013": 9,
+            "31044": 4,
+            "3303": 8
+          },
+          {
+            "31014": 8,
+            "31034": 4,
+            "3303": 12
+          },
+          {
+            "30094": 5,
+            "30125": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_agoat2_3"
+      }
+    ],
+    "subProfessionId": "wandermedic",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "duration": 4.0,
+            "heal_scale": 0.08,
+            "max_stack_cnt": 3.0
+          },
+          "description": "普通治疗使目标每秒额外受到一次治疗量和<$ba.dt.element>元素损伤</>回复量为8%的增益治疗，持续4秒（最多叠加3层）",
+          "name": "氤氲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "duration": 6.0,
+            "heal_scale": 0.1,
+            "max_stack_cnt": 3.0
+          },
+          "description": "普通治疗使目标每秒额外受到一次治疗量和<$ba.dt.element>元素损伤</>回复量为10%的增益治疗，持续6秒（最多叠加3层）",
+          "name": "氤氲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "ep_damage_resistance": 0.12,
+            "max_hp": 0.06
+          },
+          "description": "攻击范围内的友方单位生命上限+6%，且受到的<$ba.dt.element>元素损伤</>降低12%",
+          "name": "火山灰疗愈",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "ep_damage_resistance": 0.12,
+            "max_hp": 0.08
+          },
+          "description": "攻击范围内的友方单位生命上限+8%<@ba.talpu>（+2%）</>，且受到的<$ba.dt.element>元素损伤</>降低12%",
+          "name": "火山灰疗愈",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "ep_heal_ratio": 0.5
+        },
+        "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 12,
+        "duration": 40
+      },
+      "Idle": 80,
+      "Skill_1_Begin": 15,
+      "Skill_1_Idle": 80,
+      "Skill_1_Loop": {
+        "OnAttack": 13,
+        "duration": 40
+      },
+      "Skill_2": {
+        "OnAttack": 8,
+        "duration": 30
+      },
+      "Skill_3_Begin": 12,
+      "Skill_3_End": 10,
+      "Skill_3_Idle": 80,
+      "Skill_3_Loop": {
+        "OnAttack": 8,
+        "duration": 85
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "agoat2_stack"
+      ]
+    },
+    "spec": {
+      "char_1016_agoat2": {
+        "frame_corr": 1
+      },
+      "skchr_agoat2_2": {
+        "attack_begin": 8,
+        "cast_time": 30,
+        "reset_attack": "ogcd"
+      },
+      "skchr_agoat2_3": {
+        "attack_begin": 8,
+        "reset_attack": true,
+        "times": 5,
+        "trigger_count": 5,
+        "trigger_interval": 0.2
+      },
+      "tachr_1016_agoat2_1": {
+        "note": "第一天赋一直覆盖"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_agoat2": {
+      "battle": null,
+      "charId": "char_1016_agoat2",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_agoat2",
+      "uniEquipName": "纯烬艾雅法拉证章"
+    },
+    "uniequip_002_agoat2": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "max_hp": 110.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 36.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_resistance": 0.14,
+                    "max_hp": 0.06
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火山灰疗愈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位生命上限+6%，且受到的<$ba.dt.element>元素损伤</>降低14%"
+                },
+                {
+                  "blackboard": {
+                    "ep_damage_resistance": 0.14,
+                    "max_hp": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火山灰疗愈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位生命上限+8%<@ba.talpu>（+2%）</>，且受到的<$ba.dt.element>元素损伤</>降低14%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 44.0,
+            "max_hp": 140.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "ep_heal_ratio": 0.6
+                  },
+                  "overrideDescripton": "恢复友方单位生命，并回复相当于攻击力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>（可以回复未受伤友方单位的<$ba.dt.element>元素损伤</>）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "ep_damage_resistance": 0.14,
+                    "max_hp": 0.08
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火山灰疗愈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位生命上限+8%，且受到的<$ba.dt.element>元素损伤</>降低14%"
+                },
+                {
+                  "blackboard": {
+                    "ep_damage_resistance": 0.14,
+                    "max_hp": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "火山灰疗愈",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "攻击范围内的友方单位生命上限+10%<@ba.talpu>（+2%）</>，且受到的<$ba.dt.element>元素损伤</>降低14%"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_1016_agoat2",
+      "itemCost": {
+        "1": {
+          "30135": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30155": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "wdm-x",
+      "uniEquipId": "uniequip_002_agoat2",
+      "uniEquipName": "想要留住的声音"
+    }
+  },
+  "skill": {
+    "skchr_agoat2_1": [
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.02,
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.03,
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.04,
+          "atk": 0.1
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 76,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.04,
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 74,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.05,
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 72,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.06,
+          "atk": 0.2
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.06,
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 68,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.07,
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 64,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.08,
+          "atk": 0.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 62,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_1[aura].ep_heal_ratio": 0.08,
+          "atk": 0.4
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，每次可额外治疗一名单位，攻击范围内所有友方单位每秒回复纯烬艾雅法拉攻击力<@ba.vup>{agoat2_s_1[aura].ep_heal_ratio:0%}</>的<$ba.dt.element>元素损伤</>\\n<@ba.rem>持续时间无限</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "无声润物",
+        "prefabId": "skchr_agoat2_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_agoat2_2": [
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 3.5,
+          "duration": 10.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 4.0,
+          "duration": 10.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 4.5,
+          "duration": 10.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 5.0,
+          "duration": 12.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 5.5,
+          "duration": 12.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 6.0,
+          "duration": 12.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 6.5,
+          "duration": 14.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 7.5,
+          "duration": 16.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 8.0,
+          "duration": 18.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "agoat2_s_2[shield].atk_scale": 9.0,
+          "duration": 20.0
+        },
+        "description": "立即对攻击范围内所有友方单位进行一次治疗，并生成一个持续<@ba.vup>{duration}</>秒的范围<$ba.epbarrier>损伤屏障</>，为范围内的友方单位吸收相当于攻击力<@ba.vup>{agoat2_s_2[shield].atk_scale:0%}</>的<$ba.dt.element>元素损伤</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "云霭荫佑",
+        "prefabId": "skchr_agoat2_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_agoat2_3": [
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "talent_scale": 2.0
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "talent_scale": 2.3
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 79,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.25,
+          "talent_scale": 2.6
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.35,
+          "talent_scale": 2.9
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.35,
+          "talent_scale": 3.2
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 74,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.35,
+          "talent_scale": 3.5
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 73,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.45,
+          "talent_scale": 3.8
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.5,
+          "talent_scale": 4.2
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 66,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.55,
+          "talent_scale": 4.6
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 63,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@heal_scale": 0.6,
+          "talent_scale": 5.0
+        },
+        "description": "攻击范围扩大至整个战场，治疗变为<@ba.vup>{attack@heal_scale:0%}</>治疗量和<$ba.dt.element>元素损伤</>回复量的<@ba.vup>5</>连发，优先治疗不同的目标，第二天赋的效果提升至<@ba.vup>{talent_scale}</>倍",
+        "duration": 50.0,
+        "durationType": "NONE",
+        "name": "火山回响",
+        "prefabId": "skchr_agoat2_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

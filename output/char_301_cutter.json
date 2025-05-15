@@ -1,0 +1,1092 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30051": 3,
+        "3301": 2
+      },
+      {
+        "30062": 1,
+        "3302": 3
+      },
+      {
+        "30012": 4,
+        "3302": 3
+      },
+      {
+        "31023": 2,
+        "3302": 3
+      },
+      {
+        "30103": 2,
+        "3303": 4
+      }
+    ],
+    "description": "普通攻击连续造成<@ba.kw>两次</>伤害",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "刻刀",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 233,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 142,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 990,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 338,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 204,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1357,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_301_cutter",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 338,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 204,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1357,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 439,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 19,
+            "def": 266,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1763,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_301_cutter",
+        "evolveCost": {
+          "30032": 1,
+          "30052": 1,
+          "3221": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 439,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 266,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1763,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 571,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.3,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 21,
+            "def": 325,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2320,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_301_cutter",
+        "evolveCost": {
+          "30083": 11,
+          "31013": 12,
+          "3222": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+21",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 21.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30054": 1,
+            "31013": 3,
+            "3303": 2
+          },
+          {
+            "30014": 2,
+            "30094": 3,
+            "3303": 4
+          },
+          {
+            "30115": 2,
+            "31024": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cutter_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31024": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30135": 2,
+            "31014": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_cutter_2"
+      }
+    ],
+    "subProfessionId": "sword",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "prob": 0.12,
+            "sp": 1.0
+          },
+          "description": "造成伤害时有12%的几率额外回复1点技力",
+          "name": "光蚀刻痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.15,
+            "sp": 1.0
+          },
+          "description": "造成伤害时有15%<@ba.talpu>（+3%）</>的几率额外回复1点技力",
+          "name": "光蚀刻痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.2,
+            "sp": 1.0
+          },
+          "description": "造成伤害时有20%的几率额外回复1点技力",
+          "name": "光蚀刻痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "prob": 0.23,
+            "sp": 1.0
+          },
+          "description": "造成伤害时有23%<@ba.talpu>（+3%）</>的几率额外回复1点技力",
+          "name": "光蚀刻痕",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 20,
+        "duration": 40
+      },
+      "Idle": 60,
+      "Skill_1": {
+        "OnAttack": 14,
+        "duration": 30
+      },
+      "Skill_2": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 12,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": {
+        "text": "[s2]对空",
+        "tooltip": "勾选表示2技能对空伤害"
+      },
+      "tags": [
+        "cond",
+        "chen"
+      ]
+    },
+    "spec": {
+      "char_301_cutter": {
+        "times": 2
+      },
+      "skchr_cutter_1": {
+        "cast_time": 30,
+        "reset_attack": "ogcd"
+      },
+      "skchr_cutter_2": {
+        "cast_time": 30,
+        "cond": true,
+        "reset_attack": "ogcd"
+      },
+      "uniequip_002_cutter": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_cutter": {
+      "battle": null,
+      "charId": "char_301_cutter",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_cutter",
+      "uniEquipName": "刻刀证章"
+    },
+    "uniequip_002_cutter": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cutter_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cutter_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.3,
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光蚀刻痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有30%的几率额外回复1点技力"
+                },
+                {
+                  "blackboard": {
+                    "prob": 0.33,
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光蚀刻痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有33%<@ba.talpu>（+3%）</>的几率额外回复1点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击时无视敌人<@ba.vup>{def_penetrate_fixed}</>点的防御力",
+                  "blackboard": {
+                    "def_penetrate_fixed": 70.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "cutter_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "prob": 0.33,
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光蚀刻痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有33%的几率额外回复1点技力"
+                },
+                {
+                  "blackboard": {
+                    "prob": 0.36,
+                    "sp": 1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光蚀刻痕",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "造成伤害时有36%<@ba.talpu>（+3%）</>的几率额外回复1点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_301_cutter",
+      "itemCost": {
+        "1": {
+          "30073": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30033": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31033": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "swo-y",
+      "uniEquipId": "uniequip_002_cutter",
+      "uniEquipName": "可替换刀具套装"
+    }
+  },
+  "skill": {
+    "skchr_cutter_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.4,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4,
+          "times": 4.0
+        },
+        "description": "立即投掷<@ba.vup>{times}</>把飞刀随机攻击前方的敌人，每把造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "红移",
+        "prefabId": "skchr_cutter_1",
+        "rangeId": "3-12",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_cutter_2": [
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.1,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 5.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 6.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 6.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 6.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "cutter_s_2[drone].atk_scale": 2.0,
+          "max_target": 6.0
+        },
+        "description": "对周围最多<@ba.vup>{max_target}</>个敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>对飞行单位的攻击力系数加倍</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "绯红刺刀",
+        "prefabId": "skchr_cutter_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ]
+  }
+}

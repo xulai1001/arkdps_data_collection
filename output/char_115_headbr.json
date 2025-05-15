@@ -1,0 +1,999 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30053": 4,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "30063": 2,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡两个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 70,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "凛冬",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 183,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 147,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 812,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 274,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 211,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1128,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_115_headbr",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 274,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 211,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1128,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 290,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1505,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_115_headbr",
+        "evolveCost": {
+          "30022": 4,
+          "30032": 3,
+          "3211": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 376,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 290,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1505,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 470,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 350,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2150,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_115_headbr",
+        "evolveCost": {
+          "30024": 7,
+          "30103": 11,
+          "3213": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+24",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 24.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 5,
+            "30074": 3,
+            "3303": 5
+          },
+          {
+            "30074": 6,
+            "30094": 3,
+            "3303": 6
+          },
+          {
+            "30014": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_charge_cost[3]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 2,
+            "30084": 3,
+            "3303": 5
+          },
+          {
+            "30084": 5,
+            "30104": 3,
+            "3303": 6
+          },
+          {
+            "30034": 4,
+            "30135": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_headbr_2"
+      }
+    ],
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cost": -1.0
+          },
+          "description": "自身部署费用-1",
+          "name": "冲锋领袖",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cost": -1.0
+          },
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1",
+          "name": "冲锋领袖",
+          "prefabKey": "1+",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 43
+      },
+      "Idle": 30,
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_headbr": {
+      "battle": null,
+      "charId": "char_115_headbr",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_headbr",
+      "uniEquipName": "凛冬证章"
+    },
+    "uniequip_002_headbr": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 32.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "headbr_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 35.0,
+            "max_hp": 225.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "headbr_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "冲锋领袖",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "headbr_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 37.0,
+            "max_hp": 260.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.08,
+                    "def": 0.08
+                  },
+                  "overrideDescripton": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "headbr_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cost": -1.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "冲锋领袖",
+                  "prefabKey": "10_root",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "headbr_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_115_headbr",
+      "itemCost": {
+        "1": {
+          "31024": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30044": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "sol-x",
+      "uniEquipId": "uniequip_002_headbr",
+      "uniEquipName": "冬将军的毕业礼物"
+    }
+  },
+  "skill": {
+    "skchr_headbr_2": [
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "cost": 1.0,
+          "def": 0.25,
+          "interval": 1.11,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "cost": 1.0,
+          "def": 0.3,
+          "interval": 1.11,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "cost": 1.0,
+          "def": 0.35,
+          "interval": 1.11,
+          "value": 9.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "cost": 1.0,
+          "def": 0.35,
+          "interval": 1.0,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "cost": 1.0,
+          "def": 0.4,
+          "interval": 1.0,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "cost": 1.0,
+          "def": 0.45,
+          "interval": 1.0,
+          "value": 10.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "cost": 1.0,
+          "def": 0.45,
+          "interval": 0.905,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "cost": 1.0,
+          "def": 0.5,
+          "interval": 0.905,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "cost": 1.0,
+          "def": 0.55,
+          "interval": 0.905,
+          "value": 11.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "cost": 1.0,
+          "def": 0.6,
+          "interval": 0.83,
+          "value": 12.0
+        },
+        "description": "技能持续时间内逐渐获得<@ba.vup>{value}</>点部署费用\\n所有先锋干员攻击力和防御力<@ba.vup>+{atk:0%}</>，并在击杀敌人时额外获得<@ba.vup>1</>点部署费用",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "乌萨斯战吼",
+        "prefabId": "skchr_headbr_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_charge_cost[3]": [
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "cost": 12.0
+        },
+        "description": "立即获得<@ba.vup>{cost}</>点部署费用",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "冲锋号令·γ型",
+        "prefabId": "skcom_charge_cost",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "30093": 3,
+        "3302": 6
+      },
+      {
+        "30103": 3,
+        "31023": 2,
+        "3303": 6
+      }
+    ],
+    "description": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 80,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "风丸",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 313,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 131,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1109,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 430,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 202,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1479,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4016_kazema",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 430,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 202,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1479,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 567,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1873,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4016_kazema",
+        "evolveCost": {
+          "30022": 3,
+          "30062": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 567,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 263,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1873,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 692,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 15,
+            "def": 318,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2372,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4016_kazema",
+        "evolveCost": {
+          "30014": 9,
+          "31043": 13,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30044": 3,
+            "31024": 5,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_kazema_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 2,
+            "30104": 3,
+            "3303": 5
+          },
+          {
+            "30054": 3,
+            "31044": 5,
+            "3303": 6
+          },
+          {
+            "30104": 3,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10022_kazema_shadow",
+        "skillId": "skchr_kazema_2"
+      }
+    ],
+    "subProfessionId": "dollkeeper",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.5
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力150%的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.55
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力155%<@ba.talpu>（+5）</>的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 2.25
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力225%的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 2.3
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力230%<@ba.talpu>（+5）</>的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 2.7
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力270%的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 2.75
+          },
+          "description": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力275%<@ba.talpu>（+5）</>的法术伤害",
+          "name": "折纸生花",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk": 0.0,
+          "duration": 20.0,
+          "max_hp": 0.0,
+          "talent_override_rangeid_flag": 1.0
+        },
+        "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20s后自身再次替换<替身>",
+        "prefabKey": "-1",
+        "rangeId": "x-4",
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Attack_B": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Default_B": 0,
+      "Die_2": 30,
+      "Die_B": 30,
+      "Idle": 120,
+      "Idle_B": 120,
+      "Skill2": {
+        "OnAttack": 13,
+        "duration": 39
+      },
+      "Start": {
+        "OnStart": 6,
+        "duration": 30
+      },
+      "Start_B": {
+        "OnAttack": 8,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "annie",
+        "token"
+      ]
+    },
+    "spec": {
+      "char_4016_kazema": {
+        "token": "token_10022_kazema_shadow"
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_kazema": {
+      "battle": null,
+      "charId": "char_4016_kazema",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_kazema",
+      "uniEquipName": "风丸证章"
+    },
+    "uniequip_002_kazema": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 45.0,
+            "def": 25.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 35.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 2.8
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "折纸生花",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力280%的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 2.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "折纸生花",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力285%<@ba.talpu>（+5）</>的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 65.0,
+            "def": 40.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "atk": 0.15,
+                    "duration": 20.0,
+                    "talent_override_rangeid_flag": 1.0
+                  },
+                  "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0但攻击力<@ba.kw>提升</>），持续20秒后自身再次替换<替身>",
+                  "prefabKey": "-1",
+                  "rangeId": "x-4",
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_scale": 2.85
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "折纸生花",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力285%的法术伤害"
+                },
+                {
+                  "blackboard": {
+                    "damage_scale": 2.9
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "折纸生花",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "<替身>出现时对其周围8格内所有敌方单位造成相当于其攻击力290%<@ba.talpu>（+5）</>的法术伤害"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4016_kazema",
+      "itemCost": {
+        "1": {
+          "30034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30074": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "pum-x",
+      "uniEquipId": "uniequip_002_kazema",
+      "uniEquipName": "旧物"
+    }
+  },
+  "skill": {
+    "skchr_kazema_1": [
+      {
+        "blackboard": {
+          "atk_scale": 2.0,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.1,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.2,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.35,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.5,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.6,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.75,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.3,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.5,
+          "hp_ratio": 0.1
+        },
+        "description": "下次攻击的攻击力提高至<@ba.vup>{atk_scale:0%}</>，并使自身流失<@ba.vdown>{hp_ratio:0%}</>的生命",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "纸艺·迅击",
+        "prefabId": "skchr_kazema_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_kazema_2": [
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.75,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "hp_ratio": 0.5
+        },
+        "description": "立即流失<@ba.vdown>{hp_ratio:0%}</>当前生命，攻击力<@ba.vup>+{atk:0%}</>，并在周围的近战部署位召唤<替身>协助作战",
+        "duration": 20.0,
+        "durationType": "NONE",
+        "name": "纸艺·双影",
+        "prefabId": "skchr_kazema_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

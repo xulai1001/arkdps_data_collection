@@ -1,0 +1,1092 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "31033": 4,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "31053": 3,
+        "3303": 6
+      }
+    ],
+    "description": "技能可以使敌人产生<@ba.kw>位移</>\\n可以放置于远程位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 45,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "杏仁",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 299,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 179,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 921,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 11,
+            "def": 264,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1245,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4105_almond",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 428,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 264,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1245,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 556,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 348,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1618,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4105_almond",
+        "evolveCost": {
+          "30032": 5,
+          "30042": 3,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "3-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 556,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 348,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1618,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 695,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.8,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 13,
+            "def": 410,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2130,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4105_almond",
+        "evolveCost": {
+          "30044": 6,
+          "30083": 13,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+20",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 20.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30023": 4,
+            "30094": 3,
+            "3303": 5
+          },
+          {
+            "30054": 4,
+            "31034": 3,
+            "3303": 6
+          },
+          {
+            "30115": 4,
+            "31044": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_almond_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 4,
+            "31044": 3,
+            "3303": 5
+          },
+          {
+            "30064": 3,
+            "31064": 4,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31034": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_almond_2"
+      }
+    ],
+    "subProfessionId": "hookmaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "sp": 4.0
+          },
+          "description": "每场战斗中首次释放技能结束后立即回复4点技力",
+          "name": "工程背包",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "sp": 6.0
+          },
+          "description": "每场战斗中首次释放技能结束后立即回复6<@ba.talpu>（+2）</>点技力",
+          "name": "工程背包",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "sp": 8.0
+          },
+          "description": "每场战斗中首次释放技能结束后立即回复8点技力",
+          "name": "工程背包",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "sp": 10.0
+          },
+          "description": "每场战斗中首次释放技能结束后立即回复10<@ba.talpu>（+2）</>点技力",
+          "name": "工程背包",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 15,
+        "duration": 54
+      },
+      "Idle": 160,
+      "Skill_1_Begin": {
+        "OnAttack": 15,
+        "duration": 26
+      },
+      "Skill_1_End": 14,
+      "Skill_1_Loop": 72,
+      "Skill_2_Begin": {
+        "OnAttack": 20,
+        "duration": 30
+      },
+      "Skill_2_End": 20,
+      "Skill_2_Loop": 60,
+      "Start": 30
+    },
+    "options": null,
+    "spec": {
+      "skchr_almond_2": {
+        "interval": 1.5,
+        "sec": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_almond": {
+      "battle": null,
+      "charId": "char_4105_almond",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_almond",
+      "uniEquipName": "杏仁证章"
+    },
+    "uniequip_002_almond": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "def": 17.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "almond_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 22.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "almond_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 10.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "工程背包",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每场战斗中首次释放技能结束后立即回复10点技力"
+                },
+                {
+                  "blackboard": {
+                    "sp": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "工程背包",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每场战斗中首次释放技能结束后立即回复12<@ba.talpu>（+2）</>点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "def": 25.0,
+            "max_hp": 280.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "拖拽期间敌人受到正比于距离的法术伤害",
+                  "blackboard": {
+                    "dist": 1.0,
+                    "interval": 0.066,
+                    "value": 800.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "almond_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "工程背包",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每场战斗中首次释放技能结束后立即回复12点技力"
+                },
+                {
+                  "blackboard": {
+                    "sp": 14.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "工程背包",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "每场战斗中首次释放技能结束后立即回复14<@ba.talpu>（+2）</>点技力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4105_almond",
+      "itemCost": {
+        "1": {
+          "30064": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30034": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30024": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "hok-x",
+      "uniEquipId": "uniequip_002_almond",
+      "uniEquipName": "“毕业设计”"
+    }
+  },
+  "skill": {
+    "skchr_almond_1": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.15,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "cnt": 1.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.25,
+          "cnt": 2.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "cnt": 2.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.35,
+          "cnt": 2.0,
+          "force": 0.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>小力地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "cnt": 2.0,
+          "force": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "cnt": 2.0,
+          "force": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "cnt": 3.0,
+          "force": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "cnt": 3.0,
+          "force": 1.0
+        },
+        "description": "下次攻击会将目标<@ba.vup>中等力度地</>拖拽至面前，并对其造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>\\n<@ba.rem>可充能{cnt}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "磁力抓取",
+        "prefabId": "skchr_almond_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_almond_2": [
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "force": 0.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>小力地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.2,
+          "force": 0.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>小力地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 0.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>小力地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.3,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.4,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.5,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.6,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.7,
+          "force": 1.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>中等力度地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.8,
+          "force": 2.0,
+          "hit_duration": 4.0,
+          "hit_interval": 1.5
+        },
+        "description": "立即发射一个牵引钩爪对目标造成<$ba.root><@ba.vup>束缚</></>效果，之后每1.5秒对目标造成一次相当于攻击力<@ba.vup>{atk_scale:0%}</>的<@ba.vup>物理伤害</>并将其<@ba.vup>较大力地</>拖拽至面前，持续至技能结束",
+        "duration": 4.0,
+        "durationType": "NONE",
+        "name": "强力牵引",
+        "prefabId": "skchr_almond_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1056 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30021": 7,
+        "3301": 4
+      },
+      {
+        "30032": 3,
+        "3302": 6
+      },
+      {
+        "30042": 4,
+        "3302": 6
+      },
+      {
+        "31033": 4,
+        "3302": 6
+      },
+      {
+        "30043": 3,
+        "31023": 3,
+        "3303": 6
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于76%攻击力）",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 50,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "活动获得",
+    "name": "行箸",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 191,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 84,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 684,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 11,
+            "def": 121,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1007,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4172_xingzh",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "y-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 273,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 121,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1007,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 159,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1361,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4172_xingzh",
+        "evolveCost": {
+          "30042": 4,
+          "30062": 4,
+          "3271": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "y-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 351,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 159,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1361,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 423,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 181,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1746,
+            "respawnTime": 80,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4172_xingzh",
+        "evolveCost": {
+          "30073": 20,
+          "31044": 7,
+          "3273": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "y-6"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-10秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -10.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31054": 3,
+            "31063": 3,
+            "3303": 5
+          },
+          {
+            "31074": 5,
+            "31084": 3,
+            "3303": 6
+          },
+          {
+            "30094": 1,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_xingzh_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 3,
+            "31014": 3,
+            "3303": 5
+          },
+          {
+            "30094": 6,
+            "31044": 3,
+            "3303": 6
+          },
+          {
+            "30104": 1,
+            "30145": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_xingzh_2"
+      }
+    ],
+    "subProfessionId": "blessing",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.07
+          },
+          "description": "使攻击范围内除自己外2名友军获得7%的<$ba.protect>庇护</>",
+          "name": "同路之谊",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.09
+          },
+          "description": "使攻击范围内除自己外2名友军获得9%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>",
+          "name": "同路之谊",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.1
+          },
+          "description": "使攻击范围内除自己外2名友军获得10%的<$ba.protect>庇护</>",
+          "name": "同路之谊",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.12
+          },
+          "description": "使攻击范围内除自己外2名友军获得12%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>",
+          "name": "同路之谊",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "heal_scale": 0.75
+        },
+        "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": null,
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_xingzh": {
+      "battle": null,
+      "charId": "char_4172_xingzh",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_xingzh",
+      "uniEquipName": "行箸证章"
+    },
+    "uniequip_002_xingzh": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "max_hp": 125.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.12
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "同路之谊",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内除自己外2名友军获得12%的<$ba.protect>庇护</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.14
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "同路之谊",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内除自己外2名友军获得14%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 175.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": null,
+                  "blackboard": {
+                    "heal_scale": 1.0
+                  },
+                  "overrideDescripton": "攻击造成<@ba.kw>法术伤害</>，技能开启后改为治疗友方单位（治疗量相当于<@ba.kw>{heal_scale:0%}</>攻击力）",
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "TRAIT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "同路之谊",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内除自己外2名友军获得15%的<$ba.protect>庇护</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.17
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "同路之谊",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使攻击范围内除自己外2名友军获得17%<@ba.talpu>（+2%）</>的<$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4172_xingzh",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31064": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "bls-x",
+      "uniEquipId": "uniequip_002_xingzh",
+      "uniEquipName": "别昔年"
+    }
+  },
+  "skill": {
+    "skchr_xingzh_1": [
+      {
+        "blackboard": {
+          "heal_scale": 2.0
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.1
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.2
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 4,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.4
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.5
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.6
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 6,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 2.9
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 3.0
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 3.1
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 3.3
+        },
+        "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的<@ba.vup>{heal_scale:0%}</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "盈帙满笥",
+        "prefabId": "skchr_xingzh_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_xingzh_2": [
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 20.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 23.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 47,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 27.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 22.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 49,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 32.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 35.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 52,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.15,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 38.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 24.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 54,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.18,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 43.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 26.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 55,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.18,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 45.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 27.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 57,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.18,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 47.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 28.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 59,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 78,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@max_target": 2.0,
+          "attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio": 0.2,
+          "attack@xingzh_s_2[heal].interval": 1.0,
+          "attack_speed": 50.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，额外治疗<@ba.vup>1</>名目标，且每秒恢复天赋生效目标相当于行箸攻击力<@ba.vup>{attack@xingzh_s_2[heal].atk_to_hp_recovery_ratio:0%}</>的生命",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "食不厌精",
+        "prefabId": "skchr_xingzh_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 60,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 75,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1061 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "30043": 4,
+        "3302": 6
+      },
+      {
+        "31033": 2,
+        "31053": 3,
+        "3303": 6
+      }
+    ],
+    "description": "能够阻挡一个敌人",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 75,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 25,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "莱欧斯",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 401,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 114,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1481,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 590,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 16,
+            "def": 163,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2117,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4142_laios",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 590,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 163,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2117,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 747,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 212,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2901,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4142_laios",
+        "evolveCost": {
+          "30032": 5,
+          "30042": 3,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "1-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 747,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 212,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2901,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 900,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 18,
+            "def": 256,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3868,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4142_laios",
+        "evolveCost": {
+          "30044": 7,
+          "31063": 10,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+32",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 32.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-6秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -6.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31054": 3,
+            "31063": 3,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31014": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_laios_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30103": 2,
+            "31074": 3,
+            "3303": 5
+          },
+          {
+            "31014": 6,
+            "31084": 3,
+            "3303": 6
+          },
+          {
+            "30014": 2,
+            "30155": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_laios_2"
+      }
+    ],
+    "subProfessionId": "fearless",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def_penetrate": 0.2
+          },
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其20%防御力",
+          "name": "迷宫魔物专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate": 0.4
+          },
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力",
+          "name": "迷宫魔物专家",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 18,
+        "duration": 41
+      },
+      "Idle": 30,
+      "Skill_1_Begin": {
+        "OnPlayAudio": 70,
+        "duration": 135
+      },
+      "Skill_1_End": {
+        "OnPlayAudio": 66,
+        "duration": 95
+      },
+      "Skill_1_Loop": 83,
+      "Skill_2_Begin": {
+        "OnAttack": 10,
+        "duration": 20
+      },
+      "Skill_2_End": {
+        "OnAttack": 20,
+        "duration": 42
+      },
+      "Skill_2_Loop": {
+        "OnPlayAudio": 72,
+        "duration": 90
+      },
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_laios": {
+      "battle": null,
+      "charId": "char_4142_laios",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_laios",
+      "uniEquipName": "莱欧斯证章"
+    },
+    "uniequip_002_laios": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 20.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "laios_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 30.0,
+            "max_hp": 190.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "laios_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迷宫魔物专家",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格有敌人倒下后，莱欧斯攻击所有同名敌人时无视其45%防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "laios_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.45
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迷宫魔物专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格有敌人倒下后，莱欧斯攻击所有同名敌人时无视其45%防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 55.0,
+            "def": 40.0,
+            "max_hp": 220.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "被击倒时不撤退且回复所有生命但生命上限<@ba.vdown>-{value:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>（单次部署只触发1次）",
+                  "blackboard": {
+                    "attack_speed": 30.0,
+                    "hp_ratio": 1.0,
+                    "max_hp": 0.4,
+                    "value": 0.6
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "laios_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迷宫魔物专家",
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格有敌人倒下后，莱欧斯攻击所有同名敌人时无视其50%防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "laios_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate": 0.5
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "迷宫魔物专家",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "周围四格有敌人倒下后，莱欧斯攻击所有同名敌人时无视其50%防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4142_laios",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30054": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30084": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "dre-y",
+      "uniEquipId": "uniequip_002_laios",
+      "uniEquipName": "想要带回迷宫的包裹"
+    }
+  },
+  "skill": {
+    "skchr_laios_1": [
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.25,
+          "peak_performance.hp_ratio": 0.75
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.25,
+          "peak_performance.hp_ratio": 0.7
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.3,
+          "peak_performance.hp_ratio": 0.7
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.3,
+          "peak_performance.hp_ratio": 0.65
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.35,
+          "peak_performance.hp_ratio": 0.65
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.35,
+          "peak_performance.hp_ratio": 0.6
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.5,
+          "peak_performance.hp_ratio": 0.5
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.55,
+          "peak_performance.hp_ratio": 0.5
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.6,
+          "peak_performance.hp_ratio": 0.5
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      },
+      {
+        "blackboard": {
+          "peak_performance.atk": 0.7,
+          "peak_performance.hp_ratio": 0.5
+        },
+        "description": "生命值高于<@ba.vup>{peak_performance.hp_ratio:0%}</>时，获得<@ba.vup>+{peak_performance.atk:0%}</>攻击力的<$ba.strong>精力充沛</>\\n场上首次出现领袖敌人时，莱欧斯在<@ba.vdown>15</>秒内无法攻击",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "胆小剑助",
+        "prefabId": "skchr_laios_1",
+        "rangeId": null,
+        "skillType": "PASSIVE",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "spType": 8
+        }
+      }
+    ],
+    "skchr_laios_2": [
+      {
+        "blackboard": {
+          "atk_scale": 2.8,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 2.9,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.0,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.2,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.4,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.6,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 3.8,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.0,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.2,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 4.5,
+          "not_combat": 10.0
+        },
+        "description": "停止攻击，技能期间使阻挡的敌人<$ba.tremble>战栗</>，技能结束时立即对阻挡的敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "duration": 10.0,
+        "durationType": "NONE",
+        "name": "威吓战法",
+        "prefabId": "skchr_laios_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

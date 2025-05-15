@@ -1,0 +1,1397 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30011": 4,
+        "30051": 6,
+        "3301": 5
+      },
+      {
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30012": 5,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "31033": 6,
+        "3302": 8
+      },
+      {
+        "30103": 3,
+        "31063": 5,
+        "3303": 8
+      }
+    ],
+    "description": "技能可以治疗友方单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 60,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "黍",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 203,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 250,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1334,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 290,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 18,
+            "def": 369,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1804,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_2025_shu",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 290,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 369,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1804,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 392,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 20,
+            "def": 493,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2313,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_2025_shu",
+        "evolveCost": {
+          "30042": 8,
+          "30052": 3,
+          "3231": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 392,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 493,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2313,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 479,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 22,
+            "def": 602,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 3213,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_2025_shu",
+        "evolveCost": {
+          "30145": 3,
+          "31054": 6,
+          "3233": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+200",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 200.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30094": 4,
+            "31053": 5,
+            "3303": 8
+          },
+          {
+            "31054": 4,
+            "31064": 8,
+            "3303": 12
+          },
+          {
+            "30135": 6,
+            "31054": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shu_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30073": 8,
+            "31054": 4,
+            "3303": 8
+          },
+          {
+            "30044": 7,
+            "30074": 4,
+            "3303": 12
+          },
+          {
+            "30044": 3,
+            "30145": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shu_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "31023": 9,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "31024": 4,
+            "3303": 12
+          },
+          {
+            "30094": 4,
+            "30155": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_shu_3"
+      }
+    ],
+    "subProfessionId": "guardian",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_resistance": 0.05,
+            "hp_recovery_per_sec": 40.0
+          },
+          "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复40生命、获得5%<$ba.protect>庇护</>",
+          "name": "百谷长青",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.07,
+            "hp_recovery_per_sec": 45.0
+          },
+          "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复45<@ba.talpu>（+5）</>生命、获得7%<@ba.talpu>（+2%）</><$ba.protect>庇护</>",
+          "name": "百谷长青",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.1,
+            "hp_recovery_per_sec": 70.0
+          },
+          "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复70生命、获得10%<$ba.protect>庇护</>",
+          "name": "百谷长青",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_resistance": 0.12,
+            "hp_recovery_per_sec": 75.0
+          },
+          "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复75<@ba.talpu>（+5）</>生命、获得12%<@ba.talpu>（+2%）</><$ba.protect>庇护</>",
+          "name": "百谷长青",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "atk": 0.12,
+            "attack_speed": 12.0,
+            "interval": 4.0,
+            "max_hp": 0.12,
+            "sp": 1.0
+          },
+          "description": "场上有三名不同职业干员时所有干员生命上限+12%、三名相同职业干员时所有干员攻击速度+12，编队中有四名【岁】干员时所有干员攻击力+12%且4秒获得1点技力",
+          "name": "天有四时",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack_1": {
+        "OnAttack": 16,
+        "duration": 36
+      },
+      "Attack_2": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Idle": 120,
+      "Skill_2_Attack": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill_2_Begin": 8,
+      "Skill_2_End": 8,
+      "Skill_2_Idle": 120,
+      "Skill_3_Attack_1": {
+        "OnAttack": 16,
+        "duration": 36
+      },
+      "Skill_3_Attack_2": {
+        "OnAttack": 16,
+        "duration": 39
+      },
+      "Skill_3_Begin": 5,
+      "Skill_3_End": 15,
+      "Skill_3_Idle": 120,
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_shu": {
+      "battle": null,
+      "charId": "char_2025_shu",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_shu",
+      "uniEquipName": "黍证章"
+    },
+    "uniequip_002_shu": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 30.0,
+            "max_hp": 160.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shu_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 40.0,
+            "max_hp": 210.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shu_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.1,
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "百谷长青",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得10%<$ba.protect>庇护</>"
+                },
+                {
+                  "blackboard": {
+                    "damage_resistance": 0.12,
+                    "hp_recovery_per_sec": 85.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "百谷长青",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85<@ba.talpu>（+5）</>生命、获得12%<@ba.talpu>（+2%）</><$ba.protect>庇护</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "def": 50.0,
+            "max_hp": 270.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "治疗生命值低于50%的友方单位时治疗量提升<@ba.kw>15%</>",
+                  "blackboard": {
+                    "heal_scale": 1.15,
+                    "hp_ratio": 0.5
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "shu_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "born_range_id": "0-1",
+                    "damage_resistance": 0.15,
+                    "hp_recovery_per_sec": 80.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "百谷长青",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得15%<$ba.protect>庇护</>，部署时立即给所处地块播种该效果"
+                },
+                {
+                  "blackboard": {
+                    "born_range_id": "0-1",
+                    "damage_resistance": 0.17,
+                    "hp_recovery_per_sec": 85.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "百谷长青",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85<@ba.talpu>（+5）</>生命、获得17%<@ba.talpu>（+2%）</><$ba.protect>庇护</>，部署时立即给所处地块播种该效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_2025_shu",
+      "itemCost": {
+        "1": {
+          "30145": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30135": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30115": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "gua-x",
+      "uniEquipId": "uniequip_002_shu",
+      "uniEquipName": "“钦天司时”"
+    }
+  },
+  "skill": {
+    "skchr_shu_1": [
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.1
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.15
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.2
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.3
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.35
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.4
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.5
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.6
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.7
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 3.0,
+          "heal_scale": 1.8
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "化被草木",
+        "prefabId": "skchr_shu_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_shu_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.2
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.2
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.2
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.3
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.3
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.3
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.4
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.4
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.1,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.4
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.2,
+          "attack@max_target": 2.0,
+          "base_attack_time": 1.3,
+          "block_cnt": 1.0,
+          "extra_extend_scale": 1.5
+        },
+        "description": "<@ba.vdown>停止</>攻击专注治疗范围内至多<@ba.vup>两名</>我方单位，攻击力<@ba.vup>+{atk:0%}</>，阻挡数<@ba.vup>+{block_cnt}</>，第一天赋效果提升至<@ba.vup>{extra_extend_scale}</>倍\\n<@ba.rem>治疗拥有特殊间隔</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "嘉禾盈仓",
+        "prefabId": "skchr_shu_2",
+        "rangeId": "x-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_shu_3": [
+      {
+        "blackboard": {
+          "atk": 0.1,
+          "e_atk": 0.1,
+          "e_attack_speed": 10.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.14,
+          "e_atk": 0.1,
+          "e_attack_speed": 10.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.18,
+          "e_atk": 0.1,
+          "e_attack_speed": 10.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.22,
+          "e_atk": 0.15,
+          "e_attack_speed": 15.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.26,
+          "e_atk": 0.15,
+          "e_attack_speed": 15.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "e_atk": 0.15,
+          "e_attack_speed": 15.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 4.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.34,
+          "e_atk": 0.2,
+          "e_attack_speed": 20.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 3.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.38,
+          "e_atk": 0.2,
+          "e_attack_speed": 20.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 3.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.44,
+          "e_atk": 0.25,
+          "e_attack_speed": 25.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 3.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "e_atk": 0.25,
+          "e_attack_speed": 25.0,
+          "e_max_stack_cnt": 1.0,
+          "max_distance": 2.0
+        },
+        "description": "治疗范围<@ba.vup>扩大</>，攻击同时可治疗我方干员，攻击力<@ba.vup>+{atk:0%}</>，有地面敌人处于播种地块时技能范围内的我方单位攻击力<@ba.vup>+{e_atk:0%}</>、攻击速度<@ba.vup>+{e_attack_speed}</>，敌人经过播种地块时获得如下效果：当远离该地块超过<@ba.vup>{max_distance}</>格时被传送回该地块",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "离离枯荣",
+        "prefabId": "skchr_shu_3",
+        "rangeId": "x-2",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 30,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

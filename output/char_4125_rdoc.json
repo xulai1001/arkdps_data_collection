@@ -1,0 +1,1269 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30051": 5,
+        "3301": 4
+      },
+      {
+        "30062": 2,
+        "3302": 6
+      },
+      {
+        "30012": 8,
+        "3302": 6
+      },
+      {
+        "31073": 3,
+        "3302": 6
+      },
+      {
+        "30033": 3,
+        "31043": 3,
+        "3303": 6
+      }
+    ],
+    "description": "可以攻击到<@ba.kw>较远敌人</>，攻击自身未阻挡的敌人时攻击力提升至120%",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 40,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 150,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "医生",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 289,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 168,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 896,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 413,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 14,
+            "def": 238,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1228,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4125_rdoc",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 413,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 238,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1228,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1596,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4125_rdoc",
+        "evolveCost": {
+          "30032": 5,
+          "30062": 2,
+          "3221": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "2-2"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 551,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 302,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1596,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 657,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 16,
+            "def": 360,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2217,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4125_rdoc",
+        "evolveCost": {
+          "30063": 11,
+          "31014": 8,
+          "3223": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "2-2"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+200",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 200.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "WARRIOR",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 3,
+            "31084": 3,
+            "3303": 5
+          },
+          {
+            "31064": 3,
+            "31084": 5,
+            "3303": 6
+          },
+          {
+            "30094": 4,
+            "30125": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rdoc_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30093": 3,
+            "31054": 3,
+            "3303": 5
+          },
+          {
+            "30064": 3,
+            "31064": 4,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31064": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_rdoc_2"
+      }
+    ],
+    "subProfessionId": "instructor",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 30.0,
+            "max_hp": 0.03
+          },
+          "description": "自身生命上限+3%，攻击无视目标30的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 50.0,
+            "max_hp": 0.03
+          },
+          "description": "自身生命上限+3%，攻击无视目标50<@ba.talpu>（+20）</>的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 60.0,
+            "max_hp": 0.06
+          },
+          "description": "自身生命上限+6%，攻击无视目标60的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 80.0,
+            "max_hp": 0.06
+          },
+          "description": "自身生命上限+6%，攻击无视目标80<@ba.talpu>（+20）</>的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 120.0,
+            "max_hp": 0.12
+          },
+          "description": "自身生命上限+12%，攻击无视目标120的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "def_penetrate_fixed": 140.0,
+            "max_hp": 0.12
+          },
+          "description": "自身生命上限+12%，攻击无视目标140<@ba.talpu>（+20）</>的防御力",
+          "name": "军医",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "dec_rate": -0.2,
+            "scale": 50.0
+          },
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断快速衰减的<$ba.barrier>屏障</>",
+          "name": "交感神经激活",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "dec_rate": -0.1,
+            "scale": 50.0
+          },
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的<$ba.barrier>屏障</>",
+          "name": "交感神经激活",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": [
+      {
+        "blackboard": {
+          "atk_scale": 1.2
+        },
+        "overrideDescripton": null,
+        "prefabKey": null,
+        "rangeId": null,
+        "requiredPotentialRank": 0,
+        "unlockCondition": {
+          "level": 1,
+          "phase": "PHASE_0"
+        }
+      }
+    ]
+  },
+  "custom": {
+    "anim": {
+      "Attack_Begin": 6,
+      "Attack_Down_Begin": 6,
+      "Attack_Down_End": 6,
+      "Attack_Down_Loop": {
+        "OnAttack": 1,
+        "duration": 32
+      },
+      "Attack_End": 6,
+      "Attack_Loop": {
+        "OnAttack": 1,
+        "duration": 32
+      },
+      "Idle": 128,
+      "Skill_1_Begin": 10,
+      "Skill_1_End": 12,
+      "Skill_1_Heal": {
+        "OnAttack": 13,
+        "duration": 35
+      },
+      "Skill_1_Idle": 32,
+      "Skill_1_Loop": {
+        "OnAttack": 3,
+        "duration": 32
+      },
+      "Skill_2": {
+        "OnAttack": 10,
+        "duration": 32
+      },
+      "Skill_Down_1_Begin": 10,
+      "Skill_Down_1_End": 12,
+      "Skill_Down_1_Heal": {
+        "OnAttack": 13,
+        "duration": 35
+      },
+      "Skill_Down_1_Idle": 32,
+      "Skill_Down_1_Loop": {
+        "OnAttack": 3,
+        "duration": 32
+      },
+      "Skill_Down_2": {
+        "OnAttack": 10,
+        "duration": 32
+      },
+      "Start": {
+        "OnStart": 3,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_rdoc": {
+      "battle": null,
+      "charId": "char_4125_rdoc",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_rdoc",
+      "uniEquipName": "医生证章"
+    },
+    "uniequip_002_rdoc": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 15.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rdoc_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "def": 20.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rdoc_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 150.0,
+                    "max_hp": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军医",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身生命上限+15%，攻击无视目标150的防御力"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 170.0,
+                    "max_hp": 0.15
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军医",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身生命上限+15%，攻击无视目标170<@ba.talpu>（+20）</>的防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "def": 23.0,
+            "max_hp": 180.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "可以额外部署在远程位",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "buildable_type": 2.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "rdoc_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 180.0,
+                    "max_hp": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军医",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身生命上限+18%，攻击无视目标180的防御力"
+                },
+                {
+                  "blackboard": {
+                    "def_penetrate_fixed": 200.0,
+                    "max_hp": 0.18
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "军医",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "自身生命上限+18%，攻击无视目标200<@ba.talpu>（+20）</>的防御力"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4125_rdoc",
+      "itemCost": {
+        "1": {
+          "31044": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "30014": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "30104": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "ins-y",
+      "uniEquipId": "uniequip_002_rdoc",
+      "uniEquipName": "“第三种力量”"
+    }
+  },
+  "skill": {
+    "skchr_rdoc_1": [
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.3,
+          "heal_scale": 1.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>小幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.3,
+          "heal_scale": 1.3,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>小幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.3,
+          "heal_scale": 1.7,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>小幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.5,
+          "heal_scale": 2.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>一定幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.5,
+          "heal_scale": 2.3,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>一定幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.5,
+          "heal_scale": 2.7,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>一定幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.7,
+          "heal_scale": 3.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>大幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.7,
+          "heal_scale": 3.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>大幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.7,
+          "heal_scale": 3.8,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>大幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@trigger_time": 31.0,
+          "base_attack_time": -0.7,
+          "heal_scale": 4.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即对自身进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗，之后攻击间隔<@ba.vup>大幅度缩短</>\\n<@ba.rem>攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "AMMO",
+        "name": "以暴制暴",
+        "prefabId": "skchr_rdoc_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_rdoc_2": [
+      {
+        "blackboard": {
+          "heal_scale": 3.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 3.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 4.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 3,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 4.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 5.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 7,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 5.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 6.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 9,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 6.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 7.0,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "heal_scale": 7.5,
+          "skill_max_trigger_time": 3.0
+        },
+        "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力<@ba.vup>{heal_scale:0%}</>的治疗\\n<@ba.rem>每次部署只能释放3次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "激素手枪",
+        "prefabId": "skchr_rdoc_2",
+        "rangeId": "4-1",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

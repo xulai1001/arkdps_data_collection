@@ -1,0 +1,1130 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 2
+      },
+      {
+        "30021": 4,
+        "3301": 2
+      },
+      {
+        "30032": 2,
+        "3302": 3
+      },
+      {
+        "30042": 2,
+        "3302": 3
+      },
+      {
+        "30053": 2,
+        "3302": 3
+      },
+      {
+        "30063": 2,
+        "3303": 4
+      }
+    ],
+    "description": "攻击造成<@ba.kw>群体法术伤害</>",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 70,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "远山",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 332,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 29,
+            "def": 47,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 653,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 29,
+            "def": 72,
+            "hpRecoveryPerSec": 0.0,
+            "level": 45,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 934,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_109_fmout",
+        "evolveCost": null,
+        "maxLevel": 45,
+        "rangeId": "2-3"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 468,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 72,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 934,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 600,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 99,
+            "hpRecoveryPerSec": 0.0,
+            "level": 60,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1214,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_109_fmout",
+        "evolveCost": {
+          "30022": 1,
+          "30042": 1,
+          "3251": 3
+        },
+        "maxLevel": 60,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 600,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 99,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1214,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 715,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 2.9,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 32,
+            "def": 118,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1598,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_109_fmout",
+        "evolveCost": {
+          "30013": 14,
+          "30023": 17,
+          "3252": 5
+        },
+        "maxLevel": 70,
+        "rangeId": "3-6"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+27",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 27.0
+      },
+      {
+        "buff": null,
+        "description": "天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "CASTER",
+    "rarity": "TIER_4",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30053": 4,
+            "30074": 1,
+            "3303": 2
+          },
+          {
+            "30074": 3,
+            "30094": 2,
+            "3303": 4
+          },
+          {
+            "30014": 2,
+            "30125": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skcom_magic_rage[2]"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30063": 3,
+            "30084": 1,
+            "3303": 2
+          },
+          {
+            "30084": 2,
+            "30104": 2,
+            "3303": 4
+          },
+          {
+            "30034": 2,
+            "30135": 2,
+            "3303": 6
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_fmout_2"
+      }
+    ],
+    "subProfessionId": "splashcaster",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "atk": 0.07,
+            "attack_speed": 7.0,
+            "max_hp": 0.12
+          },
+          "description": "部署后随机永久获得下列一项增益：攻击力+7%；攻击速度+7；生命上限+12%",
+          "name": "占卜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.09,
+            "attack_speed": 9.0,
+            "max_hp": 0.14
+          },
+          "description": "部署后随机永久获得下列一项增益：攻击力+9%<@ba.talpu>（+2%）</>；攻击速度+9<@ba.talpu>（+2）</>；生命上限+14%<@ba.talpu>（+2%）</>",
+          "name": "占卜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.13,
+            "attack_speed": 13.0,
+            "max_hp": 0.2
+          },
+          "description": "部署后随机永久获得下列一项增益：攻击力+13%；攻击速度+13；生命上限提升20%",
+          "name": "占卜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "atk": 0.15,
+            "attack_speed": 15.0,
+            "max_hp": 0.22
+          },
+          "description": "部署后随机永久获得下列一项增益：攻击力+15%<@ba.talpu>（+2%）</>；攻击速度+15<@ba.talpu>（+2）</>；生命上限+22%<@ba.talpu>（+2%）</>",
+          "name": "占卜",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 17,
+        "duration": 30
+      },
+      "Idle": 48,
+      "Start": {
+        "OnStart": 22,
+        "duration": 33
+      }
+    },
+    "options": null,
+    "spec": {
+      "char_109_fmout": {
+        "frame_corr": 1
+      },
+      "skchr_fmout_2": {
+        "attack_begin": 17,
+        "reset_attack": true
+      },
+      "uniequip_002_fmout": {
+        "override_talent": 1
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_fmout": {
+      "battle": null,
+      "charId": "char_109_fmout",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_fmout",
+      "uniEquipName": "远山证章"
+    },
+    "uniequip_002_fmout": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "fmout_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 120.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "fmout_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.17,
+                    "attack_speed": 17.0,
+                    "max_hp": 0.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "占卜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机永久获得下列一项增益：攻击力+17%；攻击速度+17；生命上限提升25%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.19,
+                    "attack_speed": 19.0,
+                    "max_hp": 0.27
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "占卜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机永久获得下列一项增益：攻击力+19%<@ba.talpu>（+2%）</>；攻击速度+19<@ba.talpu>（+2）</>；生命上限+27%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 57.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "攻击范围<@ba.kw>扩大</>",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": true,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "3-1",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "fmout_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "atk": 0.18,
+                    "attack_speed": 18.0,
+                    "max_hp": 0.28
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "占卜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机永久获得下列一项增益：攻击力+18%；攻击速度+18；生命上限提升28%"
+                },
+                {
+                  "blackboard": {
+                    "atk": 0.2,
+                    "attack_speed": 20.0,
+                    "max_hp": 0.3
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "占卜",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 40,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后随机永久获得下列一项增益：攻击力+20%<@ba.talpu>（+2%）</>；攻击速度+20<@ba.talpu>（+2）</>；生命上限+30%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_109_fmout",
+      "itemCost": {
+        "1": {
+          "31033": 4,
+          "4001": 20000,
+          "mod_unlock_token": 1
+        },
+        "2": {
+          "30023": 5,
+          "4001": 25000,
+          "mod_unlock_token": 1,
+          "mod_update_token_1": 15
+        },
+        "3": {
+          "31053": 6,
+          "4001": 30000,
+          "mod_unlock_token": 1,
+          "mod_update_token_2": 5
+        }
+      },
+      "typeIcon": "spc-x",
+      "uniEquipId": "uniequip_002_fmout",
+      "uniEquipName": "占卜师旅行套装"
+    }
+  },
+  "skill": {
+    "skchr_fmout_2": [
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "time": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "time": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "time": 15.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "time": 14.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 95,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "time": 14.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 95,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.55,
+          "time": 14.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 95,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "time": 13.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "time": 12.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9,
+          "time": 11.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 90,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0,
+          "time": 10.0
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击范围<@ba.vup>扩大</>，同时攻击攻击范围内所有敌人\\n<@ba.rem>技能时间结束后远山停止攻击{time}秒</>",
+        "duration": 30.0,
+        "durationType": "NONE",
+        "name": "命运",
+        "prefabId": "skchr_fmout_2",
+        "rangeId": "3-3",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 85,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skcom_magic_rage[2]": [
+      {
+        "blackboard": {
+          "attack_speed": 15.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 20.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 25.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 30.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 35.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 40.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 45.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 55.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 65.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 5,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 75.0
+        },
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>",
+        "duration": 25.0,
+        "durationType": "NONE",
+        "name": "战术咏唱·β型",
+        "prefabId": "skcom_attack_speed_up",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

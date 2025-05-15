@@ -1,0 +1,252 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "能够阻挡两个敌人，且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 100,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "CONFESS-47",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 134,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 3,
+            "def": 123,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 577,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 192,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.05,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 3,
+            "def": 154,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 770,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4188_confes",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "1-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "PIONEER",
+    "rarity": "TIER_1",
+    "skills": null,
+    "subProfessionId": "pioneer",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 2.0,
+            "sleep": 5.0
+          },
+          "description": "首次阻挡敌人时立即获得2点部署费用，并使该敌人<$ba.sleep>沉睡</>5秒",
+          "name": "先付费，再告解·I",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 2.0,
+            "sleep": 6.0
+          },
+          "description": "首次阻挡敌人时立即获得2点部署费用，并使该敌人<$ba.sleep>沉睡</>6秒",
+          "name": "先付费，再告解·II",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 1,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 3.0,
+            "sleep": 6.0
+          },
+          "description": "首次阻挡敌人时立即获得3点部署费用，并使该敌人<$ba.sleep>沉睡</>6秒",
+          "name": "先付费，再告解·III",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 3.0,
+            "sleep": 7.0
+          },
+          "description": "首次阻挡敌人时立即获得3点部署费用，并使该敌人<$ba.sleep>沉睡</>7秒",
+          "name": "先付费，再告解·IV",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 3,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 4.0,
+            "sleep": 7.0
+          },
+          "description": "首次阻挡敌人时立即获得4点部署费用，并使该敌人<$ba.sleep>沉睡</>7秒",
+          "name": "先付费，再告解·V",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 1.0,
+            "cost": 4.0,
+            "sleep": 8.0
+          },
+          "description": "首次阻挡敌人时立即获得4点部署费用，并使该敌人<$ba.sleep>沉睡</>8秒",
+          "name": "先付费，再告解·VI",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 7,
+        "duration": 32
+      },
+      "Idle": 60,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}

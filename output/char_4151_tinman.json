@@ -1,0 +1,1200 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30011": 10,
+        "3301": 4
+      },
+      {
+        "30022": 3,
+        "3302": 6
+      },
+      {
+        "30032": 5,
+        "3302": 6
+      },
+      {
+        "30073": 4,
+        "3302": 6
+      },
+      {
+        "30023": 3,
+        "31063": 3,
+        "3303": 6
+      }
+    ],
+    "description": "可以投掷<@ba.kw>炼金单元</>协助作战",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 30,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 200,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "集成战略获得",
+    "name": "锡人",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 207,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 44,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 500,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 288,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 13,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 677,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4151_tinman",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "2-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 288,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 65,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 677,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 379,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 15,
+            "def": 83,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 25.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 880,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4151_tinman",
+        "evolveCost": {
+          "30012": 4,
+          "30052": 4,
+          "3281": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "2-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 379,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 83,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 880,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 469,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.5,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 17,
+            "def": 99,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 30.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1114,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4151_tinman",
+        "evolveCost": {
+          "30013": 18,
+          "30054": 7,
+          "3283": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "3-5"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "buff": null,
+        "description": "第一天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "MAGIC_RESISTANCE",
+        "description": "法术抗性+8",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 8.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SPECIAL",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 3,
+            "30043": 5,
+            "3303": 5
+          },
+          {
+            "30104": 5,
+            "31054": 3,
+            "3303": 6
+          },
+          {
+            "30145": 4,
+            "31034": 1,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_tinman_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "31023": 1,
+            "31034": 3,
+            "3303": 5
+          },
+          {
+            "30054": 5,
+            "31014": 3,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31064": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_tinman_2"
+      }
+    ],
+    "subProfessionId": "alchemist",
+    "talents": [
+      [
+        {
+          "blackboard": {},
+          "description": "在【萨卡兹的无终奇语】中，被招募时希望消耗-1",
+          "name": "“在路上”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "在【萨卡兹的无终奇语】中，被招募时希望消耗-2，且作为负荷干员时使负荷临界点额外+3",
+          "name": "“在路上”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "在【萨卡兹的无终奇语】中，被招募时希望消耗-2，且作为负荷干员时使负荷临界点额外+4<@ba.talpu>（+1）</>",
+          "name": "“在路上”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "在【萨卡兹的无终奇语】中，被招募时希望消耗-2，且作为负荷干员时使负荷临界点额外+9",
+          "name": "“在路上”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "在【萨卡兹的无终奇语】中，被招募时希望消耗-2，且作为负荷干员时使负荷临界点额外+10<@ba.talpu>（+1）</>",
+          "name": "“在路上”",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {
+            "skill@damage_scale": 1.2
+          },
+          "description": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高20%",
+          "name": "凋敝魂灵",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {
+            "skill@damage_scale": 1.22
+          },
+          "description": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高22%<@ba.talpu>（+2%）</>",
+          "name": "凋敝魂灵",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 16,
+        "duration": 45
+      },
+      "Idle": 120,
+      "Skill": {
+        "OnAttack": 18,
+        "duration": 45
+      },
+      "Skill_2": {
+        "OnAttack": 17,
+        "duration": 45
+      },
+      "Start": 30
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_tinman": {
+      "battle": null,
+      "charId": "char_4151_tinman",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_tinman",
+      "uniEquipName": "锡人证章"
+    },
+    "uniequip_002_tinman": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 20.0,
+            "max_hp": 80.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "tinman_equip_1_1_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 90.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "tinman_equip_1_2_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "skill@damage_scale": 1.23
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "凋敝魂灵",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高23%"
+                },
+                {
+                  "blackboard": {
+                    "skill@damage_scale": 1.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "凋敝魂灵",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高25%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 35.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+                  "blackboard": {},
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": null,
+              "target": "DISPLAY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "sp_recovery_per_sec": 0.1
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "tinman_equip_1_3_p1",
+              "target": "TALENT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "skill@damage_scale": 1.25
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "凋敝魂灵",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高25%"
+                },
+                {
+                  "blackboard": {
+                    "skill@damage_scale": 1.27
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "凋敝魂灵",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高27%<@ba.talpu>（+2%）</>"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4151_tinman",
+      "itemCost": {
+        "1": {
+          "31054": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31074": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31014": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "alc-x",
+      "uniEquipId": "uniequip_002_tinman",
+      "uniEquipName": "“颅相学”"
+    }
+  },
+  "skill": {
+    "skchr_tinman_1": [
+      {
+        "blackboard": {
+          "atk": -0.15,
+          "atk_scale": 0.3,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.15,
+          "atk_scale": 0.35,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.15,
+          "atk_scale": 0.4,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.2,
+          "atk_scale": 0.45,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.2,
+          "atk_scale": 0.5,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.2,
+          "atk_scale": 0.55,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.25,
+          "atk_scale": 0.6,
+          "projectile_delay_time": 8.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.25,
+          "atk_scale": 0.65,
+          "projectile_delay_time": 9.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.25,
+          "atk_scale": 0.7,
+          "projectile_delay_time": 9.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": -0.3,
+          "atk_scale": 0.75,
+          "projectile_delay_time": 10.0,
+          "projectile_range": 1.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人获得<@ba.vup>{-atk:0%}</>的<$ba.weaken>虚弱</>效果且每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“老科利”",
+        "prefabId": "skchr_tinman_1",
+        "rangeId": null,
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WHEN_ATTACK"
+        }
+      }
+    ],
+    "skchr_tinman_2": [
+      {
+        "blackboard": {
+          "atk_scale": 0.5,
+          "hp_recovery_per_sec_ratio": 0.1,
+          "projectile_delay_time": 10.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.55,
+          "hp_recovery_per_sec_ratio": 0.1,
+          "projectile_delay_time": 10.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.6,
+          "hp_recovery_per_sec_ratio": 0.1,
+          "projectile_delay_time": 10.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.65,
+          "hp_recovery_per_sec_ratio": 0.15,
+          "projectile_delay_time": 11.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.7,
+          "hp_recovery_per_sec_ratio": 0.15,
+          "projectile_delay_time": 11.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.75,
+          "hp_recovery_per_sec_ratio": 0.15,
+          "projectile_delay_time": 11.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能1次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.8,
+          "hp_recovery_per_sec_ratio": 0.2,
+          "projectile_delay_time": 12.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 0.9,
+          "hp_recovery_per_sec_ratio": 0.2,
+          "projectile_delay_time": 13.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.0,
+          "hp_recovery_per_sec_ratio": 0.2,
+          "projectile_delay_time": 14.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk_scale": 1.1,
+          "hp_recovery_per_sec_ratio": 0.25,
+          "projectile_delay_time": 15.0,
+          "projectile_range": 2.0
+        },
+        "description": "投掷一个炼金单元，在<@ba.vup>{projectile_delay_time}</>秒内使落点周围的地面敌人每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害、友方单位每秒恢复相当于攻击力<@ba.vup>{hp_recovery_per_sec_ratio:0%}</>的生命\\n<@ba.rem>可充能2次</>",
+        "duration": -1.0,
+        "durationType": "NONE",
+        "name": "“大拉里”",
+        "prefabId": "skchr_tinman_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 25,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

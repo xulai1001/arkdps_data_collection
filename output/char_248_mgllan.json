@@ -1,0 +1,1899 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 5
+      },
+      {
+        "30021": 4,
+        "30041": 5,
+        "3301": 5
+      },
+      {
+        "30052": 4,
+        "3302": 8
+      },
+      {
+        "30032": 3,
+        "30062": 3,
+        "3302": 8
+      },
+      {
+        "30093": 5,
+        "3302": 8
+      },
+      {
+        "30033": 5,
+        "30103": 3,
+        "3303": 8
+      }
+    ],
+    "description": "攻击造成<@ba.kw>法术伤害</>\\n可以使用<@ba.kw>召唤物</>协助作战",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 40,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 300,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "麦哲伦",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 211,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 60,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 495,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 302,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 10,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 15.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 670,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_248_mgllan",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "3-6"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 302,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 87,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 670,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 403,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 871,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_248_mgllan",
+        "evolveCost": {
+          "30032": 4,
+          "30042": 7,
+          "3271": 5
+        },
+        "maxLevel": 80,
+        "rangeId": "3-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 403,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 116,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 871,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 469,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.6,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 12,
+            "def": 140,
+            "hpRecoveryPerSec": 0.0,
+            "level": 90,
+            "magicResistance": 20.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1103,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_248_mgllan",
+        "evolveCost": {
+          "30084": 6,
+          "30115": 4,
+          "3273": 4
+        },
+        "maxLevel": 90,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "ATK",
+        "description": "攻击力+23",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 23.0
+      },
+      {
+        "buff": null,
+        "description": "第二天赋效果增强",
+        "type": "CUSTOM"
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "SUPPORT",
+    "rarity": "TIER_6",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "30083": 5,
+            "30104": 4,
+            "3303": 8
+          },
+          {
+            "30014": 10,
+            "30034": 4,
+            "3303": 12
+          },
+          {
+            "30084": 6,
+            "30115": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10005_mgllan_drone1",
+        "skillId": "skchr_mgllan_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30014": 4,
+            "30093": 7,
+            "3303": 8
+          },
+          {
+            "30024": 7,
+            "30044": 4,
+            "3303": 12
+          },
+          {
+            "30054": 5,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10005_mgllan_drone2",
+        "skillId": "skchr_mgllan_2"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30024": 4,
+            "30103": 5,
+            "3303": 8
+          },
+          {
+            "30034": 7,
+            "30054": 4,
+            "3303": 12
+          },
+          {
+            "30064": 4,
+            "30135": 6,
+            "3303": 15
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": "token_10005_mgllan_drone3",
+        "skillId": "skchr_mgllan_3"
+      }
+    ],
+    "subProfessionId": "summoner",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "cnt": 3.0
+          },
+          "description": "可以使用3个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变",
+          "name": "支援无人机·龙腾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 4.0
+          },
+          "description": "可以使用4个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变",
+          "name": "支援无人机·龙腾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "cnt": 5.0
+          },
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变",
+          "name": "支援无人机·龙腾",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ],
+      [
+        {
+          "blackboard": {},
+          "description": "无人机在部署后的12秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标）",
+          "name": "光学折射配件",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "无人机在部署后的14<@ba.talpu>（+2）</>秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标）",
+          "name": "光学折射配件",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "无人机在部署后的20秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标）",
+          "name": "光学折射配件",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        },
+        {
+          "blackboard": {},
+          "description": "无人机在部署后的22<@ba.talpu>（+2）</>秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标）",
+          "name": "光学折射配件",
+          "prefabKey": "2",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 19,
+        "duration": 33
+      },
+      "Idle": 60,
+      "Skill": {
+        "OnAttack": 15,
+        "duration": 30
+      },
+      "Start": {
+        "OnStart": 5,
+        "duration": 30
+      }
+    },
+    "options": {
+      "cond_info": null,
+      "tags": [
+        "token"
+      ]
+    },
+    "spec": {
+      "char_248_mgllan": {
+        "attack_begin": 19
+      },
+      "skchr_mgllan_1": {
+        "token": "token_10005_mgllan_drone1"
+      },
+      "skchr_mgllan_2": {
+        "attack_begin": 19,
+        "token": "token_10005_mgllan_drone2",
+        "token_attack_begin": 7,
+        "token_damage_type": 1,
+        "use_token_for_mastery": true
+      },
+      "skchr_mgllan_3": {
+        "attack_begin": 19,
+        "reset_attack": true,
+        "token": "token_10005_mgllan_drone3",
+        "token_attack_begin": 21,
+        "token_damage_type": "0",
+        "use_token_for_mastery": true
+      }
+    }
+  },
+  "equip": {
+    "uniequip_001_mgllan": {
+      "battle": null,
+      "charId": "char_248_mgllan",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_mgllan",
+      "uniEquipName": "麦哲伦证章"
+    },
+    "uniequip_002_mgllan": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 30.0,
+            "max_hp": 100.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首个召唤物部署时<@ba.kw>不消耗</>部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "max_hp": 130.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首个召唤物部署时<@ba.kw>不消耗</>部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "无人机在部署后的23秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标），若麦哲伦在其周围四格则享受相同效果"
+                },
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "无人机在部署后的25<@ba.talpu>（+2）</>秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标），若麦哲伦在其周围四格则享受相同效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hidden_duration": 23.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后<$ba.invisible>隐匿</>23秒"
+                },
+                {
+                  "blackboard": {
+                    "hidden_duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后<$ba.invisible>隐匿</>25<@ba.talpu>（+2）</>秒"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "e_hidden_duration": 23.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "e_hidden_duration": 25.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mgllan_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 50.0,
+            "max_hp": 150.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "首个召唤物部署时<@ba.kw>不消耗</>部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+                  "blackboard": {
+                    "cnt": 1.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "无人机在部署后的26秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标），若麦哲伦在其周围四格则享受相同效果"
+                },
+                {
+                  "blackboard": {},
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "无人机在部署后的28<@ba.talpu>（+2）</>秒内处于<$ba.invisible>隐匿</>状态（不会成为敌方远程单位的攻击目标），若麦哲伦在其周围四格则享受相同效果"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "hidden_duration": 26.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后<$ba.invisible>隐匿</>26秒"
+                },
+                {
+                  "blackboard": {
+                    "hidden_duration": 28.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "光学折射配件",
+                  "prefabKey": "2",
+                  "rangeId": null,
+                  "requiredPotentialRank": 4,
+                  "talentIndex": 1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "部署后<$ba.invisible>隐匿</>28<@ba.talpu>（+2）</>秒"
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "e_hidden_duration": 26.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                },
+                {
+                  "blackboard": {
+                    "e_hidden_duration": 28.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": "x-5",
+                  "requiredPotentialRank": 4,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": "mgllan_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_248_mgllan",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30125": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30135": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "sum-x",
+      "uniEquipId": "uniequip_002_mgllan",
+      "uniEquipName": "专业无人机操作模块"
+    },
+    "uniequip_003_mgllan": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 25.0,
+            "def": 25.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "召唤物持有上限<@ba.kw>+{cnt}</>，召唤物部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_2_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10005_mgllan_drone1": [
+              {
+                "key": "cost",
+                "value": -1.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone2": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone3": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 34.0,
+            "def": 34.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "召唤物持有上限<@ba.kw>+{cnt}</>，召唤物部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_2_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "支援无人机·龙腾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_deck_stack_cnt": 5.0,
+                    "max_deploy_count": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10005_mgllan_drone1": [
+              {
+                "key": "cost",
+                "value": -1.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone2": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone3": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ]
+          }
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 40.0,
+            "def": 40.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "召唤物持有上限<@ba.kw>+{cnt}</>，召唤物部署费用<@ba.kw>减少</>",
+                  "blackboard": {
+                    "cnt": 3.0
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "mgllan_equip_2_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "cnt": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "支援无人机·龙腾",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "max_deck_stack_cnt": 5.0,
+                    "max_deploy_count": 3.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 60,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": true,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {
+            "token_10005_mgllan_drone1": [
+              {
+                "key": "cost",
+                "value": -1.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_hp",
+                "value": 100.0,
+                "valueStr": null
+              },
+              {
+                "key": "def",
+                "value": 50.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone2": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 40.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ],
+            "token_10005_mgllan_drone3": [
+              {
+                "key": "cost",
+                "value": -3.0,
+                "valueStr": null
+              },
+              {
+                "key": "atk",
+                "value": 50.0,
+                "valueStr": null
+              },
+              {
+                "key": "attack_speed",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "max_deck_stack_cnt",
+                "value": 3.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ],
+      "charId": "char_248_mgllan",
+      "itemCost": {
+        "1": {
+          "30115": 2,
+          "4001": 80000,
+          "mod_unlock_token": 4
+        },
+        "2": {
+          "30145": 3,
+          "4001": 100000,
+          "mod_unlock_token": 4,
+          "mod_update_token_1": 60
+        },
+        "3": {
+          "30125": 4,
+          "4001": 120000,
+          "mod_unlock_token": 4,
+          "mod_update_token_2": 20
+        }
+      },
+      "typeIcon": "sum-y",
+      "uniEquipId": "uniequip_003_mgllan",
+      "uniEquipName": "教学用龙腾无人机"
+    }
+  },
+  "skill": {
+    "skchr_mgllan_1": [
+      {
+        "blackboard": {
+          "attack@frozen_duration": 1.6,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 10,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 1.7,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 11,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 1.8,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.7
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 12,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 1.9,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.8
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 13,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.0,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.8
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 14,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.1,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.8
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 15,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.2,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.9
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 16,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.3,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.9
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 17,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.4,
+          "attack@interval": 3.0,
+          "attack@sluggish": 0.9
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 18,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack@frozen_duration": 2.5,
+          "attack@interval": 3.0,
+          "attack@sluggish": 1.0
+        },
+        "description": "被动效果：使自身和无人机攻击范围内的敌方单位每<@ba.vup>{attack@interval}</>秒<$ba.sluggish>停顿</><@ba.vup>{attack@sluggish}</>秒\\n主动开启：<$ba.sluggish>停顿</>变为<$ba.root>束缚</><@ba.vup>{attack@frozen_duration}</>秒，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "高效制冷模块",
+        "prefabId": "skchr_mgllan_1",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 20,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mgllan_2": [
+      {
+        "blackboard": {
+          "attack_speed": 60.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 65.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 70.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 80.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 85.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 90.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 100.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 115.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 130.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "attack_speed": 150.0
+        },
+        "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\\n主动开启：麦哲伦和她的无人机攻击速度<@ba.vup>+{attack_speed}</>，无人机变为<@ba.vup>群体</>攻击，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "激光开采模块",
+        "prefabId": "skchr_mgllan_2",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_mgllan_3": [
+      {
+        "blackboard": {
+          "atk": 0.6
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.65
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.85
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.9
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.0
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.15
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.3
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 1.5
+        },
+        "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\\n主动开启：麦哲伦和她的无人机攻击力<@ba.vup>+{atk:0%}</>，无人机攻击的爆炸范围<@ba.vup>扩大</>，<@ba.rem>技能结束时回收所有无人机</>",
+        "duration": 15.0,
+        "durationType": "NONE",
+        "name": "武装打击模块",
+        "prefabId": "skchr_mgllan_3",
+        "rangeId": null,
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 25,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

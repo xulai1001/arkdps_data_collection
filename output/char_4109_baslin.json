@@ -1,0 +1,1057 @@
+{
+  "char": {
+    "allSkillLvlup": [
+      {
+        "3301": 4
+      },
+      {
+        "30031": 7,
+        "3301": 4
+      },
+      {
+        "30042": 3,
+        "3302": 6
+      },
+      {
+        "30052": 4,
+        "3302": 6
+      },
+      {
+        "31053": 4,
+        "3302": 6
+      },
+      {
+        "30083": 3,
+        "31083": 2,
+        "3303": 6
+      }
+    ],
+    "description": "技能可以治疗友方单位",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 50,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 30,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "深律",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 195,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 238,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1150,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 279,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 2,
+            "cost": 17,
+            "def": 350,
+            "hpRecoveryPerSec": 0.0,
+            "level": 50,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1555,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4109_baslin",
+        "evolveCost": null,
+        "maxLevel": 50,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 279,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 350,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1555,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 378,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 19,
+            "def": 467,
+            "hpRecoveryPerSec": 0.0,
+            "level": 70,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1994,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4109_baslin",
+        "evolveCost": {
+          "30012": 6,
+          "30052": 3,
+          "3231": 4
+        },
+        "maxLevel": 70,
+        "rangeId": "0-1"
+      },
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 378,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 467,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 1994,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 473,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.2,
+            "baseForceLevel": 0,
+            "blockCnt": 3,
+            "cost": 21,
+            "def": 570,
+            "hpRecoveryPerSec": 0.0,
+            "level": 80,
+            "magicResistance": 10.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 2770,
+            "respawnTime": 70,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4109_baslin",
+        "evolveCost": {
+          "30083": 15,
+          "31084": 7,
+          "3233": 3
+        },
+        "maxLevel": 80,
+        "rangeId": "0-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      },
+      {
+        "attributeType": "RESPAWN_TIME",
+        "description": "再部署时间-4秒",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -4.0
+      },
+      {
+        "attributeType": "DEF",
+        "description": "防御力+25",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 25.0
+      },
+      {
+        "attributeType": "MAX_HP",
+        "description": "生命上限+200",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": 200.0
+      },
+      {
+        "attributeType": "COST",
+        "description": "部署费用-1",
+        "formulaItem": "ADDITION",
+        "type": "BUFF",
+        "value": -1.0
+      }
+    ],
+    "profession": "TANK",
+    "rarity": "TIER_5",
+    "skills": [
+      {
+        "levelUpCostCond": [
+          {
+            "31053": 3,
+            "31084": 3,
+            "3303": 5
+          },
+          {
+            "30094": 3,
+            "31054": 6,
+            "3303": 6
+          },
+          {
+            "30125": 4,
+            "31064": 3,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_baslin_1"
+      },
+      {
+        "levelUpCostCond": [
+          {
+            "30033": 3,
+            "31064": 3,
+            "3303": 5
+          },
+          {
+            "30064": 4,
+            "30084": 3,
+            "3303": 6
+          },
+          {
+            "30135": 4,
+            "31024": 4,
+            "3303": 10
+          }
+        ],
+        "overridePrefabKey": null,
+        "overrideTokenKey": null,
+        "skillId": "skchr_baslin_2"
+      }
+    ],
+    "subProfessionId": "guardian",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "baslin_t[ally].magic_resistance": 2.0,
+            "baslin_t[self].magic_resistance": 6.0
+          },
+          "description": "法术抗性+6，周围8格有友方干员时，法术抗性额外+2",
+          "name": "威权教诲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_1"
+          }
+        },
+        {
+          "blackboard": {
+            "baslin_t[ally].magic_resistance": 4.0,
+            "baslin_t[self].magic_resistance": 12.0
+          },
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4",
+          "name": "威权教诲",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_2"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 13,
+        "duration": 36
+      },
+      "Idle": 90,
+      "Skill_1": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Skill_2_Begin": 9,
+      "Skill_2_End": 6,
+      "Skill_2_Idle": 30,
+      "Skill_2_Loop": {
+        "OnAttack": 14,
+        "duration": 36
+      },
+      "Start": {
+        "OnStart": 4,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": {
+    "uniequip_001_baslin": {
+      "battle": null,
+      "charId": "char_4109_baslin",
+      "itemCost": null,
+      "typeIcon": "original",
+      "uniEquipId": "uniequip_001_baslin",
+      "uniEquipName": "深律证章"
+    },
+    "uniequip_002_baslin": {
+      "battle": [
+        {
+          "attributeBlackboard": {
+            "atk": 23.0,
+            "max_hp": 265.0
+          },
+          "equipLevel": 1,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "baslin_equip_1_1_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 28.0,
+            "max_hp": 345.0
+          },
+          "equipLevel": 2,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "baslin_equip_1_2_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "baslin_t[ally].magic_resistance": 4.0,
+                    "baslin_t[self].magic_resistance": 12.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "威权教诲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": 4.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "baslin_equip_1_2_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        },
+        {
+          "attributeBlackboard": {
+            "atk": 32.0,
+            "max_hp": 410.0
+          },
+          "equipLevel": 3,
+          "parts": [
+            {
+              "addOrOverrideTalentDataBundle": null,
+              "isToken": false,
+              "overrideTraitDataBundle": [
+                {
+                  "additionalDescription": "受到的伤害减少<@ba.kw>15%</>",
+                  "blackboard": {
+                    "damage_resistance": 0.15
+                  },
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  }
+                }
+              ],
+              "resKey": "baslin_equip_1_3_p1",
+              "target": "TRAIT",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "baslin_t[ally].magic_resistance": 5.0,
+                    "baslin_t[self].magic_resistance": 14.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": false,
+                  "name": "威权教诲",
+                  "prefabKey": "1",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": 0,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5"
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": null,
+              "target": "TALENT_DATA_ONLY",
+              "validInGameTag": null
+            },
+            {
+              "addOrOverrideTalentDataBundle": [
+                {
+                  "blackboard": {
+                    "magic_resistance": 5.0
+                  },
+                  "description": null,
+                  "displayRangeId": false,
+                  "isHideTalent": true,
+                  "name": null,
+                  "prefabKey": "10",
+                  "rangeId": null,
+                  "requiredPotentialRank": 0,
+                  "talentIndex": -1,
+                  "tokenKey": null,
+                  "unlockCondition": {
+                    "level": 50,
+                    "phase": "PHASE_2"
+                  },
+                  "upgradeDescription": ""
+                }
+              ],
+              "isToken": false,
+              "overrideTraitDataBundle": null,
+              "resKey": "baslin_equip_1_3_p2",
+              "target": "TALENT",
+              "validInGameTag": null
+            }
+          ],
+          "tokenAttributeBlackboard": {}
+        }
+      ],
+      "charId": "char_4109_baslin",
+      "itemCost": {
+        "1": {
+          "31034": 3,
+          "4001": 40000,
+          "mod_unlock_token": 2
+        },
+        "2": {
+          "31044": 4,
+          "4001": 50000,
+          "mod_unlock_token": 2,
+          "mod_update_token_1": 20
+        },
+        "3": {
+          "31054": 5,
+          "4001": 60000,
+          "mod_unlock_token": 2,
+          "mod_update_token_2": 8
+        }
+      },
+      "typeIcon": "gua-y",
+      "uniEquipId": "uniequip_002_baslin",
+      "uniEquipName": "受赐玩物"
+    }
+  },
+  "skill": {
+    "skchr_baslin_1": [
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.1
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.15
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.2
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.3
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.35
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 1.0,
+          "heal_scale": 1.4
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.5
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.6
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 2.0,
+          "heal_scale": 1.7
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "ct": 3.0,
+          "heal_scale": 1.8
+        },
+        "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力<@ba.vup>{heal_scale:0%}</>的生命\\n<@ba.rem>可充能{ct}次</>",
+        "duration": 0.0,
+        "durationType": "NONE",
+        "name": "急救",
+        "prefabId": "skchr_baslin_1",
+        "rangeId": "x-4",
+        "skillType": "AUTO",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 0,
+          "levelUpCost": null,
+          "maxChargeTime": 3,
+          "spCost": 4,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ],
+    "skchr_baslin_2": [
+      {
+        "blackboard": {
+          "atk": 0.2,
+          "attack@scale": 0.3,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.25,
+          "attack@scale": 0.3,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.3,
+          "attack@scale": 0.3,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 40,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 70,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.35,
+          "attack@scale": 0.4,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.4,
+          "attack@scale": 0.4,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.45,
+          "attack@scale": 0.4,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 45,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 65,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.5,
+          "attack@scale": 0.5,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 50,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.6,
+          "attack@scale": 0.5,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 51,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.7,
+          "attack@scale": 0.5,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 52,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      },
+      {
+        "blackboard": {
+          "atk": 0.8,
+          "attack@scale": 0.6,
+          "base_attack_time": 1.3
+        },
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个<$ba.barrier>屏障</>，屏障能吸收相当于深律攻击力<@ba.vup>{attack@scale:0%}</>的<@ba.vup>法术</>伤害",
+        "duration": 60.0,
+        "durationType": "NONE",
+        "name": "沉音宁神",
+        "prefabId": "skchr_baslin_2",
+        "rangeId": "x-4",
+        "skillType": "MANUAL",
+        "spData": {
+          "increment": 1.0,
+          "initSp": 53,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 60,
+          "spType": "INCREASE_WITH_TIME"
+        }
+      }
+    ]
+  }
+}

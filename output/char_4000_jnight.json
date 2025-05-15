@@ -1,0 +1,252 @@
+{
+  "char": {
+    "allSkillLvlup": null,
+    "description": "优先攻击空中单位，且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
+    "favorKeyFrames": [
+      {
+        "atk": 0,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 0,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 0,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      },
+      {
+        "atk": 45,
+        "attackSpeed": 0.0,
+        "baseAttackTime": 0.0,
+        "baseForceLevel": 0,
+        "blockCnt": 0,
+        "cost": 0,
+        "def": 0,
+        "hpRecoveryPerSec": 0.0,
+        "level": 50,
+        "magicResistance": 0.0,
+        "massLevel": 0,
+        "maxDeckStackCnt": 0,
+        "maxDeployCount": 0,
+        "maxHp": 100,
+        "respawnTime": 0,
+        "spRecoveryPerSec": 0.0,
+        "tauntLevel": 0
+      }
+    ],
+    "isSpChar": false,
+    "itemObtainApproach": "招募寻访",
+    "name": "正义骑士号",
+    "phases": [
+      {
+        "attributesKeyFrames": [
+          {
+            "atk": 137,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 32,
+            "hpRecoveryPerSec": 0.0,
+            "level": 1,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 396,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          },
+          {
+            "atk": 172,
+            "attackSpeed": 100.0,
+            "baseAttackTime": 1.0,
+            "baseForceLevel": 0,
+            "blockCnt": 1,
+            "cost": 3,
+            "def": 41,
+            "hpRecoveryPerSec": 0.0,
+            "level": 30,
+            "magicResistance": 0.0,
+            "massLevel": 0,
+            "maxDeckStackCnt": 0,
+            "maxDeployCount": 1,
+            "maxHp": 495,
+            "respawnTime": 200,
+            "spRecoveryPerSec": 1.0,
+            "tauntLevel": 0
+          }
+        ],
+        "characterPrefabKey": "char_4000_jnight",
+        "evolveCost": null,
+        "maxLevel": 30,
+        "rangeId": "3-1"
+      }
+    ],
+    "potentialRanks": [
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      },
+      {
+        "buff": null,
+        "description": "天赋效果加强",
+        "type": "CUSTOM"
+      }
+    ],
+    "profession": "SNIPER",
+    "rarity": "TIER_1",
+    "skills": null,
+    "subProfessionId": "fastshot",
+    "talents": [
+      [
+        {
+          "blackboard": {
+            "damage_scale": 1.1,
+            "duration": 10.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后10秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得10%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·I",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 0,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.13,
+            "duration": 12.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后12秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得13%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·II",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 1,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.16,
+            "duration": 14.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后14秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得16%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·III",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 2,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.19,
+            "duration": 16.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后16秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得19%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·IV",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 3,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.22,
+            "duration": 18.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后18秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得22%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·V",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 4,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        },
+        {
+          "blackboard": {
+            "damage_scale": 1.25,
+            "duration": 20.0,
+            "jnight_t.taunt_level": -1.0
+          },
+          "description": "部署后20秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得25%的<$ba.fragile>脆弱</>效果",
+          "name": "正义助威·VI",
+          "prefabKey": "1",
+          "rangeId": null,
+          "requiredPotentialRank": 5,
+          "tokenKey": null,
+          "unlockCondition": {
+            "level": 1,
+            "phase": "PHASE_0"
+          }
+        }
+      ]
+    ],
+    "trait": null
+  },
+  "custom": {
+    "anim": {
+      "Attack": {
+        "OnAttack": 7,
+        "duration": 30
+      },
+      "Idle": 20,
+      "Start": {
+        "OnStart": 10,
+        "duration": 30
+      }
+    },
+    "options": null,
+    "spec": {}
+  },
+  "equip": null,
+  "skill": null
+}
