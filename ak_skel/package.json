@@ -1,0 +1,34 @@
+{
+  "name": "node-pixi",
+  "version": "0.4.5",
+  "description": "server side pixi.js",
+  "keywords": [
+    "pixi",
+    "pixi.js",
+    "server side",
+    "canvas",
+    "node-canvas",
+    "node"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "babel src --out-dir lib",
+    "test": "node lib/index.js",
+    "dump": "node lib/dump_skel.js"
+  },
+  "author": "Tim Knip <tim@floorplanner.com> (http://www.floorplanner.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": ">=6.26.0",
+    "babel-preset-env": ">1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:timknip/node-pixi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timknip/node-pixi/issues"
+  },
+  "homepage": "https://github.com/timknip/node-pixi"
+}

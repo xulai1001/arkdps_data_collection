@@ -1,0 +1,128 @@
+{
+    "char": {
+        "allSkillLvlup": {
+            "lvlUpCost": ["parse_cost", "flatten"],
+            "unlockCond": "ignore"
+        },
+        "favorKeyFrames": {
+            "data": {
+                "_": "flatten",
+                "disarmedCombatImmune": "ignore",
+                "fearedImmune": "ignore",
+                "frozenImmune": "ignore",
+                "levitateImmune": "ignore",
+                "moveSpeed": "ignore",
+                "palsyImmune": "ignore",
+                "silenceImmune": "ignore",
+                "sleepImmune": "ignore",
+                "stunImmune": "ignore"
+            }
+        },
+        "phases": {
+            "attributesKeyFrames": {
+                "data": {
+                    "_": "flatten",
+                    "disarmedCombatImmune": "ignore",
+                    "fearedImmune": "ignore",
+                    "frozenImmune": "ignore",
+                    "levitateImmune": "ignore",
+                    "moveSpeed": "ignore",
+                    "palsyImmune": "ignore",
+                    "silenceImmune": "ignore",
+                    "sleepImmune": "ignore",
+                    "stunImmune": "ignore"
+                }
+            },
+            "evolveCost": "parse_cost"
+        },
+        "potentialRanks": {
+            "buff": {
+                "_": "flatten",
+                "attributes": {
+                    "_": "flatten",
+                    "abnormalAntis": "ignore",
+                    "abnormalComboImmunes": "ignore",
+                    "abnormalCombos": "ignore",
+                    "abnormalImmunes": "ignore",
+                    "abnormalFlags": "ignore",
+                    "attributeModifiers": {
+                        "_": ["unlist", "flatten"],
+                        "fetchBaseValueFromSourceEntity": "ignore",
+                        "loadFromBlackboard": "ignore"
+                    }
+                }
+            },
+            "equivalentCost": "ignore"
+        },
+        "skills": {
+            "levelUpCostCond": {
+                "levelUpCost": ["parse_cost", "flatten"],
+                "lvlUpTime": "ignore",
+                "unlockCond": "ignore"
+            },
+            "unlockCond": "ignore"
+        },
+        "talents": {
+            "_": "extract",
+            "candidates": {
+                "isHideTalent": "ignore",
+                "blackboard": "parse_blackboard"
+            }
+        },
+        "trait": {
+            "_": ["extract"],
+            "candidates": {
+                "blackboard": "parse_blackboard"
+            }
+        }
+    },
+    "custom": {
+        "anim": {
+            "Default": "ignore",
+            "Die": "ignore",
+            "version": "ignore"
+        }
+    },
+    "equip": {
+        "*": {
+            "battle": {
+                "_": "extract",
+                "phases": {
+                    "attributeBlackboard": "parse_blackboard",
+                    "parts": {
+                        "addOrOverrideTalentDataBundle": {
+                            "_": "extract",
+                            "candidates": {
+                                "blackboard": "parse_blackboard"
+                            }
+                        },
+                        "overrideTraitDataBundle": {
+                            "_": "extract",
+                            "candidates": {
+                                "blackboard": "parse_blackboard"
+                            }
+                        },
+                        "attributeBlackboard": "parse_blackboard",
+                        "tokenAttributeBlackboard": {
+                            "*": "parse_blackboard"
+                        }
+                    }
+                }
+            },
+            "itemCost": {
+                "*": "parse_cost"
+            }
+        }
+    },
+    "skill": {
+        "*": {
+            "_": "extract",
+            "hidden": "ignore",
+            "iconId": "ignore",
+            "levels": {
+                "blackboard": "parse_blackboard"
+            },
+            "skillId": "ignore"
+        }
+    }
+}
