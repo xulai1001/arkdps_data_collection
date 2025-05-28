@@ -523,7 +523,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -604,7 +604,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -685,7 +685,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_391_rosmon",
@@ -771,7 +771,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -881,13 +881,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10012_rosmon_shield": [
-              {
-                "key": "max_deploy_count",
-                "value": 18.0,
-                "valueStr": null
-              }
-            ]
+            "token_10012_rosmon_shield": {
+              "max_deploy_count": 18.0
+            }
           }
         },
         {
@@ -1026,13 +1022,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10012_rosmon_shield": [
-              {
-                "key": "max_deploy_count",
-                "value": 18.0,
-                "valueStr": null
-              }
-            ]
+            "token_10012_rosmon_shield": {
+              "max_deploy_count": 18.0
+            }
           }
         }
       ],

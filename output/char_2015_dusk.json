@@ -541,7 +541,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -647,7 +647,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -753,7 +753,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_2015_dusk",
@@ -812,7 +812,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -902,23 +902,11 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10015_dusk_drgn": [
-              {
-                "key": "max_hp",
-                "value": 250.0,
-                "valueStr": null
-              },
-              {
-                "key": "atk",
-                "value": 15.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 15.0,
-                "valueStr": null
-              }
-            ]
+            "token_10015_dusk_drgn": {
+              "atk": 15.0,
+              "def": 15.0,
+              "max_hp": 250.0
+            }
           }
         },
         {
@@ -1009,23 +997,11 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10015_dusk_drgn": [
-              {
-                "key": "max_hp",
-                "value": 400.0,
-                "valueStr": null
-              },
-              {
-                "key": "atk",
-                "value": 25.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 25.0,
-                "valueStr": null
-              }
-            ]
+            "token_10015_dusk_drgn": {
+              "atk": 25.0,
+              "def": 25.0,
+              "max_hp": 400.0
+            }
           }
         }
       ],
@@ -1114,7 +1090,7 @@
               "validInGameTag": "roguelike"
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -1255,7 +1231,7 @@
               "validInGameTag": "roguelike"
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -1422,7 +1398,7 @@
               "validInGameTag": "roguelike"
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_2015_dusk",

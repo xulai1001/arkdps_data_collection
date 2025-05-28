@@ -568,7 +568,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -633,13 +633,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10034_ray_sndbst": [
-              {
-                "key": "respawn_time",
-                "value": -5.0,
-                "valueStr": null
-              }
-            ]
+            "token_10034_ray_sndbst": {
+              "respawn_time": -5.0
+            }
           }
         },
         {
@@ -705,13 +701,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10034_ray_sndbst": [
-              {
-                "key": "respawn_time",
-                "value": -10.0,
-                "valueStr": null
-              }
-            ]
+            "token_10034_ray_sndbst": {
+              "respawn_time": -10.0
+            }
           }
         }
       ],

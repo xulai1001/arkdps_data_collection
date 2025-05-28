@@ -465,7 +465,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -552,7 +552,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -639,7 +639,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_250_phatom",
@@ -699,7 +699,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -788,7 +788,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -878,23 +878,11 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10007_phatom_twin": [
-              {
-                "key": "max_hp",
-                "value": 100.0,
-                "valueStr": null
-              },
-              {
-                "key": "atk",
-                "value": 60.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 40.0,
-                "valueStr": null
-              }
-            ]
+            "token_10007_phatom_twin": {
+              "atk": 60.0,
+              "def": 40.0,
+              "max_hp": 100.0
+            }
           }
         }
       ],
@@ -980,7 +968,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -1118,7 +1106,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -1282,7 +1270,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_250_phatom",

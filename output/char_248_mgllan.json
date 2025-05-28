@@ -519,7 +519,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -689,7 +689,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -859,7 +859,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_248_mgllan",
@@ -920,42 +920,18 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10005_mgllan_drone1": [
-              {
-                "key": "cost",
-                "value": -1.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone2": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone3": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ]
+            "token_10005_mgllan_drone1": {
+              "cost": -1.0,
+              "max_deck_stack_cnt": 3.0
+            },
+            "token_10005_mgllan_drone2": {
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            },
+            "token_10005_mgllan_drone3": {
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            }
           }
         },
         {
@@ -1047,42 +1023,18 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10005_mgllan_drone1": [
-              {
-                "key": "cost",
-                "value": -1.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone2": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone3": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ]
+            "token_10005_mgllan_drone1": {
+              "cost": -1.0,
+              "max_deck_stack_cnt": 3.0
+            },
+            "token_10005_mgllan_drone2": {
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            },
+            "token_10005_mgllan_drone3": {
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            }
           }
         },
         {
@@ -1174,72 +1126,24 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10005_mgllan_drone1": [
-              {
-                "key": "cost",
-                "value": -1.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_hp",
-                "value": 100.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 50.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone2": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "atk",
-                "value": 40.0,
-                "valueStr": null
-              },
-              {
-                "key": "attack_speed",
-                "value": 3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "token_10005_mgllan_drone3": [
-              {
-                "key": "cost",
-                "value": -3.0,
-                "valueStr": null
-              },
-              {
-                "key": "atk",
-                "value": 50.0,
-                "valueStr": null
-              },
-              {
-                "key": "attack_speed",
-                "value": 3.0,
-                "valueStr": null
-              },
-              {
-                "key": "max_deck_stack_cnt",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ]
+            "token_10005_mgllan_drone1": {
+              "cost": -1.0,
+              "def": 50.0,
+              "max_deck_stack_cnt": 3.0,
+              "max_hp": 100.0
+            },
+            "token_10005_mgllan_drone2": {
+              "atk": 40.0,
+              "attack_speed": 3.0,
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            },
+            "token_10005_mgllan_drone3": {
+              "atk": 50.0,
+              "attack_speed": 3.0,
+              "cost": -3.0,
+              "max_deck_stack_cnt": 3.0
+            }
           }
         }
       ],

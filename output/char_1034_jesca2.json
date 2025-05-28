@@ -612,7 +612,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -769,18 +769,10 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10032_jesca2_jckshd": [
-              {
-                "key": "max_hp",
-                "value": 300.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 57.0,
-                "valueStr": null
-              }
-            ]
+            "token_10032_jesca2_jckshd": {
+              "def": 57.0,
+              "max_hp": 300.0
+            }
           }
         },
         {
@@ -938,18 +930,10 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10032_jesca2_jckshd": [
-              {
-                "key": "max_hp",
-                "value": 380.0,
-                "valueStr": null
-              },
-              {
-                "key": "def",
-                "value": 79.0,
-                "valueStr": null
-              }
-            ]
+            "token_10032_jesca2_jckshd": {
+              "def": 79.0,
+              "max_hp": 380.0
+            }
           }
         }
       ],

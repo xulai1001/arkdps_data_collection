@@ -541,7 +541,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -683,13 +683,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10017_skadi2_dedant": [
-              {
-                "key": "respawn_time",
-                "value": -3.0,
-                "valueStr": null
-              }
-            ]
+            "token_10017_skadi2_dedant": {
+              "respawn_time": -3.0
+            }
           }
         },
         {
@@ -832,13 +828,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10017_skadi2_dedant": [
-              {
-                "key": "respawn_time",
-                "value": -5.0,
-                "valueStr": null
-              }
-            ]
+            "token_10017_skadi2_dedant": {
+              "respawn_time": -5.0
+            }
           }
         }
       ],

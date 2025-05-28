@@ -469,7 +469,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -586,7 +586,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -703,7 +703,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         }
       ],
       "charId": "char_400_weedy",
@@ -764,7 +764,7 @@
               "validInGameTag": null
             }
           ],
-          "tokenAttributeBlackboard": {}
+          "tokenAttributeBlackboard": null
         },
         {
           "attributeBlackboard": {
@@ -825,13 +825,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10009_weedy_cannon": [
-              {
-                "key": "respawn_time",
-                "value": -5.0,
-                "valueStr": null
-              }
-            ]
+            "token_10009_weedy_cannon": {
+              "respawn_time": -5.0
+            }
           }
         },
         {
@@ -893,13 +889,9 @@
             }
           ],
           "tokenAttributeBlackboard": {
-            "token_10009_weedy_cannon": [
-              {
-                "key": "respawn_time",
-                "value": -8.0,
-                "valueStr": null
-              }
-            ]
+            "token_10009_weedy_cannon": {
+              "respawn_time": -8.0
+            }
           }
         }
       ],
