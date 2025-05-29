@@ -256,7 +256,7 @@
       }
     ],
     "profession": "MEDIC",
-    "rarity": "TIER_6",
+    "rarity": 6,
     "skills": [
       {
         "levelUpCostCond": [
@@ -342,7 +342,7 @@
           "tokenKey": "token_10002_kalts_mon3tr",
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -359,7 +359,7 @@
           "tokenKey": "token_10002_kalts_mon3tr",
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -376,7 +376,7 @@
           "tokenKey": "token_10002_kalts_mon3tr",
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ],
@@ -391,7 +391,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -404,7 +404,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -420,7 +420,7 @@
         "requiredPotentialRank": 0,
         "unlockCondition": {
           "level": 1,
-          "phase": "PHASE_0"
+          "phase": 0
         }
       }
     ]
@@ -508,7 +508,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -542,7 +542,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -565,7 +565,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3秒并对其造成1200点真实伤害"
                 },
@@ -582,7 +582,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5<@ba.talpu>（+0.5）</>秒并对其造成1400<@ba.talpu>（+200）</>点真实伤害"
                 }
@@ -611,7 +611,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3秒并对其造成1200点真实伤害"
                 },
@@ -631,7 +631,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5<@ba.talpu>（+0.5）</>秒并对其造成1400<@ba.talpu>（+200）</>点真实伤害"
                 }
@@ -661,7 +661,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 },
@@ -682,7 +682,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -719,7 +719,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -742,7 +742,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5秒并对其造成1500点真实伤害"
                 },
@@ -759,7 +759,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "Mon3tr在生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>4<@ba.talpu>（+0.5）</>秒并对其造成1700<@ba.talpu>（+200）</>点真实伤害"
                 }
@@ -788,7 +788,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>3.5秒并对其造成1500点真实伤害"
                 },
@@ -808,7 +808,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "生命值首次低于50%和被击倒后（不包括撤退）使周围8格内所有敌人<$ba.stun>晕眩</>4<@ba.talpu>（+0.5）</>秒并对其造成1700<@ba.talpu>（+200）</>点真实伤害"
                 }
@@ -838,7 +838,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 },
@@ -859,7 +859,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -922,7 +922,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -955,7 +955,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -982,7 +982,7 @@
                   "tokenKey": "token_10002_kalts_mon3tr",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0"
                 }
@@ -1008,7 +1008,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0"
                 }
@@ -1044,7 +1044,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1071,7 +1071,7 @@
                   "tokenKey": "token_10002_kalts_mon3tr",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0"
                 }
@@ -1097,7 +1097,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0"
                 }
@@ -1161,7 +1161,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1195,7 +1195,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1222,7 +1222,7 @@
                   "tokenKey": "token_10002_kalts_mon3tr",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中，Mon3tr不占用部署位，生命上限和攻击力+25%"
                 }
@@ -1251,7 +1251,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -1277,7 +1277,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以被凯尔希治疗，不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中不占用部署位，生命上限和攻击力+25%"
                 }
@@ -1314,7 +1314,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1341,7 +1341,7 @@
                   "tokenKey": "token_10002_kalts_mon3tr",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中，Mon3tr不占用部署位，生命上限和攻击力+50%且受到的治疗效果提升50%"
                 }
@@ -1371,7 +1371,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -1397,7 +1397,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以被凯尔希治疗，不在凯尔希攻击范围内时防御力降至0；在<@ba.kw>集成战略</>中不占用部署位，生命上限和攻击力+50%且受到的治疗效果提升50%"
                 }

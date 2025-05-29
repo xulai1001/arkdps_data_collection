@@ -256,7 +256,7 @@
       }
     ],
     "profession": "SNIPER",
-    "rarity": "TIER_6",
+    "rarity": 6,
     "skills": [
       {
         "levelUpCostCond": [
@@ -342,7 +342,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -359,7 +359,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ],
@@ -376,7 +376,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -391,7 +391,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -494,7 +494,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -517,7 +517,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -550,7 +550,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -573,7 +573,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -599,7 +599,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的敌人在被<$ba.stun>晕眩</>时受到的物理伤害+21%，击倒敌人时获得1点技力"
                 },
@@ -619,7 +619,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的敌人在被<$ba.stun>晕眩</>时受到的物理伤害+24%<@ba.talpu>（+3%）</>，击倒敌人时获得1点技力"
                 }
@@ -647,7 +647,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 },
@@ -666,7 +666,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -702,7 +702,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -725,7 +725,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -751,7 +751,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的敌人在被<$ba.stun>晕眩</>时受到的物理伤害+24%，击倒敌人时获得1点技力"
                 },
@@ -771,7 +771,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的敌人在被<$ba.stun>晕眩</>时受到的物理伤害+27%<@ba.talpu>（+3%）</>，击倒敌人时获得1点技力"
                 }
@@ -799,7 +799,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 },
@@ -818,7 +818,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -881,7 +881,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -914,7 +914,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -941,7 +941,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标。未受到伤害时20秒内攻击力逐渐提升至最高+10％，受到伤害时重置攻击力"
                 }
@@ -970,7 +970,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -1006,7 +1006,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1033,7 +1033,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留8秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标。未受到伤害时16秒内攻击力逐渐提升至最高+20％，受到伤害时重置攻击力"
                 }
@@ -1062,7 +1062,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }

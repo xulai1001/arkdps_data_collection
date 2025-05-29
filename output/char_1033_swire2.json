@@ -254,7 +254,7 @@
       }
     ],
     "profession": "SPECIAL",
-    "rarity": "TIER_6",
+    "rarity": 6,
     "skills": [
       {
         "levelUpCostCond": [
@@ -341,7 +341,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -359,7 +359,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -377,7 +377,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -395,7 +395,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -413,7 +413,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ],
@@ -432,7 +432,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -449,7 +449,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -466,7 +466,7 @@
         "requiredPotentialRank": 0,
         "unlockCondition": {
           "level": 1,
-          "phase": "PHASE_0"
+          "phase": 0
         }
       }
     ]
@@ -569,7 +569,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -604,7 +604,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -632,7 +632,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加8次）"
                 },
@@ -654,7 +654,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "开启技能时获得1枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加9<@ba.talpu>（+1）</>次）"
                 }
@@ -692,7 +692,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -720,7 +720,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "开启技能时获得2枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加8次）"
                 },
@@ -742,7 +742,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "开启技能时获得2枚金币（可用于技能消耗），技能期间每次特性消耗费用时获得1枚金币，并提升自身5%的攻击力（最多叠加9<@ba.talpu>（+1）</>次）"
                 }
@@ -803,7 +803,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -830,7 +830,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -864,7 +864,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -891,7 +891,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到70%，每次触发该天赋时消耗的费用增加5点"
                 },
@@ -912,7 +912,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "受到致命伤害时，若费用足够则消耗5点部署费用使生命恢复到80%<@ba.talpu>（+10%）</>，每次触发该天赋时消耗的费用增加5点"
                 }
@@ -942,7 +942,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -976,7 +976,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -1003,7 +1003,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "受到致命伤害时，若费用足够则消耗3点部署费用使生命恢复到70%，每次触发该天赋时消耗的费用增加3点"
                 },
@@ -1024,7 +1024,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "受到致命伤害时，若费用足够则消耗3点部署费用使生命恢复到80%<@ba.talpu>（+10%）</>，每次触发该天赋时消耗的费用增加3点"
                 }
@@ -1054,7 +1054,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }

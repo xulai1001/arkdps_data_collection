@@ -254,7 +254,7 @@
       }
     ],
     "profession": "CASTER",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -336,7 +336,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -352,7 +352,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -368,7 +368,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -446,7 +446,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -479,7 +479,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -505,7 +505,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击敌人时额外回复3点技力，消灭敌人后额外获得8点技力"
                 },
@@ -525,7 +525,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击敌人时额外回复4<@ba.talpu>（+1）</>点技力，消灭敌人后额外获得10<@ba.talpu>（+2）</>点技力"
                 }
@@ -561,7 +561,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -587,7 +587,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击敌人时额外回复3点技力，消灭敌人后额外获得10点技力"
                 },
@@ -607,7 +607,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击敌人时额外回复4<@ba.talpu>（+1）</>点技力，消灭敌人后额外获得12<@ba.talpu>（+2）</>点技力"
                 }

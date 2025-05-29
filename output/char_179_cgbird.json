@@ -256,7 +256,7 @@
       }
     ],
     "profession": "MEDIC",
-    "rarity": "TIER_6",
+    "rarity": 6,
     "skills": [
       {
         "levelUpCostCond": [
@@ -340,7 +340,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -355,7 +355,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -370,7 +370,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -385,7 +385,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -400,7 +400,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -415,7 +415,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ],
@@ -432,7 +432,7 @@
           "tokenKey": "token_10003_cgbird_bird",
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -492,7 +492,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -515,7 +515,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -549,7 +549,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -572,7 +572,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -601,7 +601,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%"
                 },
@@ -621,7 +621,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的友方单位法术抗性+17<@ba.talpu>（+2）</>且受到的治疗效果提升3%"
                 }
@@ -655,7 +655,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -678,7 +678,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -707,7 +707,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%"
                 },
@@ -727,7 +727,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围内的友方单位法术抗性+17<@ba.talpu>（+2）</>且受到的治疗效果提升5%"
                 }
@@ -788,7 +788,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -814,7 +814,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -848,7 +848,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -873,7 +873,7 @@
                   "tokenKey": "token_10003_cgbird_bird",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命；夜莺部署时获得3个幻影"
                 }
@@ -902,7 +902,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -936,7 +936,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -961,7 +961,7 @@
                   "tokenKey": "token_10003_cgbird_bird",
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，40%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命；夜莺部署时获得3个幻影"
                 }
@@ -990,7 +990,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -1020,7 +1020,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "拥有75法术抗性，40%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
                 }

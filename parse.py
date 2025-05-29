@@ -104,6 +104,15 @@ def do_parse_cost(pobj: ParseObject) -> ParseObject:
         return ParseObject(None)
     else:
 	    return ParseObject({item["id"]: item["count"] for item in pobj.obj})
+	    
+def do_parse_rarity(pobj: ParseObject):
+    if isinstance(pobj.obj, str):
+        new_value = pobj.obj.split('_')[1]
+        print(f"{pobj.obj} -> {new_value}")
+        pobj.obj = int(new_value)
+        return pobj
+    else:
+        print("** not a string:", pobj)
 
 def parse_dict(ops, pobj: ParseObject) -> ParseObject:
     ret = {}

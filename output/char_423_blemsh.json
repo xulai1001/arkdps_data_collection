@@ -256,7 +256,7 @@
       }
     ],
     "profession": "TANK",
-    "rarity": "TIER_6",
+    "rarity": 6,
     "skills": [
       {
         "levelUpCostCond": [
@@ -340,7 +340,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         }
       ],
@@ -357,7 +357,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -372,7 +372,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -387,7 +387,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -402,7 +402,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -502,7 +502,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -536,7 +536,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -562,7 +562,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在场时所有受击回复的技能在干员攻击时也回复1点技力，其他卡西米尔干员部署时自身获得2点技力"
                 }
@@ -599,7 +599,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -625,7 +625,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在场时所有受击回复的技能在干员攻击时也回复1点技力，其他卡西米尔干员部署时自身获得3点技力"
                 }
@@ -689,7 +689,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -723,7 +723,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -748,7 +748,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -776,7 +776,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "自身可以攻击并优先攻击<$ba.sleep>沉睡</>的目标且攻击力提升至150%；部署后，使自身这格内的所有地面敌人陷入5秒<$ba.sleep>沉睡</>"
                 },
@@ -795,7 +795,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "自身可以攻击并优先攻击<$ba.sleep>沉睡</>的目标且攻击力提升至154%<@ba.talpu>（+4%）</>；部署后，使自身这格内的所有地面敌人陷入5秒<$ba.sleep>沉睡</>"
                 }
@@ -832,7 +832,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -857,7 +857,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -885,7 +885,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "自身可以攻击并优先攻击<$ba.sleep>沉睡</>的目标且攻击力提升至160%；部署后，使自身这格内的所有地面敌人陷入8秒<$ba.sleep>沉睡</>"
                 },
@@ -904,7 +904,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 60,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "自身可以攻击并优先攻击<$ba.sleep>沉睡</>的目标且攻击力提升至164%<@ba.talpu>（+4%）</>；部署后，使自身这格内的所有地面敌人陷入8秒<$ba.sleep>沉睡</>"
                 }

@@ -256,7 +256,7 @@
       }
     ],
     "profession": "SNIPER",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -319,7 +319,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -336,7 +336,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -440,7 +440,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -473,7 +473,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -500,7 +500,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1"
                 }
@@ -536,7 +536,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -563,7 +563,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1"
                 }

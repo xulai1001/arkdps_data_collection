@@ -255,7 +255,7 @@
       }
     ],
     "profession": "WARRIOR",
-    "rarity": "TIER_4",
+    "rarity": 4,
     "skills": [
       {
         "levelUpCostCond": [
@@ -317,7 +317,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -333,7 +333,7 @@
         "requiredPotentialRank": 0,
         "unlockCondition": {
           "level": 1,
-          "phase": "PHASE_0"
+          "phase": 0
         }
       }
     ]
@@ -410,7 +410,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -444,7 +444,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -470,7 +470,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -498,7 +498,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围扩大，攻击有15%概率造成1.5秒<$ba.cold>寒冷</>，但攻击间隔略微增大"
                 }
@@ -535,7 +535,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -561,7 +561,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -589,7 +589,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击范围扩大，攻击有25%概率造成1.5秒<$ba.cold>寒冷</>，但攻击间隔略微增大"
                 }

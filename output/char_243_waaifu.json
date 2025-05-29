@@ -254,7 +254,7 @@
       }
     ],
     "profession": "SPECIAL",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -318,7 +318,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -335,7 +335,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -352,7 +352,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -369,7 +369,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -439,7 +439,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -472,7 +472,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -497,7 +497,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对【感染生物】造成的物理伤害提升7%"
                 }
@@ -533,7 +533,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -558,7 +558,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对【感染生物】造成的物理伤害提升14%"
                 }

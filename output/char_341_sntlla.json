@@ -254,7 +254,7 @@
       }
     ],
     "profession": "CASTER",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -318,7 +318,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -335,7 +335,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -352,7 +352,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -369,7 +369,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -444,7 +444,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -476,7 +476,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -503,7 +503,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留15秒后，攻击力+18%且获得<$ba.buffres>抵抗</>"
                 },
@@ -524,7 +524,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留15秒后，攻击力+21%<@ba.talpu>（+3%）</>且获得<$ba.buffres>抵抗</>"
                 }
@@ -559,7 +559,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -586,7 +586,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留15秒后，攻击力+20%且获得<$ba.buffres>抵抗</>"
                 },
@@ -607,7 +607,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "在战场停留15秒后，攻击力+23%<@ba.talpu>（+3%）</>且获得<$ba.buffres>抵抗</>"
                 }

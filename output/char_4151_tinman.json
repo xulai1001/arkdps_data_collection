@@ -252,7 +252,7 @@
       }
     ],
     "profession": "SPECIAL",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -312,7 +312,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_0"
+            "phase": 0
           }
         },
         {
@@ -325,7 +325,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -338,7 +338,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -351,7 +351,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -364,7 +364,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ],
@@ -381,7 +381,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -396,7 +396,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -454,7 +454,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -479,7 +479,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -513,7 +513,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -538,7 +538,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -566,7 +566,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高23%"
                 },
@@ -585,7 +585,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高25%<@ba.talpu>（+2%）</>"
                 }
@@ -619,7 +619,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -644,7 +644,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": ""
                 }
@@ -672,7 +672,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高25%"
                 },
@@ -691,7 +691,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "使自身炼金单元影响范围内地面敌人受到的持续伤害提高27%<@ba.talpu>（+2%）</>"
                 }

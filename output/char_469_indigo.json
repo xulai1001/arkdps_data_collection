@@ -253,7 +253,7 @@
       }
     ],
     "profession": "CASTER",
-    "rarity": "TIER_4",
+    "rarity": 4,
     "skills": [
       {
         "levelUpCostCond": [
@@ -316,7 +316,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -332,7 +332,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -348,7 +348,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -364,7 +364,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -380,7 +380,7 @@
         "requiredPotentialRank": 0,
         "unlockCondition": {
           "level": 1,
-          "phase": "PHASE_0"
+          "phase": 0
         }
       }
     ]
@@ -453,7 +453,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -486,7 +486,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -512,7 +512,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击时有23%的几率使目标<$ba.root>束缚</>4秒，不以束缚状态的敌人为攻击目标"
                 },
@@ -532,7 +532,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击时有25%<@ba.talpu>（+2%）</>的几率使目标<$ba.root>束缚</>4秒，不以束缚状态的敌人为攻击目标"
                 }
@@ -568,7 +568,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -594,7 +594,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击时有25%的几率使目标<$ba.root>束缚</>4秒，不以束缚状态的敌人为攻击目标"
                 },
@@ -614,7 +614,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "攻击时有27%<@ba.talpu>（+2%）</>的几率使目标<$ba.root>束缚</>4秒，不以束缚状态的敌人为攻击目标"
                 }

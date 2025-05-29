@@ -255,7 +255,7 @@
       }
     ],
     "profession": "SNIPER",
-    "rarity": "TIER_4",
+    "rarity": 4,
     "skills": [
       {
         "levelUpCostCond": [
@@ -318,7 +318,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -334,7 +334,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -406,7 +406,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -438,7 +438,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -464,7 +464,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）"
                 }
@@ -499,7 +499,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -525,7 +525,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）"
                 }

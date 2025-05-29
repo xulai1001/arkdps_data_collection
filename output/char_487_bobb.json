@@ -254,7 +254,7 @@
       }
     ],
     "profession": "SUPPORT",
-    "rarity": "TIER_5",
+    "rarity": 5,
     "skills": [
       {
         "levelUpCostCond": [
@@ -317,7 +317,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -333,7 +333,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -349,7 +349,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -365,7 +365,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -430,7 +430,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -463,7 +463,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -489,7 +489,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的<$ba.dt.burning2>灼燃损伤</>"
                 },
@@ -509,7 +509,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力19%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>"
                 }
@@ -545,7 +545,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -571,7 +571,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的<$ba.dt.burning2>灼燃损伤</>"
                 },
@@ -591,7 +591,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 50,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力20%<@ba.talpu>（+2%）</>的<$ba.dt.burning2>灼燃损伤</>"
                 }

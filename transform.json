@@ -54,6 +54,7 @@
             },
             "equivalentCost": "ignore"
         },
+        "rarity": "parse_rarity",
         "skills": {
             "levelUpCostCond": {
                 "levelUpCost": ["parse_cost", "flatten"],
@@ -66,13 +67,19 @@
             "_": "extract",
             "candidates": {
                 "isHideTalent": "ignore",
-                "blackboard": "parse_blackboard"
+                "blackboard": "parse_blackboard",
+                "unlockCondition": {
+                    "phase": "parse_rarity"
+                }
             }
         },
         "trait": {
             "_": ["extract"],
             "candidates": {
-                "blackboard": "parse_blackboard"
+                "blackboard": "parse_blackboard",
+                "unlockCondition": {
+                    "phase": "parse_rarity"
+                }
             }
         }
     },
@@ -93,13 +100,19 @@
                         "addOrOverrideTalentDataBundle": {
                             "_": "extract",
                             "candidates": {
-                                "blackboard": "parse_blackboard"
+                                "blackboard": "parse_blackboard",
+                                "unlockCondition": {
+                                    "phase": "parse_rarity"
+                                }
                             }
                         },
                         "overrideTraitDataBundle": {
                             "_": "extract",
                             "candidates": {
-                                "blackboard": "parse_blackboard"
+                                "blackboard": "parse_blackboard",
+                                "unlockCondition": {
+                                    "phase": "parse_rarity"
+                                }
                             }
                         },
                         "attributeBlackboard": "parse_blackboard"

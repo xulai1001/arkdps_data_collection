@@ -253,7 +253,7 @@
       }
     ],
     "profession": "MEDIC",
-    "rarity": "TIER_4",
+    "rarity": 4,
     "skills": [
       {
         "levelUpCostCond": [
@@ -315,7 +315,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -330,7 +330,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_1"
+            "phase": 1
           }
         },
         {
@@ -345,7 +345,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         },
         {
@@ -360,7 +360,7 @@
           "tokenKey": null,
           "unlockCondition": {
             "level": 1,
-            "phase": "PHASE_2"
+            "phase": 2
           }
         }
       ]
@@ -376,7 +376,7 @@
         "requiredPotentialRank": 0,
         "unlockCondition": {
           "level": 1,
-          "phase": "PHASE_0"
+          "phase": 0
         }
       }
     ]
@@ -466,7 +466,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -499,7 +499,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -524,7 +524,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "治疗地面单位，<$ba.dt.element>元素损伤</>回复量提高25%"
                 },
@@ -543,7 +543,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "治疗地面单位，<$ba.dt.element>元素损伤</>回复量提高28%<@ba.talpu>（+3%）</>"
                 }
@@ -579,7 +579,7 @@
                   "requiredPotentialRank": 0,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   }
                 }
               ],
@@ -604,7 +604,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "治疗地面单位，<$ba.dt.element>元素损伤</>回复量提高27%"
                 },
@@ -623,7 +623,7 @@
                   "tokenKey": null,
                   "unlockCondition": {
                     "level": 40,
-                    "phase": "PHASE_2"
+                    "phase": 2
                   },
                   "upgradeDescription": "治疗地面单位，<$ba.dt.element>元素损伤</>回复量提高30%<@ba.talpu>（+3%）</>"
                 }
